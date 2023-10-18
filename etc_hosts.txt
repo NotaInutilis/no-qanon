@@ -2594,6 +2594,8 @@
 0.0.0.0 www.freealexjones.com
 0.0.0.0 freebeacon.com
 0.0.0.0 www.freebeacon.com
+0.0.0.0 freedom-group.com
+0.0.0.0 www.freedom-group.com
 0.0.0.0 freedom.social
 0.0.0.0 www.freedom.social
 0.0.0.0 freedomain.com
@@ -5578,6 +5580,10 @@
 0.0.0.0 www.rejuvaflex.org
 0.0.0.0 remedies.news
 0.0.0.0 www.remedies.news
+0.0.0.0 remington.com
+0.0.0.0 www.remington.com
+0.0.0.0 remingtonoutdoorcompany.com
+0.0.0.0 www.remingtonoutdoorcompany.com
 0.0.0.0 remnant-tv.com
 0.0.0.0 www.remnant-tv.com
 0.0.0.0 remnantnewspaper.com
