@@ -792,6 +792,8 @@
 0.0.0.0 www.bennywills.com
 0.0.0.0 bentoelgroup.com
 0.0.0.0 www.bentoelgroup.com
+0.0.0.0 bernard-henri-levy.com
+0.0.0.0 www.bernard-henri-levy.com
 0.0.0.0 bernardgaynor.com.au
 0.0.0.0 www.bernardgaynor.com.au
 0.0.0.0 bernd-lucke.de
@@ -1408,6 +1410,8 @@
 0.0.0.0 www.collapse.news
 0.0.0.0 collateralglobal.org
 0.0.0.0 www.collateralglobal.org
+0.0.0.0 collectif-nemesis.com
+0.0.0.0 www.collectif-nemesis.com
 0.0.0.0 collectifdesantepediatrique.fr
 0.0.0.0 www.collectifdesantepediatrique.fr
 0.0.0.0 collective-evolution.com
@@ -1716,6 +1720,8 @@
 0.0.0.0 www.dailywire.com
 0.0.0.0 dailyxrpnews.com
 0.0.0.0 www.dailyxrpnews.com
+0.0.0.0 damien-abad.fr
+0.0.0.0 www.damien-abad.fr
 0.0.0.0 damienrieu.fr
 0.0.0.0 www.damienrieu.fr
 0.0.0.0 damocles.co
@@ -3826,6 +3832,8 @@
 0.0.0.0 www.lepcd.fr
 0.0.0.0 leral.net
 0.0.0.0 www.leral.net
+0.0.0.0 les-coeurs-vaillants.com
+0.0.0.0 www.les-coeurs-vaillants.com
 0.0.0.0 les-collectifs-unis.info
 0.0.0.0 www.les-collectifs-unis.info
 0.0.0.0 les-identitaires.com
@@ -5696,6 +5704,14 @@
 0.0.0.0 www.rodofironministries.org
 0.0.0.0 roguesgallery666.blogspot.com
 0.0.0.0 www.roguesgallery666.blogspot.com
+0.0.0.0 roman-polanski.com
+0.0.0.0 www.roman-polanski.com
+0.0.0.0 roman-polanski.net
+0.0.0.0 www.roman-polanski.net
+0.0.0.0 romanpolanski.com
+0.0.0.0 www.romanpolanski.com
+0.0.0.0 romanpolanski.online.fr
+0.0.0.0 www.romanpolanski.online.fr
 0.0.0.0 ronaldwederfoort.wordpress.com
 0.0.0.0 www.ronaldwederfoort.wordpress.com
 0.0.0.0 ronpaulinstitute.org
