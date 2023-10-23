@@ -170,6 +170,7 @@
 *://*.actionfrancaise.net/*
 *://*.activate.afa.net/*
 *://*.activesouth.wordpress.com/*
+*://*.activism.openworlds.info/*
 *://*.activistpost.com/*
 *://*.activitesnation.wordpress.com/*
 *://*.actualidad.rt.com/*
@@ -741,6 +742,7 @@
 *://*.baddoctors.news/*
 *://*.badog.blogstar.hu/*
 *://*.badsquad.com/*
+*://*.bae.st/*
 *://*.bagozoltan.fidesz.hu/*
 *://*.baityehudi.org.il/*
 *://*.bakerstreetrising.home.blog/*
@@ -959,6 +961,7 @@
 *://*.bitcoincenter.minds.com/*
 *://*.bitcoincollapse.news/*
 *://*.bitcoincrash.news/*
+*://*.bitcoinhackers.org/*
 *://*.bitrix.afa.net/*
 *://*.bitrixdev.afa.net/*
 *://*.bitterwinter.org/*
@@ -989,6 +992,7 @@
 *://*.blessed2teach.com/*
 *://*.blissfulvisions.com/*
 *://*.blivmedlem.danskfolkeparti.dk/*
+*://*.blob.cat/*
 *://*.block.ruqqus.com/*
 *://*.block1.rumble.com/*
 *://*.block109.blogspot.com/*
@@ -1115,6 +1119,7 @@
 *://*.brasschaat.vlaamsbelang.org/*
 *://*.brasschecktv.com/*
 *://*.brasspills.com/*
+*://*.brave.cafe/*
 *://*.bravetruth.org/*
 *://*.brazenbonapartist.blogspot.com/*
 *://*.breaking911.com/*
@@ -1318,6 +1323,7 @@
 *://*.cathyfox.wordpress.com/*
 *://*.cato.org/*
 *://*.causeur.fr/*
+*://*.cawfee.club/*
 *://*.cazzagosanmartino.leganord.org/*
 *://*.cbds.news/*
 *://*.cbn.com/*
@@ -1439,6 +1445,7 @@
 *://*.charlesortel.com/*
 *://*.charlestonleader.com/*
 *://*.charlestonreporter.com/*
+*://*.charlestown.social/*
 *://*.charliefreak.org/*
 *://*.charliekirk.com/*
 *://*.chartrespilgrimageusa.remnantnewspaper.com/*
@@ -1776,6 +1783,7 @@
 *://*.cotyreh.minds.com/*
 *://*.countdowntozerotime.com/*
 *://*.counter-currents.com/*
+*://*.counter.fedi.live/*
 *://*.countercurrentnews.com/*
 *://*.countercurrents.org/*
 *://*.counterinformation.wordpress.com/*
@@ -2151,6 +2159,7 @@
 *://*.detgodasamhallet.com/*
 *://*.detox.news/*
 *://*.detroitcitywire.com/*
+*://*.detroitriotcity.com/*
 *://*.deurne.vlaamsbelang.org/*
 *://*.deutsch.rt.com/*
 *://*.deutsche-wirtschafts-nachrichten.de/*
@@ -2256,6 +2265,7 @@
 *://*.distance-learning.minds.com/*
 *://*.distance.minds.com/*
 *://*.distribution.dlive.tv/*
+*://*.distrotoot.com/*
 *://*.diti.fidesz.hu/*
 *://*.ditoverblik.dk/*
 *://*.diversitychronicle.wordpress.com/*
@@ -2267,6 +2277,7 @@
 *://*.djameskennedy.org/*
 *://*.djkleader.org/*
 *://*.djosiris.blogspot.com/*
+*://*.djsumdog.com/*
 *://*.dknews.kz/*
 *://*.dlive.tv/*
 *://*.dmca.d.tube/*
@@ -2707,6 +2718,7 @@
 *://*.eutopia.buzz/*
 *://*.evangelicals.donaldjtrump.com/*
 *://*.evangelismexplosion.org/*
+*://*.eveningzoo.club/*
 *://*.events.evangelismexplosion.org/*
 *://*.evergem.vlaamsbelang.org/*
 *://*.evergreenreporter.com/*
@@ -2746,6 +2758,7 @@
 *://*.exploitedrescue.com/*
 *://*.explorersclub.evangelismexplosion.org/*
 *://*.exploringthehiddentruth.wordpress.com/*
+*://*.explosion.party/*
 *://*.expose-news.com/*
 *://*.expose1933.com/*
 *://*.exposingislam.blogspot.com/*
@@ -2855,6 +2868,7 @@
 *://*.federalobserver.com/*
 *://*.federataefamiljes.org/*
 *://*.federazionefamiglie.org/*
+*://*.fedi.club/*
 *://*.fedsalert.com/*
 *://*.feedback.dlive.tv/*
 *://*.fellowshipoftheminds.com/*
@@ -3031,6 +3045,7 @@
 *://*.fr.news-front.info/*
 *://*.fr.sony.kukluxklan.com/*
 *://*.fracking.news/*
+*://*.framapiaf.org/*
 *://*.framix.fr/*
 *://*.franc-tireur.fr/*
 *://*.francais.rt.com/*
@@ -3062,6 +3077,7 @@
 *://*.free102.minds.com/*
 *://*.freealexjones.com/*
 *://*.freeandopenaustralia.org/*
+*://*.freeatlantis.com/*
 *://*.freebeacon.com/*
 *://*.freedom-articles.toolsforfreedom.com/*
 *://*.freedom-group.com/*
@@ -3103,6 +3119,7 @@
 *://*.freesoftwareextremist.com/*
 *://*.freespacesocial.com/*
 *://*.freespeech.fans/*
+*://*.freespeech.firedragonstudios.com/*
 *://*.freespeech.group/*
 *://*.freespeechextremist.com/*
 *://*.freespeechhosting.com/*
@@ -3111,6 +3128,7 @@
 *://*.freespeechtube.org/*
 *://*.freesquare.com/*
 *://*.freetalk.app/*
+*://*.freetalklive.com/*
 *://*.freethepeople.org/*
 *://*.freetobechurch.nz/*
 *://*.freetrumpbox.com/*
@@ -3119,6 +3137,7 @@
 *://*.freewoodpost.com/*
 *://*.freeworldnews.tv/*
 *://*.freeyourmindaz.com/*
+*://*.freezepeach.xyz/*
 *://*.freiewelt.net/*
 *://*.french.faithfreedom.org/*
 *://*.frenchdissidents.wordpress.com/*
@@ -3128,6 +3147,7 @@
 *://*.fresnoleader.com/*
 *://*.friatider.se/*
 *://*.fridaymash.com/*
+*://*.friendica.eskimo.com/*
 *://*.frigidebarjot.com/*
 *://*.frihetskamp.net/*
 *://*.fringeculture.home.blog/*
@@ -3138,12 +3158,14 @@
 *://*.frontnational.com/*
 *://*.frontpagemag.com/*
 *://*.frontpopulaire.fr/*
+*://*.froth.zone/*
 *://*.frounch.blogspot.com/*
 *://*.frs.nyeborgerlige.dk/*
 *://*.fruits.news/*
 *://*.fs.minds.com/*
 *://*.fs.parler.com/*
 *://*.fsk.nyeborgerlige.dk/*
+*://*.fsmi.social/*
 *://*.fsxtki0j.8ch.net/*
 *://*.ftp.afa.net/*
 *://*.ftp.arktos.com/*
@@ -3190,6 +3212,7 @@
 *://*.gallivare.sd.se/*
 *://*.galmaarden.vlaamsbelang.org/*
 *://*.galvaguide.com/*
+*://*.gameliberty.club/*
 *://*.gamergate-news.tumblr.com/*
 *://*.gameruprising.to/*
 *://*.gamma.avoiceformen.com/*
@@ -3219,6 +3242,7 @@
 *://*.gci.8ch.net/*
 *://*.ge.news-front.info/*
 *://*.gear.news/*
+*://*.gearlandia.haus/*
 *://*.geel.vlaamsbelang.org/*
 *://*.gegdxm4iek.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/*
 *://*.gegenstimme.tv/*
@@ -3258,6 +3282,7 @@
 *://*.germany.connectingconsciousness.org/*
 *://*.gesara.co/*
 *://*.gesara.news/*
+*://*.getindor.com/*
 *://*.getoutofdebtfree.org/*
 *://*.gettr.com/*
 *://*.gez.diefreiheit.org/*
@@ -3278,11 +3303,13 @@
 *://*.giovanipadani.leganord.org/*
 *://*.gioventunazionale.it/*
 *://*.giphoi.wordpress.com/*
+*://*.girevik.su/*
 *://*.girlsjustwannahaveguns.com/*
 *://*.gislaved.sd.se/*
 *://*.git.ruqqus.com/*
 *://*.gitgud.io/*
 *://*.gitlab.parler.com/*
+*://*.gitmo.life/*
 *://*.giuindaerba.leganord.org/*
 *://*.give.afa.net/*
 *://*.give.unitedfutureparty.kr/*
@@ -3292,6 +3319,7 @@
 *://*.gladsaxe.danskfolkeparti.dk/*
 *://*.glaringhypocrisy.com/*
 *://*.glasgow.ukip.org/*
+*://*.gleasonator.com/*
 *://*.glendalesun.com/*
 *://*.glenelderguide.com/*
 *://*.glennbeck.com/*
@@ -3311,6 +3339,7 @@
 *://*.glossynews.com/*
 *://*.glostrup.danskfolkeparti.dk/*
 *://*.gloucestertoday.com/*
+*://*.glowers.club/*
 *://*.glx.nyeborgerlige.dk/*
 *://*.glyphocide.news/*
 *://*.glyphosate.news/*
@@ -3352,6 +3381,7 @@
 *://*.goldenrodnews.com/*
 *://*.goldenstatetimes.com/*
 *://*.goldenstatetoday.com/*
+*://*.gomastodon.cz/*
 *://*.gomerblog.com/*
 *://*.gondola.hu/*
 *://*.goneleft.com/*
@@ -3378,6 +3408,7 @@
 *://*.govtslaves.com/*
 *://*.govtslaves.info/*
 *://*.goyfundme.com/*
+*://*.goyim.app/*
 *://*.goyimtv.com/*
 *://*.goyimtv.tv/*
 *://*.gpa.lu/*
@@ -3842,6 +3873,7 @@
 *://*.id-party.eu/*
 *://*.idasacguide.com/*
 *://*.idbusinessdaily.com/*
+*://*.iddqd.social/*
 *://*.ideacenter.org/*
 *://*.identitaer.dk/*
 *://*.identitydixie.com/*
@@ -4071,6 +4103,7 @@
 *://*.italian.faithfreedom.org/*
 *://*.itmakessenseblog.com/*
 *://*.itmattershowyoustand.com/*
+*://*.itmslaves.com/*
 *://*.itnj.org/*
 *://*.itsrainmakingtime.com/*
 *://*.itsupport.adflegal.org/*
@@ -4247,6 +4280,7 @@
 *://*.justice4germans.wordpress.com/*
 *://*.justice4poland.com/*
 *://*.justiceforuswgo.wordpress.com/*
+*://*.justicewarrior.social/*
 *://*.justinformednews.com/*
 *://*.justjoeradio.com/*
 *://*.justpaste.it/*
@@ -4439,6 +4473,7 @@
 *://*.laharbornews.com/*
 *://*.laharpeguide.com/*
 *://*.laholm.sd.se/*
+*://*.lain.com/*
 *://*.lainate.leganord.org/*
 *://*.lakebuenavistanews.com/*
 *://*.lakebutlernews.com/*
@@ -4501,6 +4536,7 @@
 *://*.lbry.tv/*
 *://*.lc.org/*
 *://*.le-scpn.fr/*
+*://*.leafposter.club/*
 *://*.leagueofthesouth.com/*
 *://*.leaksource.wordpress.com/*
 *://*.learn.evangelismexplosion.org/*
@@ -4600,6 +4636,7 @@
 *://*.liberalplug.com/*
 *://*.liberalsociety.com/*
 *://*.liberaux.org/*
+*://*.liberdon.com/*
 *://*.libertarianhub.com/*
 *://*.libertarianism.fandom.com/*
 *://*.libertarianism.org/*
@@ -4631,6 +4668,7 @@
 *://*.libre-info.org/*
 *://*.libre.tube/*
 *://*.libre.video/*
+*://*.librenet.co.za/*
 *://*.libya360.wordpress.com/*
 *://*.lichfield.ukip.org/*
 *://*.lickingtoday.com/*
@@ -4779,6 +4817,7 @@
 *://*.m.bnp.org.uk/*
 *://*.m.chick.com/*
 *://*.m.clarionproject.org/*
+*://*.m.cmx.im/*
 *://*.m.epost.sd.se/*
 *://*.m.fpoe.at/*
 *://*.m.kuruc.info/*
@@ -4976,6 +5015,7 @@
 *://*.mamanslouves.org/*
 *://*.mamm.org/*
 *://*.mammothnation.com/*
+*://*.mamot.fr/*
 *://*.manateereview.com/*
 *://*.manifest.minds.com/*
 *://*.manilabusinessdaily.com/*
@@ -5029,6 +5069,8 @@
 *://*.master.centerforsecuritypolicy.org/*
 *://*.master.minds.com/*
 *://*.mastersofdeception.wordpress.com/*
+*://*.mastodon.derveni.org/*
+*://*.mastodon.soykaf.com/*
 *://*.mat.mattforney.com/*
 *://*.mathildasanthropologyblog.wordpress.com/*
 *://*.matsutimes.com/*
@@ -5106,6 +5148,7 @@
 *://*.melaniatrump.com/*
 *://*.melk.news/*
 *://*.mellerud.sd.se/*
+*://*.melmc.nohost.me/*
 *://*.melvig.org/*
 *://*.member.tradworker.org/*
 *://*.members.jbs.org/*
@@ -5183,6 +5226,7 @@
 *://*.midiasemmascara.org/*
 *://*.midlandtimes.com/*
 *://*.midmassnews.com/*
+*://*.midnightride.rs/*
 *://*.midvalleyreporter.com/*
 *://*.midwestpatriotcoalition.com/*
 *://*.migrants.news/*
@@ -5241,6 +5285,7 @@
 *://*.mkp.pis.org.pl/*
 *://*.mkt.8ch.net/*
 *://*.mkultragirl.org/*
+*://*.mlpol.net/*
 *://*.mms-healthyliving.com/*
 *://*.mms-supplement.com/*
 *://*.mmsforum.io/*
@@ -5337,6 +5382,7 @@
 *://*.msnbc.website/*
 *://*.mspoliticalcommentary.blogspot.com/*
 *://*.mstdn.foxfam.club/*
+*://*.mstdn.io/*
 *://*.msvhefnpaswy.lc.org/*
 *://*.mta-sts.neonrevolt.com/*
 *://*.mta.fairmail.fairus.org/*
@@ -5348,6 +5394,7 @@
 *://*.mtenterprisetoday.com/*
 *://*.mtj.thecomforter.info/*
 *://*.mtpleasantguide.com/*
+*://*.mu.zaitcev.nu/*
 *://*.mullsjo.sd.se/*
 *://*.munciereporter.com/*
 *://*.munin01.stormfront.org/*
@@ -5517,6 +5564,7 @@
 *://*.nebojsha.devstage.rumble.com/*
 *://*.nebraskabusinessdaily.com/*
 *://*.necalinews.com/*
+*://*.neckbeard.xyz/*
 *://*.necoloradonews.com/*
 *://*.neconnnews.com/*
 *://*.nedallasnews.com/*
@@ -5725,6 +5773,7 @@
 *://*.noitagozat.fidesz.hu/*
 *://*.nojabforme.info/*
 *://*.nojabjobs.co.nz/*
+*://*.nojack.easydns.ca/*
 *://*.nolareporter.com/*
 *://*.noleftturn.us/*
 *://*.nomasks.godaddysites.com/*
@@ -5872,6 +5921,7 @@
 *://*.nra.org/*
 *://*.nrcc.org/*
 *://*.nrw.diefreiheit.org/*
+*://*.ns.auction/*
 *://*.ns.davidicke.com/*
 *://*.ns.insaf.pk/*
 *://*.ns.oneplace.com/*
@@ -6372,6 +6422,7 @@
 *://*.paulboylan.wordpress.com/*
 *://*.paulcraigroberts.org/*
 *://*.paulrevere.infowars.com/*
+*://*.paws.moe/*
 *://*.payment.dev.live.triller.co/*
 *://*.payment.live.triller.co/*
 *://*.payment.load.live.triller.co/*
@@ -6467,6 +6518,8 @@
 *://*.pjwmerch.com/*
 *://*.pk.afd.de/*
 *://*.pl.news-front.info/*
+*://*.pl.secretsealing.club/*
+*://*.pl.slash.cl/*
 *://*.plague.info/*
 *://*.plakatspenden.afd.de/*
 *://*.plandemic.icu/*
@@ -6483,13 +6536,19 @@
 *://*.player.clarionproject.org/*
 *://*.player.d.tube/*
 *://*.playerapi.clarionproject.org/*
+*://*.pleroma.bubbletea.dev/*
+*://*.pleroma.nobodyhasthe.biz/*
+*://*.pleroma.skyshanty.xyz/*
+*://*.pleroma.xmanifesto.club/*
 *://*.plugin.parler.com/*
 *://*.plymouthreporter.com/*
 *://*.pm-bounces.mewe.com/*
 *://*.pmd.unitedfutureparty.kr/*
 *://*.pmi.com/*
 *://*.pnr.pt/*
+*://*.poa.st/*
 *://*.poal.co/*
+*://*.poast.org/*
 *://*.poast.tv/*
 *://*.pocatellotimes.com/*
 *://*.pocsjanos.fidesz.hu/*
@@ -6567,6 +6626,7 @@
 *://*.post.vlaamsbelang.org/*
 *://*.postcardtheology.wordpress.com/*
 *://*.postgatebook.com/*
+*://*.posting.lolicon.rocks/*
 *://*.postman.afa.net/*
 *://*.postman.catholicfamilynews.com/*
 *://*.postmaster.atomwaffendivision.org/*
@@ -6841,6 +6901,7 @@
 *://*.qnation.us/*
 *://*.qnewsletter.com/*
 *://*.qntmpkts.keybase.pub/*
+*://*.qoto.org/*
 *://*.qpolitical.com/*
 *://*.qposts.in/*
 *://*.qposts.online/*
@@ -6892,6 +6953,7 @@
 *://*.radixjournal.com/*
 *://*.rael.org/*
 *://*.raf.mod.uk/*
+*://*.rage.lol/*
 *://*.ragunda.sd.se/*
 *://*.raheemkassam.substack.com/*
 *://*.rails-stage-new.vdare.com/*
@@ -6929,6 +6991,7 @@
 *://*.rawforbeauty.com/*
 *://*.rawws.com/*
 *://*.raymondasmith.blogspot.com/*
+*://*.rayn.bo/*
 *://*.rbth.com/*
 *://*.rcc.onenation.org.au/*
 *://*.rdice.net.redice.tv/*
@@ -7415,6 +7478,7 @@
 *://*.secondamendmentdaily.com/*
 *://*.seconnnews.com/*
 *://*.secretsofthefed.com/*
+*://*.sect.sunbutt.faith/*
 *://*.secularheretic.substack.com/*
 *://*.secure.adflegal.org/*
 *://*.secure.afa.net/*
@@ -7795,11 +7859,21 @@
 *://*.snappertrx.wordpress.com/*
 *://*.snopes.news/*
 *://*.snu.gouv.fr/*
+*://*.soap.sect.sunbutt.faith/*
 *://*.socalrecord.com/*
 *://*.social-credit.blogspot.com/*
+*://*.social.adamasnemesis.com/*
+*://*.social.ancreport.com/*
+*://*.social.berzs.xyz/*
 *://*.social.davidicke.com/*
+*://*.social.freetalklive.com/*
+*://*.social.handholding.io/*
+*://*.social.hendrixgames.com/*
 *://*.social.infogalactic.com/*
+*://*.social.kyushojitsu.ca/*
 *://*.social.minds.com/*
+*://*.social.quodverum.com/*
+*://*.social.teci.world/*
 *://*.social.triller.co/*
 *://*.social1776.com/*
 *://*.socialbites.ca/*
@@ -7808,6 +7882,7 @@
 *://*.socialmediamorning.com/*
 *://*.societyofamateurgentlemen.wordpress.com/*
 *://*.socijalisticki.wordpress.com/*
+*://*.socnet.supes.com/*
 *://*.soderhamn.sd.se/*
 *://*.soderkoping.sd.se/*
 *://*.sodermanland.sd.se/*
@@ -8272,6 +8347,7 @@
 *://*.swalaskanews.com/*
 *://*.swalleghenynews.com/*
 *://*.swampdrain.com/*
+*://*.swampfoxden.com/*
 *://*.swarizonanews.com/*
 *://*.swarkansastimes.com/*
 *://*.swbluegrassnews.com/*
@@ -8468,6 +8544,7 @@
 *://*.theaussiewire.com.au/*
 *://*.theautomaticearth.com/*
 *://*.theavocadonews.com/*
+*://*.thebag.social/*
 *://*.thebeltwayreport.com/*
 *://*.thebernician.net/*
 *://*.thebfd.co.nz/*
@@ -8791,6 +8868,7 @@
 *://*.tkp.at/*
 *://*.tkparadosis.blogspot.com/*
 *://*.tlbtalk.com/*
+*://*.tmediatech.io/*
 *://*.tmn.today/*
 *://*.tmtgcorp.com/*
 *://*.tmzbreaking.com/*
@@ -9020,6 +9098,7 @@
 *://*.uconservative.com/*
 *://*.uddevalla.sd.se/*
 *://*.udk.fidesz.hu/*
+*://*.udongein.xyz/*
 *://*.ufoholic.com/*
 *://*.ufos.news/*
 *://*.ufoshit.com/*
@@ -9059,6 +9138,7 @@
 *://*.undergroundnewsreport.com/*
 *://*.undergroundworldnews.com/*
 *://*.understandmyself.com/*
+*://*.unexpected.singleuser.club/*
 *://*.unexplained.news/*
 *://*.unificacion.org/*
 *://*.unificacionista.com/*
@@ -9210,6 +9290,7 @@
 *://*.utrecht.pvv.nl/*
 *://*.uts.edu/*
 *://*.utsava.net/*
+*://*.uuuu.bigguys.club/*
 *://*.uvell.se/*
 *://*.uvmedia.org/*
 *://*.uyuypkq00c.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.rense.com/*
@@ -9261,6 +9342,7 @@
 *://*.vargagabor.fidesz.hu/*
 *://*.vargarda.sd.se/*
 *://*.varghatamas.fidesz.hu/*
+*://*.varishangout.net/*
 *://*.varmdo.sd.se/*
 *://*.varmland.sd.se/*
 *://*.varnamo.sd.se/*
@@ -9665,6 +9747,7 @@
 *://*.webmail.washsummit.com/*
 *://*.webrdp.adflegal.org/*
 *://*.webwinkel.vlaamsbelang.org/*
+*://*.weeaboo.space/*
 *://*.weekendgunnit.win/*
 *://*.weeklystandard.com/*
 *://*.weeklyworldnews.com/*
@@ -10115,7 +10198,6 @@
 *://*.wwiii.news/*
 *://*.www-old.8kun.top/*
 *://*.www-test.fidesz.hu/*
-*://*.www.americanpatrol.com/*
 *://*.www1.faithfreedom.org/*
 *://*.www1.minds.com/*
 *://*.www2.americanpatrol.com/*
@@ -10148,6 +10230,7 @@
 *://*.xfgdg.minds.com/*
 *://*.xjf5p3.bitchute.com/*
 *://*.xml.infowars.com/*
+*://*.xn--p1abe3d.xn--80asehdb/*
 *://*.xn--rzte-fr-aufklrung-pqbn68b.de/*
 *://*.xn--trning-bya.dk/*
 *://*.xrisiavgi.com/*
@@ -10167,6 +10250,7 @@
 *://*.yeniakit.com.tr/*
 *://*.yes.infowars.com/*
 *://*.yesimright.com/*
+*://*.yggdrasil.social/*
 *://*.yoga.minds.com/*
 *://*.yogurt.news/*
 *://*.yonews.org/*

@@ -328,6 +328,8 @@
 0.0.0.0 www.activate.afa.net
 0.0.0.0 activesouth.wordpress.com
 0.0.0.0 www.activesouth.wordpress.com
+0.0.0.0 activism.openworlds.info
+0.0.0.0 www.activism.openworlds.info
 0.0.0.0 activistpost.com
 0.0.0.0 www.activistpost.com
 0.0.0.0 activitesnation.wordpress.com
@@ -1470,6 +1472,8 @@
 0.0.0.0 www.badog.blogstar.hu
 0.0.0.0 badsquad.com
 0.0.0.0 www.badsquad.com
+0.0.0.0 bae.st
+0.0.0.0 www.bae.st
 0.0.0.0 bagozoltan.fidesz.hu
 0.0.0.0 www.bagozoltan.fidesz.hu
 0.0.0.0 baityehudi.org.il
@@ -1906,6 +1910,8 @@
 0.0.0.0 www.bitcoincollapse.news
 0.0.0.0 bitcoincrash.news
 0.0.0.0 www.bitcoincrash.news
+0.0.0.0 bitcoinhackers.org
+0.0.0.0 www.bitcoinhackers.org
 0.0.0.0 bitrix.afa.net
 0.0.0.0 www.bitrix.afa.net
 0.0.0.0 bitrixdev.afa.net
@@ -1966,6 +1972,8 @@
 0.0.0.0 www.blissfulvisions.com
 0.0.0.0 blivmedlem.danskfolkeparti.dk
 0.0.0.0 www.blivmedlem.danskfolkeparti.dk
+0.0.0.0 blob.cat
+0.0.0.0 www.blob.cat
 0.0.0.0 block.ruqqus.com
 0.0.0.0 www.block.ruqqus.com
 0.0.0.0 block1.rumble.com
@@ -2218,6 +2226,8 @@
 0.0.0.0 www.brasschecktv.com
 0.0.0.0 brasspills.com
 0.0.0.0 www.brasspills.com
+0.0.0.0 brave.cafe
+0.0.0.0 www.brave.cafe
 0.0.0.0 bravetruth.org
 0.0.0.0 www.bravetruth.org
 0.0.0.0 brazenbonapartist.blogspot.com
@@ -2624,6 +2634,8 @@
 0.0.0.0 www.cato.org
 0.0.0.0 causeur.fr
 0.0.0.0 www.causeur.fr
+0.0.0.0 cawfee.club
+0.0.0.0 www.cawfee.club
 0.0.0.0 cazzagosanmartino.leganord.org
 0.0.0.0 www.cazzagosanmartino.leganord.org
 0.0.0.0 cbds.news
@@ -2866,6 +2878,8 @@
 0.0.0.0 www.charlestonleader.com
 0.0.0.0 charlestonreporter.com
 0.0.0.0 www.charlestonreporter.com
+0.0.0.0 charlestown.social
+0.0.0.0 www.charlestown.social
 0.0.0.0 charliefreak.org
 0.0.0.0 www.charliefreak.org
 0.0.0.0 charliekirk.com
@@ -3540,6 +3554,8 @@
 0.0.0.0 www.countdowntozerotime.com
 0.0.0.0 counter-currents.com
 0.0.0.0 www.counter-currents.com
+0.0.0.0 counter.fedi.live
+0.0.0.0 www.counter.fedi.live
 0.0.0.0 countercurrentnews.com
 0.0.0.0 www.countercurrentnews.com
 0.0.0.0 countercurrents.org
@@ -4290,6 +4306,8 @@
 0.0.0.0 www.detox.news
 0.0.0.0 detroitcitywire.com
 0.0.0.0 www.detroitcitywire.com
+0.0.0.0 detroitriotcity.com
+0.0.0.0 www.detroitriotcity.com
 0.0.0.0 deurne.vlaamsbelang.org
 0.0.0.0 www.deurne.vlaamsbelang.org
 0.0.0.0 deutsch.rt.com
@@ -4500,6 +4518,8 @@
 0.0.0.0 www.distance.minds.com
 0.0.0.0 distribution.dlive.tv
 0.0.0.0 www.distribution.dlive.tv
+0.0.0.0 distrotoot.com
+0.0.0.0 www.distrotoot.com
 0.0.0.0 diti.fidesz.hu
 0.0.0.0 www.diti.fidesz.hu
 0.0.0.0 ditoverblik.dk
@@ -4522,6 +4542,8 @@
 0.0.0.0 www.djkleader.org
 0.0.0.0 djosiris.blogspot.com
 0.0.0.0 www.djosiris.blogspot.com
+0.0.0.0 djsumdog.com
+0.0.0.0 www.djsumdog.com
 0.0.0.0 dknews.kz
 0.0.0.0 www.dknews.kz
 0.0.0.0 dlive.tv
@@ -5402,6 +5424,8 @@
 0.0.0.0 www.evangelicals.donaldjtrump.com
 0.0.0.0 evangelismexplosion.org
 0.0.0.0 www.evangelismexplosion.org
+0.0.0.0 eveningzoo.club
+0.0.0.0 www.eveningzoo.club
 0.0.0.0 events.evangelismexplosion.org
 0.0.0.0 www.events.evangelismexplosion.org
 0.0.0.0 evergem.vlaamsbelang.org
@@ -5480,6 +5504,8 @@
 0.0.0.0 www.explorersclub.evangelismexplosion.org
 0.0.0.0 exploringthehiddentruth.wordpress.com
 0.0.0.0 www.exploringthehiddentruth.wordpress.com
+0.0.0.0 explosion.party
+0.0.0.0 www.explosion.party
 0.0.0.0 expose-news.com
 0.0.0.0 www.expose-news.com
 0.0.0.0 expose1933.com
@@ -5698,6 +5724,8 @@
 0.0.0.0 www.federataefamiljes.org
 0.0.0.0 federazionefamiglie.org
 0.0.0.0 www.federazionefamiglie.org
+0.0.0.0 fedi.club
+0.0.0.0 www.fedi.club
 0.0.0.0 fedsalert.com
 0.0.0.0 www.fedsalert.com
 0.0.0.0 feedback.dlive.tv
@@ -6050,6 +6078,8 @@
 0.0.0.0 www.fr.sony.kukluxklan.com
 0.0.0.0 fracking.news
 0.0.0.0 www.fracking.news
+0.0.0.0 framapiaf.org
+0.0.0.0 www.framapiaf.org
 0.0.0.0 framix.fr
 0.0.0.0 www.framix.fr
 0.0.0.0 franc-tireur.fr
@@ -6112,6 +6142,8 @@
 0.0.0.0 www.freealexjones.com
 0.0.0.0 freeandopenaustralia.org
 0.0.0.0 www.freeandopenaustralia.org
+0.0.0.0 freeatlantis.com
+0.0.0.0 www.freeatlantis.com
 0.0.0.0 freebeacon.com
 0.0.0.0 www.freebeacon.com
 0.0.0.0 freedom-articles.toolsforfreedom.com
@@ -6194,6 +6226,8 @@
 0.0.0.0 www.freespacesocial.com
 0.0.0.0 freespeech.fans
 0.0.0.0 www.freespeech.fans
+0.0.0.0 freespeech.firedragonstudios.com
+0.0.0.0 www.freespeech.firedragonstudios.com
 0.0.0.0 freespeech.group
 0.0.0.0 www.freespeech.group
 0.0.0.0 freespeechextremist.com
@@ -6210,6 +6244,8 @@
 0.0.0.0 www.freesquare.com
 0.0.0.0 freetalk.app
 0.0.0.0 www.freetalk.app
+0.0.0.0 freetalklive.com
+0.0.0.0 www.freetalklive.com
 0.0.0.0 freethepeople.org
 0.0.0.0 www.freethepeople.org
 0.0.0.0 freetobechurch.nz
@@ -6226,6 +6262,8 @@
 0.0.0.0 www.freeworldnews.tv
 0.0.0.0 freeyourmindaz.com
 0.0.0.0 www.freeyourmindaz.com
+0.0.0.0 freezepeach.xyz
+0.0.0.0 www.freezepeach.xyz
 0.0.0.0 freiewelt.net
 0.0.0.0 www.freiewelt.net
 0.0.0.0 french.faithfreedom.org
@@ -6244,6 +6282,8 @@
 0.0.0.0 www.friatider.se
 0.0.0.0 fridaymash.com
 0.0.0.0 www.fridaymash.com
+0.0.0.0 friendica.eskimo.com
+0.0.0.0 www.friendica.eskimo.com
 0.0.0.0 frigidebarjot.com
 0.0.0.0 www.frigidebarjot.com
 0.0.0.0 frihetskamp.net
@@ -6264,6 +6304,8 @@
 0.0.0.0 www.frontpagemag.com
 0.0.0.0 frontpopulaire.fr
 0.0.0.0 www.frontpopulaire.fr
+0.0.0.0 froth.zone
+0.0.0.0 www.froth.zone
 0.0.0.0 frounch.blogspot.com
 0.0.0.0 www.frounch.blogspot.com
 0.0.0.0 frs.nyeborgerlige.dk
@@ -6276,6 +6318,8 @@
 0.0.0.0 www.fs.parler.com
 0.0.0.0 fsk.nyeborgerlige.dk
 0.0.0.0 www.fsk.nyeborgerlige.dk
+0.0.0.0 fsmi.social
+0.0.0.0 www.fsmi.social
 0.0.0.0 fsxtki0j.8ch.net
 0.0.0.0 www.fsxtki0j.8ch.net
 0.0.0.0 ftp.afa.net
@@ -6368,6 +6412,8 @@
 0.0.0.0 www.galmaarden.vlaamsbelang.org
 0.0.0.0 galvaguide.com
 0.0.0.0 www.galvaguide.com
+0.0.0.0 gameliberty.club
+0.0.0.0 www.gameliberty.club
 0.0.0.0 gamergate-news.tumblr.com
 0.0.0.0 www.gamergate-news.tumblr.com
 0.0.0.0 gameruprising.to
@@ -6426,6 +6472,8 @@
 0.0.0.0 www.ge.news-front.info
 0.0.0.0 gear.news
 0.0.0.0 www.gear.news
+0.0.0.0 gearlandia.haus
+0.0.0.0 www.gearlandia.haus
 0.0.0.0 geel.vlaamsbelang.org
 0.0.0.0 www.geel.vlaamsbelang.org
 0.0.0.0 gegdxm4iek.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
@@ -6504,6 +6552,8 @@
 0.0.0.0 www.gesara.co
 0.0.0.0 gesara.news
 0.0.0.0 www.gesara.news
+0.0.0.0 getindor.com
+0.0.0.0 www.getindor.com
 0.0.0.0 getoutofdebtfree.org
 0.0.0.0 www.getoutofdebtfree.org
 0.0.0.0 gettr.com
@@ -6544,6 +6594,8 @@
 0.0.0.0 www.gioventunazionale.it
 0.0.0.0 giphoi.wordpress.com
 0.0.0.0 www.giphoi.wordpress.com
+0.0.0.0 girevik.su
+0.0.0.0 www.girevik.su
 0.0.0.0 girlsjustwannahaveguns.com
 0.0.0.0 www.girlsjustwannahaveguns.com
 0.0.0.0 gislaved.sd.se
@@ -6554,6 +6606,8 @@
 0.0.0.0 www.gitgud.io
 0.0.0.0 gitlab.parler.com
 0.0.0.0 www.gitlab.parler.com
+0.0.0.0 gitmo.life
+0.0.0.0 www.gitmo.life
 0.0.0.0 giuindaerba.leganord.org
 0.0.0.0 www.giuindaerba.leganord.org
 0.0.0.0 give.afa.net
@@ -6572,6 +6626,8 @@
 0.0.0.0 www.glaringhypocrisy.com
 0.0.0.0 glasgow.ukip.org
 0.0.0.0 www.glasgow.ukip.org
+0.0.0.0 gleasonator.com
+0.0.0.0 www.gleasonator.com
 0.0.0.0 glendalesun.com
 0.0.0.0 www.glendalesun.com
 0.0.0.0 glenelderguide.com
@@ -6610,6 +6666,8 @@
 0.0.0.0 www.glostrup.danskfolkeparti.dk
 0.0.0.0 gloucestertoday.com
 0.0.0.0 www.gloucestertoday.com
+0.0.0.0 glowers.club
+0.0.0.0 www.glowers.club
 0.0.0.0 glx.nyeborgerlige.dk
 0.0.0.0 www.glx.nyeborgerlige.dk
 0.0.0.0 glyphocide.news
@@ -6692,6 +6750,8 @@
 0.0.0.0 www.goldenstatetimes.com
 0.0.0.0 goldenstatetoday.com
 0.0.0.0 www.goldenstatetoday.com
+0.0.0.0 gomastodon.cz
+0.0.0.0 www.gomastodon.cz
 0.0.0.0 gomerblog.com
 0.0.0.0 www.gomerblog.com
 0.0.0.0 gondola.hu
@@ -6744,6 +6804,8 @@
 0.0.0.0 www.govtslaves.info
 0.0.0.0 goyfundme.com
 0.0.0.0 www.goyfundme.com
+0.0.0.0 goyim.app
+0.0.0.0 www.goyim.app
 0.0.0.0 goyimtv.com
 0.0.0.0 www.goyimtv.com
 0.0.0.0 goyimtv.tv
@@ -7672,6 +7734,8 @@
 0.0.0.0 www.idasacguide.com
 0.0.0.0 idbusinessdaily.com
 0.0.0.0 www.idbusinessdaily.com
+0.0.0.0 iddqd.social
+0.0.0.0 www.iddqd.social
 0.0.0.0 ideacenter.org
 0.0.0.0 www.ideacenter.org
 0.0.0.0 identitaer.dk
@@ -8130,6 +8194,8 @@
 0.0.0.0 www.itmakessenseblog.com
 0.0.0.0 itmattershowyoustand.com
 0.0.0.0 www.itmattershowyoustand.com
+0.0.0.0 itmslaves.com
+0.0.0.0 www.itmslaves.com
 0.0.0.0 itnj.org
 0.0.0.0 www.itnj.org
 0.0.0.0 itsrainmakingtime.com
@@ -8482,6 +8548,8 @@
 0.0.0.0 www.justice4poland.com
 0.0.0.0 justiceforuswgo.wordpress.com
 0.0.0.0 www.justiceforuswgo.wordpress.com
+0.0.0.0 justicewarrior.social
+0.0.0.0 www.justicewarrior.social
 0.0.0.0 justinformednews.com
 0.0.0.0 www.justinformednews.com
 0.0.0.0 justjoeradio.com
@@ -8866,6 +8934,8 @@
 0.0.0.0 www.laharpeguide.com
 0.0.0.0 laholm.sd.se
 0.0.0.0 www.laholm.sd.se
+0.0.0.0 lain.com
+0.0.0.0 www.lain.com
 0.0.0.0 lainate.leganord.org
 0.0.0.0 www.lainate.leganord.org
 0.0.0.0 lakebuenavistanews.com
@@ -8990,6 +9060,8 @@
 0.0.0.0 www.lc.org
 0.0.0.0 le-scpn.fr
 0.0.0.0 www.le-scpn.fr
+0.0.0.0 leafposter.club
+0.0.0.0 www.leafposter.club
 0.0.0.0 leagueofthesouth.com
 0.0.0.0 www.leagueofthesouth.com
 0.0.0.0 leaksource.wordpress.com
@@ -9188,6 +9260,8 @@
 0.0.0.0 www.liberalsociety.com
 0.0.0.0 liberaux.org
 0.0.0.0 www.liberaux.org
+0.0.0.0 liberdon.com
+0.0.0.0 www.liberdon.com
 0.0.0.0 libertarianhub.com
 0.0.0.0 www.libertarianhub.com
 0.0.0.0 libertarianism.fandom.com
@@ -9250,6 +9324,8 @@
 0.0.0.0 www.libre.tube
 0.0.0.0 libre.video
 0.0.0.0 www.libre.video
+0.0.0.0 librenet.co.za
+0.0.0.0 www.librenet.co.za
 0.0.0.0 libya360.wordpress.com
 0.0.0.0 www.libya360.wordpress.com
 0.0.0.0 lichfield.ukip.org
@@ -9546,6 +9622,8 @@
 0.0.0.0 www.m.chick.com
 0.0.0.0 m.clarionproject.org
 0.0.0.0 www.m.clarionproject.org
+0.0.0.0 m.cmx.im
+0.0.0.0 www.m.cmx.im
 0.0.0.0 m.epost.sd.se
 0.0.0.0 www.m.epost.sd.se
 0.0.0.0 m.fpoe.at
@@ -9940,6 +10018,8 @@
 0.0.0.0 www.mamm.org
 0.0.0.0 mammothnation.com
 0.0.0.0 www.mammothnation.com
+0.0.0.0 mamot.fr
+0.0.0.0 www.mamot.fr
 0.0.0.0 manateereview.com
 0.0.0.0 www.manateereview.com
 0.0.0.0 manifest.minds.com
@@ -10046,6 +10126,10 @@
 0.0.0.0 www.master.minds.com
 0.0.0.0 mastersofdeception.wordpress.com
 0.0.0.0 www.mastersofdeception.wordpress.com
+0.0.0.0 mastodon.derveni.org
+0.0.0.0 www.mastodon.derveni.org
+0.0.0.0 mastodon.soykaf.com
+0.0.0.0 www.mastodon.soykaf.com
 0.0.0.0 mat.mattforney.com
 0.0.0.0 www.mat.mattforney.com
 0.0.0.0 mathildasanthropologyblog.wordpress.com
@@ -10200,6 +10284,8 @@
 0.0.0.0 www.melk.news
 0.0.0.0 mellerud.sd.se
 0.0.0.0 www.mellerud.sd.se
+0.0.0.0 melmc.nohost.me
+0.0.0.0 www.melmc.nohost.me
 0.0.0.0 melvig.org
 0.0.0.0 www.melvig.org
 0.0.0.0 member.tradworker.org
@@ -10354,6 +10440,8 @@
 0.0.0.0 www.midlandtimes.com
 0.0.0.0 midmassnews.com
 0.0.0.0 www.midmassnews.com
+0.0.0.0 midnightride.rs
+0.0.0.0 www.midnightride.rs
 0.0.0.0 midvalleyreporter.com
 0.0.0.0 www.midvalleyreporter.com
 0.0.0.0 midwestpatriotcoalition.com
@@ -10470,6 +10558,8 @@
 0.0.0.0 www.mkt.8ch.net
 0.0.0.0 mkultragirl.org
 0.0.0.0 www.mkultragirl.org
+0.0.0.0 mlpol.net
+0.0.0.0 www.mlpol.net
 0.0.0.0 mms-healthyliving.com
 0.0.0.0 www.mms-healthyliving.com
 0.0.0.0 mms-supplement.com
@@ -10662,6 +10752,8 @@
 0.0.0.0 www.mspoliticalcommentary.blogspot.com
 0.0.0.0 mstdn.foxfam.club
 0.0.0.0 www.mstdn.foxfam.club
+0.0.0.0 mstdn.io
+0.0.0.0 www.mstdn.io
 0.0.0.0 msvhefnpaswy.lc.org
 0.0.0.0 www.msvhefnpaswy.lc.org
 0.0.0.0 mta-sts.neonrevolt.com
@@ -10684,6 +10776,8 @@
 0.0.0.0 www.mtj.thecomforter.info
 0.0.0.0 mtpleasantguide.com
 0.0.0.0 www.mtpleasantguide.com
+0.0.0.0 mu.zaitcev.nu
+0.0.0.0 www.mu.zaitcev.nu
 0.0.0.0 mullsjo.sd.se
 0.0.0.0 www.mullsjo.sd.se
 0.0.0.0 munciereporter.com
@@ -11022,6 +11116,8 @@
 0.0.0.0 www.nebraskabusinessdaily.com
 0.0.0.0 necalinews.com
 0.0.0.0 www.necalinews.com
+0.0.0.0 neckbeard.xyz
+0.0.0.0 www.neckbeard.xyz
 0.0.0.0 necoloradonews.com
 0.0.0.0 www.necoloradonews.com
 0.0.0.0 neconnnews.com
@@ -11438,6 +11534,8 @@
 0.0.0.0 www.nojabforme.info
 0.0.0.0 nojabjobs.co.nz
 0.0.0.0 www.nojabjobs.co.nz
+0.0.0.0 nojack.easydns.ca
+0.0.0.0 www.nojack.easydns.ca
 0.0.0.0 nolareporter.com
 0.0.0.0 www.nolareporter.com
 0.0.0.0 noleftturn.us
@@ -11732,6 +11830,8 @@
 0.0.0.0 www.nrcc.org
 0.0.0.0 nrw.diefreiheit.org
 0.0.0.0 www.nrw.diefreiheit.org
+0.0.0.0 ns.auction
+0.0.0.0 www.ns.auction
 0.0.0.0 ns.davidicke.com
 0.0.0.0 www.ns.davidicke.com
 0.0.0.0 ns.insaf.pk
@@ -12732,6 +12832,8 @@
 0.0.0.0 www.paulcraigroberts.org
 0.0.0.0 paulrevere.infowars.com
 0.0.0.0 www.paulrevere.infowars.com
+0.0.0.0 paws.moe
+0.0.0.0 www.paws.moe
 0.0.0.0 payment.dev.live.triller.co
 0.0.0.0 www.payment.dev.live.triller.co
 0.0.0.0 payment.live.triller.co
@@ -12922,6 +13024,10 @@
 0.0.0.0 www.pk.afd.de
 0.0.0.0 pl.news-front.info
 0.0.0.0 www.pl.news-front.info
+0.0.0.0 pl.secretsealing.club
+0.0.0.0 www.pl.secretsealing.club
+0.0.0.0 pl.slash.cl
+0.0.0.0 www.pl.slash.cl
 0.0.0.0 plague.info
 0.0.0.0 www.plague.info
 0.0.0.0 plakatspenden.afd.de
@@ -12954,6 +13060,14 @@
 0.0.0.0 www.player.d.tube
 0.0.0.0 playerapi.clarionproject.org
 0.0.0.0 www.playerapi.clarionproject.org
+0.0.0.0 pleroma.bubbletea.dev
+0.0.0.0 www.pleroma.bubbletea.dev
+0.0.0.0 pleroma.nobodyhasthe.biz
+0.0.0.0 www.pleroma.nobodyhasthe.biz
+0.0.0.0 pleroma.skyshanty.xyz
+0.0.0.0 www.pleroma.skyshanty.xyz
+0.0.0.0 pleroma.xmanifesto.club
+0.0.0.0 www.pleroma.xmanifesto.club
 0.0.0.0 plugin.parler.com
 0.0.0.0 www.plugin.parler.com
 0.0.0.0 plymouthreporter.com
@@ -12966,8 +13080,12 @@
 0.0.0.0 www.pmi.com
 0.0.0.0 pnr.pt
 0.0.0.0 www.pnr.pt
+0.0.0.0 poa.st
+0.0.0.0 www.poa.st
 0.0.0.0 poal.co
 0.0.0.0 www.poal.co
+0.0.0.0 poast.org
+0.0.0.0 www.poast.org
 0.0.0.0 poast.tv
 0.0.0.0 www.poast.tv
 0.0.0.0 pocatellotimes.com
@@ -13122,6 +13240,8 @@
 0.0.0.0 www.postcardtheology.wordpress.com
 0.0.0.0 postgatebook.com
 0.0.0.0 www.postgatebook.com
+0.0.0.0 posting.lolicon.rocks
+0.0.0.0 www.posting.lolicon.rocks
 0.0.0.0 postman.afa.net
 0.0.0.0 www.postman.afa.net
 0.0.0.0 postman.catholicfamilynews.com
@@ -13670,6 +13790,8 @@
 0.0.0.0 www.qnewsletter.com
 0.0.0.0 qntmpkts.keybase.pub
 0.0.0.0 www.qntmpkts.keybase.pub
+0.0.0.0 qoto.org
+0.0.0.0 www.qoto.org
 0.0.0.0 qpolitical.com
 0.0.0.0 www.qpolitical.com
 0.0.0.0 qposts.in
@@ -13772,6 +13894,8 @@
 0.0.0.0 www.rael.org
 0.0.0.0 raf.mod.uk
 0.0.0.0 www.raf.mod.uk
+0.0.0.0 rage.lol
+0.0.0.0 www.rage.lol
 0.0.0.0 ragunda.sd.se
 0.0.0.0 www.ragunda.sd.se
 0.0.0.0 raheemkassam.substack.com
@@ -13846,6 +13970,8 @@
 0.0.0.0 www.rawws.com
 0.0.0.0 raymondasmith.blogspot.com
 0.0.0.0 www.raymondasmith.blogspot.com
+0.0.0.0 rayn.bo
+0.0.0.0 www.rayn.bo
 0.0.0.0 rbth.com
 0.0.0.0 www.rbth.com
 0.0.0.0 rcc.onenation.org.au
@@ -14818,6 +14944,8 @@
 0.0.0.0 www.seconnnews.com
 0.0.0.0 secretsofthefed.com
 0.0.0.0 www.secretsofthefed.com
+0.0.0.0 sect.sunbutt.faith
+0.0.0.0 www.sect.sunbutt.faith
 0.0.0.0 secularheretic.substack.com
 0.0.0.0 www.secularheretic.substack.com
 0.0.0.0 secure.adflegal.org
@@ -15578,16 +15706,36 @@
 0.0.0.0 www.snopes.news
 0.0.0.0 snu.gouv.fr
 0.0.0.0 www.snu.gouv.fr
+0.0.0.0 soap.sect.sunbutt.faith
+0.0.0.0 www.soap.sect.sunbutt.faith
 0.0.0.0 socalrecord.com
 0.0.0.0 www.socalrecord.com
 0.0.0.0 social-credit.blogspot.com
 0.0.0.0 www.social-credit.blogspot.com
+0.0.0.0 social.adamasnemesis.com
+0.0.0.0 www.social.adamasnemesis.com
+0.0.0.0 social.ancreport.com
+0.0.0.0 www.social.ancreport.com
+0.0.0.0 social.berzs.xyz
+0.0.0.0 www.social.berzs.xyz
 0.0.0.0 social.davidicke.com
 0.0.0.0 www.social.davidicke.com
+0.0.0.0 social.freetalklive.com
+0.0.0.0 www.social.freetalklive.com
+0.0.0.0 social.handholding.io
+0.0.0.0 www.social.handholding.io
+0.0.0.0 social.hendrixgames.com
+0.0.0.0 www.social.hendrixgames.com
 0.0.0.0 social.infogalactic.com
 0.0.0.0 www.social.infogalactic.com
+0.0.0.0 social.kyushojitsu.ca
+0.0.0.0 www.social.kyushojitsu.ca
 0.0.0.0 social.minds.com
 0.0.0.0 www.social.minds.com
+0.0.0.0 social.quodverum.com
+0.0.0.0 www.social.quodverum.com
+0.0.0.0 social.teci.world
+0.0.0.0 www.social.teci.world
 0.0.0.0 social.triller.co
 0.0.0.0 www.social.triller.co
 0.0.0.0 social1776.com
@@ -15604,6 +15752,8 @@
 0.0.0.0 www.societyofamateurgentlemen.wordpress.com
 0.0.0.0 socijalisticki.wordpress.com
 0.0.0.0 www.socijalisticki.wordpress.com
+0.0.0.0 socnet.supes.com
+0.0.0.0 www.socnet.supes.com
 0.0.0.0 soderhamn.sd.se
 0.0.0.0 www.soderhamn.sd.se
 0.0.0.0 soderkoping.sd.se
@@ -16532,6 +16682,8 @@
 0.0.0.0 www.swalleghenynews.com
 0.0.0.0 swampdrain.com
 0.0.0.0 www.swampdrain.com
+0.0.0.0 swampfoxden.com
+0.0.0.0 www.swampfoxden.com
 0.0.0.0 swarizonanews.com
 0.0.0.0 www.swarizonanews.com
 0.0.0.0 swarkansastimes.com
@@ -16924,6 +17076,8 @@
 0.0.0.0 www.theautomaticearth.com
 0.0.0.0 theavocadonews.com
 0.0.0.0 www.theavocadonews.com
+0.0.0.0 thebag.social
+0.0.0.0 www.thebag.social
 0.0.0.0 thebeltwayreport.com
 0.0.0.0 www.thebeltwayreport.com
 0.0.0.0 thebernician.net
@@ -17570,6 +17724,8 @@
 0.0.0.0 www.tkparadosis.blogspot.com
 0.0.0.0 tlbtalk.com
 0.0.0.0 www.tlbtalk.com
+0.0.0.0 tmediatech.io
+0.0.0.0 www.tmediatech.io
 0.0.0.0 tmn.today
 0.0.0.0 www.tmn.today
 0.0.0.0 tmtgcorp.com
@@ -18028,6 +18184,8 @@
 0.0.0.0 www.uddevalla.sd.se
 0.0.0.0 udk.fidesz.hu
 0.0.0.0 www.udk.fidesz.hu
+0.0.0.0 udongein.xyz
+0.0.0.0 www.udongein.xyz
 0.0.0.0 ufoholic.com
 0.0.0.0 www.ufoholic.com
 0.0.0.0 ufos.news
@@ -18106,6 +18264,8 @@
 0.0.0.0 www.undergroundworldnews.com
 0.0.0.0 understandmyself.com
 0.0.0.0 www.understandmyself.com
+0.0.0.0 unexpected.singleuser.club
+0.0.0.0 www.unexpected.singleuser.club
 0.0.0.0 unexplained.news
 0.0.0.0 www.unexplained.news
 0.0.0.0 unificacion.org
@@ -18408,6 +18568,8 @@
 0.0.0.0 www.uts.edu
 0.0.0.0 utsava.net
 0.0.0.0 www.utsava.net
+0.0.0.0 uuuu.bigguys.club
+0.0.0.0 www.uuuu.bigguys.club
 0.0.0.0 uvell.se
 0.0.0.0 www.uvell.se
 0.0.0.0 uvmedia.org
@@ -18510,6 +18672,8 @@
 0.0.0.0 www.vargarda.sd.se
 0.0.0.0 varghatamas.fidesz.hu
 0.0.0.0 www.varghatamas.fidesz.hu
+0.0.0.0 varishangout.net
+0.0.0.0 www.varishangout.net
 0.0.0.0 varmdo.sd.se
 0.0.0.0 www.varmdo.sd.se
 0.0.0.0 varmland.sd.se
@@ -19318,6 +19482,8 @@
 0.0.0.0 www.webrdp.adflegal.org
 0.0.0.0 webwinkel.vlaamsbelang.org
 0.0.0.0 www.webwinkel.vlaamsbelang.org
+0.0.0.0 weeaboo.space
+0.0.0.0 www.weeaboo.space
 0.0.0.0 weekendgunnit.win
 0.0.0.0 www.weekendgunnit.win
 0.0.0.0 weeklystandard.com
@@ -20218,8 +20384,6 @@
 0.0.0.0 www.www-old.8kun.top
 0.0.0.0 www-test.fidesz.hu
 0.0.0.0 www.www-test.fidesz.hu
-0.0.0.0 www.americanpatrol.com
-0.0.0.0 www.www.americanpatrol.com
 0.0.0.0 www1.faithfreedom.org
 0.0.0.0 www.www1.faithfreedom.org
 0.0.0.0 www1.minds.com
@@ -20284,6 +20448,8 @@
 0.0.0.0 www.xjf5p3.bitchute.com
 0.0.0.0 xml.infowars.com
 0.0.0.0 www.xml.infowars.com
+0.0.0.0 xn--p1abe3d.xn--80asehdb
+0.0.0.0 www.xn--p1abe3d.xn--80asehdb
 0.0.0.0 xn--rzte-fr-aufklrung-pqbn68b.de
 0.0.0.0 www.xn--rzte-fr-aufklrung-pqbn68b.de
 0.0.0.0 xn--trning-bya.dk
@@ -20322,6 +20488,8 @@
 0.0.0.0 www.yes.infowars.com
 0.0.0.0 yesimright.com
 0.0.0.0 www.yesimright.com
+0.0.0.0 yggdrasil.social
+0.0.0.0 www.yggdrasil.social
 0.0.0.0 yoga.minds.com
 0.0.0.0 www.yoga.minds.com
 0.0.0.0 yogurt.news
