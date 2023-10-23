@@ -1,3 +1,4 @@
+!
 100jahre-fuer-den-frieden.com
 100percentfedup.com
 107daily.com
@@ -54,6 +55,7 @@
 911truth.org
 912candidates.org
 9chan.tw
+[adblock
 a4justice.org
 aanirfan.blogspot.co.uk
 aanirfan.blogspot.com
@@ -231,7 +233,6 @@ anthonyblogan.com
 antigreen.blogspot.com
 antimedianews.com
 antipodean-resistance.com
-antivaxxer.icu
 antoinettejames.com
 antoniusaquinas.wp.com
 apar.tv
@@ -269,6 +270,7 @@ asianinvasion2019.blogspot.com
 askdrbuttar.com
 askingangels.com
 assassinationscience.com
+assets.windscribe.com
 associatedmediacoverage.com
 astuce-story.com
 astucerie.net
@@ -283,7 +285,6 @@ atomwaffendivision.org
 atrazine.news
 attackthesystem.com
 attn.com
-auf1.eu
 aulis.com
 aum-internet.org
 auroraray.com
@@ -437,7 +438,6 @@ bitcoincollapse.news
 bitcoincrash.news
 bitterwinter.org
 bittube.tv
-bittube.video
 blackagendareport.com
 blackboxvoting.org
 blackconservativepatriot.com
@@ -593,7 +593,6 @@ cellphonetaskforce.org
 censored.news
 censored.today
 censored.tv
-censorship.icu
 censortrack.org
 centerforsecuritypolicy.org
 centipedenation.com
@@ -768,7 +767,6 @@ conspiracywire.com
 consumerwellness.org
 contrepoints.org
 contrepropagande.fr
-controverse.tube
 conventionofstates.com
 cookinmemes.com
 cool-buzz.net
@@ -1389,7 +1387,6 @@ gazetasocial.com
 gbdeclaration.org
 ge.news-front.info
 gear.news
-gegenstimme.tv
 gellerreport.com
 generation-nation.fr
 generationfrexit.fr
@@ -1417,6 +1414,7 @@ gibraltar-messenger.net
 gibsonforfreedom.com
 giorgiameloni.it
 gioventunazionale.it
+github.com
 givesendgo.com
 glaringhypocrisy.com
 glennbeck.com
@@ -1456,6 +1454,7 @@ good-music.com
 goodgopher.com
 goodsauce.news
 goodsciencing.com
+gop
 gop.com
 gop.gov
 gopthedailydose.com
@@ -1813,11 +1812,9 @@ karlzerobalance.com
 katehon.com
 katehon.org
 kathleenstock.com
-katiehopkinspolitical.icu
 kcorradio.com
 kek.com.gr
 kellybroganmd.com
-kenfm.inter21.net
 kerririvera.com
 kevinislaughter.com
 kevinshipp.com
@@ -1865,7 +1862,6 @@ lagrandehistoiredefrance.fr
 lamanifpourtous.fr
 lamarinerecrute.fr
 laminedinfos.fr
-lanceur-alerte.tv
 landdestroyer.blogspot.com
 lapressegalactique.com
 laralogan.com
@@ -1967,8 +1963,6 @@ libertytalk.fm
 libertyvideos.org
 librairal.org
 libre-info.org
-libre.tube
-libre.video
 lifefacts.lifesitenews.com
 lifeissoamazing.com
 lifenews.com
@@ -2027,7 +2021,6 @@ magazine-du-net.com
 magentapixie.com
 magicawakened.com
 mailguild.com
-maindreieck-tv.de
 mainerepublicemailreport.com
 makeamericagreattoday.com
 maketexasgreat.com
@@ -2145,6 +2138,7 @@ mnlearningsolutions.com
 mochauson.blog
 momsacrossamerica.com
 momsforamerica.us
+momsforliberty.org
 monarchiainteriore.com
 moncorpsmonchoix.com
 mondialisation.ca
@@ -2156,7 +2150,6 @@ morpheus.fr
 motherofpeace.com
 motls.blogspot.com
 movcivitas.pt
-mp-tube.de
 mpcdot.com
 mpidailymagazine.com
 mrc.org
@@ -2216,7 +2209,6 @@ ncswic.blog
 neadexia.gr
 needtoknow.news
 neilhamiltonukip.com
-neogenesis.tv
 neohate.com
 neonnettle.com
 neonrevolt.com
@@ -2289,6 +2281,7 @@ nido-del-cuco.blogspot.com
 nieuwstool.nl
 nigelfaragemep.co.uk
 nikh.gr
+nimiskincare.com
 niooz.fr
 nissarebela.com
 nita.one
@@ -2300,7 +2293,6 @@ noagendasocial.com
 noam.org.il
 noblesoul.com
 nobstherapy.com
-nocensoring.net
 noch.info
 nodisinfo.com
 noelfic.fr
@@ -2313,7 +2305,6 @@ nomorefakenews.com
 nomos-tv.com
 non-intervention2.com
 noncounterproductive.blogspot.com
-norden.media
 nordfront.dk
 nordfront.se
 nordpresse.be
@@ -2402,7 +2393,6 @@ onsaitcequonveutquonsache.com
 onthe.rocks
 oom2.com
 opednews.com
-open.tube
 openborders.news
 openheaven.com
 openmindmagazine.com
@@ -2426,14 +2416,12 @@ orwell.city
 orwellianchronicle.wordpress.com
 ouestmoncycle.com
 our.wikileaks.org
-ourchristian.icu
 ourfreedombook.com
 ourfreedomtube.com
 ourgreatawakening.org
 ournewearthnews.com
 ourplanet.org
 oursay.co.nz
-oursocialism.today
 ourtube.co.uk
 ourtubesocial.com
 ourworldcoin.org
@@ -2511,11 +2499,6 @@ peacedata.net
 peacerevolution.podomatic.com
 pedoempire.org
 pedogate.world
-peertube.devinstance.de
-peertube.it
-peertube.narrativerry.xyz
-peertube.rage.lol
-peertube.se
 pegida.de
 pegidaoffiziell.wordpress.com
 pensabrasil.com
@@ -2545,7 +2528,6 @@ pjcarroll.ie
 pjmedia.com
 pjwmerch.com
 pl.news-front.info
-plandemic.icu
 plandemicseries.com
 plandemicvideo.com
 planet-today.com
@@ -2556,7 +2538,6 @@ play-asia.com
 pmi.com
 pnr.pt
 poal.co
-poast.tv
 pointofagun.blogspot.com
 pointtalkers.com
 polaraidhealth.com
@@ -2567,7 +2548,6 @@ police.unsa.org
 policenow.org.uk
 policestate.news
 policier.ch
-political.icu
 politicalblindspot.com
 politicalcult.com
 politicalears.com
@@ -2623,6 +2603,7 @@ prntly.com
 proamericaonly.org
 profananish.substack.com
 professeur-joyeux.com
+professorwatchlist.org
 profidecatholica.com
 profundityyours.com
 programs.aynrand.org
@@ -2800,6 +2781,7 @@ rense.com
 renz-law.com
 reopen.nz
 report.globalreset.news
+republican
 republicbroadcasting.org
 reseauinternational.net
 reseausherlockholmes.net
@@ -2878,7 +2860,6 @@ rumble.com
 rumeursdabidjan.net
 rumormillnews.com
 rumormillnews.jurak.com
-runtube.re
 ruptly.tv
 ruqqus.com
 rushlimbaugh.com
@@ -2945,9 +2926,6 @@ sensoincomum.org
 sentinelblog.com
 sepp.org
 serenashimaward.org
-serv1.wiki-tube.de
-serv2.wiki-tube.de
-serv3.wiki-tube.de
 serviam-alvarium.fr
 sex-matters.org
 sgtreport.com
@@ -3157,7 +3135,6 @@ tarpley.net
 tass.com
 taxpayers.org.nz
 tcmhijacked.blogspot.com
-tcode.kenfm.de
 teace.ca
 tealswan.com
 tealswan.net
@@ -3208,7 +3185,6 @@ theburningplatform.com
 thecenterpath.weebly.com
 thecharliekirkshow.com
 thechillingeffect.org
-thecitizen.icu
 theclimatebet.com
 thecommonsenseshow.com
 theconsciousresistance.com
@@ -3231,7 +3207,6 @@ thedonald.win
 thedonald.xyz
 thedonaldbackup.com
 theduran.com
-theduran.icu
 theeaglekeeper.wordpress.com
 theeconomiccollapseblog.com
 theepochtimes.com
@@ -3437,6 +3412,7 @@ townhall.com
 toxins.news
 tparents.org
 tpaust.com.au
+tpointuk.co.uk
 tpusa.com
 trad-news.blogspot.com
 tradfem.wordpress.com
@@ -3453,7 +3429,6 @@ trendingpolitics.com
 trendingviews.co
 trends.gab.com
 trialsitenews.com
-troo.tube
 trooth.globalfreedommovement.org
 trp.red
 trs-detox.com
@@ -3503,18 +3478,11 @@ truthsocial.com
 truthstreammedia.com
 truthwiki.org
 tsargrad.tv
-tube.apolut.net
-tube.kenfm.de
-tube.querdenken-711.de
-tube2.apolut.net
-tube4.apolut.net
 tuckercarlson.win
 tupoc.ca
 turleytalks.com
 tusaisjetaime.com
 tv-wild.com
-tv.mattchristiansenmedia.com
-tv.poa.st
 tvlibertes.com
 twc.health
 twitchy.com
@@ -3639,10 +3607,6 @@ veteranstoday.com
 via-lavoiedupeuple.fr
 victorhanson.com
 video.maga.host
-video.nobodyhasthe.biz
-video.pure-isp.eu
-videos.lukesmith.xyz
-videos.martinezperspective.org
 videos.utahgunexchange.com
 videos.whatfinger.com
 vidyafrazier.com
@@ -3666,7 +3630,6 @@ voat.co
 voat.xyz
 voiceforscienceandsolidarity.org
 voiceforscienceandsolidarity.substack.com
-voicenews.icu
 voiceofeurope.com
 voicesforfreedom.co.nz
 volkright.com
@@ -3768,7 +3731,6 @@ whitehouse.news
 whitenationalist.org
 whitenationnetwork.com
 whitenations.com
-whitepositive.media
 whitepower.com
 whitepowerforum.com
 whitepride.com
@@ -3780,7 +3742,6 @@ whowhatwhy.com
 whowhatwhy.org
 whydontyoutrythis.com
 wideawakenews.com
-wiki-tube.de
 wiki.tfes.org
 wikiberal.org
 wikileaks.org
@@ -3803,6 +3764,7 @@ wokesocieties.com
 wokesocieties.tv
 wolfstreet.com
 womansplaceuk.org
+womenoffaith.com
 womensdeclaration.com
 womensdeclaration.org
 wonhwado.co.uk
@@ -3831,7 +3793,6 @@ wpww.net
 wrapped.cryptopunks.app
 wsbets.win
 wtoe5news.com
-wuwox.com
 wwg1wga.com
 wwg1wga.design.blog
 wwg1wga.martingeddes.com
