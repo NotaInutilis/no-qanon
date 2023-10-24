@@ -505,6 +505,7 @@
 *://*.api.parler.com/*
 *://*.api.voat.co/*
 *://*.apmlonline.orgwww.insaf.pk/*
+*://*.apnmgc.fr/*
 *://*.apocalypsesoon.org/*
 *://*.apoderados.voxespana.es/*
 *://*.apollo-dev.identityevropa.com/*
@@ -777,6 +778,7 @@
 *://*.barenakedislam.com/*
 *://*.barings.minds.com/*
 *://*.barnesreview.org/*
+*://*.bartonbrosstudios.com/*
 *://*.basedjak.party/*
 *://*.basiltreemedia.minds.com/*
 *://*.bastad.sd.se/*
@@ -1420,6 +1422,7 @@
 *://*.cfact.org/*
 *://*.cgi.4chan.org/*
 *://*.cgkfoundation.org/*
+*://*.cgnow.net/*
 *://*.cgtn.com/*
 *://*.chalcedon.edu/*
 *://*.chambanasun.com/*
@@ -1658,6 +1661,7 @@
 *://*.combinedcadetforce.org.uk/*
 *://*.comicallyincorrect.com/*
 *://*.comicdavesmith.com/*
+*://*.comicsgate.org/*
 *://*.comingdepression.com/*
 *://*.comitejeanne54.wordpress.com/*
 *://*.commeconvenu.com/*
@@ -2109,6 +2113,7 @@
 *://*.deinze-nevele.vlaamsbelang.org/*
 *://*.dekalbganews.com/*
 *://*.dekalbtimes.com/*
+*://*.delarroz.com/*
 *://*.delawarecoguide.com/*
 *://*.delcoreview.com/*
 *://*.delectabledietofpics.net/*
@@ -4016,6 +4021,7 @@
 *://*.integrations.gab.com/*
 *://*.inteldrops.com/*
 *://*.intelhistory.net/*
+*://*.intelligence-humaine.com/*
 *://*.intellihub.com/*
 *://*.interestingdailynews.com/*
 *://*.interetpourtous.com/*
@@ -4526,6 +4532,7 @@
 *://*.laurensouthern.net/*
 *://*.laveritesurnotremonde.fr/*
 *://*.lavocedelpatriota.it/*
+*://*.lavoixdugendarme.fr/*
 *://*.lavraiedemocratie.org/*
 *://*.lawenforcementtoday.com/*
 *://*.lawrencereporter.com/*
@@ -6758,6 +6765,7 @@
 *://*.profam.org/*
 *://*.profananish.substack.com/*
 *://*.professeur-joyeux.com/*
+*://*.profession-gendarme.com/*
 *://*.professorwatchlist.org/*
 *://*.profidecatholica.com/*
 *://*.profundityyours.com/*
@@ -8667,6 +8675,7 @@
 *://*.thelibertymill.com/*
 *://*.thelifeco.com/*
 *://*.thelightpaper.co.uk/*
+*://*.thelucentcomic.com/*
 *://*.themarshallreport.wordpress.com/*
 *://*.theme.wrongthink.net/*
 *://*.themelkshow.com/*
@@ -9100,6 +9109,7 @@
 *://*.udk.fidesz.hu/*
 *://*.udongein.xyz/*
 *://*.ufoholic.com/*
+*://*.ufomotion.xyz/*
 *://*.ufos.news/*
 *://*.ufoshit.com/*
 *://*.ugetube.com/*
@@ -9159,6 +9169,7 @@
 *://*.unitymaineguide.com/*
 *://*.unitynewsnetwork.co.uk/*
 *://*.universepolitics.com/*
+*://*.unprg.fr/*
 *://*.unqualified-reservations.blogspot.com/*
 *://*.unredacted.com/*
 *://*.unrig.net/*
@@ -9407,6 +9418,7 @@
 *://*.vibes.minds.com/*
 *://*.viborg.danskfolkeparti.dk/*
 *://*.vic.onenation.org.au/*
+*://*.victimes-des-effets-secondaires.ufomotion.xyz/*
 *://*.victimsofcommunism.org/*
 *://*.victorhanson.com/*
 *://*.victorvalleytimes.com/*
@@ -9837,6 +9849,7 @@
 *://*.whatfinger.com/*
 *://*.whathappened.com/*
 *://*.whatis5g.info/*
+*://*.whatiscomicsgate.com/*
 *://*.whatisqanon.wordpress.com/*
 *://*.whatonearthishappening.com/*
 *://*.whatreallyhappened.com/*
@@ -10331,3 +10344,4 @@
 *://*.zutendaal.vlaamsbelang.org/*
 *://*.zv-0itdc-2y0x1.bitchute.com/*
 *://*.zwijndrecht.vlaamsbelang.org/*
+*://*.zynecoin.io/*

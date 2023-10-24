@@ -998,6 +998,8 @@
 0.0.0.0 www.api.voat.co
 0.0.0.0 apmlonline.orgwww.insaf.pk
 0.0.0.0 www.apmlonline.orgwww.insaf.pk
+0.0.0.0 apnmgc.fr
+0.0.0.0 www.apnmgc.fr
 0.0.0.0 apocalypsesoon.org
 0.0.0.0 www.apocalypsesoon.org
 0.0.0.0 apoderados.voxespana.es
@@ -1542,6 +1544,8 @@
 0.0.0.0 www.barings.minds.com
 0.0.0.0 barnesreview.org
 0.0.0.0 www.barnesreview.org
+0.0.0.0 bartonbrosstudios.com
+0.0.0.0 www.bartonbrosstudios.com
 0.0.0.0 basedjak.party
 0.0.0.0 www.basedjak.party
 0.0.0.0 basiltreemedia.minds.com
@@ -2828,6 +2832,8 @@
 0.0.0.0 www.cgi.4chan.org
 0.0.0.0 cgkfoundation.org
 0.0.0.0 www.cgkfoundation.org
+0.0.0.0 cgnow.net
+0.0.0.0 www.cgnow.net
 0.0.0.0 cgtn.com
 0.0.0.0 www.cgtn.com
 0.0.0.0 chalcedon.edu
@@ -3304,6 +3310,8 @@
 0.0.0.0 www.comicallyincorrect.com
 0.0.0.0 comicdavesmith.com
 0.0.0.0 www.comicdavesmith.com
+0.0.0.0 comicsgate.org
+0.0.0.0 www.comicsgate.org
 0.0.0.0 comingdepression.com
 0.0.0.0 www.comingdepression.com
 0.0.0.0 comitejeanne54.wordpress.com
@@ -4206,6 +4214,8 @@
 0.0.0.0 www.dekalbganews.com
 0.0.0.0 dekalbtimes.com
 0.0.0.0 www.dekalbtimes.com
+0.0.0.0 delarroz.com
+0.0.0.0 www.delarroz.com
 0.0.0.0 delawarecoguide.com
 0.0.0.0 www.delawarecoguide.com
 0.0.0.0 delcoreview.com
@@ -8020,6 +8030,8 @@
 0.0.0.0 www.inteldrops.com
 0.0.0.0 intelhistory.net
 0.0.0.0 www.intelhistory.net
+0.0.0.0 intelligence-humaine.com
+0.0.0.0 www.intelligence-humaine.com
 0.0.0.0 intellihub.com
 0.0.0.0 www.intellihub.com
 0.0.0.0 interestingdailynews.com
@@ -9040,6 +9052,8 @@
 0.0.0.0 www.laveritesurnotremonde.fr
 0.0.0.0 lavocedelpatriota.it
 0.0.0.0 www.lavocedelpatriota.it
+0.0.0.0 lavoixdugendarme.fr
+0.0.0.0 www.lavoixdugendarme.fr
 0.0.0.0 lavraiedemocratie.org
 0.0.0.0 www.lavraiedemocratie.org
 0.0.0.0 lawenforcementtoday.com
@@ -13504,6 +13518,8 @@
 0.0.0.0 www.profananish.substack.com
 0.0.0.0 professeur-joyeux.com
 0.0.0.0 www.professeur-joyeux.com
+0.0.0.0 profession-gendarme.com
+0.0.0.0 www.profession-gendarme.com
 0.0.0.0 professorwatchlist.org
 0.0.0.0 www.professorwatchlist.org
 0.0.0.0 profidecatholica.com
@@ -17322,6 +17338,8 @@
 0.0.0.0 www.thelifeco.com
 0.0.0.0 thelightpaper.co.uk
 0.0.0.0 www.thelightpaper.co.uk
+0.0.0.0 thelucentcomic.com
+0.0.0.0 www.thelucentcomic.com
 0.0.0.0 themarshallreport.wordpress.com
 0.0.0.0 www.themarshallreport.wordpress.com
 0.0.0.0 theme.wrongthink.net
@@ -18188,6 +18206,8 @@
 0.0.0.0 www.udongein.xyz
 0.0.0.0 ufoholic.com
 0.0.0.0 www.ufoholic.com
+0.0.0.0 ufomotion.xyz
+0.0.0.0 www.ufomotion.xyz
 0.0.0.0 ufos.news
 0.0.0.0 www.ufos.news
 0.0.0.0 ufoshit.com
@@ -18306,6 +18326,8 @@
 0.0.0.0 www.unitynewsnetwork.co.uk
 0.0.0.0 universepolitics.com
 0.0.0.0 www.universepolitics.com
+0.0.0.0 unprg.fr
+0.0.0.0 www.unprg.fr
 0.0.0.0 unqualified-reservations.blogspot.com
 0.0.0.0 www.unqualified-reservations.blogspot.com
 0.0.0.0 unredacted.com
@@ -18802,6 +18824,8 @@
 0.0.0.0 www.viborg.danskfolkeparti.dk
 0.0.0.0 vic.onenation.org.au
 0.0.0.0 www.vic.onenation.org.au
+0.0.0.0 victimes-des-effets-secondaires.ufomotion.xyz
+0.0.0.0 www.victimes-des-effets-secondaires.ufomotion.xyz
 0.0.0.0 victimsofcommunism.org
 0.0.0.0 www.victimsofcommunism.org
 0.0.0.0 victorhanson.com
@@ -19662,6 +19686,8 @@
 0.0.0.0 www.whathappened.com
 0.0.0.0 whatis5g.info
 0.0.0.0 www.whatis5g.info
+0.0.0.0 whatiscomicsgate.com
+0.0.0.0 www.whatiscomicsgate.com
 0.0.0.0 whatisqanon.wordpress.com
 0.0.0.0 www.whatisqanon.wordpress.com
 0.0.0.0 whatonearthishappening.com
@@ -20650,3 +20676,5 @@
 0.0.0.0 www.zv-0itdc-2y0x1.bitchute.com
 0.0.0.0 zwijndrecht.vlaamsbelang.org
 0.0.0.0 www.zwijndrecht.vlaamsbelang.org
+0.0.0.0 zynecoin.io
+0.0.0.0 www.zynecoin.io
