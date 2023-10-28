@@ -4590,6 +4590,8 @@
 0.0.0.0 www.doc.avoiceformen.com
 0.0.0.0 doc.minds.com
 0.0.0.0 www.doc.minds.com
+0.0.0.0 doc.rt.com
+0.0.0.0 www.doc.rt.com
 0.0.0.0 docheiko.eu
 0.0.0.0 www.docheiko.eu
 0.0.0.0 docker-registry.triller.co
@@ -7692,6 +7694,8 @@
 0.0.0.0 www.hu.metapedia.org
 0.0.0.0 hu.news-front.info
 0.0.0.0 www.hu.news-front.info
+0.0.0.0 huanqiu.com
+0.0.0.0 www.huanqiu.com
 0.0.0.0 huckabee.tv
 0.0.0.0 www.huckabee.tv
 0.0.0.0 huddinge.sd.se
@@ -8228,10 +8232,14 @@
 0.0.0.0 www.isola.leganord.org
 0.0.0.0 isosio.minds.com
 0.0.0.0 www.isosio.minds.com
+0.0.0.0 israelcc.org
+0.0.0.0 www.israelcc.org
 0.0.0.0 israelislamandendtimes.com
 0.0.0.0 www.israelislamandendtimes.com
 0.0.0.0 israelnationalnews.com
 0.0.0.0 www.israelnationalnews.com
+0.0.0.0 israeloncampuscoalition.org
+0.0.0.0 www.israeloncampuscoalition.org
 0.0.0.0 issep.fr
 0.0.0.0 www.issep.fr
 0.0.0.0 isteve.blogspot.com
@@ -8448,6 +8456,8 @@
 0.0.0.0 www.jimstone.is
 0.0.0.0 jimtoth.minds.com
 0.0.0.0 www.jimtoth.minds.com
+0.0.0.0 jinrieluosi.cn
+0.0.0.0 www.jinrieluosi.cn
 0.0.0.0 jira.parler.com
 0.0.0.0 www.jira.parler.com
 0.0.0.0 jitrnice.parentsactionleague.org
@@ -14048,6 +14058,8 @@
 0.0.0.0 www.rayn.bo
 0.0.0.0 rbth.com
 0.0.0.0 www.rbth.com
+0.0.0.0 rbth.ru
+0.0.0.0 www.rbth.ru
 0.0.0.0 rcc.onenation.org.au
 0.0.0.0 www.rcc.onenation.org.au
 0.0.0.0 rdice.net.redice.tv
@@ -14588,6 +14600,8 @@
 0.0.0.0 www.roskilde.danskfolkeparti.dk
 0.0.0.0 rossaprimavera.ru
 0.0.0.0 www.rossaprimavera.ru
+0.0.0.0 rossiyasegodnya.com
+0.0.0.0 www.rossiyasegodnya.com
 0.0.0.0 rossputin.com
 0.0.0.0 www.rossputin.com
 0.0.0.0 rotate.infowars.com
@@ -14632,6 +14646,8 @@
 0.0.0.0 www.rt.avoiceformen.com
 0.0.0.0 rt.com
 0.0.0.0 www.rt.com
+0.0.0.0 rt.rs
+0.0.0.0 www.rt.rs
 0.0.0.0 rtd.rt.com
 0.0.0.0 www.rtd.rt.com
 0.0.0.0 ru-main.com
@@ -14640,6 +14656,8 @@
 0.0.0.0 www.ru.rationalwiki.org
 0.0.0.0 ru.rationalwiki.orgg.comau
 0.0.0.0 www.ru.rationalwiki.orgg.comau
+0.0.0.0 ru.rbth.com
+0.0.0.0 www.ru.rbth.com
 0.0.0.0 rubikon.news
 0.0.0.0 www.rubikon.news
 0.0.0.0 rucphen.pvv.nl
@@ -14688,6 +14706,8 @@
 0.0.0.0 www.russia.tv
 0.0.0.0 russian.pacificjustice.org
 0.0.0.0 www.russian.pacificjustice.org
+0.0.0.0 russian.rt.com
+0.0.0.0 www.russian.rt.com
 0.0.0.0 russiatruth.co
 0.0.0.0 www.russiatruth.co
 0.0.0.0 rustyjames.canalblog.com
@@ -16200,6 +16220,8 @@
 0.0.0.0 www.sprite.d.tube
 0.0.0.0 spurguide.com
 0.0.0.0 www.spurguide.com
+0.0.0.0 sputnikglobe.com
+0.0.0.0 www.sputnikglobe.com
 0.0.0.0 sputniknews.com
 0.0.0.0 www.sputniknews.com
 0.0.0.0 srapyqn.c-fam.org
@@ -16788,6 +16810,8 @@
 0.0.0.0 www.sweden.connectingconsciousness.org
 0.0.0.0 sweeteners.news
 0.0.0.0 www.sweeteners.news
+0.0.0.0 swentr.site
+0.0.0.0 www.swentr.site
 0.0.0.0 swerve.oneplace.com
 0.0.0.0 www.swerve.oneplace.com
 0.0.0.0 swgeorgianews.com
@@ -20768,3 +20792,5 @@
 0.0.0.0 www.zwijndrecht.vlaamsbelang.org
 0.0.0.0 zynecoin.io
 0.0.0.0 www.zynecoin.io
+0.0.0.0 россиясегодня.рф
+0.0.0.0 www.россиясегодня.рф

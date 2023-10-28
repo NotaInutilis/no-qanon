@@ -2301,6 +2301,7 @@
 *://*.dns2.minds.com/*
 *://*.doc.avoiceformen.com/*
 *://*.doc.minds.com/*
+*://*.doc.rt.com/*
 *://*.docheiko.eu/*
 *://*.docker-registry.triller.co/*
 *://*.docker.develop.gab.com/*
@@ -3852,6 +3853,7 @@
 *://*.httpwww.breitbart.com/*
 *://*.hu.metapedia.org/*
 *://*.hu.news-front.info/*
+*://*.huanqiu.com/*
 *://*.huckabee.tv/*
 *://*.huddinge.sd.se/*
 *://*.hudiksvall.sd.se/*
@@ -4120,8 +4122,10 @@
 *://*.islamthreat.com/*
 *://*.isola.leganord.org/*
 *://*.isosio.minds.com/*
+*://*.israelcc.org/*
 *://*.israelislamandendtimes.com/*
 *://*.israelnationalnews.com/*
+*://*.israeloncampuscoalition.org/*
 *://*.issep.fr/*
 *://*.isteve.blogspot.com/*
 *://*.isthisracist.nz/*
@@ -4230,6 +4234,7 @@
 *://*.jimmarrs.com/*
 *://*.jimstone.is/*
 *://*.jimtoth.minds.com/*
+*://*.jinrieluosi.cn/*
 *://*.jira.parler.com/*
 *://*.jitrnice.parentsactionleague.org/*
 *://*.jkrowling.com/*
@@ -7030,6 +7035,7 @@
 *://*.raymondasmith.blogspot.com/*
 *://*.rayn.bo/*
 *://*.rbth.com/*
+*://*.rbth.ru/*
 *://*.rcc.onenation.org.au/*
 *://*.rdice.net.redice.tv/*
 *://*.rdps.leganord.org/*
@@ -7300,6 +7306,7 @@
 *://*.roserambles.org/*
 *://*.roskilde.danskfolkeparti.dk/*
 *://*.rossaprimavera.ru/*
+*://*.rossiyasegodnya.com/*
 *://*.rossputin.com/*
 *://*.rotate.infowars.com/*
 *://*.rothbardbrasil.com/*
@@ -7322,10 +7329,12 @@
 *://*.rss.show.infowars.com/*
 *://*.rt.avoiceformen.com/*
 *://*.rt.com/*
+*://*.rt.rs/*
 *://*.rtd.rt.com/*
 *://*.ru-main.com/*
 *://*.ru.rationalwiki.org/*
 *://*.ru.rationalwiki.orgg.comau/*
+*://*.ru.rbth.com/*
 *://*.rubikon.news/*
 *://*.rucphen.pvv.nl/*
 *://*.rud.nyeborgerlige.dk/*
@@ -7350,6 +7359,7 @@
 *://*.russia-insider.com/*
 *://*.russia.tv/*
 *://*.russian.pacificjustice.org/*
+*://*.russian.rt.com/*
 *://*.russiatruth.co/*
 *://*.rustyjames.canalblog.com/*
 *://*.rutherfordtimes.com/*
@@ -8106,6 +8116,7 @@
 *://*.springstimes.com/*
 *://*.sprite.d.tube/*
 *://*.spurguide.com/*
+*://*.sputnikglobe.com/*
 *://*.sputniknews.com/*
 *://*.srapyqn.c-fam.org/*
 *://*.srb.news-front.info/*
@@ -8400,6 +8411,7 @@
 *://*.swdallasnews.com/*
 *://*.sweden.connectingconsciousness.org/*
 *://*.sweeteners.news/*
+*://*.swentr.site/*
 *://*.swerve.oneplace.com/*
 *://*.swgeorgianews.com/*
 *://*.swhoustonnews.com/*
@@ -10390,3 +10402,4 @@
 *://*.zv-0itdc-2y0x1.bitchute.com/*
 *://*.zwijndrecht.vlaamsbelang.org/*
 *://*.zynecoin.io/*
+*://*.россиясегодня.рф/*

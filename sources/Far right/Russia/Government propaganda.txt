@@ -1,23 +1,23 @@
 ria.ru
 # RT
 rt.com
-https://arabic.rt.com/
-https://de.rt.com/
-https://francais.rt.com/
-https://actualidad.rt.com/
-https://rtd.rt.com/
-https://russian.rt.com/
-https://doc.rt.com/
-https://rt.rs/
-https://swentr.site/
+arabic.rt.com
+de.rt.com
+francais.rt.com
+actualidad.rt.com
+rtd.rt.com
+russian.rt.com
+doc.rt.com
+rt.rs
+swentr.site
 ruptly.tv
 # Rossiya Segodnya
-https://россиясегодня.рф/
-https://rossiyasegodnya.com/
-https://jinrieluosi.cn/
+россиясегодня.рф
+rossiyasegodnya.com
+jinrieluosi.cn
 rbth.com
-https://ru.rbth.com/
-https://rbth.ru/
+ru.rbth.com
+rbth.ru
 # Sputnik
-https://sputnikglobe.com/
-https://sputniknews.com/
+sputnikglobe.com
+sputniknews.com

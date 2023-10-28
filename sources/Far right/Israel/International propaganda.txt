@@ -2,8 +2,8 @@
 
 # Doxxing used by the Isralian government
 canarymission.org
-https://israeloncampuscoalition.org/
-https://israelcc.org/
+israeloncampuscoalition.org
+israelcc.org
 
 # "Fair and balanced" reporting
 honestreporting.ca
