@@ -2598,9 +2598,12 @@
 *://*.endoftheageheadlines.wordpress.com/*
 *://*.endoftheamericandream.com/*
 *://*.endthechinesevirus.com/*
+*://*.endthewokeness.com/*
 *://*.endtime.com/*
 *://*.endtimesnews.wordpress.com/*
 *://*.enduringvision.com/*
+*://*.endwokeness.quora.com/*
+*://*.endwokeness.store/*
 *://*.endzog.wordpress.com/*
 *://*.energy-medicine.co.nz/*
 *://*.energyhealingroom.com/*
