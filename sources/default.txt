@@ -389,7 +389,6 @@ mintpressnews.com
 newcoldwar.org
 rinf.com
 ronpaulinstitute.org
-ruptly.tv
 thefifthcolumnnews.com
 yellowhammernews.com
 breitbart.com
@@ -422,7 +421,6 @@ freepatriot.org
 theunrealtimes.com
 topekasnews.com
 unconfirmedsources.com
-rt.com
 readynutrition.com
 thepoliticalcesspool.com
 americanblog.com
@@ -465,7 +463,6 @@ politicsinusa.com
 press24.us
 randpaulreview.com
 rawws.com
-rbth.com
 realprogress.online
 righton.com
 thenewinquiry.com
@@ -2734,8 +2731,6 @@ naturalnewsblogs.com
 thevaccinereaction.org
 support.naturalnews.com
 tsargrad.tv
-globaltimes.cn
-ria.ru
 lifesitenews.com
 rtd.rt.com
 de.rt.com
