@@ -72,4 +72,4 @@ If you have no idea how Git works, you can still contribute! Just [open an issue
 
 [Antifa-n Blocklist](https://github.com/antifa-n/pihole/blob/master/blocklist.txt) is also a great blocklist focused on fascist sites.
 
-[Bypass Methods Blocklist](https://github.com/nextdns/metadata/blob/master/parentalcontrol/bypass-methods) can be used to block bypass methods (VPNs, proxies, DNS, etc.).
+[Bypass Methods Blocklist](https://github.com/nextdns/dns-bypass-methods) can be used to block bypass methods (VPNs, proxies, DNS, etc.).
