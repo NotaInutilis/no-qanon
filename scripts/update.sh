@@ -31,14 +31,15 @@ python scripts/domains_to_hosts.py > hosts.txt
 cp hosts.txt etc_hosts.txt # Previous filename for PiHole installations still subscribed to the old url.
 python scripts/domains_to_hosts_ipv6.py > hosts.txt.ipv6
 python scripts/domains_to_dnsmasq.py > dnsmasq.txt
+cat ./filters/dnsmasq.txt >> dnsmasq.txt
 
 ## For browser extensions.
 python scripts/domains_to_netsane.py > netsane.txt
 python scripts/domains_to_adblock.py > adblock_temp.txt
 cp ./headers/adblock.txt adblock.txt
-cat adblock_temp.txt >> adblock.txt
+cat adblock_temp.txt ./filters/adblock.txt >> adblock.txt
 rm adblock_temp.txt
 python scripts/domains_to_ublacklist.py > ublacklist_temp.txt
 cp ./headers/adblock.txt ublacklist.txt # Currently using the same adblock header until uBlacklist implements its own header. https://github.com/iorate/ublacklist/issues/351
-cat ublacklist_temp.txt >> ublacklist.txt
+cat ublacklist_temp.txt ./filters/ublacklist.txt >> ublacklist.txt
 rm ublacklist_temp.txt
