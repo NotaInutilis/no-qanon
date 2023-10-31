@@ -1171,6 +1171,7 @@ address=/boulevard-voltaire.fr/
 address=/bounce.fairus.org/
 address=/boundarypeakoutfitters.com/
 address=/boundingintocomics.com/
+address=/bounthavy.com/
 address=/boutique.institut-iliade.com/
 address=/boutique.upr.fr/
 address=/bovendien.com/

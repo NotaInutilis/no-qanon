@@ -1171,6 +1171,7 @@
 "*://*.bounce.fairus.org/*",
 "*://*.boundarypeakoutfitters.com/*",
 "*://*.boundingintocomics.com/*",
+"*://*.bounthavy.com/*",
 "*://*.boutique.institut-iliade.com/*",
 "*://*.boutique.upr.fr/*",
 "*://*.bovendien.com/*",

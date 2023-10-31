@@ -1,4 +1,5 @@
-#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscateantivaxxer.icu,suspend,false,false,No-QAnon blocklist,false
+#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
+antivaxxer.icu,suspend,false,false,No-QAnon blocklist,false
 auf1.eu,suspend,false,false,No-QAnon blocklist,false
 bittube.video,suspend,false,false,No-QAnon blocklist,false
 brighteon.social,suspend,false,false,No-QAnon blocklist,false
