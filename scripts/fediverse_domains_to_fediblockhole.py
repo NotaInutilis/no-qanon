@@ -8,4 +8,4 @@ lines = text_file.readlines()
 text_file.close()
 
 for line in lines:
-	print(line.strip() + 'suspend,No-QAnon blocklist,No-QAnon blocklist')
+	print(line.strip() + ',suspend,No-QAnon blocklist,No-QAnon blocklist')
