@@ -64,7 +64,17 @@ Blocked sites are organized using subfolders and `.txt` files in the `sources` f
 
 ### How to contribute (easy mode)
 
-If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/rimu/no-qanon/issues) with the URLs you would like to add to the list, grouping them by language and categories if possible. We'll check and add them shortly.
+If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/rimu/no-qanon/issues) with the URLs you would like to add to the list (or remove, false positives happen!), grouping them by language and categories if possible. We'll check and add them shortly.
+
+## Aggregated lists
+
+This blocklist borrows from the following projects:
+- the [full blocklist](https://peertube_isolation.frama.io/list/peertube_isolation.txt) from [PeerTube Isolation](https://peertube_isolation.frama.io/) (no licence, free redistribution).
+- the [Tabloid Remover blocklist](https://github.com/DandelionSprout/adfilt/blob/master/Sensitive%20lists/TabloidRemover.txt) and its [Mastodon extension](https://github.com/DandelionSprout/adfilt/blob/master/Sensitive%20lists/TabloidRemover-MastodonCategoryForImports.csv) from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
+- the [fake local journals list](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/fake-local-journals-list.txt) from MassMove's [Attack Vectors](https://github.com/MassMove/AttackVectors/) ([MIT licence](https://github.com/MassMove/AttackVectors/blob/master/LICENSE)).
+- the [fake news and clickbait list](https://assets.windscribe.com/custom_blocklists/clickbait.txt) from Windscribe's (R.O.B.E.R.T.)[https://windscribe.com/features/robert] (no licence).
+- the [fakenews list](https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-only/hosts) from StevenBlack's [Hosts](https://github.com/StevenBlack/hosts) ([MIT licence](https://github.com/StevenBlack/hosts/blob/master/license.txt)).
+- the [default](https://github.com/antifa-n/pihole/blob/master/blocklist.txt), [right wing populistitc content](https://github.com/antifa-n/pihole/blob/master/blocklist-pop.txt), and [alt-tech platforms](https://github.com/antifa-n/pihole/blob/master/blocklist-alttech.txt) blocklists from antifa-n's [Pi-hole blocklists](https://github.com/antifa-n/pihole) ([GNU General Public License v3.0](https://github.com/antifa-n/pihole/blob/master/LICENSE))
 
 ## Other useful lists
 
