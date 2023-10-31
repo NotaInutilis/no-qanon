@@ -19,7 +19,6 @@ djsumdog.com
 eveningzoo.club
 explosion.party
 fedi.club
-framapiaf.org
 freeatlantis.com
 freespeech.fans
 freespeech.firedragonstudios.com
@@ -58,7 +57,6 @@ libre.video
 librenet.co.za
 m.cmx.im
 maindreieck-tv.de
-mamot.fr
 mastodon.derveni.org
 mastodon.soykaf.com
 melmc.nohost.me

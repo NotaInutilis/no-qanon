@@ -3290,7 +3290,6 @@
 *://*.fr.sony.kukluxklan.com/*
 *://*.fr.sott.net/*
 *://*.fracking.news/*
-*://*.framapiaf.org/*
 *://*.framix.fr/*
 *://*.franc-tireur.fr/*
 *://*.francais.rt.com/*
@@ -5469,7 +5468,6 @@
 *://*.mamm.org/*
 *://*.mammainrete.blogspot.it/*
 *://*.mammothnation.com/*
-*://*.mamot.fr/*
 *://*.manateereview.com/*
 *://*.manifest.minds.com/*
 *://*.manilabusinessdaily.com/*

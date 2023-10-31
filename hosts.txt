@@ -6568,8 +6568,6 @@
 0.0.0.0 www.fr.sott.net
 0.0.0.0 fracking.news
 0.0.0.0 www.fracking.news
-0.0.0.0 framapiaf.org
-0.0.0.0 www.framapiaf.org
 0.0.0.0 framix.fr
 0.0.0.0 www.framix.fr
 0.0.0.0 franc-tireur.fr
@@ -10926,8 +10924,6 @@
 0.0.0.0 www.mammainrete.blogspot.it
 0.0.0.0 mammothnation.com
 0.0.0.0 www.mammothnation.com
-0.0.0.0 mamot.fr
-0.0.0.0 www.mamot.fr
 0.0.0.0 manateereview.com
 0.0.0.0 www.manateereview.com
 0.0.0.0 manifest.minds.com
