@@ -5,3 +5,4 @@ https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/fake-local-j
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-only/hosts
 https://github.com/antifa-n/pihole
+https://github.com/AFNIL-AntiFakeNewsInternationalList/AFNIL/blob/master/hosts
