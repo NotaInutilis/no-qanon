@@ -1,0 +1,1 @@
+Anything related to Blue Live Matters, the Thin Blue Line, etc.
