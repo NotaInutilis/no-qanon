@@ -1760,6 +1760,7 @@
 ||cookinmemes.com^
 ||cool-buzz.net^
 ||cops.donaldjtrump.com^
+||cops13.com^
 ||corbettreport.com^
 ||core.infowars.com^
 ||coreysdigs.com^
@@ -1921,6 +1922,7 @@
 ||crpc.org^
 ||crrow777radio.com^
 ||crusadechannel.com^
+||cruz.senate.gov^
 ||cryptocult.news^
 ||cryptome.org^
 ||cryptopunks.app^
@@ -2042,6 +2044,7 @@
 ||darkmoon.me^
 ||darkoutpost.com^
 ||darkpolitricks.com^
+||darkwerxtactical.com^
 ||darla.liveprayer.com^
 ||dartmouthtimes.com^
 ||dashboard.8kun.top^
@@ -4082,6 +4085,7 @@
 ||ip.breitbart.com^
 ||ip2always.win^
 ||ipatriot.com^
+||ipds.ch^
 ||ipeacetv.com^
 ||ipfs.d.tube^
 ||ippotv.com^
@@ -7120,6 +7124,7 @@
 ||register.clouthub.com^
 ||registry.parler.com^
 ||registry.triller.co^
+||regnery.com^
 ||reigate.ukip.org^
 ||reignitedemocracyaustralia.com.au^
 ||reinfocovid.fr^
@@ -7397,6 +7402,8 @@
 ||sala.sd.se^
 ||salem.info14.com^
 ||salem.sd.se^
+||salembooks.com^
+||salemmedia.com^
 ||salemnewswire.com^
 ||salini.love^
 ||salisbury.ukip.org^
@@ -7771,6 +7778,7 @@
 ||shop.gab.ai^
 ||shop.gab.com^
 ||shop.infowars.com^
+||shop.ipds.ch^
 ||shop.jordanbpeterson.com^
 ||shop.pottermore.com^
 ||shop.rep.de^
@@ -8468,6 +8476,7 @@
 ||taarnby.danskfolkeparti.dk^
 ||tabdeeli.insaf.pk^
 ||taby.sd.se^
+||tactical-equipements.fr^
 ||takebackaustralia.org^
 ||takebackour.world^
 ||takecontrol.substack.com^
@@ -8870,6 +8879,10 @@
 ||thezman.com^
 ||thi.nyeborgerlige.dk^
 ||thimerosal.news^
+||thinbluelinefrance.com^
+||thinbluelineint.org^
+||thinbluelineswitzerland.com^
+||thinbluelineusa.com^
 ||thinkamericana.com^
 ||thinkchoice.com^
 ||thinking.minds.com^
