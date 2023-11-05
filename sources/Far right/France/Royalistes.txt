@@ -6,7 +6,7 @@ nouvelle-action-royaliste.fr
 # Philippe de Villiers
 ## Le Puy du Fou
 puydufou.com # In France and in Spain
-https://lesfousdupuy.fr/
+lesfousdupuy.fr
 
 # Media persionalities
 stephanebern.com

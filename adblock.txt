@@ -484,6 +484,7 @@
 ||annarbortimes.com^
 ||anncoulter.com^
 ||annearundeltoday.com^
+||anniegenevard.fr^
 ||anno3000.altervista.org^
 ||anokatimes.com^
 ||anon.cafe^
@@ -1600,6 +1601,7 @@
 ||christiancombaz.com^
 ||christiandefenceleauge.wordpress.com^
 ||christianfightback.com^
+||christianjacob.fr^
 ||christianpost.com^
 ||christianseparatist.org^
 ||christiansfortruth.com^
@@ -2165,6 +2167,7 @@
 ||dangerandplay.com^
 ||dangerous.minds.com^
 ||dangerousmedicine.com^
+||danielfasquelle.fr^
 ||danielpipes.org^
 ||danielshanemaddox.com^
 ||dankobela.fidesz.hu^
@@ -2548,6 +2551,8 @@
 ||drmengyiroland.fidesz.hu^
 ||drnorthrup.com^
 ||droitededemain.fr^
+||droitepopulaire.fr^
+||droitesociale.fr^
 ||drop.space^
 ||drrobertyoung.com^
 ||drroyspencer.com^
@@ -2856,6 +2861,7 @@
 ||erasingtheliberty.com^
 ||erdekeshirek.info^
 ||erdekesvilag.eu^
+||eric-ciotti.com^
 ||ericdubay.wordpress.com^
 ||ericholder.news^
 ||ericroux.com^
@@ -3446,6 +3452,7 @@
 ||futuresciencenews.com^
 ||fw.davidicke.com^
 ||fwu.nl^
+||fxbellamy.fr^
 ||g-workspace.dlive.tv^
 ||g.chick.com^
 ||g.clouthub.com^
@@ -4053,6 +4060,7 @@
 ||horby.sd.se^
 ||horcsikrichard.fidesz.hu^
 ||horizonquebecactuel.com^
+||horizonsleparti.fr^
 ||horowitzfreedomcenter.org^
 ||horsdevospenses0833.blogspot.fr^
 ||horsens.danskfolkeparti.dk^
@@ -4643,6 +4651,7 @@
 ||jtf.org^
 ||jthnx5wyvjvzsxtu.onion^
 ||judicialwatch.org^
+||julienaubert.fr^
 ||juliusevola.com^
 ||juliusevola.it^
 ||juliusevola.net^
@@ -4857,6 +4866,7 @@
 ||lactionfrancaise.fr^
 ||lacucinasiciliana.altervista.org^
 ||ladechedumidi.com^
+||ladroiteforte.fr^
 ||ladssociety.com^
 ||ladylibertynews.com^
 ||laenkehunden.dk^
@@ -4935,6 +4945,7 @@
 ||laurelhighlandstoday.com^
 ||laurenforcolorado.com^
 ||laurensouthern.net^
+||laurentbouvet.wordpress.com^
 ||laveritadininconaco.altervista.org^
 ||laveritesurnotremonde.fr^
 ||lavocea5stelle.altervista.org^
@@ -5038,11 +5049,13 @@
 ||lescrutateur.com^
 ||lesdeqodeurs.fr^
 ||lesessentiels.org^
+||lesfousdupuy.fr^
 ||lesmoutonsenrages.fr^
 ||lesmoutonsrebelles.com^
 ||lesobservateurs.ch^
 ||lesoir.info^
 ||lesquen.fr^
+||lesrepublicains-senat.fr^
 ||lesruminant-e-s.fr^
 ||lesruminants.com^
 ||lessebo.sd.se^
@@ -5928,6 +5941,7 @@
 ||n4mation.org^
 ||na246.insaf.pk^
 ||nacka.sd.se^
+||nadinemorano.fr^
 ||naebc.com^
 ||naestved.danskfolkeparti.dk^
 ||naftalin.fidesz.hu^
@@ -7281,6 +7295,7 @@
 ||princewilliamreporter.com^
 ||principia-scientific.com^
 ||print.hol.frc.org^
+||printempsrepublicain.fr^
 ||prisonplanet.com^
 ||prisonplanet.tv^
 ||privacywatch.news^
@@ -7657,6 +7672,7 @@
 ||reedcooper.net^
 ||reelnewsnetwork.com^
 ||reference.avoiceformen.com^
+||referendumimmigration.fr^
 ||referral.dlive.tv^
 ||referral.rumble.com^
 ||referring.buchanan.org^
@@ -7718,6 +7734,7 @@
 ||reporter.bz^
 ||reports.4chan.org^
 ||repubblica24.com^
+||republicains.fr^
 ||republicbroadcasting.org^
 ||research.news^
 ||reseauinternational.net^
@@ -8220,6 +8237,7 @@
 ||semontananews.com^
 ||semplicipensieri.com^
 ||semprefamilia.com.br^
+||senateurs-les-republicains.fr^
 ||sender.infowars.com^
 ||sendmail.fidesz.hu^
 ||sendmail2.fidesz.hu^
@@ -9510,6 +9528,7 @@
 ||theywantyoudead.com^
 ||thezman.com^
 ||thi.nyeborgerlige.dk^
+||thierrymariani.com^
 ||thimerosal.news^
 ||thinbluelinefrance.com^
 ||thinbluelineint.org^
@@ -10064,6 +10083,7 @@
 ||val.sd.se^
 ||valcabal.nl^
 ||valdemarsvik.sd.se^
+||valeriepecresse.fr^
 ||valeursactuelles.com^
 ||valid.liveprayer.com^
 ||valjean72.wordpress.com^
@@ -10359,6 +10379,7 @@
 ||wattsupwiththat.wordpress.com^
 ||waukeetimes.com^
 ||waukeshatimes.com^
+||wauquiez.net^
 ||waykiwayki.com^
 ||waynecountytoday.com^
 ||wcalabamanews.com^

@@ -4,4 +4,4 @@ parti-renaissance.fr
 je-mengage.fr
 
 # Majorité présidentielle
-https://horizonsleparti.fr/
+horizonsleparti.fr

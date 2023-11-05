@@ -956,6 +956,8 @@
 0.0.0.0 www.anncoulter.com
 0.0.0.0 annearundeltoday.com
 0.0.0.0 www.annearundeltoday.com
+0.0.0.0 anniegenevard.fr
+0.0.0.0 www.anniegenevard.fr
 0.0.0.0 anno3000.altervista.org
 0.0.0.0 www.anno3000.altervista.org
 0.0.0.0 anokatimes.com
@@ -3188,6 +3190,8 @@
 0.0.0.0 www.christiandefenceleauge.wordpress.com
 0.0.0.0 christianfightback.com
 0.0.0.0 www.christianfightback.com
+0.0.0.0 christianjacob.fr
+0.0.0.0 www.christianjacob.fr
 0.0.0.0 christianpost.com
 0.0.0.0 www.christianpost.com
 0.0.0.0 christianseparatist.org
@@ -4318,6 +4322,8 @@
 0.0.0.0 www.dangerous.minds.com
 0.0.0.0 dangerousmedicine.com
 0.0.0.0 www.dangerousmedicine.com
+0.0.0.0 danielfasquelle.fr
+0.0.0.0 www.danielfasquelle.fr
 0.0.0.0 danielpipes.org
 0.0.0.0 www.danielpipes.org
 0.0.0.0 danielshanemaddox.com
@@ -5084,6 +5090,10 @@
 0.0.0.0 www.drnorthrup.com
 0.0.0.0 droitededemain.fr
 0.0.0.0 www.droitededemain.fr
+0.0.0.0 droitepopulaire.fr
+0.0.0.0 www.droitepopulaire.fr
+0.0.0.0 droitesociale.fr
+0.0.0.0 www.droitesociale.fr
 0.0.0.0 drop.space
 0.0.0.0 www.drop.space
 0.0.0.0 drrobertyoung.com
@@ -5700,6 +5710,8 @@
 0.0.0.0 www.erdekeshirek.info
 0.0.0.0 erdekesvilag.eu
 0.0.0.0 www.erdekesvilag.eu
+0.0.0.0 eric-ciotti.com
+0.0.0.0 www.eric-ciotti.com
 0.0.0.0 ericdubay.wordpress.com
 0.0.0.0 www.ericdubay.wordpress.com
 0.0.0.0 ericholder.news
@@ -6880,6 +6892,8 @@
 0.0.0.0 www.fw.davidicke.com
 0.0.0.0 fwu.nl
 0.0.0.0 www.fwu.nl
+0.0.0.0 fxbellamy.fr
+0.0.0.0 www.fxbellamy.fr
 0.0.0.0 g-workspace.dlive.tv
 0.0.0.0 www.g-workspace.dlive.tv
 0.0.0.0 g.chick.com
@@ -8094,6 +8108,8 @@
 0.0.0.0 www.horcsikrichard.fidesz.hu
 0.0.0.0 horizonquebecactuel.com
 0.0.0.0 www.horizonquebecactuel.com
+0.0.0.0 horizonsleparti.fr
+0.0.0.0 www.horizonsleparti.fr
 0.0.0.0 horowitzfreedomcenter.org
 0.0.0.0 www.horowitzfreedomcenter.org
 0.0.0.0 horsdevospenses0833.blogspot.fr
@@ -9274,6 +9290,8 @@
 0.0.0.0 www.jthnx5wyvjvzsxtu.onion
 0.0.0.0 judicialwatch.org
 0.0.0.0 www.judicialwatch.org
+0.0.0.0 julienaubert.fr
+0.0.0.0 www.julienaubert.fr
 0.0.0.0 juliusevola.com
 0.0.0.0 www.juliusevola.com
 0.0.0.0 juliusevola.it
@@ -9702,6 +9720,8 @@
 0.0.0.0 www.lacucinasiciliana.altervista.org
 0.0.0.0 ladechedumidi.com
 0.0.0.0 www.ladechedumidi.com
+0.0.0.0 ladroiteforte.fr
+0.0.0.0 www.ladroiteforte.fr
 0.0.0.0 ladssociety.com
 0.0.0.0 www.ladssociety.com
 0.0.0.0 ladylibertynews.com
@@ -9858,6 +9878,8 @@
 0.0.0.0 www.laurenforcolorado.com
 0.0.0.0 laurensouthern.net
 0.0.0.0 www.laurensouthern.net
+0.0.0.0 laurentbouvet.wordpress.com
+0.0.0.0 www.laurentbouvet.wordpress.com
 0.0.0.0 laveritadininconaco.altervista.org
 0.0.0.0 www.laveritadininconaco.altervista.org
 0.0.0.0 laveritesurnotremonde.fr
@@ -10064,6 +10086,8 @@
 0.0.0.0 www.lesdeqodeurs.fr
 0.0.0.0 lesessentiels.org
 0.0.0.0 www.lesessentiels.org
+0.0.0.0 lesfousdupuy.fr
+0.0.0.0 www.lesfousdupuy.fr
 0.0.0.0 lesmoutonsenrages.fr
 0.0.0.0 www.lesmoutonsenrages.fr
 0.0.0.0 lesmoutonsrebelles.com
@@ -10074,6 +10098,8 @@
 0.0.0.0 www.lesoir.info
 0.0.0.0 lesquen.fr
 0.0.0.0 www.lesquen.fr
+0.0.0.0 lesrepublicains-senat.fr
+0.0.0.0 www.lesrepublicains-senat.fr
 0.0.0.0 lesruminant-e-s.fr
 0.0.0.0 www.lesruminant-e-s.fr
 0.0.0.0 lesruminants.com
@@ -11844,6 +11870,8 @@
 0.0.0.0 www.na246.insaf.pk
 0.0.0.0 nacka.sd.se
 0.0.0.0 www.nacka.sd.se
+0.0.0.0 nadinemorano.fr
+0.0.0.0 www.nadinemorano.fr
 0.0.0.0 naebc.com
 0.0.0.0 www.naebc.com
 0.0.0.0 naestved.danskfolkeparti.dk
@@ -14550,6 +14578,8 @@
 0.0.0.0 www.principia-scientific.com
 0.0.0.0 print.hol.frc.org
 0.0.0.0 www.print.hol.frc.org
+0.0.0.0 printempsrepublicain.fr
+0.0.0.0 www.printempsrepublicain.fr
 0.0.0.0 prisonplanet.com
 0.0.0.0 www.prisonplanet.com
 0.0.0.0 prisonplanet.tv
@@ -15302,6 +15332,8 @@
 0.0.0.0 www.reelnewsnetwork.com
 0.0.0.0 reference.avoiceformen.com
 0.0.0.0 www.reference.avoiceformen.com
+0.0.0.0 referendumimmigration.fr
+0.0.0.0 www.referendumimmigration.fr
 0.0.0.0 referral.dlive.tv
 0.0.0.0 www.referral.dlive.tv
 0.0.0.0 referral.rumble.com
@@ -15424,6 +15456,8 @@
 0.0.0.0 www.reports.4chan.org
 0.0.0.0 repubblica24.com
 0.0.0.0 www.repubblica24.com
+0.0.0.0 republicains.fr
+0.0.0.0 www.republicains.fr
 0.0.0.0 republicbroadcasting.org
 0.0.0.0 www.republicbroadcasting.org
 0.0.0.0 research.news
@@ -16428,6 +16462,8 @@
 0.0.0.0 www.semplicipensieri.com
 0.0.0.0 semprefamilia.com.br
 0.0.0.0 www.semprefamilia.com.br
+0.0.0.0 senateurs-les-republicains.fr
+0.0.0.0 www.senateurs-les-republicains.fr
 0.0.0.0 sender.infowars.com
 0.0.0.0 www.sender.infowars.com
 0.0.0.0 sendmail.fidesz.hu
@@ -19008,6 +19044,8 @@
 0.0.0.0 www.thezman.com
 0.0.0.0 thi.nyeborgerlige.dk
 0.0.0.0 www.thi.nyeborgerlige.dk
+0.0.0.0 thierrymariani.com
+0.0.0.0 www.thierrymariani.com
 0.0.0.0 thimerosal.news
 0.0.0.0 www.thimerosal.news
 0.0.0.0 thinbluelinefrance.com
@@ -20116,6 +20154,8 @@
 0.0.0.0 www.valcabal.nl
 0.0.0.0 valdemarsvik.sd.se
 0.0.0.0 www.valdemarsvik.sd.se
+0.0.0.0 valeriepecresse.fr
+0.0.0.0 www.valeriepecresse.fr
 0.0.0.0 valeursactuelles.com
 0.0.0.0 www.valeursactuelles.com
 0.0.0.0 valid.liveprayer.com
@@ -20706,6 +20746,8 @@
 0.0.0.0 www.waukeetimes.com
 0.0.0.0 waukeshatimes.com
 0.0.0.0 www.waukeshatimes.com
+0.0.0.0 wauquiez.net
+0.0.0.0 www.wauquiez.net
 0.0.0.0 waykiwayki.com
 0.0.0.0 www.waykiwayki.com
 0.0.0.0 waynecountytoday.com
