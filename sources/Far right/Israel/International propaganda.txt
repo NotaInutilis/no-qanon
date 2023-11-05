@@ -10,7 +10,7 @@ honestreporting.ca
 honestreporting.com
 
 # Propaganda material
-https://israelunderfire.net/
-https://www.shareitil.com/
-https://www.standwithisrael.today/
-https://www.wordsofiron.com/en
+israelunderfire.net
+shareitil.com
+standwithisrael.today
+wordsofiron.com

@@ -178,6 +178,7 @@
 ||acsaladazelso.fidesz.hu^
 ||act.fairus.org^
 ||act.onenation.org.au^
+||actforamerica.org^
 ||actiionweb.com^
 ||acting-man.com^
 ||action-zealandia.com^
@@ -788,6 +789,9 @@
 ||babylonbee.com^
 ||backgrounds.wrongthink.net^
 ||backroombuzz.com^
+||backtheblue.ca^
+||backthebluenc.org^
+||backtheblueny.com^
 ||backup.d.tube^
 ||bacskaijanos.fidesz.hu^
 ||bad-boys.us^
@@ -1875,6 +1879,7 @@
 ||copblock.org^
 ||cops.donaldjtrump.com^
 ||cops13.com^
+||copsarizona.org^
 ||corbettreport.com^
 ||core.infowars.com^
 ||coreysdigs.com^
@@ -2524,6 +2529,7 @@
 ||downrivertoday.com^
 ||downtrend.com^
 ||downwithjugears.blogspot.co.uk^
+||doyoubacktheblue.org^
 ||dpi.fidesz.hu^
 ||dpi2019.fidesz.hu^
 ||dpidev.fidesz.hu^
@@ -3413,6 +3419,7 @@
 ||frissvilag.com^
 ||fromthetrenchesworldreport.com^
 ||fronten.no^
+||frontlineflags.com^
 ||frontlinemds.com^
 ||frontmediatique.fr^
 ||frontnational.com^
@@ -3750,6 +3757,7 @@
 ||grums.sd.se^
 ||grundyguide.com^
 ||grundyreporter.com^
+||gruntstyle.com^
 ||gruppopoliticofemminile.leganord.org^
 ||gsmnet.minds.com^
 ||gtrtimes.com^
@@ -4462,6 +4470,7 @@
 ||israelislamandendtimes.com^
 ||israelnationalnews.com^
 ||israeloncampuscoalition.org^
+||israelunderfire.net^
 ||issep.fr^
 ||isteve.blogspot.com^
 ||isthisracist.nz^
@@ -8315,6 +8324,7 @@
 ||share.rumble.com^
 ||shareblue.com^
 ||sharedservices.adflegal.org^
+||shareitil.com^
 ||shark-tank.com^
 ||sharpgary.org^
 ||sharylattkisson.com^
@@ -8767,6 +8777,7 @@
 ||standforhealthfreedom.com^
 ||standpointmag.co.uk^
 ||standupamericanow.org^
+||standwithisrael.today^
 ||stanislausnews.com^
 ||starbuckswatch.news^
 ||staresattheworld.com^
@@ -9488,6 +9499,7 @@
 ||thesun.co.uk^
 ||thesurvivalistblog.net^
 ||thetattyjournal.org^
+||thethinbluelinecanada.ca^
 ||thethinkingconservative.com^
 ||thethirdposition.blogspot.com^
 ||thethreepercenters.org^
@@ -9531,7 +9543,9 @@
 ||thierrymariani.com^
 ||thimerosal.news^
 ||thinbluelinefrance.com^
+||thinbluelineheroes.com^
 ||thinbluelineint.org^
+||thinbluelineshop.com^
 ||thinbluelineswitzerland.com^
 ||thinbluelineusa.com^
 ||thinkamericana.com^
@@ -10130,6 +10144,7 @@
 ||vdare.com^
 ||vdv1.minds.com^
 ||vecseylaszlo.fidesz.hu^
+||vedderholsters.com^
 ||vedjukmeg.fidesz.hu^
 ||veganblog.it^
 ||veilofreality.com^
@@ -10745,6 +10760,7 @@
 ||wonhwado.org^
 ||wonkie.com^
 ||woolstangray.eu^
+||wordsofiron.com^
 ||workers.donaldjtrump.com^
 ||workspace.dlive.tv^
 ||world-brain.net^
