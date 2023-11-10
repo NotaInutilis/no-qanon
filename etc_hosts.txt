@@ -1308,6 +1308,10 @@
 0.0.0.0 www.asti.leganord.org
 0.0.0.0 astorp.sd.se
 0.0.0.0 www.astorp.sd.se
+0.0.0.0 astronogeek.fr
+0.0.0.0 www.astronogeek.fr
+0.0.0.0 astronogeek.tv
+0.0.0.0 www.astronogeek.tv
 0.0.0.0 astuce-story.com
 0.0.0.0 www.astuce-story.com
 0.0.0.0 astucerie.net
@@ -3330,6 +3334,8 @@
 0.0.0.0 www.cleanwater.news
 0.0.0.0 clearnewswire.com
 0.0.0.0 www.clearnewswire.com
+0.0.0.0 clementfreze.fr
+0.0.0.0 www.clementfreze.fr
 0.0.0.0 clermonttimes.com
 0.0.0.0 www.clermonttimes.com
 0.0.0.0 clevelandreporter.com
@@ -3454,6 +3460,8 @@
 0.0.0.0 www.coconinonews.com
 0.0.0.0 cod.rep.de
 0.0.0.0 www.cod.rep.de
+0.0.0.0 code-reinho.myspreadshop.fr
+0.0.0.0 www.code-reinho.myspreadshop.fr
 0.0.0.0 code.gab.com
 0.0.0.0 www.code.gab.com
 0.0.0.0 codetoinspire.minds.com
@@ -11282,6 +11290,8 @@
 0.0.0.0 www.memoryholeblog.com
 0.0.0.0 memphisstandard.com
 0.0.0.0 www.memphisstandard.com
+0.0.0.0 menace-theoriste.fr
+0.0.0.0 www.menace-theoriste.fr
 0.0.0.0 menczererzsebet.fidesz.hu
 0.0.0.0 www.menczererzsebet.fidesz.hu
 0.0.0.0 menen.vlaamsbelang.org
