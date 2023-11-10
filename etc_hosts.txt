@@ -6944,6 +6944,8 @@
 0.0.0.0 www.galeriadometeorito.com
 0.0.0.0 galesburgreporter.com
 0.0.0.0 www.galesburgreporter.com
+0.0.0.0 galgadot.com
+0.0.0.0 www.galgadot.com
 0.0.0.0 gallery.nsm88.org
 0.0.0.0 www.gallery.nsm88.org
 0.0.0.0 galliawatch.blogspot.com
@@ -7630,6 +7632,8 @@
 0.0.0.0 www.halsnaes.danskfolkeparti.dk
 0.0.0.0 ham.vlaamsbelang.org
 0.0.0.0 www.ham.vlaamsbelang.org
+0.0.0.0 hamas-massacre.net
+0.0.0.0 www.hamas-massacre.net
 0.0.0.0 hamburg.diefreiheit.org
 0.0.0.0 www.hamburg.diefreiheit.org
 0.0.0.0 hamiltonreporter.com

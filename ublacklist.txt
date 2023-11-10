@@ -3478,6 +3478,7 @@
 *://*.galacticfederation-naplesfl.org/*
 *://*.galeriadometeorito.com/*
 *://*.galesburgreporter.com/*
+*://*.galgadot.com/*
 *://*.gallery.nsm88.org/*
 *://*.galliawatch.blogspot.com/*
 *://*.gallivare.sd.se/*
@@ -3821,6 +3822,7 @@
 *://*.halseynews.com/*
 *://*.halsnaes.danskfolkeparti.dk/*
 *://*.ham.vlaamsbelang.org/*
+*://*.hamas-massacre.net/*
 *://*.hamburg.diefreiheit.org/*
 *://*.hamiltonreporter.com/*
 *://*.hammaro.sd.se/*
