@@ -6258,6 +6258,7 @@ address=/nextnewsmedia.com/
 address=/nexusnewsfeed.com/
 address=/nfarage.com/
 address=/nfz.fpoe.at/
+address=/ngbapes.com/
 address=/nhbusinessdaily.com/
 address=/niagaraleader.com/
 address=/nibiru2012.it/

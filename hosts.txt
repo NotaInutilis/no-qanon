@@ -12518,6 +12518,8 @@
 0.0.0.0 www.nfarage.com
 0.0.0.0 nfz.fpoe.at
 0.0.0.0 www.nfz.fpoe.at
+0.0.0.0 ngbapes.com
+0.0.0.0 www.ngbapes.com
 0.0.0.0 nhbusinessdaily.com
 0.0.0.0 www.nhbusinessdaily.com
 0.0.0.0 niagaraleader.com
