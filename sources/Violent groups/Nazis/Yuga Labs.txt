@@ -16,3 +16,4 @@ meebits.app
 
 # BAYC related projects
 justboredandhungry.com
+https://www.ngbapes.com/about
