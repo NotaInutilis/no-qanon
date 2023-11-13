@@ -7073,6 +7073,7 @@ address=/phase2.infogalactic.com/
 address=/phdn.org/
 address=/phibetaiota.net/
 address=/philgodlewski.live/
+address=/philippevardon.fr/
 address=/phillyleader.com/
 address=/phoenixsocialnetwork.org/
 address=/phonegatealert.org/

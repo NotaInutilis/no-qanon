@@ -14148,6 +14148,8 @@
 0.0.0.0 www.phibetaiota.net
 0.0.0.0 philgodlewski.live
 0.0.0.0 www.philgodlewski.live
+0.0.0.0 philippevardon.fr
+0.0.0.0 www.philippevardon.fr
 0.0.0.0 phillyleader.com
 0.0.0.0 www.phillyleader.com
 0.0.0.0 phoenixsocialnetwork.org
