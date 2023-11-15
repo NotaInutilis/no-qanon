@@ -5,3 +5,6 @@ je-mengage.fr
 
 # Majorité présidentielle
 horizonsleparti.fr
+
+# Ministres et cadres
+https://elhairy.fr/ # Modem

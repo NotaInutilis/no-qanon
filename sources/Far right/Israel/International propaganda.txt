@@ -5,10 +5,6 @@ canarymission.org
 israeloncampuscoalition.org
 israelcc.org
 
-# "Fair and balanced" reporting
-honestreporting.ca
-honestreporting.com
-
 # Propaganda material and guides
 israelunderfire.net
 shareitil.com
@@ -18,5 +14,14 @@ wordsofiron.com
 # Gross display of violence to justify a genocide
 hamas-massacre.net
 
-# Celebrities and media actively participating in propaganda
+# Propaganda relays
+
+## Media
+https://www.i24news.tv/fr # https://fr.wikipedia.org/wiki/I24NEWS#Ligne_%C3%A9ditoriale_et_fiabilit%C3%A9_de_l'information
+
+## NGO / watchdogs
+honestreporting.ca
+honestreporting.com
+
+## Celebrities
 galgadot.com
