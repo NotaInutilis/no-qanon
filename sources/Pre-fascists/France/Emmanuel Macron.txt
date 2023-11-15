@@ -7,4 +7,4 @@ je-mengage.fr
 horizonsleparti.fr
 
 # Ministres et cadres
-https://elhairy.fr/ # Modem
+elhairy.fr # Modem

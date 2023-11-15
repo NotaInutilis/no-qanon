@@ -17,7 +17,7 @@ hamas-massacre.net
 # Propaganda relays
 
 ## Media
-https://www.i24news.tv/fr # https://fr.wikipedia.org/wiki/I24NEWS#Ligne_%C3%A9ditoriale_et_fiabilit%C3%A9_de_l'information
+i24news.tv # https://fr.wikipedia.org/wiki/I24NEWS#Ligne_%C3%A9ditoriale_et_fiabilit%C3%A9_de_l'information
 
 ## NGO / watchdogs
 honestreporting.ca

@@ -5452,6 +5452,8 @@
 0.0.0.0 www.electrosensei.com
 0.0.0.0 elenafridmd.com
 0.0.0.0 www.elenafridmd.com
+0.0.0.0 elhairy.fr
+0.0.0.0 www.elhairy.fr
 0.0.0.0 elieyshay.com
 0.0.0.0 www.elieyshay.com
 0.0.0.0 eligius.churchmilitant.com
@@ -8368,6 +8370,8 @@
 0.0.0.0 www.i.minds.com
 0.0.0.0 i.ruqqus.com
 0.0.0.0 www.i.ruqqus.com
+0.0.0.0 i24news.tv
+0.0.0.0 www.i24news.tv
 0.0.0.0 i3ziljxc37.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.i3ziljxc37.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 iabusinessdaily.com
