@@ -13822,6 +13822,8 @@
 0.0.0.0 www.pacificpundit.com
 0.0.0.0 padaniestero.leganord.org
 0.0.0.0 www.padaniestero.leganord.org
+0.0.0.0 pagepersodephtavoillot.blogspot.com
+0.0.0.0 www.pagepersodephtavoillot.blogspot.com
 0.0.0.0 pagetaylornews.com
 0.0.0.0 www.pagetaylornews.com
 0.0.0.0 paginatransversal.wordpress.com
