@@ -6910,6 +6910,7 @@ address=/pacificaforum.org/
 address=/pacificjustice.org/
 address=/pacificpundit.com/
 address=/padaniestero.leganord.org/
+address=/pagepersodephtavoillot.blogspot.com/
 address=/pagetaylornews.com/
 address=/paginatransversal.wordpress.com/
 address=/pakalertpress.com/

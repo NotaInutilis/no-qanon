@@ -6917,6 +6917,7 @@
 *://*.pacificjustice.org/*
 *://*.pacificpundit.com/*
 *://*.padaniestero.leganord.org/*
+*://*.pagepersodephtavoillot.blogspot.com/*
 *://*.pagetaylornews.com/*
 *://*.paginatransversal.wordpress.com/*
 *://*.pakalertpress.com/*
