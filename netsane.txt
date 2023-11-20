@@ -4538,6 +4538,7 @@
 "*://*.jasonshurka.com/*",
 "*://*.jasonthompkins.wordpress.com/*",
 "*://*.jaspercountyguide.com/*",
+"*://*.javiermilei.com/*",
 "*://*.jaymans.wordpress.com/*",
 "*://*.jayokguide.com/*",
 "*://*.jb-mail.jbs.org/*",
