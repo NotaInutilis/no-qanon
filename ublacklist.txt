@@ -4910,6 +4910,7 @@
 *://*.lakeregionnews.com/*
 *://*.lakesuperiornews.com/*
 *://*.laketahoesun.com/*
+*://*.lalibertadavanza.com.ar/*
 *://*.lamanifpourtous.fr/*
 *://*.lamarinerecrute.fr/*
 *://*.laminedinfos.fr/*
@@ -5739,6 +5740,7 @@
 *://*.mikhailapeterson.com/*
 *://*.mikrotheos.blogspot.com/*
 *://*.milano.forzanuova.info/*
+*://*.milei2023.com.ar/*
 *://*.mileswmathis.com/*
 *://*.militarytech.news/*
 *://*.militianews.com/*
