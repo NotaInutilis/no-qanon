@@ -841,6 +841,7 @@
 *://*.barenakedislam.com/*
 *://*.barings.minds.com/*
 *://*.barnesreview.org/*
+*://*.bartforillinois.com/*
 *://*.bartonbrosstudios.com/*
 *://*.basedjak.party/*
 *://*.basiltreemedia.minds.com/*
@@ -942,6 +943,7 @@
 *://*.bennywills.com/*
 *://*.bentkey.com/*
 *://*.bentkeyshop.com/*
+*://*.bentleyvilleguide.com/*
 *://*.bentoelgroup.com/*
 *://*.bentontimes.com/*
 *://*.bentspud.com/*
@@ -1763,6 +1765,7 @@
 *://*.columbia.americanidentitymovement.com/*
 *://*.columbiamonews.com/*
 *://*.columbiastandard.com/*
+*://*.columbusgroveguide.com/*
 *://*.columbusstandard.com/*
 *://*.com1.thecomforter.info/*
 *://*.com2.thecomforter.info/*
@@ -1889,6 +1892,7 @@
 *://*.coreysdigs.com/*
 *://*.coriere.net/*
 *://*.coriewhalen.com/*
+*://*.cornellransomguide.com/*
 *://*.cornhuskerstatenews.com/*
 *://*.corona-aufklaerung.tv/*
 *://*.corona-ausschuss.de/*
@@ -2725,6 +2729,7 @@
 *://*.elbpresse.de/*
 *://*.elcolectivodeuno.wordpress.com/*
 *://*.eldeforma.com/*
+*://*.electcolonelcraigwilcox.com/*
 *://*.election.onenation.org.au/*
 *://*.electionnightgatekeepers.com/*
 *://*.elections.insaf.pk/*
@@ -2744,6 +2749,7 @@
 *://*.elkharttimes.com/*
 *://*.elkhornguide.com/*
 *://*.ellaster.nl/*
+*://*.ellensburgguide.com/*
 *://*.elliniki-lisi.gr/*
 *://*.ellinikipatriotikienosi.blogspot.com/*
 *://*.elmundotoday.com/*
@@ -3039,6 +3045,7 @@
 *://*.falkenberg.sd.se/*
 *://*.falkoping.sd.se/*
 *://*.fallcabal.shop/*
+*://*.fallscityguide.com/*
 *://*.falseflag.news/*
 *://*.falseflagnews.net/*
 *://*.falunau.org/*
@@ -3080,6 +3087,7 @@
 *://*.fargelanda.sd.se/*
 *://*.fargostandard.com/*
 *://*.fark.com/*
+*://*.farminsurancenews.com/*
 *://*.farmwars.info/*
 *://*.farwesttxnews.com/*
 *://*.fas.avoiceformen.com/*
@@ -3320,6 +3328,7 @@
 *://*.franciacorta.leganord.org/*
 *://*.francislalanne.com/*
 *://*.francoisasselineau.fr/*
+*://*.franklinarcher.com/*
 *://*.franko.info/*
 *://*.frankspeech.com/*
 *://*.fraservalleysoldiersofodin.ca/*
@@ -3560,6 +3569,7 @@
 *://*.geraardsbergen.vlaamsbelang.org/*
 *://*.german.faithfreedom.org/*
 *://*.germanicunity.home.blog/*
+*://*.germantownreview.com/*
 *://*.germany.connectingconsciousness.org/*
 *://*.gesara.co/*
 *://*.gesara.news/*
@@ -4379,6 +4389,7 @@
 *://*.ingratitudeanthokyan.xyz/*
 *://*.ingredients.news/*
 *://*.initiativecitoyenne.be/*
+*://*.injouercad.us/*
 *://*.innovation.minds.com/*
 *://*.innovative.minds.com/*
 *://*.inquisitor.com/*
@@ -5156,6 +5167,7 @@
 *://*.liftable.com/*
 *://*.lightbeings.space/*
 *://*.lightlybraisedturnip.com/*
+*://*.lightofbaldr.com/*
 *://*.liguedumidi.com/*
 *://*.liiighthouse.com/*
 *://*.likethedaysofnoah.wordpress.com/*
@@ -5688,6 +5700,8 @@
 *://*.metricmedianews.com/*
 *://*.metrobusinessnetwork.com/*
 *://*.metroeastsun.com/*
+*://*.metroeasttoday.com/*
+*://*.metrolexnews.com/*
 *://*.metropolitanworlds.com/*
 *://*.metrowesttimes.com/*
 *://*.mewe.com/*
@@ -5724,6 +5738,7 @@
 *://*.midcoasttoday.com/*
 *://*.middelfart.danskfolkeparti.dk/*
 *://*.middelkerke.vlaamsbelang.org/*
+*://*.middleburghguide.com/*
 *://*.mideastdiscourse.com/*
 *://*.midiasemmascara.org/*
 *://*.midlandtimes.com/*
@@ -6371,6 +6386,7 @@
 *://*.northbostonnews.com/*
 *://*.northbrowardnews.com/*
 *://*.northcharlottetoday.com/*
+*://*.northcharolettenews.com/*
 *://*.northchestertoday.com/*
 *://*.northcincynews.com/*
 *://*.northcoastalnews.com/*
@@ -6592,10 +6608,12 @@
 *://*.ntdtv.com/*
 *://*.ntdtv.com.tw/*
 *://*.ntdtv.org/*
+*://*.nuclaguide.com/*
 *://*.nuclear.news/*
 *://*.nuclearweapons.news/*
 *://*.nucleusfiles.com/*
 *://*.nuke-lies.org/*
+*://*.number1victimofcrime.com/*
 *://*.nuremberg.nz/*
 *://*.nutrientreference.com/*
 *://*.nutrients.news/*
@@ -6853,6 +6871,7 @@
 *://*.orust.sd.se/*
 *://*.orvosokatisztanlatasert.hu/*
 *://*.orwell.city/*
+*://*.orwellguide.com/*
 *://*.orwellianchronicle.wordpress.com/*
 *://*.orz.4chan.org/*
 *://*.orzinuovi.leganord.org/*
@@ -6994,6 +7013,7 @@
 *://*.patriotfront.us/*
 *://*.patrioticalternative.org.uk/*
 *://*.patrioticdissent.net/*
+*://*.patriotmobile.com/*
 *://*.patriotmouse.com/*
 *://*.patriotnationpress.com/*
 *://*.patriotnet.com/*
@@ -7033,6 +7053,7 @@
 *://*.peacerevolution.podomatic.com/*
 *://*.peachtreetimes.com/*
 *://*.pecs.fidesz.hu/*
+*://*.peculiarguide.com/*
 *://*.pedocriminel.blogspot.fr/*
 *://*.pedoempire.org/*
 *://*.pedogate.world/*
@@ -7048,6 +7069,7 @@
 *://*.pekela.pvv.nl/*
 *://*.pelczne.fidesz.hu/*
 *://*.pelicanstatenews.com/*
+*://*.pennbusinessdaily.com/*
 *://*.pennrecord.com/*
 *://*.pensabrasil.com/*
 *://*.pensacolatimes.com/*
@@ -7063,6 +7085,7 @@
 *://*.peoriasun.com/*
 *://*.peppercave.com/*
 *://*.perdavvero.com/*
+*://*.perryguide.com/*
 *://*.persecutes.com/*
 *://*.persianepochtimes.com/*
 *://*.perskamer.vlaamsbelang.org/*
@@ -7235,6 +7258,7 @@
 *://*.portkeygames.com/*
 *://*.portlandcourant.com/*
 *://*.portlandmainenews.com/*
+*://*.portstjoeguide.com/*
 *://*.posanlaszlo.fidesz.hu/*
 *://*.pospolitost.wordpress.com/*
 *://*.posse-comitatus.org/*
@@ -7277,6 +7301,7 @@
 *://*.ppnsource.com/*
 *://*.pqdjs97henjmkchc.www.minds.com/*
 *://*.prageru.com/*
+*://*.prageru.onelink.me/*
 *://*.pragmatismopolitico.com.br/*
 *://*.prairiestatewire.com/*
 *://*.prankster.nl/*
@@ -7865,6 +7890,7 @@
 *://*.rls2.liveprayer.com/*
 *://*.rls3.liveprayer.com/*
 *://*.rls4.liveprayer.com/*
+*://*.rmx.news/*
 *://*.rnrenewal.org/*
 *://*.ro.avoiceformen.com/*
 *://*.ro.metapedia.org/*
@@ -7961,6 +7987,7 @@
 *://*.ruptly.tv/*
 *://*.ruqqus.com/*
 *://*.ruralsurvival.info/*
+*://*.ruraltoday.com/*
 *://*.rus.creativitymovement.net/*
 *://*.rushlimbaugh.com/*
 *://*.rushmorestatenews.com/*
@@ -8039,6 +8066,7 @@
 *://*.santacruzstandard.com/*
 *://*.santafestandard.com/*
 *://*.santamariadisala.leganord.org/*
+*://*.santarosareview.com/*
 *://*.sante-nutrition.org/*
 *://*.santenatureinnovation.com/*
 *://*.santeplusmag.com/*
@@ -8133,6 +8161,7 @@
 *://*.searizonanews.com/*
 *://*.seatlantanews.com/*
 *://*.seattlecitywire.com/*
+*://*.seattlesounder.com/*
 *://*.sebastianski.minds.com/*
 *://*.sebestyen.fidesz.hu/*
 *://*.sebluegrassnews.com/*
@@ -8251,6 +8280,7 @@
 *://*.sekansascitynews.com/*
 *://*.sekansasnews.com/*
 *://*.sekentuckynews.com/*
+*://*.selahguide.com/*
 *://*.selatimes.com/*
 *://*.select.minds.com/*
 *://*.selfauthoring.com/*
@@ -8636,6 +8666,7 @@
 *://*.southbrowardnews.com/*
 *://*.southcentralreporter.com/*
 *://*.southcharlottetoday.com/*
+*://*.southcharolettenews.com/*
 *://*.southchestertoday.com/*
 *://*.southcoasttimes.com/*
 *://*.southcolumbusnews.com/*
@@ -8755,7 +8786,10 @@
 *://*.sprite.d.tube/*
 *://*.spurguide.com/*
 *://*.sputnikglobe.com/*
+*://*.sputniknews.africa/*
 *://*.sputniknews.com/*
+*://*.sputniknews.in/*
+*://*.sputnikportal.rs/*
 *://*.sputtaniamotutti.com/*
 *://*.srapyqn.c-fam.org/*
 *://*.srb.news-front.info/*
@@ -9657,6 +9691,7 @@
 *://*.tongeren.vlaamsbelang.org/*
 *://*.tongilgyo-ir.org/*
 *://*.toni.prod.triller.co/*
+*://*.toniaforillinois.com/*
 *://*.top10grocerysecrets.com/*
 *://*.topastuces.net/*
 *://*.topdunet.org/*
@@ -9748,6 +9783,7 @@
 *://*.tricitiesreporter.com/*
 *://*.tricitysun.com/*
 *://*.triconews.com/*
+*://*.tricountytoday.com/*
 *://*.triller.co/*
 *://*.trollhattan.sd.se/*
 *://*.troo.tube/*
@@ -9992,6 +10028,7 @@
 *://*.uppercumberlandtimes.com/*
 *://*.upperdeltanews.com/*
 *://*.uppereasttx.com/*
+*://*.uppertaconicguide.com/*
 *://*.upperwestscnews.com/*
 *://*.uppland.sd.se/*
 *://*.upplands-vasby.sd.se/*
@@ -10319,6 +10356,7 @@
 *://*.vote.insaf.pk/*
 *://*.vote.ruqqus.com/*
 *://*.votefraud.news/*
+*://*.votejillian.com/*
 *://*.voteleavetakecontrol.org/*
 *://*.votingforjesus.com/*
 *://*.voxespana.es/*
@@ -10583,6 +10621,8 @@
 *://*.weliveinamadworld.com/*
 *://*.wellaware1.com/*
 *://*.wellingtonnews.tk/*
+*://*.wellversedworld.org/*
+*://*.wellversedworld.podbean.com/*
 *://*.welovecharlie.co.uk/*
 *://*.welovetrump.com/*
 *://*.weltfriede.at/*
@@ -10610,6 +10650,7 @@
 *://*.westernstandard.news/*
 *://*.westernwaynetoday.com/*
 *://*.westessexnews.com/*
+*://*.westfieldreporter.com/*
 *://*.westflnews.com/*
 *://*.westhamiltonnews.com/*
 *://*.westhillsboroughnews.com/*
@@ -11029,6 +11070,7 @@
 *://*.wwhatsup.wordpress.com/*
 *://*.wwhatsuppgh.blogspot.com/*
 *://*.wwiii.news/*
+*://*.www-foxnews-com.cdn.ampproject.org/*
 *://*.www-old.8kun.top/*
 *://*.www-test.fidesz.hu/*
 *://*.www1.faithfreedom.org/*
@@ -11086,6 +11128,7 @@
 *://*.yellowhammernews.com/*
 *://*.yellowhammertimes.com/*
 *://*.yellowstonetimes.com/*
+*://*.yelmguide.com/*
 *://*.yeniakit.com.tr/*
 *://*.yes.infowars.com/*
 *://*.yesimright.com/*

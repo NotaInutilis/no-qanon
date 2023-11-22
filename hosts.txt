@@ -1670,6 +1670,8 @@
 0.0.0.0 www.barings.minds.com
 0.0.0.0 barnesreview.org
 0.0.0.0 www.barnesreview.org
+0.0.0.0 bartforillinois.com
+0.0.0.0 www.bartforillinois.com
 0.0.0.0 bartonbrosstudios.com
 0.0.0.0 www.bartonbrosstudios.com
 0.0.0.0 basedjak.party
@@ -1872,6 +1874,8 @@
 0.0.0.0 www.bentkey.com
 0.0.0.0 bentkeyshop.com
 0.0.0.0 www.bentkeyshop.com
+0.0.0.0 bentleyvilleguide.com
+0.0.0.0 www.bentleyvilleguide.com
 0.0.0.0 bentoelgroup.com
 0.0.0.0 www.bentoelgroup.com
 0.0.0.0 bentontimes.com
@@ -3514,6 +3518,8 @@
 0.0.0.0 www.columbiamonews.com
 0.0.0.0 columbiastandard.com
 0.0.0.0 www.columbiastandard.com
+0.0.0.0 columbusgroveguide.com
+0.0.0.0 www.columbusgroveguide.com
 0.0.0.0 columbusstandard.com
 0.0.0.0 www.columbusstandard.com
 0.0.0.0 com1.thecomforter.info
@@ -3766,6 +3772,8 @@
 0.0.0.0 www.coriere.net
 0.0.0.0 coriewhalen.com
 0.0.0.0 www.coriewhalen.com
+0.0.0.0 cornellransomguide.com
+0.0.0.0 www.cornellransomguide.com
 0.0.0.0 cornhuskerstatenews.com
 0.0.0.0 www.cornhuskerstatenews.com
 0.0.0.0 corona-aufklaerung.tv
@@ -5438,6 +5446,8 @@
 0.0.0.0 www.elcolectivodeuno.wordpress.com
 0.0.0.0 eldeforma.com
 0.0.0.0 www.eldeforma.com
+0.0.0.0 electcolonelcraigwilcox.com
+0.0.0.0 www.electcolonelcraigwilcox.com
 0.0.0.0 election.onenation.org.au
 0.0.0.0 www.election.onenation.org.au
 0.0.0.0 electionnightgatekeepers.com
@@ -5476,6 +5486,8 @@
 0.0.0.0 www.elkhornguide.com
 0.0.0.0 ellaster.nl
 0.0.0.0 www.ellaster.nl
+0.0.0.0 ellensburgguide.com
+0.0.0.0 www.ellensburgguide.com
 0.0.0.0 elliniki-lisi.gr
 0.0.0.0 www.elliniki-lisi.gr
 0.0.0.0 ellinikipatriotikienosi.blogspot.com
@@ -6066,6 +6078,8 @@
 0.0.0.0 www.falkoping.sd.se
 0.0.0.0 fallcabal.shop
 0.0.0.0 www.fallcabal.shop
+0.0.0.0 fallscityguide.com
+0.0.0.0 www.fallscityguide.com
 0.0.0.0 falseflag.news
 0.0.0.0 www.falseflag.news
 0.0.0.0 falseflagnews.net
@@ -6148,6 +6162,8 @@
 0.0.0.0 www.fargostandard.com
 0.0.0.0 fark.com
 0.0.0.0 www.fark.com
+0.0.0.0 farminsurancenews.com
+0.0.0.0 www.farminsurancenews.com
 0.0.0.0 farmwars.info
 0.0.0.0 www.farmwars.info
 0.0.0.0 farwesttxnews.com
@@ -6628,6 +6644,8 @@
 0.0.0.0 www.francislalanne.com
 0.0.0.0 francoisasselineau.fr
 0.0.0.0 www.francoisasselineau.fr
+0.0.0.0 franklinarcher.com
+0.0.0.0 www.franklinarcher.com
 0.0.0.0 franko.info
 0.0.0.0 www.franko.info
 0.0.0.0 frankspeech.com
@@ -7108,6 +7126,8 @@
 0.0.0.0 www.german.faithfreedom.org
 0.0.0.0 germanicunity.home.blog
 0.0.0.0 www.germanicunity.home.blog
+0.0.0.0 germantownreview.com
+0.0.0.0 www.germantownreview.com
 0.0.0.0 germany.connectingconsciousness.org
 0.0.0.0 www.germany.connectingconsciousness.org
 0.0.0.0 gesara.co
@@ -8746,6 +8766,8 @@
 0.0.0.0 www.ingredients.news
 0.0.0.0 initiativecitoyenne.be
 0.0.0.0 www.initiativecitoyenne.be
+0.0.0.0 injouercad.us
+0.0.0.0 www.injouercad.us
 0.0.0.0 innovation.minds.com
 0.0.0.0 www.innovation.minds.com
 0.0.0.0 innovative.minds.com
@@ -10300,6 +10322,8 @@
 0.0.0.0 www.lightbeings.space
 0.0.0.0 lightlybraisedturnip.com
 0.0.0.0 www.lightlybraisedturnip.com
+0.0.0.0 lightofbaldr.com
+0.0.0.0 www.lightofbaldr.com
 0.0.0.0 liguedumidi.com
 0.0.0.0 www.liguedumidi.com
 0.0.0.0 liiighthouse.com
@@ -11364,6 +11388,10 @@
 0.0.0.0 www.metrobusinessnetwork.com
 0.0.0.0 metroeastsun.com
 0.0.0.0 www.metroeastsun.com
+0.0.0.0 metroeasttoday.com
+0.0.0.0 www.metroeasttoday.com
+0.0.0.0 metrolexnews.com
+0.0.0.0 www.metrolexnews.com
 0.0.0.0 metropolitanworlds.com
 0.0.0.0 www.metropolitanworlds.com
 0.0.0.0 metrowesttimes.com
@@ -11436,6 +11464,8 @@
 0.0.0.0 www.middelfart.danskfolkeparti.dk
 0.0.0.0 middelkerke.vlaamsbelang.org
 0.0.0.0 www.middelkerke.vlaamsbelang.org
+0.0.0.0 middleburghguide.com
+0.0.0.0 www.middleburghguide.com
 0.0.0.0 mideastdiscourse.com
 0.0.0.0 www.mideastdiscourse.com
 0.0.0.0 midiasemmascara.org
@@ -12730,6 +12760,8 @@
 0.0.0.0 www.northbrowardnews.com
 0.0.0.0 northcharlottetoday.com
 0.0.0.0 www.northcharlottetoday.com
+0.0.0.0 northcharolettenews.com
+0.0.0.0 www.northcharolettenews.com
 0.0.0.0 northchestertoday.com
 0.0.0.0 www.northchestertoday.com
 0.0.0.0 northcincynews.com
@@ -13172,6 +13204,8 @@
 0.0.0.0 www.ntdtv.com.tw
 0.0.0.0 ntdtv.org
 0.0.0.0 www.ntdtv.org
+0.0.0.0 nuclaguide.com
+0.0.0.0 www.nuclaguide.com
 0.0.0.0 nuclear.news
 0.0.0.0 www.nuclear.news
 0.0.0.0 nuclearweapons.news
@@ -13180,6 +13214,8 @@
 0.0.0.0 www.nucleusfiles.com
 0.0.0.0 nuke-lies.org
 0.0.0.0 www.nuke-lies.org
+0.0.0.0 number1victimofcrime.com
+0.0.0.0 www.number1victimofcrime.com
 0.0.0.0 nuremberg.nz
 0.0.0.0 www.nuremberg.nz
 0.0.0.0 nutrientreference.com
@@ -13694,6 +13730,8 @@
 0.0.0.0 www.orvosokatisztanlatasert.hu
 0.0.0.0 orwell.city
 0.0.0.0 www.orwell.city
+0.0.0.0 orwellguide.com
+0.0.0.0 www.orwellguide.com
 0.0.0.0 orwellianchronicle.wordpress.com
 0.0.0.0 www.orwellianchronicle.wordpress.com
 0.0.0.0 orz.4chan.org
@@ -13976,6 +14014,8 @@
 0.0.0.0 www.patrioticalternative.org.uk
 0.0.0.0 patrioticdissent.net
 0.0.0.0 www.patrioticdissent.net
+0.0.0.0 patriotmobile.com
+0.0.0.0 www.patriotmobile.com
 0.0.0.0 patriotmouse.com
 0.0.0.0 www.patriotmouse.com
 0.0.0.0 patriotnationpress.com
@@ -14054,6 +14094,8 @@
 0.0.0.0 www.peachtreetimes.com
 0.0.0.0 pecs.fidesz.hu
 0.0.0.0 www.pecs.fidesz.hu
+0.0.0.0 peculiarguide.com
+0.0.0.0 www.peculiarguide.com
 0.0.0.0 pedocriminel.blogspot.fr
 0.0.0.0 www.pedocriminel.blogspot.fr
 0.0.0.0 pedoempire.org
@@ -14084,6 +14126,8 @@
 0.0.0.0 www.pelczne.fidesz.hu
 0.0.0.0 pelicanstatenews.com
 0.0.0.0 www.pelicanstatenews.com
+0.0.0.0 pennbusinessdaily.com
+0.0.0.0 www.pennbusinessdaily.com
 0.0.0.0 pennrecord.com
 0.0.0.0 www.pennrecord.com
 0.0.0.0 pensabrasil.com
@@ -14114,6 +14158,8 @@
 0.0.0.0 www.peppercave.com
 0.0.0.0 perdavvero.com
 0.0.0.0 www.perdavvero.com
+0.0.0.0 perryguide.com
+0.0.0.0 www.perryguide.com
 0.0.0.0 persecutes.com
 0.0.0.0 www.persecutes.com
 0.0.0.0 persianepochtimes.com
@@ -14458,6 +14504,8 @@
 0.0.0.0 www.portlandcourant.com
 0.0.0.0 portlandmainenews.com
 0.0.0.0 www.portlandmainenews.com
+0.0.0.0 portstjoeguide.com
+0.0.0.0 www.portstjoeguide.com
 0.0.0.0 posanlaszlo.fidesz.hu
 0.0.0.0 www.posanlaszlo.fidesz.hu
 0.0.0.0 pospolitost.wordpress.com
@@ -14542,6 +14590,8 @@
 0.0.0.0 www.pqdjs97henjmkchc.www.minds.com
 0.0.0.0 prageru.com
 0.0.0.0 www.prageru.com
+0.0.0.0 prageru.onelink.me
+0.0.0.0 www.prageru.onelink.me
 0.0.0.0 pragmatismopolitico.com.br
 0.0.0.0 www.pragmatismopolitico.com.br
 0.0.0.0 prairiestatewire.com
@@ -15718,6 +15768,8 @@
 0.0.0.0 www.rls3.liveprayer.com
 0.0.0.0 rls4.liveprayer.com
 0.0.0.0 www.rls4.liveprayer.com
+0.0.0.0 rmx.news
+0.0.0.0 www.rmx.news
 0.0.0.0 rnrenewal.org
 0.0.0.0 www.rnrenewal.org
 0.0.0.0 ro.avoiceformen.com
@@ -15910,6 +15962,8 @@
 0.0.0.0 www.ruqqus.com
 0.0.0.0 ruralsurvival.info
 0.0.0.0 www.ruralsurvival.info
+0.0.0.0 ruraltoday.com
+0.0.0.0 www.ruraltoday.com
 0.0.0.0 rus.creativitymovement.net
 0.0.0.0 www.rus.creativitymovement.net
 0.0.0.0 rushlimbaugh.com
@@ -16066,6 +16120,8 @@
 0.0.0.0 www.santafestandard.com
 0.0.0.0 santamariadisala.leganord.org
 0.0.0.0 www.santamariadisala.leganord.org
+0.0.0.0 santarosareview.com
+0.0.0.0 www.santarosareview.com
 0.0.0.0 sante-nutrition.org
 0.0.0.0 www.sante-nutrition.org
 0.0.0.0 santenatureinnovation.com
@@ -16254,6 +16310,8 @@
 0.0.0.0 www.seatlantanews.com
 0.0.0.0 seattlecitywire.com
 0.0.0.0 www.seattlecitywire.com
+0.0.0.0 seattlesounder.com
+0.0.0.0 www.seattlesounder.com
 0.0.0.0 sebastianski.minds.com
 0.0.0.0 www.sebastianski.minds.com
 0.0.0.0 sebestyen.fidesz.hu
@@ -16490,6 +16548,8 @@
 0.0.0.0 www.sekansasnews.com
 0.0.0.0 sekentuckynews.com
 0.0.0.0 www.sekentuckynews.com
+0.0.0.0 selahguide.com
+0.0.0.0 www.selahguide.com
 0.0.0.0 selatimes.com
 0.0.0.0 www.selatimes.com
 0.0.0.0 select.minds.com
@@ -17260,6 +17320,8 @@
 0.0.0.0 www.southcentralreporter.com
 0.0.0.0 southcharlottetoday.com
 0.0.0.0 www.southcharlottetoday.com
+0.0.0.0 southcharolettenews.com
+0.0.0.0 www.southcharolettenews.com
 0.0.0.0 southchestertoday.com
 0.0.0.0 www.southchestertoday.com
 0.0.0.0 southcoasttimes.com
@@ -17498,8 +17560,14 @@
 0.0.0.0 www.spurguide.com
 0.0.0.0 sputnikglobe.com
 0.0.0.0 www.sputnikglobe.com
+0.0.0.0 sputniknews.africa
+0.0.0.0 www.sputniknews.africa
 0.0.0.0 sputniknews.com
 0.0.0.0 www.sputniknews.com
+0.0.0.0 sputniknews.in
+0.0.0.0 www.sputniknews.in
+0.0.0.0 sputnikportal.rs
+0.0.0.0 www.sputnikportal.rs
 0.0.0.0 sputtaniamotutti.com
 0.0.0.0 www.sputtaniamotutti.com
 0.0.0.0 srapyqn.c-fam.org
@@ -19302,6 +19370,8 @@
 0.0.0.0 www.tongilgyo-ir.org
 0.0.0.0 toni.prod.triller.co
 0.0.0.0 www.toni.prod.triller.co
+0.0.0.0 toniaforillinois.com
+0.0.0.0 www.toniaforillinois.com
 0.0.0.0 top10grocerysecrets.com
 0.0.0.0 www.top10grocerysecrets.com
 0.0.0.0 topastuces.net
@@ -19484,6 +19554,8 @@
 0.0.0.0 www.tricitysun.com
 0.0.0.0 triconews.com
 0.0.0.0 www.triconews.com
+0.0.0.0 tricountytoday.com
+0.0.0.0 www.tricountytoday.com
 0.0.0.0 triller.co
 0.0.0.0 www.triller.co
 0.0.0.0 trollhattan.sd.se
@@ -19972,6 +20044,8 @@
 0.0.0.0 www.upperdeltanews.com
 0.0.0.0 uppereasttx.com
 0.0.0.0 www.uppereasttx.com
+0.0.0.0 uppertaconicguide.com
+0.0.0.0 www.uppertaconicguide.com
 0.0.0.0 upperwestscnews.com
 0.0.0.0 www.upperwestscnews.com
 0.0.0.0 uppland.sd.se
@@ -20626,6 +20700,8 @@
 0.0.0.0 www.vote.ruqqus.com
 0.0.0.0 votefraud.news
 0.0.0.0 www.votefraud.news
+0.0.0.0 votejillian.com
+0.0.0.0 www.votejillian.com
 0.0.0.0 voteleavetakecontrol.org
 0.0.0.0 www.voteleavetakecontrol.org
 0.0.0.0 votingforjesus.com
@@ -21154,6 +21230,10 @@
 0.0.0.0 www.wellaware1.com
 0.0.0.0 wellingtonnews.tk
 0.0.0.0 www.wellingtonnews.tk
+0.0.0.0 wellversedworld.org
+0.0.0.0 www.wellversedworld.org
+0.0.0.0 wellversedworld.podbean.com
+0.0.0.0 www.wellversedworld.podbean.com
 0.0.0.0 welovecharlie.co.uk
 0.0.0.0 www.welovecharlie.co.uk
 0.0.0.0 welovetrump.com
@@ -21208,6 +21288,8 @@
 0.0.0.0 www.westernwaynetoday.com
 0.0.0.0 westessexnews.com
 0.0.0.0 www.westessexnews.com
+0.0.0.0 westfieldreporter.com
+0.0.0.0 www.westfieldreporter.com
 0.0.0.0 westflnews.com
 0.0.0.0 www.westflnews.com
 0.0.0.0 westhamiltonnews.com
@@ -22046,6 +22128,8 @@
 0.0.0.0 www.wwhatsuppgh.blogspot.com
 0.0.0.0 wwiii.news
 0.0.0.0 www.wwiii.news
+0.0.0.0 www-foxnews-com.cdn.ampproject.org
+0.0.0.0 www.www-foxnews-com.cdn.ampproject.org
 0.0.0.0 www-old.8kun.top
 0.0.0.0 www.www-old.8kun.top
 0.0.0.0 www-test.fidesz.hu
@@ -22160,6 +22244,8 @@
 0.0.0.0 www.yellowhammertimes.com
 0.0.0.0 yellowstonetimes.com
 0.0.0.0 www.yellowstonetimes.com
+0.0.0.0 yelmguide.com
+0.0.0.0 www.yelmguide.com
 0.0.0.0 yeniakit.com.tr
 0.0.0.0 www.yeniakit.com.tr
 0.0.0.0 yes.infowars.com
