@@ -1,6 +1,6 @@
 # No-QAnon
 
-An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and discriminatory websites.
+An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and hateful websites.
 
 By blocking the websites linked to hate groups and bad actors, it aims to defuse recruitment, propaganda and slow the spread of disinformation via tactics such as psyops, astroturfing, trolls, false flags, sockpuppeting, stochastic terrorism, FUD.
 
