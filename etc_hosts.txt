@@ -19370,6 +19370,8 @@
 0.0.0.0 www.totalworldnews.com
 0.0.0.0 touchalife.minds.com
 0.0.0.0 www.touchalife.minds.com
+0.0.0.0 touchepasamonflic.com
+0.0.0.0 www.touchepasamonflic.com
 0.0.0.0 toutsaufsarkozy.com
 0.0.0.0 www.toutsaufsarkozy.com
 0.0.0.0 townhall.com
