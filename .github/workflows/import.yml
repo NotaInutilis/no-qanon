@@ -1,0 +1,28 @@
+name: Import blocklists
+
+on:
+  schedule:
+    - cron:  '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+    - name: Run import
+      run: ./scripts/import.sh
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git commit -m "Import blocklists"; then
+          git push
+        fi

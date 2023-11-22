@@ -1,12 +1,11 @@
 #!/usr/bin/env bash
 
-# Use this script to import external blocklists from a list formatted as "file.txt url".
+# Use this script to download and cleanup external blocklists.
 # e.g.
-# ./scripts/import.sh < list.md
+# ./scripts/import.sh
 
-while read FILE URL; do
-    wget -O "$FILE" -- "$URL"
-done
+# Download external blocklists
+./scripts/download.sh < ./sources/_imported/README.md
 
 # Cleanup sources
 ./scripts/cleanup.sh
