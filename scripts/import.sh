@@ -8,7 +8,7 @@
 ./scripts/download.sh < ./import/importlist.txt
 
 # Copy to modified
-cp -a ./import/original/ ./import/modified/
+cp -r ./import/original ./import/modified
 
 # Cleanup imported sources (Same code in update.sh)
 ## Special cleanup for imported sources of other formats (AdBlock, hosts, etc.)
@@ -29,4 +29,4 @@ find ./import/modified -type f -name "*.txt" -exec bash -c '
 ' {} \;
 
 # Copy to sources
-cp -a ./import/modified/ ./sources/_imported/
+cp -r ./import/modified ./sources/_imported
