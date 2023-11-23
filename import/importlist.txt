@@ -1,10 +1,10 @@
-peertube_isolation fediverse.txt|https://peertube_isolation.frama.io/list/peertube_isolation.txt
-Adfilt TabloidRemover.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover.txt
-Adfilt TabloidRemover-MastodonCategoryForImports fediverse.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover-MastodonCategoryForImports.csv
-Attack Vectors fake-local-journals-list.txt|https://raw.githubusercontent.com/MassMove/AttackVectors/master/LocalJournals/fake-local-journals-list.txt
-Windscribe clickbait.txt|https://assets.windscribe.com/custom_blocklists/clickbait.txt
-StevenBlack fakenews.txt|https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
-antifa-n blocklist.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt
-antifa-n blocklist-alttech.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt
-antifa-n blocklist-pop.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt
+peertube_isolation_fediverse.txt|https://peertube_isolation.frama.io/list/peertube_isolation.txt
+Adfilt_TabloidRemover.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover.txt
+Adfilt_TabloidRemover-MastodonCategoryForImports_fediverse.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover-MastodonCategoryForImports.csv
+Attack_Vectors_fake-local-journals-list.txt|https://raw.githubusercontent.com/MassMove/AttackVectors/master/LocalJournals/fake-local-journals-list.txt
+Windscribe_clickbait.txt|https://assets.windscribe.com/custom_blocklists/clickbait.txt
+StevenBlack_fakenews.txt|https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
+antifa-n_blocklist.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt
+antifa-n_blocklist-alttech.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt
+antifa-n_blocklist-pop.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt
 AFNIL.txt|https://raw.githubusercontent.com/AFNIL-AntiFakeNewsInternationalList/AFNIL/master/hosts
