@@ -17,11 +17,14 @@ melaniatrump.com
 shopdonjr.com
 donjr.com
 trumplive.com.au
+
 # Political campaigns
 donaldjtrump.com
 45office.com
+
 # PAC
 magapac.com
+
 # Unsorted
 donaldtrumpnews.co
 trumpvision365.com
@@ -39,8 +42,6 @@ freetrumpcommemorative.com
 freetrumpbox.com
 thedonald.win
 news.thetrumptimes.com
+
 # Probably fake stores
 officialtrump2024store.com
-
-# Pro Trump media
-atomicfabrik.com # Publisher of "The Last Hope Trump vs Mafia" shovelware, their steam forums are nasty
