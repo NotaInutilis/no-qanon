@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-# Use this script to download external blocklists from a non-txt list formatted as "file.txt|url" to the sources/_imported/ folder.
+# Use this script to download external blocklists from a list formatted as "file.txt|url" to the "/import/original/" folder.
 # e.g.
-# ./scripts/download.sh < list.md
+# ./scripts/download.sh < list.txt
 
 IFS='|'
 while read FILE URL; do
-    wget -O ./sources/_imported/"$FILE" -- "$URL"
+    wget -O ./import/original/"$FILE" -- "$URL"
 done
