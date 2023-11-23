@@ -316,6 +316,8 @@
 0.0.0.0 www.absurd.news
 0.0.0.0 academiacatavencu.info
 0.0.0.0 www.academiacatavencu.info
+0.0.0.0 academiachristiana.org
+0.0.0.0 www.academiachristiana.org
 0.0.0.0 academyofideas.com
 0.0.0.0 www.academyofideas.com
 0.0.0.0 acallforanuprising.com
@@ -1194,6 +1196,8 @@
 0.0.0.0 www.areyouasleep.com
 0.0.0.0 arezzo.leganord.org
 0.0.0.0 www.arezzo.leganord.org
+0.0.0.0 argosfrance.org
+0.0.0.0 www.argosfrance.org
 0.0.0.0 argumenti.ru
 0.0.0.0 www.argumenti.ru
 0.0.0.0 ari.aynrand.org
@@ -1384,6 +1388,8 @@
 0.0.0.0 www.auroraneguide.com
 0.0.0.0 auroraray.com
 0.0.0.0 www.auroraray.com
+0.0.0.0 aurorasemperest.wordpress.com
+0.0.0.0 www.aurorasemperest.wordpress.com
 0.0.0.0 aurorasito.wordpress.com
 0.0.0.0 www.aurorasito.wordpress.com
 0.0.0.0 ausreps.org
@@ -3460,6 +3466,8 @@
 0.0.0.0 www.cobratate.com
 0.0.0.0 cobusinessdaily.com
 0.0.0.0 www.cobusinessdaily.com
+0.0.0.0 cocardeetudiante.com
+0.0.0.0 www.cocardeetudiante.com
 0.0.0.0 coconinonews.com
 0.0.0.0 www.coconinonews.com
 0.0.0.0 cod.rep.de
@@ -5354,6 +5362,8 @@
 0.0.0.0 www.ecwisconsinnews.com
 0.0.0.0 eda.sd.se
 0.0.0.0 www.eda.sd.se
+0.0.0.0 edc-espritdecorps.fr
+0.0.0.0 www.edc-espritdecorps.fr
 0.0.0.0 edcgoods.com
 0.0.0.0 www.edcgoods.com
 0.0.0.0 eddenya.com
@@ -5552,6 +5562,8 @@
 0.0.0.0 www.empirestatetoday.com
 0.0.0.0 en-marche.fr
 0.0.0.0 www.en-marche.fr
+0.0.0.0 en-racine.org
+0.0.0.0 www.en-racine.org
 0.0.0.0 en-volve.com
 0.0.0.0 www.en-volve.com
 0.0.0.0 en.alleanzanazionale.it
@@ -7056,6 +7068,8 @@
 0.0.0.0 www.gearlandia.haus
 0.0.0.0 geel.vlaamsbelang.org
 0.0.0.0 www.geel.vlaamsbelang.org
+0.0.0.0 geertwilders.nl
+0.0.0.0 www.geertwilders.nl
 0.0.0.0 gegdxm4iek.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.gegdxm4iek.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 gegenstimme.tv
@@ -9770,6 +9784,8 @@
 0.0.0.0 www.labs.opendns.com
 0.0.0.0 labusinessdaily.com
 0.0.0.0 www.labusinessdaily.com
+0.0.0.0 lacitadellelille.com
+0.0.0.0 www.lacitadellelille.com
 0.0.0.0 lacontrerevolution.wordpress.com
 0.0.0.0 www.lacontrerevolution.wordpress.com
 0.0.0.0 lactionfrancaise.fr
@@ -10122,6 +10138,8 @@
 0.0.0.0 www.les-identitaires.fr
 0.0.0.0 les-patriotes.fr
 0.0.0.0 www.les-patriotes.fr
+0.0.0.0 les-temeraires.org
+0.0.0.0 www.les-temeraires.org
 0.0.0.0 lesacreduprintemps19.wordpress.com
 0.0.0.0 www.lesacreduprintemps19.wordpress.com
 0.0.0.0 lesaffranchissflfrance.fr
@@ -10132,6 +10150,8 @@
 0.0.0.0 www.lesalonbeige.blogs.com
 0.0.0.0 lesalonbeige.fr
 0.0.0.0 www.lesalonbeige.fr
+0.0.0.0 lesbraves.org
+0.0.0.0 www.lesbraves.org
 0.0.0.0 lesbrigandes.com
 0.0.0.0 www.lesbrigandes.com
 0.0.0.0 lesbrindherbes.org
@@ -10590,6 +10610,8 @@
 0.0.0.0 www.lyngby-taarbaek.danskfolkeparti.dk
 0.0.0.0 lynwoodtimes.com
 0.0.0.0 www.lynwoodtimes.com
+0.0.0.0 lyonpopulaire.fr
+0.0.0.0 www.lyonpopulaire.fr
 0.0.0.0 lztnimbq.lc.org
 0.0.0.0 www.lztnimbq.lc.org
 0.0.0.0 m.8ch.net
@@ -11776,6 +11798,8 @@
 0.0.0.0 www.mountainstatetimes.com
 0.0.0.0 mouthfrog.com
 0.0.0.0 www.mouthfrog.com
+0.0.0.0 mouvementchouan.fr
+0.0.0.0 www.mouvementchouan.fr
 0.0.0.0 movar.fidesz.hu
 0.0.0.0 www.movar.fidesz.hu
 0.0.0.0 movcivitas.pt
@@ -13664,6 +13688,8 @@
 0.0.0.0 www.opwijk.vlaamsbelang.org
 0.0.0.0 or.childrenshealthdefense.org
 0.0.0.0 www.or.childrenshealthdefense.org
+0.0.0.0 orbanviktor.com
+0.0.0.0 www.orbanviktor.com
 0.0.0.0 orbusinessdaily.com
 0.0.0.0 www.orbusinessdaily.com
 0.0.0.0 orbys.net
@@ -13880,6 +13906,8 @@
 0.0.0.0 www.pakalertpress.com
 0.0.0.0 paks.fidesz.hu
 0.0.0.0 www.paks.fidesz.hu
+0.0.0.0 palatinu.co
+0.0.0.0 www.palatinu.co
 0.0.0.0 palazzolo.leganord.org
 0.0.0.0 www.palazzolo.leganord.org
 0.0.0.0 palbulletin.com
@@ -17266,6 +17294,8 @@
 0.0.0.0 www.soon.8kun.toptive-headlines.org
 0.0.0.0 soonerstatenews.com
 0.0.0.0 www.soonerstatenews.com
+0.0.0.0 sophia-polis.fr
+0.0.0.0 www.sophia-polis.fr
 0.0.0.0 sordrescue.com
 0.0.0.0 www.sordrescue.com
 0.0.0.0 soroe.danskfolkeparti.dk
@@ -18410,6 +18440,8 @@
 0.0.0.0 www.teleguiado.com
 0.0.0.0 temse.vlaamsbelang.org
 0.0.0.0 www.temse.vlaamsbelang.org
+0.0.0.0 tenesoun.fr
+0.0.0.0 www.tenesoun.fr
 0.0.0.0 tensmiths.wordpress.com
 0.0.0.0 www.tensmiths.wordpress.com
 0.0.0.0 tenthamendmentcenter.com
@@ -19440,6 +19472,8 @@
 0.0.0.0 www.totalworldnews.com
 0.0.0.0 touchalife.minds.com
 0.0.0.0 www.touchalife.minds.com
+0.0.0.0 touchepasamastatue.fr
+0.0.0.0 www.touchepasamastatue.fr
 0.0.0.0 touchepasamonflic.com
 0.0.0.0 www.touchepasamonflic.com
 0.0.0.0 toutsaufsarkozy.com

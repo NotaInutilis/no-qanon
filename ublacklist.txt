@@ -164,6 +164,7 @@
 *://*.abriluno.com/*
 *://*.absurd.news/*
 *://*.academiacatavencu.info/*
+*://*.academiachristiana.org/*
 *://*.academyofideas.com/*
 *://*.acallforanuprising.com/*
 *://*.accademiadellaliberta.blogspot.it/*
@@ -603,6 +604,7 @@
 *://*.arete.network/*
 *://*.areyouasleep.com/*
 *://*.arezzo.leganord.org/*
+*://*.argosfrance.org/*
 *://*.argumenti.ru/*
 *://*.ari.aynrand.org/*
 *://*.arizonabiteme.com/*
@@ -698,6 +700,7 @@
 *://*.aum-internet.org/*
 *://*.auroraneguide.com/*
 *://*.auroraray.com/*
+*://*.aurorasemperest.wordpress.com/*
 *://*.aurorasito.wordpress.com/*
 *://*.ausreps.org/*
 *://*.austintxnews.com/*
@@ -1736,6 +1739,7 @@
 *://*.cobbreporter.com/*
 *://*.cobratate.com/*
 *://*.cobusinessdaily.com/*
+*://*.cocardeetudiante.com/*
 *://*.coconinonews.com/*
 *://*.cod.rep.de/*
 *://*.code-reinho.myspreadshop.fr/*
@@ -2683,6 +2687,7 @@
 *://*.ecvirginianews.com/*
 *://*.ecwisconsinnews.com/*
 *://*.eda.sd.se/*
+*://*.edc-espritdecorps.fr/*
 *://*.edcgoods.com/*
 *://*.eddenya.com/*
 *://*.edegem.vlaamsbelang.org/*
@@ -2782,6 +2787,7 @@
 *://*.empiresports.co/*
 *://*.empirestatetoday.com/*
 *://*.en-marche.fr/*
+*://*.en-racine.org/*
 *://*.en-volve.com/*
 *://*.en.alleanzanazionale.it/*
 *://*.en.kremlin.ru/*
@@ -3534,6 +3540,7 @@
 *://*.gear.news/*
 *://*.gearlandia.haus/*
 *://*.geel.vlaamsbelang.org/*
+*://*.geertwilders.nl/*
 *://*.gegdxm4iek.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/*
 *://*.gegenstimme.tv/*
 *://*.gelencserattila.fidesz.hu/*
@@ -4891,6 +4898,7 @@
 *://*.labourleave.org.uk/*
 *://*.labs.opendns.com/*
 *://*.labusinessdaily.com/*
+*://*.lacitadellelille.com/*
 *://*.lacontrerevolution.wordpress.com/*
 *://*.lactionfrancaise.fr/*
 *://*.lacucinasiciliana.altervista.org/*
@@ -5067,11 +5075,13 @@
 *://*.les-identitaires.com/*
 *://*.les-identitaires.fr/*
 *://*.les-patriotes.fr/*
+*://*.les-temeraires.org/*
 *://*.lesacreduprintemps19.wordpress.com/*
 *://*.lesaffranchissflfrance.fr/*
 *://*.lesakerfrancophone.fr/*
 *://*.lesalonbeige.blogs.com/*
 *://*.lesalonbeige.fr/*
+*://*.lesbraves.org/*
 *://*.lesbrigandes.com/*
 *://*.lesbrindherbes.org/*
 *://*.leschroniquesderorschach.blogspot.fr/*
@@ -5301,6 +5311,7 @@
 *://*.lynchburgreporter.com/*
 *://*.lyngby-taarbaek.danskfolkeparti.dk/*
 *://*.lynwoodtimes.com/*
+*://*.lyonpopulaire.fr/*
 *://*.lztnimbq.lc.org/*
 *://*.m.8ch.net/*
 *://*.m.8kun.top/*
@@ -5894,6 +5905,7 @@
 *://*.moundridgeguide.com/*
 *://*.mountainstatetimes.com/*
 *://*.mouthfrog.com/*
+*://*.mouvementchouan.fr/*
 *://*.movar.fidesz.hu/*
 *://*.movcivitas.pt/*
 *://*.mover.cis.org/*
@@ -6838,6 +6850,7 @@
 *://*.optoons.blogspot.com/*
 *://*.opwijk.vlaamsbelang.org/*
 *://*.or.childrenshealthdefense.org/*
+*://*.orbanviktor.com/*
 *://*.orbusinessdaily.com/*
 *://*.orbys.net/*
 *://*.orderof315.minds.com/*
@@ -6946,6 +6959,7 @@
 *://*.paginatransversal.wordpress.com/*
 *://*.pakalertpress.com/*
 *://*.paks.fidesz.hu/*
+*://*.palatinu.co/*
 *://*.palazzolo.leganord.org/*
 *://*.palbulletin.com/*
 *://*.paleochristianity.org/*
@@ -8639,6 +8653,7 @@
 *://*.soon.8kun.toppedia.com/*
 *://*.soon.8kun.toptive-headlines.org/*
 *://*.soonerstatenews.com/*
+*://*.sophia-polis.fr/*
 *://*.sordrescue.com/*
 *://*.soroe.danskfolkeparti.dk/*
 *://*.sosbebe.org/*
@@ -9211,6 +9226,7 @@
 *://*.telegraph.co.uk/*
 *://*.teleguiado.com/*
 *://*.temse.vlaamsbelang.org/*
+*://*.tenesoun.fr/*
 *://*.tensmiths.wordpress.com/*
 *://*.tenthamendmentcenter.com/*
 *://*.tenyek-online.com/*
@@ -9726,6 +9742,7 @@
 *://*.totalrestitution.com/*
 *://*.totalworldnews.com/*
 *://*.touchalife.minds.com/*
+*://*.touchepasamastatue.fr/*
 *://*.touchepasamonflic.com/*
 *://*.toutsaufsarkozy.com/*
 *://*.townhall.com/*
