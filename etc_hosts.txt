@@ -10572,6 +10572,8 @@
 0.0.0.0 www.lubbocktimes.com
 0.0.0.0 lucca.leganord.org
 0.0.0.0 www.lucca.leganord.org
+0.0.0.0 lucianwintrich.com
+0.0.0.0 www.lucianwintrich.com
 0.0.0.0 lucidawakenings.net
 0.0.0.0 www.lucidawakenings.net
 0.0.0.0 ludvika.sd.se
@@ -21734,6 +21736,10 @@
 0.0.0.0 www.wrapped.cryptopunks.app
 0.0.0.0 wrightcountyguide.com
 0.0.0.0 www.wrightcountyguide.com
+0.0.0.0 wrongop.creator-spring.com
+0.0.0.0 www.wrongop.creator-spring.com
+0.0.0.0 wrongop.gumroad.com
+0.0.0.0 www.wrongop.gumroad.com
 0.0.0.0 wrongthink.net
 0.0.0.0 www.wrongthink.net
 0.0.0.0 ws.8ch.net

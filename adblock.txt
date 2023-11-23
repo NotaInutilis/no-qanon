@@ -5292,6 +5292,7 @@
 ||ltm.buchanan.org^
 ||lubbocktimes.com^
 ||lucca.leganord.org^
+||lucianwintrich.com^
 ||lucidawakenings.net^
 ||ludvika.sd.se^
 ||lulea.sd.se^
@@ -10873,6 +10874,8 @@
 ||wr.lc.org^
 ||wrapped.cryptopunks.app^
 ||wrightcountyguide.com^
+||wrongop.creator-spring.com^
+||wrongop.gumroad.com^
 ||wrongthink.net^
 ||ws.8ch.net^
 ||ws.mewe.com^
