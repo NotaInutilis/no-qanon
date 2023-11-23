@@ -1,4 +1,4 @@
-! Title: Fake-Local-Journals-List
+#! Title: Fake-Local-Journals-List
 abilenetimes.com
 abqtimes.com
 adairmadisonnews.com
