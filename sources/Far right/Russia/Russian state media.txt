@@ -5,10 +5,8 @@ rt.com
 arabic.rt.com
 de.rt.com
 rtd.rt.com
-de.rt.com
 francais.rt.com
 actualidad.rt.com
-rtd.rt.com
 russian.rt.com
 doc.rt.com
 rt.rs
@@ -25,5 +23,4 @@ rbth.ru
 
 # Sputnik
 sputnikglobe.com
-sputniknews.com
 sputniknews.com
