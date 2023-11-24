@@ -1558,6 +1558,7 @@
 ||chartrespilgrimageusa.remnantnewspaper.com^
 ||chasse-nature-occitanie.fr^
 ||chasseurdefrance.com^
+||chassons.com^
 ||chat-ssl.minds.com^
 ||chat.bitchute.com^
 ||chat.codoh.com^
@@ -3026,6 +3027,7 @@
 ||faaborg-midtfyn.danskfolkeparti.dk^
 ||fabmatters.wordpress.com^
 ||face-nemzedek.com^
+||face.eu^
 ||facts4eu.org^
 ||factsandarts.com^
 ||fagersta.sd.se^
@@ -3504,6 +3506,7 @@
 ||gallivare.sd.se^
 ||galmaarden.vlaamsbelang.org^
 ||galvaguide.com^
+||gamefair.fr^
 ||gameliberty.club^
 ||gamergate-news.tumblr.com^
 ||gameruprising.to^
@@ -3594,6 +3597,7 @@
 ||gibraltar-messenger.net^
 ||gibsonforfreedom.com^
 ||gijinka.blogspot.com^
+||gilleskepel.weebly.com^
 ||gilo.fidesz.hu^
 ||giorgiameloni.it^
 ||giornale24ore.com^
@@ -8459,6 +8463,7 @@
 ||siegeculture.bizers.org.au^
 ||siel-souverainete.fr^
 ||sigmaframe.wordpress.com^
+||signforhunting.com^
 ||signoraggio.it^
 ||signup-test.d.tube^
 ||signup.clouthub.com^

@@ -3104,6 +3104,8 @@
 0.0.0.0 www.chasse-nature-occitanie.fr
 0.0.0.0 chasseurdefrance.com
 0.0.0.0 www.chasseurdefrance.com
+0.0.0.0 chassons.com
+0.0.0.0 www.chassons.com
 0.0.0.0 chat-ssl.minds.com
 0.0.0.0 www.chat-ssl.minds.com
 0.0.0.0 chat.bitchute.com
@@ -6040,6 +6042,8 @@
 0.0.0.0 www.fabmatters.wordpress.com
 0.0.0.0 face-nemzedek.com
 0.0.0.0 www.face-nemzedek.com
+0.0.0.0 face.eu
+0.0.0.0 www.face.eu
 0.0.0.0 facts4eu.org
 0.0.0.0 www.facts4eu.org
 0.0.0.0 factsandarts.com
@@ -6996,6 +7000,8 @@
 0.0.0.0 www.galmaarden.vlaamsbelang.org
 0.0.0.0 galvaguide.com
 0.0.0.0 www.galvaguide.com
+0.0.0.0 gamefair.fr
+0.0.0.0 www.gamefair.fr
 0.0.0.0 gameliberty.club
 0.0.0.0 www.gameliberty.club
 0.0.0.0 gamergate-news.tumblr.com
@@ -7176,6 +7182,8 @@
 0.0.0.0 www.gibsonforfreedom.com
 0.0.0.0 gijinka.blogspot.com
 0.0.0.0 www.gijinka.blogspot.com
+0.0.0.0 gilleskepel.weebly.com
+0.0.0.0 www.gilleskepel.weebly.com
 0.0.0.0 gilo.fidesz.hu
 0.0.0.0 www.gilo.fidesz.hu
 0.0.0.0 giorgiameloni.it
@@ -16906,6 +16914,8 @@
 0.0.0.0 www.siel-souverainete.fr
 0.0.0.0 sigmaframe.wordpress.com
 0.0.0.0 www.sigmaframe.wordpress.com
+0.0.0.0 signforhunting.com
+0.0.0.0 www.signforhunting.com
 0.0.0.0 signoraggio.it
 0.0.0.0 www.signoraggio.it
 0.0.0.0 signup-test.d.tube
