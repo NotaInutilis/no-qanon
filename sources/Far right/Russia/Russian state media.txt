@@ -1,7 +1,10 @@
 ria.ru
+
 # RT
 rt.com
 arabic.rt.com
+de.rt.com
+rtd.rt.com
 de.rt.com
 francais.rt.com
 actualidad.rt.com
@@ -11,6 +14,7 @@ doc.rt.com
 rt.rs
 swentr.site
 ruptly.tv
+
 # Rossiya Segodnya
 россиясегодня.рф
 rossiyasegodnya.com
@@ -18,6 +22,8 @@ jinrieluosi.cn
 rbth.com
 ru.rbth.com
 rbth.ru
+
 # Sputnik
 sputnikglobe.com
+sputniknews.com
 sputniknews.com

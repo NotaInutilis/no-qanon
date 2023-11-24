@@ -17,7 +17,6 @@ qpolitical.com
 redstatewatcher.com
 russia-insider.com
 truepundit.com
-westernjournalism.com
 wnd.com
 365usanews.com
 4threvolutionarywar.wordpress.com
@@ -41,7 +40,6 @@ patriotupdate.com
 paulcraigroberts.org
 platosguns.com
 redflagnews.com
-thefederalistpapers.org
 thegatewaypundit.com
 therealstrategy.com
 thewatchtowers.com
@@ -66,7 +64,6 @@ bignuggetnews.com
 dailytelegraph.com.au
 pravda.ru
 pravdareport.com
-sputniknews.com
 alt-market.com
 americanfreepress.net
 blackgenocide.org
@@ -391,7 +388,6 @@ rinf.com
 ronpaulinstitute.org
 thefifthcolumnnews.com
 yellowhammernews.com
-breitbart.com
 countercurrents.org
 economicnoise.com
 americantoday.news
@@ -492,7 +488,6 @@ libertynews.com
 midiasemmascara.org
 nevo.news
 newcenturytimes.com
-newsmax.com
 olavodecarvalhofb.wordpress.com
 politicsintheusa.com
 reaconaria.org
@@ -686,7 +681,6 @@ britainfirst.org
 onenation.org.au
 investors.com
 deepstate.news
-townhall.com
 finalwakeupcall.info
 z3news.com
 kevinshipp.com
@@ -979,7 +973,6 @@ trusttheq.com
 patriotcoalition.org
 patriotcoalition.com
 americanpatriotcoalition.net
-patriotpost.us
 committee.org
 americanundergroundnetwork.ning.com
 2ndenforcers.org
@@ -1539,7 +1532,6 @@ stephenlendman.org
 landdestroyer.blogspot.com
 altthainews.blogspot.com
 yonews.org
-westernjournal.com
 onenewspage.com
 badblue.bitnamiapp.com
 ocalorg.blogspot.com
@@ -1565,7 +1557,6 @@ realclimatescience.com
 stevengoddard.wordpress.com
 climaterealists.com
 thegwpf.com
-newsmaxtv.com
 krystaltini.com
 stopmandatoryvaccination.com
 larrydcook.com
@@ -2538,7 +2529,6 @@ cbn.com
 douglasssociety.com
 defiantamerica.com
 newsbusters.org
-mrc.org
 world-signals.com
 laralogan.com
 plandemicseries.com
@@ -2725,14 +2715,11 @@ gatestoneinstitute.org
 medalerts.org
 alternativenews.com
 dailysignal.com
-dailywire.com
 naturalnewsblogs.com
 thevaccinereaction.org
 support.naturalnews.com
 tsargrad.tv
 lifesitenews.com
-rtd.rt.com
-de.rt.com
 frc.org
 washingtonstand.com
 en.kremlin.ru
