@@ -17,4 +17,4 @@ jobs:
         with:
           args: --verbose --no-progress --insecure './sources/**/*.txt'
           #format: json
-          output: /test.txt
+          output: ./test.txt
