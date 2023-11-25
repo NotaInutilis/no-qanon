@@ -14118,8 +14118,6 @@
 0.0.0.0 www.payment.load.live.triller.co
 0.0.0.0 pcfpc.org
 0.0.0.0 www.pcfpc.org
-0.0.0.0 pcgamingwiki.com
-0.0.0.0 www.pcgamingwiki.com
 0.0.0.0 pcrclaims.co.uk
 0.0.0.0 www.pcrclaims.co.uk
 0.0.0.0 peacedata.net

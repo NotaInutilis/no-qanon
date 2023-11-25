@@ -7058,7 +7058,6 @@ address=/payment.dev.live.triller.co/
 address=/payment.live.triller.co/
 address=/payment.load.live.triller.co/
 address=/pcfpc.org/
-address=/pcgamingwiki.com/
 address=/pcrclaims.co.uk/
 address=/peacedata.net/
 address=/peacegardennews.com/

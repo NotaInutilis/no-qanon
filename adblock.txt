@@ -7065,7 +7065,6 @@
 ||payment.live.triller.co^
 ||payment.load.live.triller.co^
 ||pcfpc.org^
-||pcgamingwiki.com^
 ||pcrclaims.co.uk^
 ||peacedata.net^
 ||peacegardennews.com^

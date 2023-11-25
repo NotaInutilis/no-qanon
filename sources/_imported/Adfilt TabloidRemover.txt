@@ -91,7 +91,6 @@ urbandictionary.com
 ifunny.co
 encyclopediadramatica.rs
 fftodayforums.com
-pcgamingwiki.com
 
 # Far-right/alt-right fringe "newssites" (Elsewhere than the countries listed below)
 19vierundachtzig.com
