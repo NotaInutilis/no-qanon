@@ -14,15 +14,15 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 
 ### Hosts format
 
-[Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or PiHole.
+[Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or or [Pi-hole](https://pi-hole.net/).
 
 [IPV6 version](https://raw.githubusercontent.com/rimu/no-qanon/master/hosts.txt.ipv6).
 
-- [Instructions to install on a Windows computer.](https://github.com/yui-konnu/qanon-block-guide)
+- [How to install on a Windows computer.](https://github.com/yui-konnu/qanon-block-guide)
 
-- [Instructions to install on a PiHole.](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/)
+- [How to install on a Pi-hole.](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/)
 
-Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset. https://bugzilla.mozilla.org/show_bug.cgi?id=1453207
+**Known issue:** [Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset.](https://bugzilla.mozilla.org/show_bug.cgi?id=1453207)
 
 ### Dnsmasq format
 
@@ -50,19 +50,29 @@ Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file 
 
 ### Mastodon
 
+[Blocklist in Mastodon format](https://raw.githubusercontent.com/rimu/no-qanon/master/mastodon.csv) to use with [Mastodon](https://joinmastodon.org/) and other federated services. It will defederate from blocked instances.
+
 ### Fediblockhole
+
+[Blocklist in FediBlockHole format](https://raw.githubusercontent.com/rimu/no-qanon/master/fediblockhole.csv) to use with the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) tool for Mastodon. It will defederate from blocked instances.
 
 ## How to contribute
 
-Clone this repository and add one domain per line in `.txt` files stored in the `sources` folder. Blocked sites are organized using subfolders and `.txt` files within the `sources` folder. Use markdown (`.md`) files and comments (`#`) to add more information and references.
+Clone this repository and add one domain per line in `.txt` files stored in the `sources` folder. Blocked sites are organized using subfolders and `.txt` files within the `sources` folder. Use comments (`#`) and markdown files (`.md`) to add more information and references.
 
 > For the `https://www.example.com` website, add `example.com` on a new line of the `sources/default.txt` file.
 
-You can paste the full URL: the update script will clean it and make it a domain. You can also add TLDs (e.g. `com`, without the dot), they will be blocked by Dnsmasq, adblockers and uBlacklist. Putting a domain in a `.txt` file with `fediverse` (e.g. `Bad Fediverse is bad.txt`) in its name will output it in the Fediverse blocklists.
+You can paste the full URL: the update script will clean it and make it a domain. As the hosts format does not automatically block subdomains (e.g. `subdomain.example.com`), they have to be explicitely added to the list to maintain compatibility.
+
+It is possible to add TLDs (e.g. `com`, without the dot) to the list, they will be blocked by Dnsmasq, adblockers and uBlacklist. Domains related to Fediverse instances (Mastodon, Peertube, etc.) should be put in `.txt` files with `fediverse` in their names (e.g. `Bad Fediverse is bad.txt`) so that they are included in the Fediverse blocklists.
 
 Then, when you push your changes to the `sources` folder, GitHub actions automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python).
 
-Finally, make a pull request: we'll review and approve it within a few days.
+Finally, make a pull request: it will be reviewed and approve it within a few days.
+
+### Importing an external list
+
+External lists can be imported by adding them to the `import/importlist.txt` as a new line in the following format: `list name.txt|url`. They are automatically downloaded twice a day, cleaned (some formats only), copied to the `sources/_imported/`folder and thus added to the list generation database. The domain list in the `import/allowlist.txt` file serves as an exception ruleset for imported lists.
 
 ### How to contribute (easy mode)
 
