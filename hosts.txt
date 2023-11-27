@@ -7386,6 +7386,8 @@
 0.0.0.0 www.goodsauce.news
 0.0.0.0 goodsciencing.com
 0.0.0.0 www.goodsciencing.com
+0.0.0.0 gop
+0.0.0.0 www.gop
 0.0.0.0 gop.com
 0.0.0.0 www.gop.com
 0.0.0.0 gop.gov
@@ -15592,6 +15594,8 @@
 0.0.0.0 www.repubblica24.com
 0.0.0.0 republicains.fr
 0.0.0.0 www.republicains.fr
+0.0.0.0 republican
+0.0.0.0 www.republican
 0.0.0.0 republicbroadcasting.org
 0.0.0.0 www.republicbroadcasting.org
 0.0.0.0 research.news

@@ -864,5 +864,5 @@ givesendgo.com
 # ————— Additional categories —————
 
 # These have to be the worst TLDs I've ever seen in my life, and I say that as someone who knows that ".ooo" and ".sucks" exists.
-#*.gop
-#*.republican
+gop
+republican

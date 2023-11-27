@@ -3699,6 +3699,7 @@
 *://*.goodgopher.com/*
 *://*.goodsauce.news/*
 *://*.goodsciencing.com/*
+*://*.gop/*
 *://*.gop.com/*
 *://*.gop.gov/*
 *://*.gopthedailydose.com/*
@@ -7802,6 +7803,7 @@
 *://*.reports.4chan.org/*
 *://*.repubblica24.com/*
 *://*.republicains.fr/*
+*://*.republican/*
 *://*.republicbroadcasting.org/*
 *://*.research.news/*
 *://*.reseauinternational.net/*
