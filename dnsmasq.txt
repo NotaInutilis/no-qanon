@@ -11244,5 +11244,3 @@ address=/zv-0itdc-2y0x1.bitchute.com/
 address=/zwijndrecht.vlaamsbelang.org/
 address=/zynecoin.io/
 address=/россиясегодня.рф/
-address=/gop/
-address=/republican/

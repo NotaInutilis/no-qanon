@@ -11251,5 +11251,3 @@
 ||zwijndrecht.vlaamsbelang.org^
 ||zynecoin.io^
 ||россиясегодня.рф^
-||gop^
-||republican^
