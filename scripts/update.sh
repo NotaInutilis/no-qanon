@@ -45,9 +45,7 @@ cp ./headers/adblock.txt adblock.txt
 cat adblock_temp.txt >> adblock.txt
 rm adblock_temp.txt
 ### uBlacklist
-python scripts/domains_to_ublacklist.py > ublacklist_temp.txt
-cat ublacklist_temp.txt >> ublacklist.txt
-rm ublacklist_temp.txt
+python scripts/domains_to_ublacklist.py > ublacklist.txt
 
 ## Generate Fediverse blocklists
 ### Mastodon
