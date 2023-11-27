@@ -14,4 +14,4 @@ jobs:
         with:
           args: --verbose --no-progress --insecure './sources/**/*.txt'
           format: compact
-          #output: ./test.txt
+          output: './test.txt'
