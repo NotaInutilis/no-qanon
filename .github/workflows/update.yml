@@ -2,8 +2,6 @@ name: Update blocklists
 
 on:
   push:
-    branches:
-      - master
     paths:
       - 'sources/**.txt'
       - 'filters/**.txt'

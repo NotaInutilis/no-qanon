@@ -10,7 +10,9 @@ Fascists prey on the vulnerable so stay vigilant and consider also using a socia
 
 Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt).
 
-## Hosts format
+## DNS blockers
+
+### Hosts format
 
 [Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or PiHole.
 
@@ -22,7 +24,7 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 
 Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset. https://bugzilla.mozilla.org/show_bug.cgi?id=1453207
 
-## Dnsmasq format
+### Dnsmasq format
 
 [Blocklist in Dnsmasq format](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
 
@@ -44,23 +46,23 @@ Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file 
 
 [Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=No-QAnon&url=https://raw.githubusercontent.com/rimu/no-qanon/master/ublacklist.txt) (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
 
-### Domains list
+## Fediverse formats
 
-[Domains list format](https://raw.githubusercontent.com/rimu/no-qanon/master/domains.txt) to use with [Search Engine Spam Blocker](https://github.com/no-cmyk/Search-Engine-Spam-Blocker). It removes blocked sites from search engine results.
+### Mastodon
+
+### Fediblockhole
 
 ## How to contribute
 
-Clone this repository and add new domains in the appropriate `.txt` files in the `sources` folder. If you do not want to categorize, just put it in the `sources/default.txt` file and it will be blocked.
+Clone this repository and add one domain per line in `.txt` files stored in the `sources` folder. Blocked sites are organized using subfolders and `.txt` files within the `sources` folder. Use markdown (`.md`) files and comments (`#`) to add more information and references.
 
-> For the `https://www.example.com` website, add `example.com` to the `sources/default.txt` file.
+> For the `https://www.example.com` website, add `example.com` on a new line of the `sources/default.txt` file.
 
-Then, when you push your changes to the `sources` folder, GitHub actions should kick in and automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python).
+You can paste the full URL: the update script will clean it and make it a domain. You can also add TLDs (e.g. `com`, without the dot), they will be blocked by Dnsmasq, adblockers and uBlacklist. Putting a domain in a `.txt` file with `fediverse` (e.g. `Bad Fediverse is bad.txt`) in its name will output it in the Fediverse blocklists.
+
+Then, when you push your changes to the `sources` folder, GitHub actions automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python).
 
 Finally, make a pull request: we'll review and approve it within a few days.
-
-### Categorization
-
-Blocked sites are organized using subfolders and `.txt` files in the `sources` folder. Use markdown (`.md`) files and comments (`#`) to add more information and references.
 
 ### How to contribute (easy mode)
 
@@ -79,8 +81,6 @@ This blocklist borrows from the following projects:
 
 ## Other useful lists
 
-[Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): consider blocking Twitter, YouTube and Facebook since they publish so many fake news.
-
-[Antifa-n Blocklist](https://github.com/antifa-n/pihole/blob/master/blocklist.txt) is also a great blocklist focused on fascist sites.
+[Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): consider blocking platforms such as Twitter, YouTube and Facebook as they are riddled with fake news and fascist content.
 
 [Bypass Methods Blocklist](https://github.com/nextdns/dns-bypass-methods) can be used to block bypass methods (VPNs, proxies, DNS, etc.).
