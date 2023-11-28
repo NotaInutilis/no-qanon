@@ -1,10 +1,7 @@
-[uBlock Origin]
 ! Title: No-QAnon
-! Homepage: https://github.com/rimu/no-qanon
-! Author: rimu
-! Expires: 4 days
 ! Description: An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and discriminatory websites.
-
+! Expires: 2 days
+! Homepage: https://github.com/rimu/no-qanon
 ||0.d.tube^
 ||0.thumbs.4chan.org^
 ||02ls3x02xl.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org^
@@ -7066,6 +7063,7 @@
 ||payment.live.triller.co^
 ||payment.load.live.triller.co^
 ||pcfpc.org^
+||pcgamingwiki.com^
 ||pcrclaims.co.uk^
 ||peacedata.net^
 ||peacegardennews.com^
