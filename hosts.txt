@@ -2416,6 +2416,8 @@
 0.0.0.0 www.brasspills.com
 0.0.0.0 brave.cafe
 0.0.0.0 www.brave.cafe
+0.0.0.0 bravebooks.us
+0.0.0.0 www.bravebooks.us
 0.0.0.0 bravepatrie.com
 0.0.0.0 www.bravepatrie.com
 0.0.0.0 bravetruth.org
@@ -10560,6 +10562,8 @@
 0.0.0.0 www.lp.org
 0.0.0.0 lpac.co
 0.0.0.0 www.lpac.co
+0.0.0.0 lpclc.org
+0.0.0.0 www.lpclc.org
 0.0.0.0 lronhubbard.fr
 0.0.0.0 www.lronhubbard.fr
 0.0.0.0 lronhubbard.org
@@ -17100,6 +17104,8 @@
 0.0.0.0 www.sky24ore.it
 0.0.0.0 skytg24news.com
 0.0.0.0 www.skytg24news.com
+0.0.0.0 skytreebookfairs.org
+0.0.0.0 www.skytreebookfairs.org
 0.0.0.0 sla.nyeborgerlige.dk
 0.0.0.0 www.sla.nyeborgerlige.dk
 0.0.0.0 slagelse.danskfolkeparti.dk

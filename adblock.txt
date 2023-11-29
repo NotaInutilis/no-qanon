@@ -1211,6 +1211,7 @@
 ||brasschecktv.com^
 ||brasspills.com^
 ||brave.cafe^
+||bravebooks.us^
 ||bravepatrie.com^
 ||bravetruth.org^
 ||brazenbonapartist.blogspot.com^
@@ -5283,6 +5284,7 @@
 ||loyaltyhonor.wordpress.com^
 ||lp.org^
 ||lpac.co^
+||lpclc.org^
 ||lronhubbard.fr^
 ||lronhubbard.org^
 ||ls.liveprayer.com^
@@ -8553,6 +8555,7 @@
 ||skurup.sd.se^
 ||sky24ore.it^
 ||skytg24news.com^
+||skytreebookfairs.org^
 ||sla.nyeborgerlige.dk^
 ||slagelse.danskfolkeparti.dk^
 ||slantedright2.blogspot.com^
