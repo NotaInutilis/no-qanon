@@ -5040,6 +5040,8 @@
 0.0.0.0 www.donuts.domainssys.8kun.top
 0.0.0.0 dookeydash.com
 0.0.0.0 www.dookeydash.com
+0.0.0.0 doramoutot.com
+0.0.0.0 www.doramoutot.com
 0.0.0.0 dorchestertoday.com
 0.0.0.0 www.dorchestertoday.com
 0.0.0.0 dorkotalajos.fidesz.hu
@@ -6264,6 +6266,8 @@
 0.0.0.0 www.feedback.dlive.tv
 0.0.0.0 fellowshipoftheminds.com
 0.0.0.0 www.fellowshipoftheminds.com
+0.0.0.0 femelliste.com
+0.0.0.0 www.femelliste.com
 0.0.0.0 fenixx.org
 0.0.0.0 www.fenixx.org
 0.0.0.0 fexch.fidesz.hu
@@ -7012,6 +7016,8 @@
 0.0.0.0 www.gameruprising.to
 0.0.0.0 gamma.avoiceformen.com
 0.0.0.0 www.gamma.avoiceformen.com
+0.0.0.0 gangduclito.com
+0.0.0.0 www.gangduclito.com
 0.0.0.0 gangstergovernment.com
 0.0.0.0 www.gangstergovernment.com
 0.0.0.0 gangstersout.blogspot.com

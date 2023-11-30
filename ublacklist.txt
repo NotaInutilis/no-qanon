@@ -2519,6 +2519,7 @@
 *://*.dont-tread-on.me/*
 *://*.donuts.domainssys.8kun.top/*
 *://*.dookeydash.com/*
+*://*.doramoutot.com/*
 *://*.dorchestertoday.com/*
 *://*.dorkotalajos.fidesz.hu/*
 *://*.dorotea.sd.se/*
@@ -3131,6 +3132,7 @@
 *://*.fedsalert.com/*
 *://*.feedback.dlive.tv/*
 *://*.fellowshipoftheminds.com/*
+*://*.femelliste.com/*
 *://*.fenixx.org/*
 *://*.fexch.fidesz.hu/*
 *://*.fftodayforums.com/*
@@ -3505,6 +3507,7 @@
 *://*.gamergate-news.tumblr.com/*
 *://*.gameruprising.to/*
 *://*.gamma.avoiceformen.com/*
+*://*.gangduclito.com/*
 *://*.gangstergovernment.com/*
 *://*.gangstersout.blogspot.com/*
 *://*.garawatches0346.minds.com/*
