@@ -3332,6 +3332,7 @@
 "*://*.francevapotage.fr/*",
 "*://*.franciacorta.leganord.org/*",
 "*://*.francislalanne.com/*",
+"*://*.francisrichard.net/*",
 "*://*.francoisasselineau.fr/*",
 "*://*.franklinarcher.com/*",
 "*://*.franko.info/*",

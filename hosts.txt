@@ -6666,6 +6666,8 @@
 0.0.0.0 www.franciacorta.leganord.org
 0.0.0.0 francislalanne.com
 0.0.0.0 www.francislalanne.com
+0.0.0.0 francisrichard.net
+0.0.0.0 www.francisrichard.net
 0.0.0.0 francoisasselineau.fr
 0.0.0.0 www.francoisasselineau.fr
 0.0.0.0 franklinarcher.com

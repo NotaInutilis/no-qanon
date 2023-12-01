@@ -3332,6 +3332,7 @@ address=/francesoir.fr/
 address=/francevapotage.fr/
 address=/franciacorta.leganord.org/
 address=/francislalanne.com/
+address=/francisrichard.net/
 address=/francoisasselineau.fr/
 address=/franklinarcher.com/
 address=/franko.info/
