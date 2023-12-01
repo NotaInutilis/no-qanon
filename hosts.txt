@@ -6628,6 +6628,8 @@
 0.0.0.0 www.fprnradio.com
 0.0.0.0 fr.bitterwinter.org
 0.0.0.0 www.fr.bitterwinter.org
+0.0.0.0 fr.irefeurope.org
+0.0.0.0 www.fr.irefeurope.org
 0.0.0.0 fr.metapedia.org
 0.0.0.0 www.fr.metapedia.org
 0.0.0.0 fr.news-front.info
@@ -8924,6 +8926,8 @@
 0.0.0.0 www.irc.voat.co
 0.0.0.0 irclogs.8ch.net
 0.0.0.0 www.irclogs.8ch.net
+0.0.0.0 irefeurope.org
+0.0.0.0 www.irefeurope.org
 0.0.0.0 irishsavant.blogspot.com
 0.0.0.0 www.irishsavant.blogspot.com
 0.0.0.0 irishufology.net

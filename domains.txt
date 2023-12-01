@@ -3313,6 +3313,7 @@ fpoe.at
 fpp.co.uk
 fprnradio.com
 fr.bitterwinter.org
+fr.irefeurope.org
 fr.metapedia.org
 fr.news-front.info
 fr.novopress.info
@@ -4461,6 +4462,7 @@ iranium.clarionproject.org
 irc.nycpatriot.org
 irc.voat.co
 irclogs.8ch.net
+irefeurope.org
 irishsavant.blogspot.com
 irishufology.net
 irl.minds.com
