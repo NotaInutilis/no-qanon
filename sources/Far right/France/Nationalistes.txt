@@ -14,3 +14,6 @@ sophia-polis.fr
 tenesoun.fr
 touchepasamastatue.fr
 les-temeraires.org
+
+#Blogs
+https://www.francisrichard.net/
