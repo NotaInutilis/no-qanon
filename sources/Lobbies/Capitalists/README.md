@@ -1,0 +1,2 @@
+Entrepreneurship, free market, industry before ecology… All packaged in a "scientific" manner with financing from private industries.
+Generally reactionnary, quasi libertarian, complete nonsense regarding social and economical issues.
