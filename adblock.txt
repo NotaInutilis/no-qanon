@@ -3083,6 +3083,7 @@
 ||familyfedcommunity.org.uk^
 ||familyfedihq.org^
 ||familyfednz.org^
+||familyoftaygeta.com^
 ||familyresearchinst.org^
 ||familysecuritymatters.org^
 ||familytimes.com.ua^
@@ -5316,7 +5317,6 @@
 ||luna.minds.com^
 ||lund.sd.se^
 ||luogocomune.net^
-||lurkmore.to^
 ||lushforlife.com^
 ||luzernetimes.com^
 ||lycomingnews.com^

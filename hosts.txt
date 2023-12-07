@@ -6160,6 +6160,8 @@
 0.0.0.0 www.familyfedihq.org
 0.0.0.0 familyfednz.org
 0.0.0.0 www.familyfednz.org
+0.0.0.0 familyoftaygeta.com
+0.0.0.0 www.familyoftaygeta.com
 0.0.0.0 familyresearchinst.org
 0.0.0.0 www.familyresearchinst.org
 0.0.0.0 familysecuritymatters.org
@@ -10626,8 +10628,6 @@
 0.0.0.0 www.lund.sd.se
 0.0.0.0 luogocomune.net
 0.0.0.0 www.luogocomune.net
-0.0.0.0 lurkmore.to
-0.0.0.0 www.lurkmore.to
 0.0.0.0 lushforlife.com
 0.0.0.0 www.lushforlife.com
 0.0.0.0 luzernetimes.com
