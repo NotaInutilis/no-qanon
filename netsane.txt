@@ -10841,6 +10841,7 @@
 "*://*.womensdeclaration.org/*",
 "*://*.womensfitnessfocus.com/*",
 "*://*.womenshealth.news/*",
+"*://*.womenssportspolicy.org/*",
 "*://*.wommelgem.vlaamsbelang.org/*",
 "*://*.wonhwado.co.uk/*",
 "*://*.wonhwado.eu/*",

@@ -10841,6 +10841,7 @@ address=/womensdeclaration.com/
 address=/womensdeclaration.org/
 address=/womensfitnessfocus.com/
 address=/womenshealth.news/
+address=/womenssportspolicy.org/
 address=/wommelgem.vlaamsbelang.org/
 address=/wonhwado.co.uk/
 address=/wonhwado.eu/
