@@ -3516,6 +3516,8 @@
 0.0.0.0 www.collective-evolution.com
 0.0.0.0 collectivelyconscious.net
 0.0.0.0 www.collectivelyconscious.net
+0.0.0.0 collecttrumpcards.com
+0.0.0.0 www.collecttrumpcards.com
 0.0.0.0 collegehumor.com
 0.0.0.0 www.collegehumor.com
 0.0.0.0 collegeparktoday.com

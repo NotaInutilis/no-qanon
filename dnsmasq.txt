@@ -1757,6 +1757,7 @@ address=/collectif-nemesis.com/
 address=/collectifdesantepediatrique.fr/
 address=/collective-evolution.com/
 address=/collectivelyconscious.net/
+address=/collecttrumpcards.com/
 address=/collegehumor.com/
 address=/collegeparktoday.com/
 address=/collintimes.com/
