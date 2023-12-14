@@ -1014,6 +1014,8 @@
 0.0.0.0 www.antiantifa-usa.blogspot.com
 0.0.0.0 anticancer.news
 0.0.0.0 www.anticancer.news
+0.0.0.0 antifeminismaustralia.com
+0.0.0.0 www.antifeminismaustralia.com
 0.0.0.0 antigreen.blogspot.com
 0.0.0.0 www.antigreen.blogspot.com
 0.0.0.0 antimedianews.com

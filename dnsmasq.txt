@@ -506,6 +506,7 @@ address=/anthonyblogan.com/
 address=/anthraxvaccine.blogspot.com/
 address=/antiantifa-usa.blogspot.com/
 address=/anticancer.news/
+address=/antifeminismaustralia.com/
 address=/antigreen.blogspot.com/
 address=/antimedianews.com/
 address=/antipathyrecords.crew38.com/
