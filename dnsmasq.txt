@@ -10307,6 +10307,7 @@ address=/vighlaszlo.fidesz.hu/
 address=/vigilant.news/
 address=/vigilantcitizen.com/
 address=/vigilantcitizenforums.com/
+address=/vigilante.tv/
 address=/vigile.quebec/
 address=/vigrid.win/
 address=/vigridtvedt.net/

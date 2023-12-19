@@ -20616,6 +20616,8 @@
 0.0.0.0 www.vigilantcitizen.com
 0.0.0.0 vigilantcitizenforums.com
 0.0.0.0 www.vigilantcitizenforums.com
+0.0.0.0 vigilante.tv
+0.0.0.0 www.vigilante.tv
 0.0.0.0 vigile.quebec
 0.0.0.0 www.vigile.quebec
 0.0.0.0 vigrid.win

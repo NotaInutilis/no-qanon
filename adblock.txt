@@ -10311,6 +10311,7 @@
 ||vigilant.news^
 ||vigilantcitizen.com^
 ||vigilantcitizenforums.com^
+||vigilante.tv^
 ||vigile.quebec^
 ||vigrid.win^
 ||vigridtvedt.net^
