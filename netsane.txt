@@ -4231,6 +4231,7 @@
 "*://*.iceagenow.com/*",
 "*://*.iceagenow.info/*",
 "*://*.icecap.us/*",
+"*://*.icheckyoursoul.com/*",
 "*://*.ichtegem.vlaamsbelang.org/*",
 "*://*.ickonic.com/*",
 "*://*.icrichild.org/*",

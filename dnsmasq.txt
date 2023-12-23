@@ -4231,6 +4231,7 @@ address=/icandecide.org/
 address=/iceagenow.com/
 address=/iceagenow.info/
 address=/icecap.us/
+address=/icheckyoursoul.com/
 address=/ichtegem.vlaamsbelang.org/
 address=/ickonic.com/
 address=/icrichild.org/
