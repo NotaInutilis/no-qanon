@@ -9046,6 +9046,7 @@ address=/suavelos.eu/
 address=/subjectpolitics.com/
 address=/subscribe.theepochtimes.com/
 address=/subscribestar.com/
+address=/substack.com/
 address=/subverse.minds.com/
 address=/subvertednation.net/
 address=/succedenelmondo.com/

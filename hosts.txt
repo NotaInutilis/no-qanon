@@ -18094,6 +18094,8 @@
 0.0.0.0 www.subscribe.theepochtimes.com
 0.0.0.0 subscribestar.com
 0.0.0.0 www.subscribestar.com
+0.0.0.0 substack.com
+0.0.0.0 www.substack.com
 0.0.0.0 subverse.minds.com
 0.0.0.0 www.subverse.minds.com
 0.0.0.0 subvertednation.net

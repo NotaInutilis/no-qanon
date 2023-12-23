@@ -9046,6 +9046,7 @@
 *://*.subjectpolitics.com/*
 *://*.subscribe.theepochtimes.com/*
 *://*.subscribestar.com/*
+*://*.substack.com/*
 *://*.subverse.minds.com/*
 *://*.subvertednation.net/*
 *://*.succedenelmondo.com/*
