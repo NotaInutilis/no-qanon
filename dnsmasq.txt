@@ -385,6 +385,7 @@ address=/amazingpolly.net/
 address=/amember.davidicke.com/
 address=/america.win/
 address=/americafirstpatriot.org/
+address=/americafirstprospects.com/
 address=/americafullspeed.com/
 address=/americaismyname.org/
 address=/americanactionnews.com/

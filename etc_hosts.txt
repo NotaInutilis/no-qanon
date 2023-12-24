@@ -772,6 +772,8 @@
 0.0.0.0 www.america.win
 0.0.0.0 americafirstpatriot.org
 0.0.0.0 www.americafirstpatriot.org
+0.0.0.0 americafirstprospects.com
+0.0.0.0 www.americafirstprospects.com
 0.0.0.0 americafullspeed.com
 0.0.0.0 www.americafullspeed.com
 0.0.0.0 americaismyname.org

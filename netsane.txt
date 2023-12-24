@@ -385,6 +385,7 @@
 "*://*.amember.davidicke.com/*",
 "*://*.america.win/*",
 "*://*.americafirstpatriot.org/*",
+"*://*.americafirstprospects.com/*",
 "*://*.americafullspeed.com/*",
 "*://*.americaismyname.org/*",
 "*://*.americanactionnews.com/*",
