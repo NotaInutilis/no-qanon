@@ -7459,6 +7459,7 @@ address=/prosecutenow.com/
 address=/protectfreedompac.com/
 address=/protectingthesecondamendment.com/
 address=/protectionist.net/
+address=/protegeons-nos-enfants.fr/
 address=/protothema.gr/
 address=/protrumpnews.com/
 address=/proudboys.com.au/

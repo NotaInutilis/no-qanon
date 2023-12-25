@@ -14920,6 +14920,8 @@
 0.0.0.0 www.protectingthesecondamendment.com
 0.0.0.0 protectionist.net
 0.0.0.0 www.protectionist.net
+0.0.0.0 protegeons-nos-enfants.fr
+0.0.0.0 www.protegeons-nos-enfants.fr
 0.0.0.0 protothema.gr
 0.0.0.0 www.protothema.gr
 0.0.0.0 protrumpnews.com
