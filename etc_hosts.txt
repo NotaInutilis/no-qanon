@@ -144,6 +144,8 @@
 0.0.0.0 www.4thmedia.org
 0.0.0.0 4threvolutionarywar.wordpress.com
 0.0.0.0 www.4threvolutionarywar.wordpress.com
+0.0.0.0 4thwavenow.com
+0.0.0.0 www.4thwavenow.com
 0.0.0.0 50-50magazine.fr
 0.0.0.0 www.50-50magazine.fr
 0.0.0.0 564defd7-392a-241a-59db-3cf0d57a8aa2.softserve.8kun.top
@@ -762,6 +764,8 @@
 0.0.0.0 www.am1100theflag.com
 0.0.0.0 amal.sd.se
 0.0.0.0 www.amal.sd.se
+0.0.0.0 amandafamilias.org
+0.0.0.0 www.amandafamilias.org
 0.0.0.0 amarillogazette.com
 0.0.0.0 www.amarillogazette.com
 0.0.0.0 amazingpolly.net
@@ -890,6 +894,8 @@
 0.0.0.0 www.amouradistance.minds.com
 0.0.0.0 amposts.com
 0.0.0.0 www.amposts.com
+0.0.0.0 amqg.ch
+0.0.0.0 www.amqg.ch
 0.0.0.0 amren.com
 0.0.0.0 www.amren.com
 0.0.0.0 amtvmedia.com
@@ -1038,6 +1044,8 @@
 0.0.0.0 www.antwerpen.vlaamsbelang.org
 0.0.0.0 aos.aggressivechristianity.net
 0.0.0.0 www.aos.aggressivechristianity.net
+0.0.0.0 aotearoasupport.nz
+0.0.0.0 www.aotearoasupport.nz
 0.0.0.0 apache4.rationalwiki.org
 0.0.0.0 www.apache4.rationalwiki.org
 0.0.0.0 apar.tv
@@ -1802,6 +1810,8 @@
 0.0.0.0 www.bayern.diefreiheit.org
 0.0.0.0 baystatenews.com
 0.0.0.0 www.baystatenews.com
+0.0.0.0 bayswatersupport.org.uk
+0.0.0.0 www.bayswatersupport.org.uk
 0.0.0.0 bb4sp.com
 0.0.0.0 www.bb4sp.com
 0.0.0.0 bbs.dailystormer.al
@@ -1952,6 +1962,8 @@
 0.0.0.0 www.bewustnieuws.nl
 0.0.0.0 beyondmystic.net
 0.0.0.0 www.beyondmystic.net
+0.0.0.0 beyondtrans.org
+0.0.0.0 www.beyondtrans.org
 0.0.0.0 bezali.vlaamsbelang.org
 0.0.0.0 www.bezali.vlaamsbelang.org
 0.0.0.0 bgetr.infogalactic.com
@@ -2588,6 +2600,10 @@
 0.0.0.0 www.butlerhomelessinitiative.parentsactionleague.org
 0.0.0.0 butthatsnoneofmybusiness.com
 0.0.0.0 www.butthatsnoneofmybusiness.com
+0.0.0.0 buttonslives.news
+0.0.0.0 www.buttonslives.news
+0.0.0.0 buttonslives.substack.com
+0.0.0.0 www.buttonslives.substack.com
 0.0.0.0 buzz.naturalnews.com
 0.0.0.0 www.buzz.naturalnews.com
 0.0.0.0 buzz4net.com
@@ -2688,6 +2704,8 @@
 0.0.0.0 www.campaigns.bnp.org.uk
 0.0.0.0 campusinsanity.com
 0.0.0.0 www.campusinsanity.com
+0.0.0.0 can-sg.org
+0.0.0.0 www.can-sg.org
 0.0.0.0 canada.insaf.pk
 0.0.0.0 www.canada.insaf.pk
 0.0.0.0 canadacc.org
@@ -2782,6 +2800,8 @@
 0.0.0.0 www.carbondioxide.news
 0.0.0.0 carbonfolly.com
 0.0.0.0 www.carbonfolly.com
+0.0.0.0 cardinalsupportnetwork.com
+0.0.0.0 www.cardinalsupportnetwork.com
 0.0.0.0 careers.cityoflondon.police.uk
 0.0.0.0 www.careers.cityoflondon.police.uk
 0.0.0.0 carlbherman.blogspot.com
@@ -3180,6 +3200,8 @@
 0.0.0.0 www.chicotimes.com
 0.0.0.0 chieuseatempcomplet.com
 0.0.0.0 www.chieuseatempcomplet.com
+0.0.0.0 childparentrights.org
+0.0.0.0 www.childparentrights.org
 0.0.0.0 childrenshealthdefense.co.za
 0.0.0.0 www.childrenshealthdefense.co.za
 0.0.0.0 childrenshealthdefense.eu
@@ -3504,6 +3526,8 @@
 0.0.0.0 www.colemancountyguide.com
 0.0.0.0 colico.leganord.org
 0.0.0.0 www.colico.leganord.org
+0.0.0.0 colinwright.substack.com
+0.0.0.0 www.colinwright.substack.com
 0.0.0.0 collamask.minds.com
 0.0.0.0 www.collamask.minds.com
 0.0.0.0 collapse.news
@@ -4128,6 +4152,8 @@
 0.0.0.0 www.crusadechannel.com
 0.0.0.0 cruz.senate.gov
 0.0.0.0 www.cruz.senate.gov
+0.0.0.0 cryforrecognition.be
+0.0.0.0 www.cryforrecognition.be
 0.0.0.0 cryptocult.news
 0.0.0.0 www.cryptocult.news
 0.0.0.0 cryptome.org
@@ -5168,6 +5194,8 @@
 0.0.0.0 www.drudgereport.com.co
 0.0.0.0 drugsofficial.com
 0.0.0.0 www.drugsofficial.com
+0.0.0.0 dsdfamilies.org
+0.0.0.0 www.dsdfamilies.org
 0.0.0.0 dstormer6em3i4km.onion
 0.0.0.0 www.dstormer6em3i4km.onion
 0.0.0.0 dsu-deutschland.de
@@ -5790,6 +5818,8 @@
 0.0.0.0 www.erin.avoiceformen.com
 0.0.0.0 ernestlmartin.com
 0.0.0.0 www.ernestlmartin.com
+0.0.0.0 eromakia.fr
+0.0.0.0 www.eromakia.fr
 0.0.0.0 erpe-mere.vlaamsbelang.org
 0.0.0.0 www.erpe-mere.vlaamsbelang.org
 0.0.0.0 errors.buchanan.org
@@ -7088,6 +7118,8 @@
 0.0.0.0 www.gbdeclaration.org
 0.0.0.0 gbs.nyeborgerlige.dk
 0.0.0.0 www.gbs.nyeborgerlige.dk
+0.0.0.0 gccan.org
+0.0.0.0 www.gccan.org
 0.0.0.0 gcen.minds.com
 0.0.0.0 www.gcen.minds.com
 0.0.0.0 gci.8ch.net
@@ -7116,14 +7148,30 @@
 0.0.0.0 www.gemstatewire.com
 0.0.0.0 gen.nyeborgerlige.dk
 0.0.0.0 www.gen.nyeborgerlige.dk
+0.0.0.0 gender-a-wider-lens.captivate.fm
+0.0.0.0 www.gender-a-wider-lens.captivate.fm
 0.0.0.0 gender.news
 0.0.0.0 www.gender.news
+0.0.0.0 genderchallenge.no
+0.0.0.0 www.genderchallenge.no
+0.0.0.0 gendercriticalresources.com
+0.0.0.0 www.gendercriticalresources.com
+0.0.0.0 genderdysphoriaalliance.com
+0.0.0.0 www.genderdysphoriaalliance.com
+0.0.0.0 genderdysphoriasupportnetwork.com
+0.0.0.0 www.genderdysphoriasupportnetwork.com
+0.0.0.0 genderhq.org
+0.0.0.0 www.genderhq.org
+0.0.0.0 genderreport.ca
+0.0.0.0 www.genderreport.ca
 0.0.0.0 generation-nation.fr
 0.0.0.0 www.generation-nation.fr
 0.0.0.0 generationfrexit.fr
 0.0.0.0 www.generationfrexit.fr
 0.0.0.0 generationidentitaire.org
 0.0.0.0 www.generationidentitaire.org
+0.0.0.0 generazioned.org
+0.0.0.0 www.generazioned.org
 0.0.0.0 geneseenews.com
 0.0.0.0 www.geneseenews.com
 0.0.0.0 genesius.churchmilitant.com
@@ -7132,6 +7180,10 @@
 0.0.0.0 www.genesiustimes.com
 0.0.0.0 genethique.org
 0.0.0.0 www.genethique.org
+0.0.0.0 genid.se
+0.0.0.0 www.genid.se
+0.0.0.0 genitoridegeneri.com
+0.0.0.0 www.genitoridegeneri.com
 0.0.0.0 geniusbiofeedback.com
 0.0.0.0 www.geniusbiofeedback.com
 0.0.0.0 genk.vlaamsbelang.org
@@ -7140,6 +7192,8 @@
 0.0.0.0 www.genocide.news
 0.0.0.0 genova.leganord.org
 0.0.0.0 www.genova.leganord.org
+0.0.0.0 genspect.org
+0.0.0.0 www.genspect.org
 0.0.0.0 gent.vlaamsbelang.org
 0.0.0.0 www.gent.vlaamsbelang.org
 0.0.0.0 gentofte.danskfolkeparti.dk
@@ -7818,6 +7872,8 @@
 0.0.0.0 www.hb.nyeborgerlige.dk
 0.0.0.0 hbdchick.wordpress.com
 0.0.0.0 www.hbdchick.wordpress.com
+0.0.0.0 hbrs.no
+0.0.0.0 www.hbrs.no
 0.0.0.0 hde.nyeborgerlige.dk
 0.0.0.0 www.hde.nyeborgerlige.dk
 0.0.0.0 headtopics.com
@@ -8466,6 +8522,8 @@
 0.0.0.0 www.iceagenow.info
 0.0.0.0 icecap.us
 0.0.0.0 www.icecap.us
+0.0.0.0 icgdr.org
+0.0.0.0 www.icgdr.org
 0.0.0.0 icheckyoursoul.com
 0.0.0.0 www.icheckyoursoul.com
 0.0.0.0 ichtegem.vlaamsbelang.org
@@ -8528,6 +8586,8 @@
 0.0.0.0 www.ihatethemedia.com
 0.0.0.0 ihavethetruth.com
 0.0.0.0 www.ihavethetruth.com
+0.0.0.0 ihmistenkirjo.net
+0.0.0.0 www.ihmistenkirjo.net
 0.0.0.0 ihr.org
 0.0.0.0 www.ihr.org
 0.0.0.0 iiipercentpatriots.com
@@ -9896,6 +9956,8 @@
 0.0.0.0 www.lamarinerecrute.fr
 0.0.0.0 laminedinfos.fr
 0.0.0.0 www.laminedinfos.fr
+0.0.0.0 lamutationestenmarche.blogspot.com
+0.0.0.0 www.lamutationestenmarche.blogspot.com
 0.0.0.0 lanaken.vlaamsbelang.org
 0.0.0.0 www.lanaken.vlaamsbelang.org
 0.0.0.0 lanceur-alerte.tv
@@ -12720,6 +12782,8 @@
 0.0.0.0 www.nocensura.com
 0.0.0.0 noch.info
 0.0.0.0 www.noch.info
+0.0.0.0 nocorpocerto.com
+0.0.0.0 www.nocorpocerto.com
 0.0.0.0 node-194.kuruc.info
 0.0.0.0 www.node-194.kuruc.info
 0.0.0.0 node-195.kuruc.info
@@ -13848,6 +13912,8 @@
 0.0.0.0 www.our.wikileaks.org
 0.0.0.0 ourchristian.icu
 0.0.0.0 www.ourchristian.icu
+0.0.0.0 ourduty.group
+0.0.0.0 www.ourduty.group
 0.0.0.0 ourfreedombook.com
 0.0.0.0 www.ourfreedombook.com
 0.0.0.0 ourfreedomtube.com
@@ -14020,6 +14086,8 @@
 0.0.0.0 www.parents-vigilants.fr
 0.0.0.0 parentsactionleague.org
 0.0.0.0 www.parentsactionleague.org
+0.0.0.0 parentsofrogdkids.com
+0.0.0.0 www.parentsofrogdkids.com
 0.0.0.0 parentsrightscoalition.massresistance.org
 0.0.0.0 www.parentsrightscoalition.massresistance.org
 0.0.0.0 parentsstrike.com
@@ -14162,6 +14230,8 @@
 0.0.0.0 www.pcgamingwiki.com
 0.0.0.0 pcrclaims.co.uk
 0.0.0.0 www.pcrclaims.co.uk
+0.0.0.0 pdeq.org
+0.0.0.0 www.pdeq.org
 0.0.0.0 peacedata.net
 0.0.0.0 www.peacedata.net
 0.0.0.0 peacegardennews.com
@@ -14344,6 +14414,10 @@
 0.0.0.0 www.pistoia.leganord.org
 0.0.0.0 pitea.sd.se
 0.0.0.0 www.pitea.sd.se
+0.0.0.0 pitt.substack.com
+0.0.0.0 www.pitt.substack.com
+0.0.0.0 pittparents.com
+0.0.0.0 www.pittparents.com
 0.0.0.0 pittreview.com
 0.0.0.0 www.pittreview.com
 0.0.0.0 piwik.gab.ai
@@ -14590,6 +14664,8 @@
 0.0.0.0 www.pospolitost.wordpress.com
 0.0.0.0 posse-comitatus.org
 0.0.0.0 www.posse-comitatus.org
+0.0.0.0 post-trans.com
+0.0.0.0 www.post-trans.com
 0.0.0.0 post.vlaamsbelang.org
 0.0.0.0 www.post.vlaamsbelang.org
 0.0.0.0 postcardtheology.wordpress.com
@@ -15404,6 +15480,8 @@
 0.0.0.0 www.realitycheck.vlaamsbelang.org
 0.0.0.0 realitycircuit.com
 0.0.0.0 www.realitycircuit.com
+0.0.0.0 realityslaststand.com
+0.0.0.0 www.realityslaststand.com
 0.0.0.0 realityzone.com
 0.0.0.0 www.realityzone.com
 0.0.0.0 realnewsrightnow.com
@@ -15684,6 +15762,8 @@
 0.0.0.0 www.retalk.com
 0.0.0.0 retenews24.it
 0.0.0.0 www.retenews24.it
+0.0.0.0 rethinkime.org
+0.0.0.0 www.rethinkime.org
 0.0.0.0 retrospective.clarionproject.org
 0.0.0.0 www.retrospective.clarionproject.org
 0.0.0.0 retrotic.mattforney.com
@@ -16120,6 +16200,8 @@
 0.0.0.0 www.safechat.com
 0.0.0.0 saferemr.com
 0.0.0.0 www.saferemr.com
+0.0.0.0 safeschoolsallianceuk.net
+0.0.0.0 www.safeschoolsallianceuk.net
 0.0.0.0 saffle.sd.se
 0.0.0.0 www.saffle.sd.se
 0.0.0.0 saga.stormfront.org
@@ -16226,6 +16308,8 @@
 0.0.0.0 www.sarasotareview.com
 0.0.0.0 saratogastandard.com
 0.0.0.0 www.saratogastandard.com
+0.0.0.0 sashaayad.com
+0.0.0.0 www.sashaayad.com
 0.0.0.0 satanictech.com
 0.0.0.0 www.satanictech.com
 0.0.0.0 satanism.news
@@ -16608,6 +16692,8 @@
 0.0.0.0 www.seg.adflegal.org
 0.0.0.0 segeorgianews.com
 0.0.0.0 www.segeorgianews.com
+0.0.0.0 segm.org
+0.0.0.0 www.segm.org
 0.0.0.0 segnidalcielo.it
 0.0.0.0 www.segnidalcielo.it
 0.0.0.0 segrandrapids.com
@@ -17800,6 +17886,8 @@
 0.0.0.0 www.stats.les-identitaires.com
 0.0.0.0 stats.oathkeepers.org
 0.0.0.0 www.stats.oathkeepers.org
+0.0.0.0 statsforgender.org
+0.0.0.0 www.statsforgender.org
 0.0.0.0 status.4chan.org
 0.0.0.0 www.status.4chan.org
 0.0.0.0 status.bitchute.com
@@ -17838,6 +17926,8 @@
 0.0.0.0 www.steigan.no
 0.0.0.0 stekene.vlaamsbelang.org
 0.0.0.0 www.stekene.vlaamsbelang.org
+0.0.0.0 stellaomalley.com
+0.0.0.0 www.stellaomalley.com
 0.0.0.0 stenungsund.sd.se
 0.0.0.0 www.stenungsund.sd.se
 0.0.0.0 stephanebern.com
@@ -19090,6 +19180,8 @@
 0.0.0.0 www.theragingpatriot.org
 0.0.0.0 therapreport.com
 0.0.0.0 www.therapreport.com
+0.0.0.0 therapyfirst.org
+0.0.0.0 www.therapyfirst.org
 0.0.0.0 therationalmale.com
 0.0.0.0 www.therationalmale.com
 0.0.0.0 therealistreport.com
@@ -19310,6 +19402,8 @@
 0.0.0.0 www.thorn.americanfreepress.net
 0.0.0.0 thorn.org
 0.0.0.0 www.thorn.org
+0.0.0.0 thoughtfultherapists.org
+0.0.0.0 www.thoughtfultherapists.org
 0.0.0.0 thoughtoffense.wordpress.com
 0.0.0.0 www.thoughtoffense.wordpress.com
 0.0.0.0 thread-puller.party
@@ -19598,12 +19692,18 @@
 0.0.0.0 www.tranemo.sd.se
 0.0.0.0 transagainstgroomers.com
 0.0.0.0 www.transagainstgroomers.com
+0.0.0.0 transgendertrend.com
+0.0.0.0 www.transgendertrend.com
 0.0.0.0 transhumanism.news
 0.0.0.0 www.transhumanism.news
 0.0.0.0 transients.info
 0.0.0.0 www.transients.info
 0.0.0.0 translate.minds.com
 0.0.0.0 www.translate.minds.com
+0.0.0.0 transteens-sorge-berechtigt.net
+0.0.0.0 www.transteens-sorge-berechtigt.net
+0.0.0.0 transwidowsvoices.org
+0.0.0.0 www.transwidowsvoices.org
 0.0.0.0 tratamientotemprano.org
 0.0.0.0 www.tratamientotemprano.org
 0.0.0.0 travagliato.leganord.org

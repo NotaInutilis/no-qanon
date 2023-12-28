@@ -1,7 +1,7 @@
 quillette.com
 
 # Writers
-https://www.buttonslives.news
-https://buttonslives.substack.com
-https://www.realityslaststand.com/about
+buttonslives.news
+buttonslives.substack.com
+realityslaststand.com
 colinwright.substack.com

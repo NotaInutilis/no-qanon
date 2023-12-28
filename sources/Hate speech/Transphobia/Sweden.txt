@@ -1,2 +1,2 @@
 # ROGD
-https://genid.se/
+genid.se
