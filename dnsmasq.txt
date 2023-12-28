@@ -2320,7 +2320,6 @@ address=/depopulation.news/
 address=/depressionsymptoms.news/
 address=/der-dritte-weg.info/
 address=/der-enthueller.ch/
-address=/der-postillon.com/
 address=/derdeweg.blogspot.com/
 address=/derfmagazine.com/
 address=/derimot.no/

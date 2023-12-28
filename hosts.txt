@@ -4642,8 +4642,6 @@
 0.0.0.0 www.der-dritte-weg.info
 0.0.0.0 der-enthueller.ch
 0.0.0.0 www.der-enthueller.ch
-0.0.0.0 der-postillon.com
-0.0.0.0 www.der-postillon.com
 0.0.0.0 derdeweg.blogspot.com
 0.0.0.0 www.derdeweg.blogspot.com
 0.0.0.0 derfmagazine.com

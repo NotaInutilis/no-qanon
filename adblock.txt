@@ -2324,7 +2324,6 @@
 ||depressionsymptoms.news^
 ||der-dritte-weg.info^
 ||der-enthueller.ch^
-||der-postillon.com^
 ||derdeweg.blogspot.com^
 ||derfmagazine.com^
 ||derimot.no^
