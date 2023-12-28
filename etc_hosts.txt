@@ -13454,6 +13454,8 @@
 0.0.0.0 www.oauth.8ch.net
 0.0.0.0 observateurcontinental.fr
 0.0.0.0 www.observateurcontinental.fr
+0.0.0.0 observatoirepetitesirene.org
+0.0.0.0 www.observatoirepetitesirene.org
 0.0.0.0 oc.lc.org
 0.0.0.0 www.oc.lc.org
 0.0.0.0 ocalastandard.com
@@ -22392,6 +22394,8 @@
 0.0.0.0 www.youth.jbs.org
 0.0.0.0 youtubecensorship.com
 0.0.0.0 www.youtubecensorship.com
+0.0.0.0 ypomoni.org
+0.0.0.0 www.ypomoni.org
 0.0.0.0 yspeace.org
 0.0.0.0 www.yspeace.org
 0.0.0.0 yspoceania.org
