@@ -14140,6 +14140,8 @@
 0.0.0.0 www.paulboylan.wordpress.com
 0.0.0.0 paulcraigroberts.org
 0.0.0.0 www.paulcraigroberts.org
+0.0.0.0 paulinearrighi.com
+0.0.0.0 www.paulinearrighi.com
 0.0.0.0 paulrevere.infowars.com
 0.0.0.0 www.paulrevere.infowars.com
 0.0.0.0 paws.moe

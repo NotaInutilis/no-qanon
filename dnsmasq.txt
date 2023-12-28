@@ -7069,6 +7069,7 @@ address=/patriotvotingcoalition.weebly.com/
 address=/patriotx.com/
 address=/paulboylan.wordpress.com/
 address=/paulcraigroberts.org/
+address=/paulinearrighi.com/
 address=/paulrevere.infowars.com/
 address=/paws.moe/
 address=/payment.dev.live.triller.co/
