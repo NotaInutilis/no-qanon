@@ -9095,6 +9095,7 @@ address=/sturgiscoldwaternews.com/
 address=/suavelos.eu/
 address=/subjectpolitics.com/
 address=/subscribe.theepochtimes.com/
+address=/subscribestar.adult/
 address=/subscribestar.com/
 address=/substack.com/
 address=/subverse.minds.com/

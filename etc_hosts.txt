@@ -18192,6 +18192,8 @@
 0.0.0.0 www.subjectpolitics.com
 0.0.0.0 subscribe.theepochtimes.com
 0.0.0.0 www.subscribe.theepochtimes.com
+0.0.0.0 subscribestar.adult
+0.0.0.0 www.subscribestar.adult
 0.0.0.0 subscribestar.com
 0.0.0.0 www.subscribestar.com
 0.0.0.0 substack.com
