@@ -4,6 +4,9 @@ app.clouthub.com
 
 # Crowdfunding
 locals.com
+## SubscribeStar https://www.splcenter.org/hatewatch/2022/06/03/subscribestar-website-lets-extremists-profit-hate
+subscribestar.com
+subscribestar.adult
 
 # Video
 rumble.com
