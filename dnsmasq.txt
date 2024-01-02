@@ -8621,6 +8621,7 @@ address=/slava-qa.devalpha.rumble.com/
 address=/slava-qa.devstage.rumble.com/
 address=/slava.devalpha.rumble.com/
 address=/slava.devstage.rumble.com/
+address=/slave2libertystore.itemorder.com/
 address=/slaynews.com/
 address=/slctimes.com/
 address=/slender.news/

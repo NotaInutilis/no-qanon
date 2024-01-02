@@ -8625,6 +8625,7 @@
 ||slava-qa.devstage.rumble.com^
 ||slava.devalpha.rumble.com^
 ||slava.devstage.rumble.com^
+||slave2libertystore.itemorder.com^
 ||slaynews.com^
 ||slctimes.com^
 ||slender.news^
