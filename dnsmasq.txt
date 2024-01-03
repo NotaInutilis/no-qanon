@@ -617,6 +617,7 @@ address=/armswatch.com/
 address=/armycadets.com/
 address=/arnhem.pvv.nl/
 address=/aroostooknews.com/
+address=/arpac.eu/
 address=/art.minds.com/
 address=/artdevivresain.over-blog.com/
 address=/arthousecontemporary.com/
