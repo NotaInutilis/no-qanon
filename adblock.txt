@@ -5754,6 +5754,7 @@
 ||metabunk.org^
 ||metals.news^
 ||metaltmp.infogalactic.com^
+||metamorphosis100.com^
 ||metapedia.org^
 ||metatv.org^
 ||meteogiornale.it^
@@ -8156,6 +8157,7 @@
 ||sapereeundovere.com^
 ||saraacarter.com^
 ||sarah.dc.frc.org^
+||sarahvaci.com^
 ||sarahwestall.com^
 ||sarasotareview.com^
 ||saratogastandard.com^

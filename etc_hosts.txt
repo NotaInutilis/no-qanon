@@ -11502,6 +11502,8 @@
 0.0.0.0 www.metals.news
 0.0.0.0 metaltmp.infogalactic.com
 0.0.0.0 www.metaltmp.infogalactic.com
+0.0.0.0 metamorphosis100.com
+0.0.0.0 www.metamorphosis100.com
 0.0.0.0 metapedia.org
 0.0.0.0 www.metapedia.org
 0.0.0.0 metatv.org
@@ -16306,6 +16308,8 @@
 0.0.0.0 www.saraacarter.com
 0.0.0.0 sarah.dc.frc.org
 0.0.0.0 www.sarah.dc.frc.org
+0.0.0.0 sarahvaci.com
+0.0.0.0 www.sarahvaci.com
 0.0.0.0 sarahwestall.com
 0.0.0.0 www.sarahwestall.com
 0.0.0.0 sarasotareview.com
