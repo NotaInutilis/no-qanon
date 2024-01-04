@@ -6988,6 +6988,10 @@
 0.0.0.0 www.fulcrumnews.com
 0.0.0.0 fundyourtsunami.insaf.pk
 0.0.0.0 www.fundyourtsunami.insaf.pk
+0.0.0.0 funkgod.com
+0.0.0.0 www.funkgod.com
+0.0.0.0 funkgod.shop
+0.0.0.0 www.funkgod.shop
 0.0.0.0 funtasztikus.eu
 0.0.0.0 www.funtasztikus.eu
 0.0.0.0 funvideosonline.info
