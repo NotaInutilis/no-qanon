@@ -11606,6 +11606,8 @@
 0.0.0.0 www.middleburghguide.com
 0.0.0.0 mideastdiscourse.com
 0.0.0.0 www.mideastdiscourse.com
+0.0.0.0 midgaardshop.com
+0.0.0.0 www.midgaardshop.com
 0.0.0.0 midiasemmascara.org
 0.0.0.0 www.midiasemmascara.org
 0.0.0.0 midlandtimes.com

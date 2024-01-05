@@ -5802,6 +5802,7 @@
 "*://*.middelkerke.vlaamsbelang.org/*",
 "*://*.middleburghguide.com/*",
 "*://*.mideastdiscourse.com/*",
+"*://*.midgaardshop.com/*",
 "*://*.midiasemmascara.org/*",
 "*://*.midlandtimes.com/*",
 "*://*.midmassnews.com/*",

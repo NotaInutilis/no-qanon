@@ -5802,6 +5802,7 @@ address=/middelfart.danskfolkeparti.dk/
 address=/middelkerke.vlaamsbelang.org/
 address=/middleburghguide.com/
 address=/mideastdiscourse.com/
+address=/midgaardshop.com/
 address=/midiasemmascara.org/
 address=/midlandtimes.com/
 address=/midmassnews.com/
