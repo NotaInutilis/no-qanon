@@ -2046,6 +2046,7 @@
 *://*.crazynews24.co.zw/*
 *://*.crazynewsreports.com/*
 *://*.crazzfiles.com/*
+*://*.crb-institutlejeune.com/*
 *://*.creambmp.com/*
 *://*.creation.social/*
 *://*.creative.minds.com/*

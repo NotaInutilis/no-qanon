@@ -2046,6 +2046,7 @@ address=/crawfordtimes.com/
 address=/crazynews24.co.zw/
 address=/crazynewsreports.com/
 address=/crazzfiles.com/
+address=/crb-institutlejeune.com/
 address=/creambmp.com/
 address=/creation.social/
 address=/creative.minds.com/
