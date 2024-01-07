@@ -8494,6 +8494,7 @@
 "*://*.shoabloger.wordpress.com/*",
 "*://*.shoalstoday.com/*",
 "*://*.shoebat.com/*",
+"*://*.shop-liberal.fr/*",
 "*://*.shop.8kun.top/*",
 "*://*.shop.americanfreepress.net/*",
 "*://*.shop.codoh.com/*",

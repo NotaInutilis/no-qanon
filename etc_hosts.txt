@@ -16990,6 +16990,8 @@
 0.0.0.0 www.shoalstoday.com
 0.0.0.0 shoebat.com
 0.0.0.0 www.shoebat.com
+0.0.0.0 shop-liberal.fr
+0.0.0.0 www.shop-liberal.fr
 0.0.0.0 shop.8kun.top
 0.0.0.0 www.shop.8kun.top
 0.0.0.0 shop.americanfreepress.net

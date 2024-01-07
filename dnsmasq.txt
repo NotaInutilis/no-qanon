@@ -8494,6 +8494,7 @@ address=/shiva4senate.com/
 address=/shoabloger.wordpress.com/
 address=/shoalstoday.com/
 address=/shoebat.com/
+address=/shop-liberal.fr/
 address=/shop.8kun.top/
 address=/shop.americanfreepress.net/
 address=/shop.codoh.com/
