@@ -958,6 +958,8 @@
 0.0.0.0 www.animap.fr
 0.0.0.0 animap.info
 0.0.0.0 www.animap.info
+0.0.0.0 animetudes.com
+0.0.0.0 www.animetudes.com
 0.0.0.0 ankenyguide.com
 0.0.0.0 www.ankenyguide.com
 0.0.0.0 annalyttiger.wordpress.com
@@ -6988,6 +6990,8 @@
 0.0.0.0 www.fukushimawatch.com
 0.0.0.0 fulcrumnews.com
 0.0.0.0 www.fulcrumnews.com
+0.0.0.0 fullfrontal.moe
+0.0.0.0 www.fullfrontal.moe
 0.0.0.0 fundyourtsunami.insaf.pk
 0.0.0.0 www.fundyourtsunami.insaf.pk
 0.0.0.0 funkgod.com
@@ -7336,6 +7340,8 @@
 0.0.0.0 www.glennbeck.com
 0.0.0.0 glitch.news
 0.0.0.0 www.glitch.news
+0.0.0.0 global-watch-analysis.com
+0.0.0.0 www.global-watch-analysis.com
 0.0.0.0 global.minds.com
 0.0.0.0 www.global.minds.com
 0.0.0.0 globalassociatednews.com
@@ -10812,6 +10818,8 @@
 0.0.0.0 www.madworldnews.com
 0.0.0.0 mafia-capitale.it
 0.0.0.0 www.mafia-capitale.it
+0.0.0.0 mag-ecran-de-veille.com
+0.0.0.0 www.mag-ecran-de-veille.com
 0.0.0.0 maga.host
 0.0.0.0 www.maga.host
 0.0.0.0 magabook.com
@@ -12088,6 +12096,8 @@
 0.0.0.0 www.na246.insaf.pk
 0.0.0.0 nacka.sd.se
 0.0.0.0 www.nacka.sd.se
+0.0.0.0 nadiageerts.over-blog.com
+0.0.0.0 www.nadiageerts.over-blog.com
 0.0.0.0 nadinemorano.fr
 0.0.0.0 www.nadinemorano.fr
 0.0.0.0 naebc.com
