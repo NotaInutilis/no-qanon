@@ -9482,6 +9482,8 @@
 0.0.0.0 www.jthnx5wyvjvzsxtu.onion
 0.0.0.0 judicialwatch.org
 0.0.0.0 www.judicialwatch.org
+0.0.0.0 jukaistudio.com
+0.0.0.0 www.jukaistudio.com
 0.0.0.0 julienaubert.fr
 0.0.0.0 www.julienaubert.fr
 0.0.0.0 juliusevola.com
@@ -18272,6 +18274,8 @@
 0.0.0.0 www.superbugs.news
 0.0.0.0 superfoods.news
 0.0.0.0 www.superfoods.news
+0.0.0.0 supernormalgame.com
+0.0.0.0 www.supernormalgame.com
 0.0.0.0 supernotizie.net
 0.0.0.0 www.supernotizie.net
 0.0.0.0 superstation95.com

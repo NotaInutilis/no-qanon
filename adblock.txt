@@ -4744,6 +4744,7 @@
 ||jtf.org^
 ||jthnx5wyvjvzsxtu.onion^
 ||judicialwatch.org^
+||jukaistudio.com^
 ||julienaubert.fr^
 ||juliusevola.com^
 ||juliusevola.it^
@@ -9139,6 +9140,7 @@
 ||superastuces.co^
 ||superbugs.news^
 ||superfoods.news^
+||supernormalgame.com^
 ||supernotizie.net^
 ||superstation95.com^
 ||supervisor.sendmail.fidesz.hu^
