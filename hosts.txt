@@ -6572,6 +6572,8 @@
 0.0.0.0 www.forestcountrynews.com
 0.0.0.0 fork1.infogalactic.com
 0.0.0.0 www.fork1.infogalactic.com
+0.0.0.0 formations-spiritualite-energetique.com
+0.0.0.0 www.formations-spiritualite-energetique.com
 0.0.0.0 formmesh.com
 0.0.0.0 www.formmesh.com
 0.0.0.0 forms.bnp.org.uk

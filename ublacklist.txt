@@ -3285,6 +3285,7 @@
 *://*.foreignpolicyjournal.com/*
 *://*.forestcountrynews.com/*
 *://*.fork1.infogalactic.com/*
+*://*.formations-spiritualite-energetique.com/*
 *://*.formmesh.com/*
 *://*.forms.bnp.org.uk/*
 *://*.forms.breitbart.com/*

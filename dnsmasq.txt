@@ -3285,6 +3285,7 @@ address=/foreignaffairsintelligencecouncil.wordpress.com/
 address=/foreignpolicyjournal.com/
 address=/forestcountrynews.com/
 address=/fork1.infogalactic.com/
+address=/formations-spiritualite-energetique.com/
 address=/formmesh.com/
 address=/forms.bnp.org.uk/
 address=/forms.breitbart.com/
