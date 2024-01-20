@@ -1923,6 +1923,7 @@
 ||coronanews123.wordpress.com^
 ||coronaria.minds.com^
 ||corp.rumble.com^
+||corpsfeminin.com^
 ||corpuschristisun.com^
 ||correiodopoder.com^
 ||corrieredelcorsaro.it^
@@ -4252,6 +4253,7 @@
 ||husospizza.com^
 ||hutchtoday.com^
 ||huzlers.com^
+||hvavocat.fr^
 ||hvi.nyeborgerlige.dk^
 ||hvidovre.danskfolkeparti.dk^
 ||hw.infowars.com^
@@ -4739,6 +4741,7 @@
 ||journalof911studies.com^
 ||journals.uts.edu^
 ||journeysdream.org^
+||joyeusesaintvalentin.net^
 ||joyinliberty.com^
 ||joyu.jp^
 ||jp.8ch.net^
@@ -4755,6 +4758,7 @@
 ||jungealternative.de^
 ||junikredsen.wordpress.com^
 ||junkscience.com^
+||juristespourlenfance.com^
 ||just-another-inside-job.blogspot.com^
 ||justboredandhungry.com^
 ||justfactsdaily.com^
@@ -4989,6 +4993,7 @@
 ||lakesuperiornews.com^
 ||laketahoesun.com^
 ||lalibertadavanza.com.ar^
+||lalumieredenoel.com^
 ||lamanifpourtous.fr^
 ||lamarinerecrute.fr^
 ||laminedinfos.fr^
@@ -5046,6 +5051,7 @@
 ||laurentbouvet.wordpress.com^
 ||laveritadininconaco.altervista.org^
 ||laveritesurnotremonde.fr^
+||lavieapreslamort.com^
 ||lavocea5stelle.altervista.org^
 ||lavocedelpatriota.it^
 ||lavoixdugendarme.fr^
@@ -5192,6 +5198,7 @@
 ||libertarianism.org^
 ||libertarianrepublican.net^
 ||libertasbella.com^
+||liberteeducation.com^
 ||liberty.me^
 ||liberty.news^
 ||libertyalliance.com^
@@ -5238,6 +5245,7 @@
 ||lightbeings.space^
 ||lightlybraisedturnip.com^
 ||lightofbaldr.com^
+||lightsinthedark.info^
 ||liguedumidi.com^
 ||liiighthouse.com^
 ||likethedaysofnoah.wordpress.com^
@@ -5250,6 +5258,7 @@
 ||limegenocide.blogspot.com^
 ||limitlesstruth.com^
 ||lin.preview.voat.co^
+||linceulturin.net^
 ||lincolnreport.com^
 ||lincorrect.org^
 ||lindesberg.sd.se^
@@ -8746,6 +8755,8 @@
 ||sosbebe.org^
 ||soschretiensdorient.fr^
 ||sosfemmesenceintes.fr^
+||sosporn.org^
+||sosporno.net^
 ||sospostivg.org^
 ||sostenitori.info^
 ||sotenas.sd.se^
@@ -11258,6 +11269,7 @@
 ||yoretube.net^
 ||yorkconews.com^
 ||yorkshire.ukip.org^
+||youeternity.com^
 ||younetspiegalevele.altervista.org^
 ||young.minds.com^
 ||youngcons.com^
