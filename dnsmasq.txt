@@ -7062,6 +7062,7 @@ address=/papcsakferenc.fidesz.hu/
 address=/papersera.com/
 address=/papertreiger.wordpress.com/
 address=/papierhache.wordpress.com/
+address=/paradigmnewsletters.org/
 address=/paradisefruit.altervista.org/
 address=/paralelnews.com/
 address=/parents-vigilants.fr/

@@ -14126,6 +14126,8 @@
 0.0.0.0 www.papertreiger.wordpress.com
 0.0.0.0 papierhache.wordpress.com
 0.0.0.0 www.papierhache.wordpress.com
+0.0.0.0 paradigmnewsletters.org
+0.0.0.0 www.paradigmnewsletters.org
 0.0.0.0 paradisefruit.altervista.org
 0.0.0.0 www.paradisefruit.altervista.org
 0.0.0.0 paralelnews.com
