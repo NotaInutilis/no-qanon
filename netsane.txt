@@ -9041,6 +9041,8 @@
 "*://*.stopthecrime.net/*",
 "*://*.stopthesteal.us/*",
 "*://*.stopworldcontrol.com/*",
+"*://*.stopzh.org/*",
+"*://*.stopzionisthate.org/*",
 "*://*.store.8kun.top/*",
 "*://*.store.afa.net/*",
 "*://*.store.amren.com/*",

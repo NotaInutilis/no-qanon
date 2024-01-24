@@ -18084,6 +18084,10 @@
 0.0.0.0 www.stopthesteal.us
 0.0.0.0 stopworldcontrol.com
 0.0.0.0 www.stopworldcontrol.com
+0.0.0.0 stopzh.org
+0.0.0.0 www.stopzh.org
+0.0.0.0 stopzionisthate.org
+0.0.0.0 www.stopzionisthate.org
 0.0.0.0 store.8kun.top
 0.0.0.0 www.store.8kun.top
 0.0.0.0 store.afa.net
