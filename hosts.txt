@@ -13960,6 +13960,8 @@
 0.0.0.0 www.our.wikileaks.org
 0.0.0.0 ourchristian.icu
 0.0.0.0 www.ourchristian.icu
+0.0.0.0 ourcountryourchoice.com
+0.0.0.0 www.ourcountryourchoice.com
 0.0.0.0 ourduty.group
 0.0.0.0 www.ourduty.group
 0.0.0.0 ourfreedombook.com
@@ -20038,6 +20040,8 @@
 0.0.0.0 www.tvlibertes.com
 0.0.0.0 tvnewsitalia.com
 0.0.0.0 www.tvnewsitalia.com
+0.0.0.0 tvr.by
+0.0.0.0 www.tvr.by
 0.0.0.0 tvzvezda.ru
 0.0.0.0 www.tvzvezda.ru
 0.0.0.0 twc.health
