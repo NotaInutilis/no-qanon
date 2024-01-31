@@ -10852,6 +10852,8 @@
 0.0.0.0 www.magafeed.com
 0.0.0.0 magafun.com
 0.0.0.0 www.magafun.com
+0.0.0.0 magainfo.tv
+0.0.0.0 www.magainfo.tv
 0.0.0.0 maganews.co
 0.0.0.0 www.maganews.co
 0.0.0.0 magapac.com

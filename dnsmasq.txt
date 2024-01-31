@@ -5425,6 +5425,7 @@ address=/magabook.com/
 address=/magaculture.com/
 address=/magafeed.com/
 address=/magafun.com/
+address=/magainfo.tv/
 address=/maganews.co/
 address=/magapac.com/
 address=/magazine-du-net.com/

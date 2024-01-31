@@ -5425,6 +5425,7 @@
 "*://*.magaculture.com/*",
 "*://*.magafeed.com/*",
 "*://*.magafun.com/*",
+"*://*.magainfo.tv/*",
 "*://*.maganews.co/*",
 "*://*.magapac.com/*",
 "*://*.magazine-du-net.com/*",
