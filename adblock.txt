@@ -10930,6 +10930,7 @@
 ||wnthinktank.wordpress.com^
 ||wojtek-qa.devstage.rumble.com^
 ||wojtek.devstage.rumble.com^
+||wokelycorrect.com^
 ||wokesocieties.com^
 ||wokesocieties.tv^
 ||wolfstreet.com^

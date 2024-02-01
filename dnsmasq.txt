@@ -10926,6 +10926,7 @@ address=/wnd.com/
 address=/wnthinktank.wordpress.com/
 address=/wojtek-qa.devstage.rumble.com/
 address=/wojtek.devstage.rumble.com/
+address=/wokelycorrect.com/
 address=/wokesocieties.com/
 address=/wokesocieties.tv/
 address=/wolfstreet.com/

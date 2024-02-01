@@ -21854,6 +21854,8 @@
 0.0.0.0 www.wojtek-qa.devstage.rumble.com
 0.0.0.0 wojtek.devstage.rumble.com
 0.0.0.0 www.wojtek.devstage.rumble.com
+0.0.0.0 wokelycorrect.com
+0.0.0.0 www.wokelycorrect.com
 0.0.0.0 wokesocieties.com
 0.0.0.0 www.wokesocieties.com
 0.0.0.0 wokesocieties.tv
