@@ -15162,6 +15162,8 @@
 0.0.0.0 www.punjabihindionline-comdorothyelisa.minds.com
 0.0.0.0 puppetstringnews.com
 0.0.0.0 www.puppetstringnews.com
+0.0.0.0 pureflix.com
+0.0.0.0 www.pureflix.com
 0.0.0.0 purepropheticprinciples.com
 0.0.0.0 www.purepropheticprinciples.com
 0.0.0.0 puresocialnetwork.com
