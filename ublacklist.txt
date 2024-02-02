@@ -249,6 +249,7 @@
 *://*.affes.wordpress.com/*
 *://*.affiliate.healthrangerstore.com/*
 *://*.affirmativeright.blogspot.com/*
+*://*.affirmfilms.com/*
 *://*.afinalwarning.com/*
 *://*.afpstore.americanfreepress.net/*
 *://*.africa24.info/*
@@ -3521,6 +3522,7 @@
 *://*.gab.com/*
 *://*.gabriel.frc.org/*
 *://*.gabusinessdaily.com/*
+*://*.gacmedia.com/*
 *://*.gadsdentoday.com/*
 *://*.gael-giraud.fr/*
 *://*.gaetaniumberto.wordpress.com/*
@@ -3789,6 +3791,8 @@
 *://*.greanvillepost.com/*
 *://*.great-awakening.org/*
 *://*.great.minds.com/*
+*://*.greatamericanfamily.com/*
+*://*.greatamericanliving.tv/*
 *://*.greatamericanpolitics.com/*
 *://*.greatamericanrepublic.com/*
 *://*.greataustralianparty.com.au/*
@@ -7228,6 +7232,7 @@
 *://*.pinellastimes.com/*
 *://*.pinestatenews.com/*
 *://*.pingfore.8kun.top/*
+*://*.pinnaclepeakpictures.com/*
 *://*.pioneerlittleeurope.wordpress.com/*
 *://*.piove.leganord.org/*
 *://*.piovegovernoladro.info/*

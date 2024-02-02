@@ -500,6 +500,8 @@
 0.0.0.0 www.affiliate.healthrangerstore.com
 0.0.0.0 affirmativeright.blogspot.com
 0.0.0.0 www.affirmativeright.blogspot.com
+0.0.0.0 affirmfilms.com
+0.0.0.0 www.affirmfilms.com
 0.0.0.0 afinalwarning.com
 0.0.0.0 www.afinalwarning.com
 0.0.0.0 afpstore.americanfreepress.net
@@ -7044,6 +7046,8 @@
 0.0.0.0 www.gabriel.frc.org
 0.0.0.0 gabusinessdaily.com
 0.0.0.0 www.gabusinessdaily.com
+0.0.0.0 gacmedia.com
+0.0.0.0 www.gacmedia.com
 0.0.0.0 gadsdentoday.com
 0.0.0.0 www.gadsdentoday.com
 0.0.0.0 gael-giraud.fr
@@ -7580,6 +7584,10 @@
 0.0.0.0 www.great-awakening.org
 0.0.0.0 great.minds.com
 0.0.0.0 www.great.minds.com
+0.0.0.0 greatamericanfamily.com
+0.0.0.0 www.greatamericanfamily.com
+0.0.0.0 greatamericanliving.tv
+0.0.0.0 www.greatamericanliving.tv
 0.0.0.0 greatamericanpolitics.com
 0.0.0.0 www.greatamericanpolitics.com
 0.0.0.0 greatamericanrepublic.com
@@ -14458,6 +14466,8 @@
 0.0.0.0 www.pinestatenews.com
 0.0.0.0 pingfore.8kun.top
 0.0.0.0 www.pingfore.8kun.top
+0.0.0.0 pinnaclepeakpictures.com
+0.0.0.0 www.pinnaclepeakpictures.com
 0.0.0.0 pioneerlittleeurope.wordpress.com
 0.0.0.0 www.pioneerlittleeurope.wordpress.com
 0.0.0.0 piove.leganord.org
