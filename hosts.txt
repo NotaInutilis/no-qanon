@@ -20192,6 +20192,8 @@
 0.0.0.0 www.unexpected.singleuser.club
 0.0.0.0 unexplained.news
 0.0.0.0 www.unexplained.news
+0.0.0.0 uni.asso.fr
+0.0.0.0 www.uni.asso.fr
 0.0.0.0 unificacion.org
 0.0.0.0 www.unificacion.org
 0.0.0.0 unificacionista.com

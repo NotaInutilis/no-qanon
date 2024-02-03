@@ -1,4 +1,4 @@
 # UNI
 # https://fr.wikipedia.org/wiki/Union_nationale_inter-universitaire
 # https://lenumerozero.info/Connaitre-l-extreme-droite-pour-mieux-la-combattre-11-Les-Zouaves-Paris-5516
-https://www.uni.asso.fr/
+uni.asso.fr

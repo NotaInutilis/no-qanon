@@ -10095,6 +10095,7 @@ address=/understandmyself.com/
 address=/unebonnedroite.fr/
 address=/unexpected.singleuser.club/
 address=/unexplained.news/
+address=/uni.asso.fr/
 address=/unificacion.org/
 address=/unificacionista.com/
 address=/unification-rdc.org/
