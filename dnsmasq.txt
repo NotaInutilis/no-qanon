@@ -10175,6 +10175,7 @@ address=/uprootedpalestinians.wordpress.com/
 address=/upstatescnews.com/
 address=/uptime.afa.net/
 address=/ur-fascism.blogspot.com/
+address=/urantia.org/
 address=/urbandaletimes.com/
 address=/urbandictionary.com/
 address=/urbanreform.org/

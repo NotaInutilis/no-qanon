@@ -20352,6 +20352,8 @@
 0.0.0.0 www.uptime.afa.net
 0.0.0.0 ur-fascism.blogspot.com
 0.0.0.0 www.ur-fascism.blogspot.com
+0.0.0.0 urantia.org
+0.0.0.0 www.urantia.org
 0.0.0.0 urbandaletimes.com
 0.0.0.0 www.urbandaletimes.com
 0.0.0.0 urbandictionary.com

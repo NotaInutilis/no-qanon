@@ -10175,6 +10175,7 @@
 "*://*.upstatescnews.com/*",
 "*://*.uptime.afa.net/*",
 "*://*.ur-fascism.blogspot.com/*",
+"*://*.urantia.org/*",
 "*://*.urbandaletimes.com/*",
 "*://*.urbandictionary.com/*",
 "*://*.urbanreform.org/*",
