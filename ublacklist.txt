@@ -9993,6 +9993,7 @@
 *://*.tube2.apolut.net/*
 *://*.tube4.apolut.net/*
 *://*.tucil3xcin.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.rense.com/*
+*://*.tuckercarlson.com/*
 *://*.tuckercarlson.win/*
 *://*.tucsonstandard.com/*
 *://*.tudasfaja.com/*
@@ -11277,6 +11278,7 @@
 *://*.www-thesun-co.uk.translate.goog/*
 *://*.www-tpusa-com.translate.goog/*
 *://*.www-truthsocial-com.translate.goog/*
+*://*.www-tuckercarlson-com.translate.goog/*
 *://*.www-valeursactuelles-com.translate.goog/*
 *://*.www-washingtonexaminer-com.translate.goog/*
 *://*.www-washingtontimes-com.translate.goog/*

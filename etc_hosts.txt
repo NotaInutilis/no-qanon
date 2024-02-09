@@ -19988,6 +19988,8 @@
 0.0.0.0 www.tube4.apolut.net
 0.0.0.0 tucil3xcin.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.rense.com
 0.0.0.0 www.tucil3xcin.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.rense.com
+0.0.0.0 tuckercarlson.com
+0.0.0.0 www.tuckercarlson.com
 0.0.0.0 tuckercarlson.win
 0.0.0.0 www.tuckercarlson.win
 0.0.0.0 tucsonstandard.com
@@ -22556,6 +22558,8 @@
 0.0.0.0 www.www-tpusa-com.translate.goog
 0.0.0.0 www-truthsocial-com.translate.goog
 0.0.0.0 www.www-truthsocial-com.translate.goog
+0.0.0.0 www-tuckercarlson-com.translate.goog
+0.0.0.0 www.www-tuckercarlson-com.translate.goog
 0.0.0.0 www-valeursactuelles-com.translate.goog
 0.0.0.0 www.www-valeursactuelles-com.translate.goog
 0.0.0.0 www-washingtonexaminer-com.translate.goog
