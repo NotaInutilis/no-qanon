@@ -1967,6 +1967,7 @@ address=/covidvaxexposed.com/
 address=/covisoins.be/
 address=/covisoins.fr/
 address=/cowgernation.com/
+address=/cozy.tv/
 address=/cp.imapmail.afd.de/
 address=/cpanel.anexartitoiellines.gr/
 address=/cpanel.app.kataeb.org/

@@ -1967,6 +1967,7 @@
 "*://*.covisoins.be/*",
 "*://*.covisoins.fr/*",
 "*://*.cowgernation.com/*",
+"*://*.cozy.tv/*",
 "*://*.cp.imapmail.afd.de/*",
 "*://*.cpanel.anexartitoiellines.gr/*",
 "*://*.cpanel.app.kataeb.org/*",
