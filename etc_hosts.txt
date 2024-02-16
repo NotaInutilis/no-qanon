@@ -2148,6 +2148,8 @@
 0.0.0.0 www.blastingnews.com
 0.0.0.0 blauewende.de
 0.0.0.0 www.blauewende.de
+0.0.0.0 blazetv.com
+0.0.0.0 www.blazetv.com
 0.0.0.0 blazingbulgaria.wordpress.com
 0.0.0.0 www.blazingbulgaria.wordpress.com
 0.0.0.0 blazingpress.com
@@ -18274,6 +18276,8 @@
 0.0.0.0 www.suavelos.eu
 0.0.0.0 subjectpolitics.com
 0.0.0.0 www.subjectpolitics.com
+0.0.0.0 subscribe.blazetv.com
+0.0.0.0 www.subscribe.blazetv.com
 0.0.0.0 subscribe.theepochtimes.com
 0.0.0.0 www.subscribe.theepochtimes.com
 0.0.0.0 subscribestar.adult

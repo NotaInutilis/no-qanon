@@ -1077,6 +1077,7 @@
 ||blankenberge.vlaamsbelang.org^
 ||blastingnews.com^
 ||blauewende.de^
+||blazetv.com^
 ||blazingbulgaria.wordpress.com^
 ||blazingpress.com^
 ||bled-micky.com^
@@ -9140,6 +9141,7 @@
 ||sturgiscoldwaternews.com^
 ||suavelos.eu^
 ||subjectpolitics.com^
+||subscribe.blazetv.com^
 ||subscribe.theepochtimes.com^
 ||subscribestar.adult^
 ||subscribestar.com^
