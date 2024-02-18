@@ -7648,6 +7648,8 @@
 0.0.0.0 www.greenwald.substack.com
 0.0.0.0 greve.danskfolkeparti.dk
 0.0.0.0 www.greve.danskfolkeparti.dk
+0.0.0.0 grffthegop.bandcamp.com
+0.0.0.0 www.grffthegop.bandcamp.com
 0.0.0.0 grimesjournal.com
 0.0.0.0 www.grimesjournal.com
 0.0.0.0 grobbendonk.vlaamsbelang.org
@@ -11170,6 +11172,8 @@
 0.0.0.0 www.maitlandtoday.com
 0.0.0.0 majorthoughts.com
 0.0.0.0 www.majorthoughts.com
+0.0.0.0 makeamericabasedagain.com
+0.0.0.0 www.makeamericabasedagain.com
 0.0.0.0 makeamericagreattoday.com
 0.0.0.0 www.makeamericagreattoday.com
 0.0.0.0 makeamericansfreeagain.com
@@ -14224,6 +14228,8 @@
 0.0.0.0 www.patrioticalternative.org.uk
 0.0.0.0 patrioticdissent.net
 0.0.0.0 www.patrioticdissent.net
+0.0.0.0 patriotj2024.com
+0.0.0.0 www.patriotj2024.com
 0.0.0.0 patriotmobile.com
 0.0.0.0 www.patriotmobile.com
 0.0.0.0 patriotmouse.com
