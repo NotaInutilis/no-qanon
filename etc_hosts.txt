@@ -3924,6 +3924,8 @@
 0.0.0.0 www.covid19criticalcare.com
 0.0.0.0 covidhub.ch
 0.0.0.0 www.covidhub.ch
+0.0.0.0 covidland.com
+0.0.0.0 www.covidland.com
 0.0.0.0 covidrationnel.be
 0.0.0.0 www.covidrationnel.be
 0.0.0.0 covidrecovery.ie

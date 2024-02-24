@@ -1961,6 +1961,7 @@ address=/covid-19-myths.com/
 address=/covid19assembly.org/
 address=/covid19criticalcare.com/
 address=/covidhub.ch/
+address=/covidland.com/
 address=/covidrationnel.be/
 address=/covidrecovery.ie/
 address=/covidtruths.co.uk/
