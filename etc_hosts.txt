@@ -4212,6 +4212,8 @@
 0.0.0.0 www.csumida.com
 0.0.0.0 ctbusinessdaily.com
 0.0.0.0 www.ctbusinessdaily.com
+0.0.0.0 ctkpaarr.org
+0.0.0.0 www.ctkpaarr.org
 0.0.0.0 cuarentena.minds.com
 0.0.0.0 www.cuarentena.minds.com
 0.0.0.0 cuda.infowars.com
@@ -13416,6 +13418,8 @@
 0.0.0.0 www.nucleusfiles.com
 0.0.0.0 nuke-lies.org
 0.0.0.0 www.nuke-lies.org
+0.0.0.0 nuke.ctkpaarr.org
+0.0.0.0 www.nuke.ctkpaarr.org
 0.0.0.0 number1victimofcrime.com
 0.0.0.0 www.number1victimofcrime.com
 0.0.0.0 nuremberg.nz
@@ -22898,3 +22902,5 @@
 0.0.0.0 www.zynecoin.io
 0.0.0.0 россиясегодня.рф
 0.0.0.0 www.россиясегодня.рф
+0.0.0.0 荒らし.com
+0.0.0.0 www.荒らし.com

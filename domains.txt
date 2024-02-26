@@ -2105,6 +2105,7 @@ csp-vhost.centerforsecuritypolicy.org
 csucshatas.eu
 csumida.com
 ctbusinessdaily.com
+ctkpaarr.org
 cuarentena.minds.com
 cuda.infowars.com
 culturecatalog14.wordpress.com
@@ -6707,6 +6708,7 @@ nuclear.news
 nuclearweapons.news
 nucleusfiles.com
 nuke-lies.org
+nuke.ctkpaarr.org
 number1victimofcrime.com
 nuremberg.nz
 nutrientreference.com
@@ -11448,3 +11450,4 @@ zv-0itdc-2y0x1.bitchute.com
 zwijndrecht.vlaamsbelang.org
 zynecoin.io
 россиясегодня.рф
+荒らし.com
