@@ -1,0 +1,6 @@
+# Mastodon spam & cyberbullying campaign from Japanese trolls in early 2024.
+# https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/
+# https://github.com/Mastodon-DE/blocklists/blob/main/spam/2024-02-15/2024-02-15-spam-mute-list.md
+https://ctkpaarr.org/forum/
+nuke.ctkpaarr.org
+https://荒らし.com/
