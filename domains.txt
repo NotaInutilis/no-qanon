@@ -1615,6 +1615,7 @@ chinadailyhk.com
 chinese.pacificjustice.org
 chinesemedicine.news
 chippewavalleytimes.com
+chn.the-liberty.com
 chocolate.news
 choisirlavie.fr
 choosing-him.blogspot.com
@@ -2852,6 +2853,7 @@ enfgroup-ep.eu
 eng-001.develop.gab.com
 eng-002.develop.gab.com
 eng.sunhakup.ac.kr
+eng.the-liberty.com
 engine.ruqqus.com
 englandcalling.wordpress.com
 english.pravda.ru
@@ -3207,6 +3209,7 @@ fincabayano.net
 find.4chan.org
 find.4channel.org
 findlaytimes.com
+findus.happy-science.org
 fingerlakestoday.com
 finnveden.sd.se
 finspang.sd.se
@@ -3917,7 +3920,14 @@ haninge.sd.se
 hannahlily3000.minds.com
 hansondirectory.com
 hanswernerklausen.wordpress.com
+happy-science.ac.jp
+happy-science.de
+happy-science.jp
+happy-science.org
+happy-science.university
 happy.dlive.tv
+happyscience-fr.org
+happyscience-usa.org
 happyvalleytimes.com
 harbingersdaily.com
 harborough.ukip.org
@@ -4424,6 +4434,7 @@ infinityexplorers.com
 inflation.news
 influenza.news
 info.bitchute.com
+info.happy-science.org
 info.infogalactic.com
 info.kopp-verlag.de
 info.pinterac.net
@@ -6843,6 +6854,8 @@ oilgeopolitics.net
 oisha.fidesz.hu
 ojim.fr
 ojobuzz.fr
+okawa-persian.com
+okawabooks.com
 okbusinessdaily.com
 okcstandard.com
 okeechobeetimes.com
@@ -8118,6 +8131,9 @@ russiatruth.co
 rustyjames.canalblog.com
 rutherfordtimes.com
 ruthinstitute.org
+ryuho-okawa.ae.org
+ryuho-okawa.com
+ryuho-okawa.ru
 s01.justpaste.it
 s02.justpaste.it
 s03.justpaste.it
@@ -8897,6 +8913,7 @@ spingola.com
 spingolaspeaks.net
 spinster.xyz
 spiritualfamily.net
+spiritualinterview.com
 spirituallightworkers.com
 spirituallyraw.com
 spirituallyraw.live
@@ -9416,6 +9433,7 @@ thatparkplace.com
 the-american-catholic.com
 the-hermeneutic-of-continuity.blogspot.com
 the-insider.co
+the-liberty.com
 the-newspapers.com
 the-sun.com
 the912project.com
@@ -10966,6 +10984,7 @@ wonhwado.ie
 wonhwado.org
 wonkie.com
 woolstangray.eu
+words.happyscience.me
 wordsofiron.com
 workers.donaldjtrump.com
 workspace.dlive.tv

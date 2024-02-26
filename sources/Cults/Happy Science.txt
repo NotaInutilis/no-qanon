@@ -1,30 +1,30 @@
 # Happy Science (幸福の科学, Kōfuku-no-Kagaku), formerly known as the Institute for Research in Human Happiness
 
 # Japanese
-https://happy-science.jp/
+happy-science.jp
 
 # English international
-https://happy-science.org/en/
-https://findus.happy-science.org/
-https://info.happy-science.org/
-https://words.happyscience.me/
-https://ryuho-okawa.com/
-https://okawabooks.com/
-https://spiritualinterview.com/
+happy-science.org
+findus.happy-science.org
+info.happy-science.org
+words.happyscience.me
+ryuho-okawa.com
+okawabooks.com
+spiritualinterview.com
 
 # The Liberty news site
-https://the-liberty.com/
-https://eng.the-liberty.com/
-https://chn.the-liberty.com/
+the-liberty.com
+eng.the-liberty.com
+chn.the-liberty.com
 
 # Local
-https://ryuho-okawa.ru/
-https://ryuho-okawa.ae.org/
-https://okawa-persian.com/
-https://happyscience-fr.org
-https://happy-science.de
-https://happyscience-usa.org/
+ryuho-okawa.ru
+ryuho-okawa.ae.org
+okawa-persian.com
+happyscience-fr.org
+happy-science.de
+happyscience-usa.org
 
 # School
-https://happy-science.university/en/
-https://happy-science.ac.jp/english/
+happy-science.university
+happy-science.ac.jp
