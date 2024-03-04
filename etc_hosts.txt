@@ -11314,6 +11314,8 @@
 0.0.0.0 www.martingeddes.com
 0.0.0.0 martinvrijland.nl
 0.0.0.0 www.martinvrijland.nl
+0.0.0.0 martyforcongress.vote
+0.0.0.0 www.martyforcongress.vote
 0.0.0.0 marucha.wordpress.com
 0.0.0.0 www.marucha.wordpress.com
 0.0.0.0 marypatriotnews.com
