@@ -4731,6 +4731,7 @@
 ||johnsoncitytimes.com^
 ||johnstonreporter.com^
 ||johnstontimes.com^
+||join.thecourtshipnetwork.com^
 ||join.ukip.org^
 ||joiningthepolice.co.uk^
 ||joinlapd.com^
@@ -9496,6 +9497,7 @@
 ||thecontrail.com^
 ||thecontroversialfiles.net^
 ||thecountersignal.com^
+||thecourtshipnetwork.com^
 ||thecovidblog.com^
 ||thecrowhouse.com^
 ||thedailybell.com^
