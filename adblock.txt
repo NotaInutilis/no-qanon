@@ -997,6 +997,7 @@
 ||bible.oneplace.com^
 ||biblebelievers.org.au^
 ||biblescienceforum.com^
+||biblicalgenderroles.com^
 ||biblicisminstitute.wordpress.com^
 ||bibliotecapleyades.net^
 ||bidenfortheburbs.com^

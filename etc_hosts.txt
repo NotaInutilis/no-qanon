@@ -1988,6 +1988,8 @@
 0.0.0.0 www.biblebelievers.org.au
 0.0.0.0 biblescienceforum.com
 0.0.0.0 www.biblescienceforum.com
+0.0.0.0 biblicalgenderroles.com
+0.0.0.0 www.biblicalgenderroles.com
 0.0.0.0 biblicisminstitute.wordpress.com
 0.0.0.0 www.biblicisminstitute.wordpress.com
 0.0.0.0 bibliotecapleyades.net
