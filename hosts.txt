@@ -1036,6 +1036,8 @@
 0.0.0.0 www.antipathyrecords.crew38.com
 0.0.0.0 antipodean-resistance.com
 0.0.0.0 www.antipodean-resistance.com
+0.0.0.0 antiprogre.com
+0.0.0.0 www.antiprogre.com
 0.0.0.0 antivaxxer.icu
 0.0.0.0 www.antivaxxer.icu
 0.0.0.0 antiwar.com

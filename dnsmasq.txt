@@ -517,6 +517,7 @@ address=/antigreen.blogspot.com/
 address=/antimedianews.com/
 address=/antipathyrecords.crew38.com/
 address=/antipodean-resistance.com/
+address=/antiprogre.com/
 address=/antivaxxer.icu/
 address=/antiwar.com/
 address=/antoinettejames.com/

@@ -517,6 +517,7 @@
 *://*.antimedianews.com/*
 *://*.antipathyrecords.crew38.com/*
 *://*.antipodean-resistance.com/*
+*://*.antiprogre.com/*
 *://*.antivaxxer.icu/*
 *://*.antiwar.com/*
 *://*.antoinettejames.com/*
