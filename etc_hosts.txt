@@ -1392,6 +1392,8 @@
 0.0.0.0 www.atwaatwar.wordpress.com
 0.0.0.0 au.avoiceformen.com
 0.0.0.0 www.au.avoiceformen.com
+0.0.0.0 aubedigitale.com
+0.0.0.0 www.aubedigitale.com
 0.0.0.0 auburntimes.com
 0.0.0.0 www.auburntimes.com
 0.0.0.0 aucklandnews.tk
