@@ -7043,6 +7043,7 @@
 *://*.ovniparanormal.over-blog.com/*
 *://*.owa.centerforsecuritypolicy.org/*
 *://*.owenbenjamin.com/*
+*://*.ownlibtards.com/*
 *://*.oxelosund.sd.se/*
 *://*.oxfordmetoday.com/*
 *://*.oxfordreporter.com/*
@@ -9062,6 +9063,7 @@
 *://*.stockholmsstad.sd.se/*
 *://*.stonepetition.com/*
 *://*.stonetoss.com/*
+*://*.stonetoss.gumroad.com/*
 *://*.stopbidenagenda.com/*
 *://*.stopbsnow.com/*
 *://*.stopcafraud.com/*

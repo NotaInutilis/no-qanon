@@ -14088,6 +14088,8 @@
 0.0.0.0 www.owa.centerforsecuritypolicy.org
 0.0.0.0 owenbenjamin.com
 0.0.0.0 www.owenbenjamin.com
+0.0.0.0 ownlibtards.com
+0.0.0.0 www.ownlibtards.com
 0.0.0.0 oxelosund.sd.se
 0.0.0.0 www.oxelosund.sd.se
 0.0.0.0 oxfordmetoday.com
@@ -18126,6 +18128,8 @@
 0.0.0.0 www.stonepetition.com
 0.0.0.0 stonetoss.com
 0.0.0.0 www.stonetoss.com
+0.0.0.0 stonetoss.gumroad.com
+0.0.0.0 www.stonetoss.gumroad.com
 0.0.0.0 stopbidenagenda.com
 0.0.0.0 www.stopbidenagenda.com
 0.0.0.0 stopbsnow.com
