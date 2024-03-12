@@ -2,9 +2,9 @@
 
 An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and hateful websites.
 
-By blocking the websites linked to hate groups and bad actors, it aims to defuse recruitment, propaganda and slow the spread of disinformation via tactics such as psyops, astroturfing, trolls, false flags, sockpuppeting, stochastic terrorism, FUD.
+By blocking the websites linked to hate groups and bad actors, it aims to defuse recruitment, propaganda and slow the spread of disinformation via tactics such as psyops, astroturfing, trolls, false flags, sockpuppeting, stochastic terrorism, FUD, etc.
 
-A domains blocklist only blocks entire websites: it's unfortunately unable to block anything on social media where radicalization often happens.
+A domains blocklist only blocks entire websites: it's unfortunately unable to block anything on social media where radicalization often happens due to poor or complicit moderation.
 It will still definitely reduce exposition to false and harmful informations.
 Fascists prey on the vulnerable so stay vigilant and consider also using a social media blocklist if needed.
 
