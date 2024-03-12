@@ -1014,6 +1014,8 @@
 0.0.0.0 www.answering-islam.org
 0.0.0.0 answersingenesis.org
 0.0.0.0 www.answersingenesis.org
+0.0.0.0 antelopehillpublishing.com
+0.0.0.0 www.antelopehillpublishing.com
 0.0.0.0 antelopevalleytoday.com
 0.0.0.0 www.antelopevalleytoday.com
 0.0.0.0 antepithesi.gr

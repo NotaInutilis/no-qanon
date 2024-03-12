@@ -506,6 +506,7 @@ address=/anrnews.com/
 address=/ansharchives.blogspot.com/
 address=/answering-islam.org/
 address=/answersingenesis.org/
+address=/antelopehillpublishing.com/
 address=/antelopevalleytoday.com/
 address=/antepithesi.gr/
 address=/anthonyblogan.com/
