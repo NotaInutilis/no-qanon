@@ -1230,6 +1230,10 @@
 0.0.0.0 www.arizonaoathkeepers.blogspot.com
 0.0.0.0 arjang.sd.se
 0.0.0.0 www.arjang.sd.se
+0.0.0.0 arkhaven.com
+0.0.0.0 www.arkhaven.com
+0.0.0.0 arkhavencomics.com
+0.0.0.0 www.arkhavencomics.com
 0.0.0.0 arktos.com
 0.0.0.0 www.arktos.com
 0.0.0.0 armee-de-terre.career-inspiration.com
@@ -2856,6 +2860,8 @@
 0.0.0.0 www.cassiopaea.com
 0.0.0.0 cassiopaea.org
 0.0.0.0 www.cassiopaea.org
+0.0.0.0 castaliahouse.com
+0.0.0.0 www.castaliahouse.com
 0.0.0.0 casualsunited.wordpress.com
 0.0.0.0 www.casualsunited.wordpress.com
 0.0.0.0 cat4.stormfront.org
@@ -6238,6 +6244,8 @@
 0.0.0.0 www.familytimes.com.ua
 0.0.0.0 famousviralstories.com
 0.0.0.0 www.famousviralstories.com
+0.0.0.0 fandompulse.substack.com
+0.0.0.0 www.fandompulse.substack.com
 0.0.0.0 fanoe.danskfolkeparti.dk
 0.0.0.0 www.fanoe.danskfolkeparti.dk
 0.0.0.0 fantasticword.com
@@ -17180,6 +17188,8 @@
 0.0.0.0 www.siel-souverainete.fr
 0.0.0.0 sigmaframe.wordpress.com
 0.0.0.0 www.sigmaframe.wordpress.com
+0.0.0.0 sigmagame.substack.com
+0.0.0.0 www.sigmagame.substack.com
 0.0.0.0 signforhunting.com
 0.0.0.0 www.signforhunting.com
 0.0.0.0 signoraggio.it
@@ -21070,6 +21080,8 @@
 0.0.0.0 www.voteleavetakecontrol.org
 0.0.0.0 votingforjesus.com
 0.0.0.0 www.votingforjesus.com
+0.0.0.0 voxday.net
+0.0.0.0 www.voxday.net
 0.0.0.0 voxespana.es
 0.0.0.0 www.voxespana.es
 0.0.0.0 voxnews.info
