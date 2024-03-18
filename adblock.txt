@@ -7446,6 +7446,7 @@
 ||prairiestatewire.com^
 ||prankster.nl^
 ||pratherdirect.com^
+||pravda-en.com^
 ||pravda-tv.com^
 ||pravda.infowars.com^
 ||pravda.ru^

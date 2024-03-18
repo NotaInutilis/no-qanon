@@ -7442,6 +7442,7 @@ address=/pragmatismopolitico.com.br/
 address=/prairiestatewire.com/
 address=/prankster.nl/
 address=/pratherdirect.com/
+address=/pravda-en.com/
 address=/pravda-tv.com/
 address=/pravda.infowars.com/
 address=/pravda.ru/
