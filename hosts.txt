@@ -368,6 +368,8 @@
 0.0.0.0 www.actionfrancaise.net
 0.0.0.0 activate.afa.net
 0.0.0.0 www.activate.afa.net
+0.0.0.0 activenews.ro
+0.0.0.0 www.activenews.ro
 0.0.0.0 activesouth.wordpress.com
 0.0.0.0 www.activesouth.wordpress.com
 0.0.0.0 activism.openworlds.info
@@ -1706,6 +1708,8 @@
 0.0.0.0 www.barings.minds.com
 0.0.0.0 barnesreview.org
 0.0.0.0 www.barnesreview.org
+0.0.0.0 barnevernsaksjonen.no
+0.0.0.0 www.barnevernsaksjonen.no
 0.0.0.0 bartforillinois.com
 0.0.0.0 www.bartforillinois.com
 0.0.0.0 bartonbrosstudios.com
@@ -2418,6 +2422,8 @@
 0.0.0.0 www.bovendien.com
 0.0.0.0 bowlinggreentoday.com
 0.0.0.0 www.bowlinggreentoday.com
+0.0.0.0 boxcast.tv
+0.0.0.0 www.boxcast.tv
 0.0.0.0 boyervalleynews.com
 0.0.0.0 www.boyervalleynews.com
 0.0.0.0 bpp.org.uk
@@ -2642,6 +2648,8 @@
 0.0.0.0 www.bvoltaire.fr
 0.0.0.0 bw.diefreiheit.org
 0.0.0.0 www.bw.diefreiheit.org
+0.0.0.0 byoblu.com
+0.0.0.0 www.byoblu.com
 0.0.0.0 bytesrc.com
 0.0.0.0 www.bytesrc.com
 0.0.0.0 bz.leganord.org
@@ -3938,6 +3946,8 @@
 0.0.0.0 www.covid19assembly.org
 0.0.0.0 covid19criticalcare.com
 0.0.0.0 www.covid19criticalcare.com
+0.0.0.0 covidhoax.ca
+0.0.0.0 www.covidhoax.ca
 0.0.0.0 covidhub.ch
 0.0.0.0 www.covidhub.ch
 0.0.0.0 covidland.com
@@ -5036,6 +5046,8 @@
 0.0.0.0 www.docs.ruqqus.com
 0.0.0.0 docthesilence.com
 0.0.0.0 www.docthesilence.com
+0.0.0.0 doctoraseem.com
+0.0.0.0 www.doctoraseem.com
 0.0.0.0 doctorphillipstoday.com
 0.0.0.0 www.doctorphillipstoday.com
 0.0.0.0 doctors4covidethics.org
@@ -5208,6 +5220,8 @@
 0.0.0.0 www.droitesociale.fr
 0.0.0.0 drop.space
 0.0.0.0 www.drop.space
+0.0.0.0 drpaulalexander.com
+0.0.0.0 www.drpaulalexander.com
 0.0.0.0 drrobertyoung.com
 0.0.0.0 www.drrobertyoung.com
 0.0.0.0 drroyspencer.com
@@ -5224,12 +5238,16 @@
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 drtrozzi.com
 0.0.0.0 www.drtrozzi.com
+0.0.0.0 drtrozzi.org
+0.0.0.0 www.drtrozzi.org
 0.0.0.0 drudgereport.com
 0.0.0.0 www.drudgereport.com
 0.0.0.0 drudgereport.com.co
 0.0.0.0 www.drudgereport.com.co
 0.0.0.0 drugsofficial.com
 0.0.0.0 www.drugsofficial.com
+0.0.0.0 druthers.net
+0.0.0.0 www.druthers.net
 0.0.0.0 dsdfamilies.org
 0.0.0.0 www.dsdfamilies.org
 0.0.0.0 dstormer6em3i4km.onion
@@ -5254,6 +5272,8 @@
 0.0.0.0 www.duisburg.pro-nrw.net
 0.0.0.0 dumbdems.infowars.com
 0.0.0.0 www.dumbdems.infowars.com
+0.0.0.0 dumbellnebula.com
+0.0.0.0 www.dumbellnebula.com
 0.0.0.0 dump.8kun.top
 0.0.0.0 www.dump.8kun.top
 0.0.0.0 dumpharper.wordpress.com
@@ -6020,6 +6040,8 @@
 0.0.0.0 www.evolutionaryleaps.com
 0.0.0.0 evolutionistx.wordpress.com
 0.0.0.0 www.evolutionistx.wordpress.com
+0.0.0.0 evolutionnews.org
+0.0.0.0 www.evolutionnews.org
 0.0.0.0 evolveconsciousness.org
 0.0.0.0 www.evolveconsciousness.org
 0.0.0.0 evolving.minds.com
@@ -6786,6 +6808,8 @@
 0.0.0.0 www.fredericia.danskfolkeparti.dk
 0.0.0.0 fredericksburgleader.com
 0.0.0.0 www.fredericksburgleader.com
+0.0.0.0 fredericksburgteaparty.org
+0.0.0.0 www.fredericksburgteaparty.org
 0.0.0.0 frederiksberg.danskfolkeparti.dk
 0.0.0.0 www.frederiksberg.danskfolkeparti.dk
 0.0.0.0 frederikshavn.danskfolkeparti.dk
@@ -8018,6 +8042,8 @@
 0.0.0.0 www.heartiste.wordpress.com
 0.0.0.0 heartland.org
 0.0.0.0 www.heartland.org
+0.0.0.0 heartlandernews.com
+0.0.0.0 www.heartlandernews.com
 0.0.0.0 heathenwomen.com
 0.0.0.0 www.heathenwomen.com
 0.0.0.0 heaviermetal.net
@@ -8932,6 +8958,8 @@
 0.0.0.0 www.infosmaintenant.net
 0.0.0.0 infostormer.com
 0.0.0.0 www.infostormer.com
+0.0.0.0 infovojna.bz
+0.0.0.0 www.infovojna.bz
 0.0.0.0 infowarrior.infowars.com
 0.0.0.0 www.infowarrior.infowars.com
 0.0.0.0 infowarriorsofnorway.com
@@ -9542,6 +9570,8 @@
 0.0.0.0 www.joyu.jp
 0.0.0.0 jp.8ch.net
 0.0.0.0 www.jp.8ch.net
+0.0.0.0 jpands.org
+0.0.0.0 www.jpands.org
 0.0.0.0 jtf.org
 0.0.0.0 www.jtf.org
 0.0.0.0 jthnx5wyvjvzsxtu.onion
@@ -11224,6 +11254,8 @@
 0.0.0.0 www.makeamericansfreeagain.com
 0.0.0.0 maketexasgreat.com
 0.0.0.0 www.maketexasgreat.com
+0.0.0.0 makismd.substack.com
+0.0.0.0 www.makismd.substack.com
 0.0.0.0 mala.sd.se
 0.0.0.0 www.mala.sd.se
 0.0.0.0 malachi.frc.org
@@ -14152,6 +14184,8 @@
 0.0.0.0 www.palbulletin.com
 0.0.0.0 paleochristianity.org
 0.0.0.0 www.paleochristianity.org
+0.0.0.0 palexander.substack.com
+0.0.0.0 www.palexander.substack.com
 0.0.0.0 palmcoasttimes.com
 0.0.0.0 www.palmcoasttimes.com
 0.0.0.0 palmerreport.com
@@ -14456,6 +14490,8 @@
 0.0.0.0 www.petergeorgiouwa-com-au.onenation.org.au
 0.0.0.0 petergeorgiouwa.onenation.org.au
 0.0.0.0 www.petergeorgiouwa.onenation.org.au
+0.0.0.0 petermcculloughmd.substack.com
+0.0.0.0 www.petermcculloughmd.substack.com
 0.0.0.0 petersantilli.com
 0.0.0.0 www.petersantilli.com
 0.0.0.0 petfoodwarning.com
@@ -14670,6 +14706,8 @@
 0.0.0.0 www.police.unsa.org
 0.0.0.0 policenow.org.uk
 0.0.0.0 www.policenow.org.uk
+0.0.0.0 policeonguard.ca
+0.0.0.0 www.policeonguard.ca
 0.0.0.0 policestate.news
 0.0.0.0 www.policestate.news
 0.0.0.0 policier.ch
@@ -15822,6 +15860,8 @@
 0.0.0.0 www.renaud-camus.net
 0.0.0.0 renegadebroadcasting.com
 0.0.0.0 www.renegadebroadcasting.com
+0.0.0.0 renegadeinc.com
+0.0.0.0 www.renegadeinc.com
 0.0.0.0 renegadetribune.com
 0.0.0.0 www.renegadetribune.com
 0.0.0.0 renewamerica.com
@@ -16074,6 +16114,8 @@
 0.0.0.0 www.ro.avoiceformen.com
 0.0.0.0 ro.metapedia.org
 0.0.0.0 www.ro.metapedia.org
+0.0.0.0 roadwarriorsnews.com
+0.0.0.0 www.roadwarriorsnews.com
 0.0.0.0 roanokesun.com
 0.0.0.0 www.roanokesun.com
 0.0.0.0 robadapazzi.com
@@ -16464,6 +16506,8 @@
 0.0.0.0 www.satiratribune.com
 0.0.0.0 satirewire.com
 0.0.0.0 www.satirewire.com
+0.0.0.0 savaers.co.za
+0.0.0.0 www.savaers.co.za
 0.0.0.0 savannahstandard.com
 0.0.0.0 www.savannahstandard.com
 0.0.0.0 savecalifornia.com
@@ -16486,6 +16530,8 @@
 0.0.0.0 www.savethemales.ca
 0.0.0.0 saveusnow.org.uk
 0.0.0.0 www.saveusnow.org.uk
+0.0.0.0 savingourrepublicforum.com
+0.0.0.0 www.savingourrepublicforum.com
 0.0.0.0 savsjo.sd.se
 0.0.0.0 www.savsjo.sd.se
 0.0.0.0 sawmansays.com
@@ -17372,6 +17418,8 @@
 0.0.0.0 www.skurup.sd.se
 0.0.0.0 sky24ore.it
 0.0.0.0 www.sky24ore.it
+0.0.0.0 skyhorsepublishing.com
+0.0.0.0 www.skyhorsepublishing.com
 0.0.0.0 skytg24news.com
 0.0.0.0 www.skytg24news.com
 0.0.0.0 skytreebookfairs.org
@@ -19426,6 +19474,8 @@
 0.0.0.0 www.thespiritscience.net
 0.0.0.0 thespoof.com
 0.0.0.0 www.thespoof.com
+0.0.0.0 thestarscameback.com
+0.0.0.0 www.thestarscameback.com
 0.0.0.0 thestatelyharold.com
 0.0.0.0 www.thestatelyharold.com
 0.0.0.0 thesteelereport.com
@@ -19494,6 +19544,8 @@
 0.0.0.0 www.thevaccinereaction.org
 0.0.0.0 thevalleyreport.com
 0.0.0.0 www.thevalleyreport.com
+0.0.0.0 thevillagereporter.com
+0.0.0.0 www.thevillagereporter.com
 0.0.0.0 thevinnyeastwoodshow.com
 0.0.0.0 www.thevinnyeastwoodshow.com
 0.0.0.0 thewarroom.ag
