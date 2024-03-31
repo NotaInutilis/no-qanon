@@ -15952,6 +15952,8 @@
 0.0.0.0 www.retvaribence.fidesz.hu
 0.0.0.0 revblog.codoh.com
 0.0.0.0 www.revblog.codoh.com
+0.0.0.0 revealnews.org
+0.0.0.0 www.revealnews.org
 0.0.0.0 reveillezvous.fr
 0.0.0.0 www.reveillezvous.fr
 0.0.0.0 reverbpress.com

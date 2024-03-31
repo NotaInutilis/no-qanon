@@ -7975,6 +7975,7 @@ address=/returnofkings.com/
 address=/returntonow.net/
 address=/retvaribence.fidesz.hu/
 address=/revblog.codoh.com/
+address=/revealnews.org/
 address=/reveillezvous.fr/
 address=/reverbpress.com/
 address=/reverereport.com/

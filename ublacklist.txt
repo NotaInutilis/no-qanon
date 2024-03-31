@@ -7975,6 +7975,7 @@
 *://*.returntonow.net/*
 *://*.retvaribence.fidesz.hu/*
 *://*.revblog.codoh.com/*
+*://*.revealnews.org/*
 *://*.reveillezvous.fr/*
 *://*.reverbpress.com/*
 *://*.reverereport.com/*
