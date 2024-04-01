@@ -12694,6 +12694,8 @@
 0.0.0.0 www.news-front.info
 0.0.0.0 news-hound.com
 0.0.0.0 www.news-hound.com
+0.0.0.0 news.cn
+0.0.0.0 www.news.cn
 0.0.0.0 news.edgeofwonder.tv
 0.0.0.0 www.news.edgeofwonder.tv
 0.0.0.0 news.faithfreedom.org

@@ -6346,6 +6346,7 @@ address=/news-bar.hr/
 address=/news-for-friends.com/
 address=/news-front.info/
 address=/news-hound.com/
+address=/news.cn/
 address=/news.edgeofwonder.tv/
 address=/news.faithfreedom.org/
 address=/news.gab.com/

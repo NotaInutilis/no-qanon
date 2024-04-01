@@ -6350,6 +6350,7 @@
 ||news-for-friends.com^
 ||news-front.info^
 ||news-hound.com^
+||news.cn^
 ||news.edgeofwonder.tv^
 ||news.faithfreedom.org^
 ||news.gab.com^
