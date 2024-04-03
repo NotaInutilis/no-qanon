@@ -5102,6 +5102,8 @@
 0.0.0.0 www.donatetestapi.afa.net
 0.0.0.0 donation.fairus.org
 0.0.0.0 www.donation.fairus.org
+0.0.0.0 donda.org
+0.0.0.0 www.donda.org
 0.0.0.0 dondevamos.canalblog.com
 0.0.0.0 www.dondevamos.canalblog.com
 0.0.0.0 dongtaiwang.com

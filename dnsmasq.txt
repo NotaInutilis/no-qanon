@@ -2550,6 +2550,7 @@ address=/donateapiinternal.afa.net/
 address=/donateapitgj.afa.net/
 address=/donatetestapi.afa.net/
 address=/donation.fairus.org/
+address=/donda.org/
 address=/dondevamos.canalblog.com/
 address=/dongtaiwang.com/
 address=/donjr.com/

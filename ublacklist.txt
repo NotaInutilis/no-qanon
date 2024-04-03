@@ -2550,6 +2550,7 @@
 *://*.donateapitgj.afa.net/*
 *://*.donatetestapi.afa.net/*
 *://*.donation.fairus.org/*
+*://*.donda.org/*
 *://*.dondevamos.canalblog.com/*
 *://*.dongtaiwang.com/*
 *://*.donjr.com/*
