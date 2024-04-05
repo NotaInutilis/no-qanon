@@ -2716,6 +2716,8 @@
 0.0.0.0 www.calex-92.minds.com
 0.0.0.0 californiaskywatch.com
 0.0.0.0 www.californiaskywatch.com
+0.0.0.0 call2fall.com
+0.0.0.0 www.call2fall.com
 0.0.0.0 callmestormy.net
 0.0.0.0 www.callmestormy.net
 0.0.0.0 callthecops.net
@@ -3272,6 +3274,10 @@
 0.0.0.0 www.christchurchnews.tk
 0.0.0.0 christianaction.org
 0.0.0.0 www.christianaction.org
+0.0.0.0 christiancollegesurvey.com
+0.0.0.0 www.christiancollegesurvey.com
+0.0.0.0 christiancollegesurvey.org
+0.0.0.0 www.christiancollegesurvey.org
 0.0.0.0 christiancombaz.com
 0.0.0.0 www.christiancombaz.com
 0.0.0.0 christiandefenceleauge.wordpress.com
@@ -4248,6 +4254,8 @@
 0.0.0.0 www.culturecatalog14.wordpress.com
 0.0.0.0 cultureetracines.com
 0.0.0.0 www.cultureetracines.com
+0.0.0.0 cultureimpact.org
+0.0.0.0 www.cultureimpact.org
 0.0.0.0 culturewars.com
 0.0.0.0 www.culturewars.com
 0.0.0.0 cumberlandvalleynews.com
@@ -6802,6 +6810,8 @@
 0.0.0.0 www.frc.org
 0.0.0.0 frcaction.org
 0.0.0.0 www.frcaction.org
+0.0.0.0 frcactionpac.org
+0.0.0.0 www.frcactionpac.org
 0.0.0.0 freakoutnation.com
 0.0.0.0 www.freakoutnation.com
 0.0.0.0 fredensborg.danskfolkeparti.dk
@@ -8060,6 +8070,8 @@
 0.0.0.0 www.heby.sd.se
 0.0.0.0 hechosmeridiano.com
 0.0.0.0 www.hechosmeridiano.com
+0.0.0.0 hecreatedthem.org
+0.0.0.0 www.hecreatedthem.org
 0.0.0.0 hedemora.sd.se
 0.0.0.0 www.hedemora.sd.se
 0.0.0.0 hedensted.danskfolkeparti.dk
@@ -15814,6 +15826,8 @@
 0.0.0.0 www.rekrutacja.nop.org.pl
 0.0.0.0 religionmind.com
 0.0.0.0 www.religionmind.com
+0.0.0.0 religioushostility.org
+0.0.0.0 www.religioushostility.org
 0.0.0.0 remedies.news
 0.0.0.0 www.remedies.news
 0.0.0.0 remington.com
@@ -21280,6 +21294,8 @@
 0.0.0.0 www.washingtonsblog.com
 0.0.0.0 washingtonstand.com
 0.0.0.0 www.washingtonstand.com
+0.0.0.0 washingtonstand.org
+0.0.0.0 www.washingtonstand.org
 0.0.0.0 washingtontimes.com
 0.0.0.0 www.washingtontimes.com
 0.0.0.0 washoenews.com

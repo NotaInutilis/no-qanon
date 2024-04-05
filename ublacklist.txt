@@ -1357,6 +1357,7 @@
 *://*.caldronpool.com/*
 *://*.calex-92.minds.com/*
 *://*.californiaskywatch.com/*
+*://*.call2fall.com/*
 *://*.callmestormy.net/*
 *://*.callthecops.net/*
 *://*.cambriatimes.com/*
@@ -1635,6 +1636,8 @@
 *://*.christchan.moe/*
 *://*.christchurchnews.tk/*
 *://*.christianaction.org/*
+*://*.christiancollegesurvey.com/*
+*://*.christiancollegesurvey.org/*
 *://*.christiancombaz.com/*
 *://*.christiandefenceleauge.wordpress.com/*
 *://*.christianfightback.com/*
@@ -2123,6 +2126,7 @@
 *://*.cuda.infowars.com/*
 *://*.culturecatalog14.wordpress.com/*
 *://*.cultureetracines.com/*
+*://*.cultureimpact.org/*
 *://*.culturewars.com/*
 *://*.cumberlandvalleynews.com/*
 *://*.cures.news/*
@@ -3400,6 +3404,7 @@
 *://*.frb.nyeborgerlige.dk/*
 *://*.frc.org/*
 *://*.frcaction.org/*
+*://*.frcactionpac.org/*
 *://*.freakoutnation.com/*
 *://*.fredensborg.danskfolkeparti.dk/*
 *://*.fredericia.danskfolkeparti.dk/*
@@ -4029,6 +4034,7 @@
 *://*.heb.avoiceformen.com/*
 *://*.heby.sd.se/*
 *://*.hechosmeridiano.com/*
+*://*.hecreatedthem.org/*
 *://*.hedemora.sd.se/*
 *://*.hedensted.danskfolkeparti.dk/*
 *://*.hedgefundmgr.blogspot.com/*
@@ -7906,6 +7912,7 @@
 *://*.rejuvaflex.org/*
 *://*.rekrutacja.nop.org.pl/*
 *://*.religionmind.com/*
+*://*.religioushostility.org/*
 *://*.remedies.news/*
 *://*.remington.com/*
 *://*.remingtonoutdoorcompany.com/*
@@ -10639,6 +10646,7 @@
 *://*.washingtonpost.com.co/*
 *://*.washingtonsblog.com/*
 *://*.washingtonstand.com/*
+*://*.washingtonstand.org/*
 *://*.washingtontimes.com/*
 *://*.washoenews.com/*
 *://*.washsummit.com/*
