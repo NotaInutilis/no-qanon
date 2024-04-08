@@ -971,6 +971,7 @@
 *://*.bernard-henri-levy.com/*
 *://*.bernardgaynor.com.au/*
 *://*.bernd-lucke.de/*
+*://*.besoindeurope.fr/*
 *://*.best-hir.com/*
 *://*.bestgezond.nl/*
 *://*.bestnewshere.com/*
@@ -10366,6 +10367,7 @@
 *://*.val.sd.se/*
 *://*.valcabal.nl/*
 *://*.valdemarsvik.sd.se/*
+*://*.valeriehayer.eu/*
 *://*.valeriepecresse.fr/*
 *://*.valeursactuelles.com/*
 *://*.valid.liveprayer.com/*

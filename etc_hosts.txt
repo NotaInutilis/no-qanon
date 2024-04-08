@@ -1944,6 +1944,8 @@
 0.0.0.0 www.bernardgaynor.com.au
 0.0.0.0 bernd-lucke.de
 0.0.0.0 www.bernd-lucke.de
+0.0.0.0 besoindeurope.fr
+0.0.0.0 www.besoindeurope.fr
 0.0.0.0 best-hir.com
 0.0.0.0 www.best-hir.com
 0.0.0.0 bestgezond.nl
@@ -20734,6 +20736,8 @@
 0.0.0.0 www.valcabal.nl
 0.0.0.0 valdemarsvik.sd.se
 0.0.0.0 www.valdemarsvik.sd.se
+0.0.0.0 valeriehayer.eu
+0.0.0.0 www.valeriehayer.eu
 0.0.0.0 valeriepecresse.fr
 0.0.0.0 www.valeriepecresse.fr
 0.0.0.0 valeursactuelles.com

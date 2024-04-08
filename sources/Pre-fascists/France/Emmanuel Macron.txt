@@ -10,5 +10,5 @@ horizonsleparti.fr
 elhairy.fr # Modem
 
 # Campagne européenne 
-https://besoindeurope.fr/
-https://valeriehayer.eu/
+besoindeurope.fr
+valeriehayer.eu
