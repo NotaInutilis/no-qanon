@@ -15694,6 +15694,10 @@
 0.0.0.0 www.realskinheads.net
 0.0.0.0 reason.com
 0.0.0.0 www.reason.com
+0.0.0.0 reason.org
+0.0.0.0 www.reason.org
+0.0.0.0 reason.tv
+0.0.0.0 www.reason.tv
 0.0.0.0 rebelnews.com
 0.0.0.0 www.rebelnews.com
 0.0.0.0 rebild.danskfolkeparti.dk

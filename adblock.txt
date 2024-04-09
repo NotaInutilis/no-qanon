@@ -7850,6 +7850,8 @@
 ||realskinheads.com^
 ||realskinheads.net^
 ||reason.com^
+||reason.org^
+||reason.tv^
 ||rebelnews.com^
 ||rebild.danskfolkeparti.dk^
 ||reckonin.com^
