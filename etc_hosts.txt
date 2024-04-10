@@ -4632,6 +4632,8 @@
 0.0.0.0 www.defendthefamily.com
 0.0.0.0 defiantamerica.com
 0.0.0.0 www.defiantamerica.com
+0.0.0.0 defirepublicain.fr
+0.0.0.0 www.defirepublicain.fr
 0.0.0.0 deinze-nevele.vlaamsbelang.org
 0.0.0.0 www.deinze-nevele.vlaamsbelang.org
 0.0.0.0 dekalbganews.com

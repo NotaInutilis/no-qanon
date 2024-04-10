@@ -2315,6 +2315,7 @@ address=/defendjones.com/
 address=/defendowen.com/
 address=/defendthefamily.com/
 address=/defiantamerica.com/
+address=/defirepublicain.fr/
 address=/deinze-nevele.vlaamsbelang.org/
 address=/dekalbganews.com/
 address=/dekalbtimes.com/
