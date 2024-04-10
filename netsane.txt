@@ -560,6 +560,7 @@
 "*://*.apollo.identityevropa.com/*",
 "*://*.apopkatimes.com/*",
 "*://*.apostate.faithfreedom.org/*",
+"*://*.apostats.fr/*",
 "*://*.app-api-staging.infowars.com/*",
 "*://*.app-api.infowars.com/*",
 "*://*.app.8kun.top/*",

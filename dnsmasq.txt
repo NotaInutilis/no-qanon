@@ -560,6 +560,7 @@ address=/apollo-staging.identityevropa.com/
 address=/apollo.identityevropa.com/
 address=/apopkatimes.com/
 address=/apostate.faithfreedom.org/
+address=/apostats.fr/
 address=/app-api-staging.infowars.com/
 address=/app-api.infowars.com/
 address=/app.8kun.top/

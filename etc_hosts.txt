@@ -1122,6 +1122,8 @@
 0.0.0.0 www.apopkatimes.com
 0.0.0.0 apostate.faithfreedom.org
 0.0.0.0 www.apostate.faithfreedom.org
+0.0.0.0 apostats.fr
+0.0.0.0 www.apostats.fr
 0.0.0.0 app-api-staging.infowars.com
 0.0.0.0 www.app-api-staging.infowars.com
 0.0.0.0 app-api.infowars.com
