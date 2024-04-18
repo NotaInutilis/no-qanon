@@ -10056,6 +10056,8 @@
 0.0.0.0 www.lagauchematuer.fr
 0.0.0.0 lagrandehistoiredefrance.fr
 0.0.0.0 www.lagrandehistoiredefrance.fr
+0.0.0.0 lagrif.fr
+0.0.0.0 www.lagrif.fr
 0.0.0.0 laharbornews.com
 0.0.0.0 www.laharbornews.com
 0.0.0.0 laharpeguide.com

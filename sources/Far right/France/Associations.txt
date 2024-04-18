@@ -3,4 +3,4 @@ liberteeducation.com
 hvavocat.fr
 
 # AGRIF
-https://www.lagrif.fr/
+lagrif.fr
