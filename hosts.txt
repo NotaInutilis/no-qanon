@@ -1940,6 +1940,8 @@
 0.0.0.0 www.berlin.diefreiheit.org
 0.0.0.0 berliner-herold.de
 0.0.0.0 www.berliner-herold.de
+0.0.0.0 bernard-antony.com
+0.0.0.0 www.bernard-antony.com
 0.0.0.0 bernard-henri-levy.com
 0.0.0.0 www.bernard-henri-levy.com
 0.0.0.0 bernardgaynor.com.au

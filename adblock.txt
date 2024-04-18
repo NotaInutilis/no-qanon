@@ -973,6 +973,7 @@
 ||berlaar.vlaamsbelang.org^
 ||berlin.diefreiheit.org^
 ||berliner-herold.de^
+||bernard-antony.com^
 ||bernard-henri-levy.com^
 ||bernardgaynor.com.au^
 ||bernd-lucke.de^

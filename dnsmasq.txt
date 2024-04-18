@@ -969,6 +969,7 @@ address=/berksconews.com/
 address=/berlaar.vlaamsbelang.org/
 address=/berlin.diefreiheit.org/
 address=/berliner-herold.de/
+address=/bernard-antony.com/
 address=/bernard-henri-levy.com/
 address=/bernardgaynor.com.au/
 address=/bernd-lucke.de/
