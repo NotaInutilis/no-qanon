@@ -2205,6 +2205,7 @@ address=/dailytelegraph.co.nz/
 address=/dailytelegraph.com.au/
 address=/dailytorch.com/
 address=/dailytruthreport.com/
+address=/dailywhiterabbit.com/
 address=/dailywire.com/
 address=/dailyworldupdate.us/
 address=/dailyxrpnews.com/

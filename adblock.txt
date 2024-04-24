@@ -2209,6 +2209,7 @@
 ||dailytelegraph.com.au^
 ||dailytorch.com^
 ||dailytruthreport.com^
+||dailywhiterabbit.com^
 ||dailywire.com^
 ||dailyworldupdate.us^
 ||dailyxrpnews.com^
