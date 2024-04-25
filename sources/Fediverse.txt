@@ -1,8 +1,10 @@
 # Mastodon instances and other fediverse software.
 brighteon.social
 noagendasocial.com
+
 # "Free speech"
 gab.ai
 gab.com
 freespeechextremist.com
 freespeech.fans
+fsebugoutzone.org
