@@ -9846,6 +9846,7 @@ address=/throughthelookingglassnews.wordpress.com/
 address=/thud.com/
 address=/thueringen.diefreiheit.org/
 address=/thuglifevideos.com/
+address=/thuleanperspective.com/
 address=/thumbreporter.com/
 address=/thumbs.4chan.org/
 address=/thunderf00tdotorg.wordpress.com/
