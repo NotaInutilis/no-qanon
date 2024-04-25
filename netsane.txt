@@ -1311,6 +1311,7 @@
 "*://*.burlov.sd.se/*",
 "*://*.burningbright.substack.com/*",
 "*://*.burrardstreetjournal.com/*",
+"*://*.burzum.org/*",
 "*://*.businessbourse.com/*",
 "*://*.butik.sd.se/*",
 "*://*.butlerconews.com/*",
