@@ -7040,6 +7040,8 @@
 0.0.0.0 www.fs.minds.com
 0.0.0.0 fs.parler.com
 0.0.0.0 www.fs.parler.com
+0.0.0.0 fsebugoutzone.org
+0.0.0.0 www.fsebugoutzone.org
 0.0.0.0 fsk.nyeborgerlige.dk
 0.0.0.0 www.fsk.nyeborgerlige.dk
 0.0.0.0 fsmi.social

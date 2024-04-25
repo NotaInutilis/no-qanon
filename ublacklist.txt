@@ -3519,6 +3519,7 @@
 *://*.fruits.news/*
 *://*.fs.minds.com/*
 *://*.fs.parler.com/*
+*://*.fsebugoutzone.org/*
 *://*.fsk.nyeborgerlige.dk/*
 *://*.fsmi.social/*
 *://*.fsxtki0j.8ch.net/*

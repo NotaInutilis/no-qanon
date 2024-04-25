@@ -3519,6 +3519,7 @@ address=/frs.nyeborgerlige.dk/
 address=/fruits.news/
 address=/fs.minds.com/
 address=/fs.parler.com/
+address=/fsebugoutzone.org/
 address=/fsk.nyeborgerlige.dk/
 address=/fsmi.social/
 address=/fsxtki0j.8ch.net/
