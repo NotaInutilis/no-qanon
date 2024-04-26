@@ -16,6 +16,10 @@ hamas-massacre.net
 
 # "Against antisemitism"
 nous-vivrons.fr
+boundlessisrael.org
+
+# War is good
+https://www.israelwarroom.com/
 
 # Propaganda relays
 
@@ -29,5 +33,3 @@ honestreporting.com
 ## Celebrities
 galgadot.com
 
-## Zionist think tanks
-boundlessisrael.org
