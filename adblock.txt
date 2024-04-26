@@ -4614,6 +4614,7 @@
 ||israelnationalnews.com^
 ||israeloncampuscoalition.org^
 ||israelunderfire.net^
+||israelwarroom.com^
 ||issep.fr^
 ||isteve.blogspot.com^
 ||isthisracist.nz^

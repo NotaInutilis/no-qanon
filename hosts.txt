@@ -9222,6 +9222,8 @@
 0.0.0.0 www.israeloncampuscoalition.org
 0.0.0.0 israelunderfire.net
 0.0.0.0 www.israelunderfire.net
+0.0.0.0 israelwarroom.com
+0.0.0.0 www.israelwarroom.com
 0.0.0.0 issep.fr
 0.0.0.0 www.issep.fr
 0.0.0.0 isteve.blogspot.com
