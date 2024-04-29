@@ -11972,6 +11972,8 @@
 0.0.0.0 www.mokavilag.com
 0.0.0.0 mokuskerek.club
 0.0.0.0 www.mokuskerek.club
+0.0.0.0 mol.im
+0.0.0.0 www.mol.im
 0.0.0.0 mol.vlaamsbelang.org
 0.0.0.0 www.mol.vlaamsbelang.org
 0.0.0.0 moldbuggery.blogspot.com

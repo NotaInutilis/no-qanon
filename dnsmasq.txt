@@ -5985,6 +5985,7 @@ address=/mohavetoday.com/
 address=/mohawkvalleytimes.com/
 address=/mokavilag.com/
 address=/mokuskerek.club/
+address=/mol.im/
 address=/mol.vlaamsbelang.org/
 address=/moldbuggery.blogspot.com/
 address=/molevalleyepsom.ukip.org/

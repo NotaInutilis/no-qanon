@@ -5985,6 +5985,7 @@
 "*://*.mohawkvalleytimes.com/*",
 "*://*.mokavilag.com/*",
 "*://*.mokuskerek.club/*",
+"*://*.mol.im/*",
 "*://*.mol.vlaamsbelang.org/*",
 "*://*.moldbuggery.blogspot.com/*",
 "*://*.molevalleyepsom.ukip.org/*",
