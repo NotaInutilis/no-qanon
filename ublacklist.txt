@@ -4439,6 +4439,7 @@
 *://*.implicante.org/*
 *://*.importer.bitchute.com/*
 *://*.ims.4chan.org/*
+*://*.imti.org.il/*
 *://*.imzansi.co.za/*
 *://*.in-storyletter.com/*
 *://*.in.avoiceformen.com/*
