@@ -4804,6 +4804,7 @@
 "*://*.jtf.org/*",
 "*://*.jthnx5wyvjvzsxtu.onion/*",
 "*://*.judicialwatch.org/*",
+"*://*.judithmiller.com/*",
 "*://*.jukaistudio.com/*",
 "*://*.julienaubert.fr/*",
 "*://*.juliusevola.com/*",

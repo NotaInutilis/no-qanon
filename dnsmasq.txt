@@ -4804,6 +4804,7 @@ address=/jpands.org/
 address=/jtf.org/
 address=/jthnx5wyvjvzsxtu.onion/
 address=/judicialwatch.org/
+address=/judithmiller.com/
 address=/jukaistudio.com/
 address=/julienaubert.fr/
 address=/juliusevola.com/
