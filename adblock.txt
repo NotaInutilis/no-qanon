@@ -9240,6 +9240,13 @@
 ||sudradio.fr^
 ||suegrey.nz^
 ||suffolkreporter.com^
+||sukyo-mahikari.org^
+||sukyomahikari.asia^
+||sukyomahikari.or.jp^
+||sukyomahikari.org.au^
+||sukyomahikari.org.br^
+||sukyomahikariafrique.org^
+||sukyomahikarieurope.org^
 ||sulatestagiannilannes.blogspot.it^
 ||summit.news^
 ||sumtertimes.com^
@@ -11442,6 +11449,7 @@
 ||yakimatimes.com^
 ||yarmouth.ukip.org^
 ||yavapainews.com^
+||ycri.jp^
 ||yeezysupply.com^
 ||yellowhammernews.com^
 ||yellowhammertimes.com^
