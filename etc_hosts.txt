@@ -19452,6 +19452,8 @@
 0.0.0.0 www.therapreport.com
 0.0.0.0 therapyfirst.org
 0.0.0.0 www.therapyfirst.org
+0.0.0.0 therapyrange.com
+0.0.0.0 www.therapyrange.com
 0.0.0.0 therationalmale.com
 0.0.0.0 www.therationalmale.com
 0.0.0.0 therealistreport.com

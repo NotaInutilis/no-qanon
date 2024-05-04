@@ -9725,6 +9725,7 @@ address=/theradicaloutlook.wordpress.com/
 address=/theragingpatriot.org/
 address=/therapreport.com/
 address=/therapyfirst.org/
+address=/therapyrange.com/
 address=/therationalmale.com/
 address=/therealistreport.com/
 address=/therealnews.nz/
