@@ -2844,6 +2844,8 @@
 0.0.0.0 www.carbonfolly.com
 0.0.0.0 cardinalsupportnetwork.com
 0.0.0.0 www.cardinalsupportnetwork.com
+0.0.0.0 cardiomiracle.com
+0.0.0.0 www.cardiomiracle.com
 0.0.0.0 careers.cityoflondon.police.uk
 0.0.0.0 www.careers.cityoflondon.police.uk
 0.0.0.0 carlbherman.blogspot.com
@@ -3888,6 +3890,8 @@
 0.0.0.0 www.corpsfeminin.com
 0.0.0.0 corpuschristisun.com
 0.0.0.0 www.corpuschristisun.com
+0.0.0.0 corrections1.com
+0.0.0.0 www.corrections1.com
 0.0.0.0 correiodopoder.com
 0.0.0.0 www.correiodopoder.com
 0.0.0.0 corrieredelcorsaro.it
@@ -5682,6 +5686,8 @@
 0.0.0.0 www.empiresports.co
 0.0.0.0 empirestatetoday.com
 0.0.0.0 www.empirestatetoday.com
+0.0.0.0 ems1.com
+0.0.0.0 www.ems1.com
 0.0.0.0 en-marche.fr
 0.0.0.0 www.en-marche.fr
 0.0.0.0 en-racine.org
@@ -6498,6 +6504,8 @@
 0.0.0.0 www.firearmscoalition.org
 0.0.0.0 firebrandleft.com
 0.0.0.0 www.firebrandleft.com
+0.0.0.0 firerescue1.com
+0.0.0.0 www.firerescue1.com
 0.0.0.0 firmecongresso2017.leganord.org
 0.0.0.0 www.firmecongresso2017.leganord.org
 0.0.0.0 first-video.net
@@ -7434,6 +7442,8 @@
 0.0.0.0 www.global-watch-analysis.com
 0.0.0.0 global.minds.com
 0.0.0.0 www.global.minds.com
+0.0.0.0 global.shop.lotuseaters.com
+0.0.0.0 www.global.shop.lotuseaters.com
 0.0.0.0 globalassociatednews.com
 0.0.0.0 www.globalassociatednews.com
 0.0.0.0 globaleconomicanalysis.com
@@ -7602,6 +7612,8 @@
 0.0.0.0 www.gotnews.com
 0.0.0.0 gouarnamant-bzh.eu
 0.0.0.0 www.gouarnamant-bzh.eu
+0.0.0.0 gov1.com
+0.0.0.0 www.gov1.com
 0.0.0.0 government-scam.com
 0.0.0.0 www.government-scam.com
 0.0.0.0 govtslaves.com
@@ -10472,6 +10484,8 @@
 0.0.0.0 www.lewistontimes.com
 0.0.0.0 lewrockwell.com
 0.0.0.0 www.lewrockwell.com
+0.0.0.0 lexipol.com
+0.0.0.0 www.lexipol.com
 0.0.0.0 lf.nyeborgerlige.dk
 0.0.0.0 www.lf.nyeborgerlige.dk
 0.0.0.0 lgballiance.org.uk
@@ -10796,6 +10810,8 @@
 0.0.0.0 www.lorieladd.com
 0.0.0.0 losai.eu
 0.0.0.0 www.losai.eu
+0.0.0.0 lotuseaters.com
+0.0.0.0 www.lotuseaters.com
 0.0.0.0 louderwithcrowder.com
 0.0.0.0 www.louderwithcrowder.com
 0.0.0.0 louisianarecord.com
@@ -12228,6 +12244,8 @@
 0.0.0.0 www.myjournal.fr
 0.0.0.0 mymilitia.com
 0.0.0.0 www.mymilitia.com
+0.0.0.0 mypatriotcigars.com
+0.0.0.0 www.mypatriotcigars.com
 0.0.0.0 mypatriotsnetwork.com
 0.0.0.0 www.mypatriotsnetwork.com
 0.0.0.0 mypillow.com
@@ -14746,6 +14764,8 @@
 0.0.0.0 www.police-recruitment.co.uk
 0.0.0.0 police.unsa.org
 0.0.0.0 www.police.unsa.org
+0.0.0.0 police1.com
+0.0.0.0 www.police1.com
 0.0.0.0 policenow.org.uk
 0.0.0.0 www.policenow.org.uk
 0.0.0.0 policeonguard.ca
@@ -16646,6 +16666,8 @@
 0.0.0.0 www.scnebraskanews.com
 0.0.0.0 scnewyorknews.com
 0.0.0.0 www.scnewyorknews.com
+0.0.0.0 scnr.com
+0.0.0.0 www.scnr.com
 0.0.0.0 scoklahomanews.com
 0.0.0.0 www.scoklahomanews.com
 0.0.0.0 scottadamssays.com
@@ -18242,6 +18264,8 @@
 0.0.0.0 www.stonetoss.com
 0.0.0.0 stonetoss.gumroad.com
 0.0.0.0 www.stonetoss.gumroad.com
+0.0.0.0 stonezone.com
+0.0.0.0 www.stonezone.com
 0.0.0.0 stopbidenagenda.com
 0.0.0.0 www.stopbidenagenda.com
 0.0.0.0 stopbsnow.com
@@ -18872,6 +18896,8 @@
 0.0.0.0 www.temse.vlaamsbelang.org
 0.0.0.0 tenesoun.fr
 0.0.0.0 www.tenesoun.fr
+0.0.0.0 tenetmedia.com
+0.0.0.0 www.tenetmedia.com
 0.0.0.0 tensmiths.wordpress.com
 0.0.0.0 www.tensmiths.wordpress.com
 0.0.0.0 tenthamendmentcenter.com
@@ -20326,6 +20352,8 @@
 0.0.0.0 www.uk.insaf.pk
 0.0.0.0 uk.metapedia.org
 0.0.0.0 www.uk.metapedia.org
+0.0.0.0 uk.shop.lotuseaters.com
+0.0.0.0 www.uk.shop.lotuseaters.com
 0.0.0.0 uk.upf.org
 0.0.0.0 www.uk.upf.org
 0.0.0.0 ukcolumn.org
@@ -20576,6 +20604,8 @@
 0.0.0.0 www.us.blasting.news
 0.0.0.0 us.blastingnews.com
 0.0.0.0 www.us.blastingnews.com
+0.0.0.0 us.shop.lotuseaters.com
+0.0.0.0 www.us.shop.lotuseaters.com
 0.0.0.0 usa-radio.com
 0.0.0.0 www.usa-radio.com
 0.0.0.0 usa-television.com

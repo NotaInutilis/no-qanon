@@ -1425,6 +1425,7 @@
 ||carbondioxide.news^
 ||carbonfolly.com^
 ||cardinalsupportnetwork.com^
+||cardiomiracle.com^
 ||careers.cityoflondon.police.uk^
 ||carlbherman.blogspot.com^
 ||carlocarrasco.com^
@@ -1947,6 +1948,7 @@
 ||corp.rumble.com^
 ||corpsfeminin.com^
 ||corpuschristisun.com^
+||corrections1.com^
 ||correiodopoder.com^
 ||corrieredelcorsaro.it^
 ||corrieredellapera.com^
@@ -2844,6 +2846,7 @@
 ||empirenews.net^
 ||empiresports.co^
 ||empirestatetoday.com^
+||ems1.com^
 ||en-marche.fr^
 ||en-racine.org^
 ||en-volve.com^
@@ -3252,6 +3255,7 @@
 ||firearmownersunited.com^
 ||firearmscoalition.org^
 ||firebrandleft.com^
+||firerescue1.com^
 ||firmecongresso2017.leganord.org^
 ||first-video.net^
 ||firstinfreedomdaily.com^
@@ -3720,6 +3724,7 @@
 ||glitch.news^
 ||global-watch-analysis.com^
 ||global.minds.com^
+||global.shop.lotuseaters.com^
 ||globalassociatednews.com^
 ||globaleconomicanalysis.com^
 ||globalfreedommovement.org^
@@ -3804,6 +3809,7 @@
 ||gotland.sd.se^
 ||gotnews.com^
 ||gouarnamant-bzh.eu^
+||gov1.com^
 ||government-scam.com^
 ||govtslaves.com^
 ||govtslaves.info^
@@ -5239,6 +5245,7 @@
 ||leverkusen.pro-nrw.net^
 ||lewistontimes.com^
 ||lewrockwell.com^
+||lexipol.com^
 ||lf.nyeborgerlige.dk^
 ||lgballiance.org.uk^
 ||lgbtqnation.com^
@@ -5401,6 +5408,7 @@
 ||loraintimes.com^
 ||lorieladd.com^
 ||losai.eu^
+||lotuseaters.com^
 ||louderwithcrowder.com^
 ||louisianarecord.com^
 ||louisvillecitywire.com^
@@ -6117,6 +6125,7 @@
 ||myfreshnews.com^
 ||myjournal.fr^
 ||mymilitia.com^
+||mypatriotcigars.com^
 ||mypatriotsnetwork.com^
 ||mypillow.com^
 ||myrightamerica.com^
@@ -7376,6 +7385,7 @@
 ||police-pour-la-verite.org^
 ||police-recruitment.co.uk^
 ||police.unsa.org^
+||police1.com^
 ||policenow.org.uk^
 ||policeonguard.ca^
 ||policestate.news^
@@ -8326,6 +8336,7 @@
 ||scmissourinews.com^
 ||scnebraskanews.com^
 ||scnewyorknews.com^
+||scnr.com^
 ||scoklahomanews.com^
 ||scottadamssays.com^
 ||scottishnationalistsociety.com^
@@ -9124,6 +9135,7 @@
 ||stonepetition.com^
 ||stonetoss.com^
 ||stonetoss.gumroad.com^
+||stonezone.com^
 ||stopbidenagenda.com^
 ||stopbsnow.com^
 ||stopcafraud.com^
@@ -9439,6 +9451,7 @@
 ||teleguiado.com^
 ||temse.vlaamsbelang.org^
 ||tenesoun.fr^
+||tenetmedia.com^
 ||tensmiths.wordpress.com^
 ||tenthamendmentcenter.com^
 ||tenyek-online.com^
@@ -10166,6 +10179,7 @@
 ||ujvilagtudat.blogspot.hu^
 ||uk.insaf.pk^
 ||uk.metapedia.org^
+||uk.shop.lotuseaters.com^
 ||uk.upf.org^
 ||ukcolumn.org^
 ||ukdonation.insaf.pk^
@@ -10291,6 +10305,7 @@
 ||urkultur-imperium-europa.blogspot.com^
 ||us.blasting.news^
 ||us.blastingnews.com^
+||us.shop.lotuseaters.com^
 ||usa-radio.com^
 ||usa-television.com^
 ||usa.church^
