@@ -4888,6 +4888,7 @@ address=/kelso.stormfront.org/
 address=/kendallcountytimes.com/
 address=/kendra.minds.com/
 address=/kenfm.inter21.net/
+address=/kennedy24.com/
 address=/kenning.stormfront.org/
 address=/kenning01.stormfront.org/
 address=/kenning02.stormfront.org/

@@ -9778,6 +9778,8 @@
 0.0.0.0 www.kendra.minds.com
 0.0.0.0 kenfm.inter21.net
 0.0.0.0 www.kenfm.inter21.net
+0.0.0.0 kennedy24.com
+0.0.0.0 www.kennedy24.com
 0.0.0.0 kenning.stormfront.org
 0.0.0.0 www.kenning.stormfront.org
 0.0.0.0 kenning01.stormfront.org

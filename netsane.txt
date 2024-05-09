@@ -4888,6 +4888,7 @@
 "*://*.kendallcountytimes.com/*",
 "*://*.kendra.minds.com/*",
 "*://*.kenfm.inter21.net/*",
+"*://*.kennedy24.com/*",
 "*://*.kenning.stormfront.org/*",
 "*://*.kenning01.stormfront.org/*",
 "*://*.kenning02.stormfront.org/*",
