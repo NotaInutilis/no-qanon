@@ -13682,6 +13682,8 @@
 0.0.0.0 www.nyoobserver.wordpress.com
 0.0.0.0 nypost.com
 0.0.0.0 www.nypost.com
+0.0.0.0 nytid.no
+0.0.0.0 www.nytid.no
 0.0.0.0 nyttnorge.com
 0.0.0.0 www.nyttnorge.com
 0.0.0.0 nyuzer.com

@@ -6840,6 +6840,7 @@ address=/nykvarn.sd.se/
 address=/nynashamn.sd.se/
 address=/nyoobserver.wordpress.com/
 address=/nypost.com/
+address=/nytid.no/
 address=/nyttnorge.com/
 address=/nyuzer.com/
 address=/nzcpr.com/

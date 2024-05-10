@@ -6844,6 +6844,7 @@
 ||nynashamn.sd.se^
 ||nyoobserver.wordpress.com^
 ||nypost.com^
+||nytid.no^
 ||nyttnorge.com^
 ||nyuzer.com^
 ||nzcpr.com^
