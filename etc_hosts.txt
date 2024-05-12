@@ -10908,6 +10908,8 @@
 0.0.0.0 www.lyonpopulaire.fr
 0.0.0.0 lztnimbq.lc.org
 0.0.0.0 www.lztnimbq.lc.org
+0.0.0.0 m-n-r.fr
+0.0.0.0 www.m-n-r.fr
 0.0.0.0 m.8ch.net
 0.0.0.0 www.m.8ch.net
 0.0.0.0 m.8kun.top
@@ -12522,6 +12524,8 @@
 0.0.0.0 www.ndl.minds.com
 0.0.0.0 ndnorthnews.com
 0.0.0.0 www.ndnorthnews.com
+0.0.0.0 ndp-infos.over-blog.com
+0.0.0.0 www.ndp-infos.over-blog.com
 0.0.0.0 nds.diefreiheit.org
 0.0.0.0 www.nds.diefreiheit.org
 0.0.0.0 neadexia.gr
@@ -14334,6 +14338,8 @@
 0.0.0.0 www.parscale.donaldjtrump.com
 0.0.0.0 partage-le.com
 0.0.0.0 www.partage-le.com
+0.0.0.0 parti-de-la-france.fr
+0.0.0.0 www.parti-de-la-france.fr
 0.0.0.0 parti-reconquete.fr
 0.0.0.0 www.parti-reconquete.fr
 0.0.0.0 parti-renaissance.fr
@@ -18734,6 +18740,8 @@
 0.0.0.0 www.synergie-officiers.com
 0.0.0.0 synopsis-olsen.blogspot.com
 0.0.0.0 www.synopsis-olsen.blogspot.com
+0.0.0.0 synthesenationale.hautetfort.com
+0.0.0.0 www.synthesenationale.hautetfort.com
 0.0.0.0 syracusesun.com
 0.0.0.0 www.syracusesun.com
 0.0.0.0 syriana-analysis.com
@@ -20336,6 +20344,8 @@
 0.0.0.0 www.uddevalla.sd.se
 0.0.0.0 udk.fidesz.hu
 0.0.0.0 www.udk.fidesz.hu
+0.0.0.0 udn.hautetfort.com
+0.0.0.0 www.udn.hautetfort.com
 0.0.0.0 udongein.xyz
 0.0.0.0 www.udongein.xyz
 0.0.0.0 ufoholic.com

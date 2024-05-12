@@ -5453,6 +5453,7 @@
 *://*.lynwoodtimes.com/*
 *://*.lyonpopulaire.fr/*
 *://*.lztnimbq.lc.org/*
+*://*.m-n-r.fr/*
 *://*.m.8ch.net/*
 *://*.m.8kun.top/*
 *://*.m.bnp.org.uk/*
@@ -6260,6 +6261,7 @@
 *://*.ndbusinessdaily.com/*
 *://*.ndl.minds.com/*
 *://*.ndnorthnews.com/*
+*://*.ndp-infos.over-blog.com/*
 *://*.nds.diefreiheit.org/*
 *://*.neadexia.gr/*
 *://*.nealabamanews.com/*
@@ -7166,6 +7168,7 @@
 *://*.parscale-djtweb.donaldjtrump.com/*
 *://*.parscale.donaldjtrump.com/*
 *://*.partage-le.com/*
+*://*.parti-de-la-france.fr/*
 *://*.parti-reconquete.fr/*
 *://*.parti-renaissance.fr/*
 *://*.participatieve-democratie.be/*
@@ -9366,6 +9369,7 @@
 *://*.syndicat-liberte-sante.com/*
 *://*.synergie-officiers.com/*
 *://*.synopsis-olsen.blogspot.com/*
+*://*.synthesenationale.hautetfort.com/*
 *://*.syracusesun.com/*
 *://*.syriana-analysis.com/*
 *://*.sys.4chan.org/*
@@ -10167,6 +10171,7 @@
 *://*.uconservative.com/*
 *://*.uddevalla.sd.se/*
 *://*.udk.fidesz.hu/*
+*://*.udn.hautetfort.com/*
 *://*.udongein.xyz/*
 *://*.ufoholic.com/*
 *://*.ufomotion.xyz/*
