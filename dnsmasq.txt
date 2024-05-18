@@ -9466,6 +9466,7 @@ address=/ternat.vlaamsbelang.org/
 address=/terneuzen.pvv.nl/
 address=/terrarealtime.blogspot.com/
 address=/terrarealtime2.blogspot.com/
+address=/terredefrance.fr/
 address=/terreetpeuple.com/
 address=/territorio.alleanzanazionale.it/
 address=/terrorhousemag.com/

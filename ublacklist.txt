@@ -9466,6 +9466,7 @@
 *://*.terneuzen.pvv.nl/*
 *://*.terrarealtime.blogspot.com/*
 *://*.terrarealtime2.blogspot.com/*
+*://*.terredefrance.fr/*
 *://*.terreetpeuple.com/*
 *://*.territorio.alleanzanazionale.it/*
 *://*.terrorhousemag.com/*

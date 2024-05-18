@@ -13,4 +13,4 @@ stephanebern.com
 
 # Unsorted
 editions-voxgallia.fr
-https://terredefrance.fr/
+terredefrance.fr

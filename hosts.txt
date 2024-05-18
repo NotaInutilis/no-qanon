@@ -18934,6 +18934,8 @@
 0.0.0.0 www.terrarealtime.blogspot.com
 0.0.0.0 terrarealtime2.blogspot.com
 0.0.0.0 www.terrarealtime2.blogspot.com
+0.0.0.0 terredefrance.fr
+0.0.0.0 www.terredefrance.fr
 0.0.0.0 terreetpeuple.com
 0.0.0.0 www.terreetpeuple.com
 0.0.0.0 territorio.alleanzanazionale.it
