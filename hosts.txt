@@ -22890,8 +22890,6 @@
 0.0.0.0 www.wyw.8kun.top
 0.0.0.0 x.ai
 0.0.0.0 www.x.ai
-0.0.0.0 x.com
-0.0.0.0 www.x.com
 0.0.0.0 x22report.com
 0.0.0.0 www.x22report.com
 0.0.0.0 x22report.tv

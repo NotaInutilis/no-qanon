@@ -11444,7 +11444,6 @@
 "*://*.wyreforest.ukip.org/*",
 "*://*.wyw.8kun.top/*",
 "*://*.x.ai/*",
-"*://*.x.com/*",
 "*://*.x22report.com/*",
 "*://*.x22report.tv/*",
 "*://*.xandernieuws.punt.nl/*",

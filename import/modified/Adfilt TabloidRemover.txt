@@ -61,7 +61,6 @@ earlybulletins.news
 www-earlybulletins-news.translate.goog
 headtopics.com
 www-headtopics-com.translate.goog
-x.com
 www-x-com.translate.goog
 memedroid.com
 www-memedroid-com.translate.goog

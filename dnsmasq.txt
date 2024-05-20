@@ -11444,7 +11444,6 @@ address=/wybusinessdaily.com/
 address=/wyreforest.ukip.org/
 address=/wyw.8kun.top/
 address=/x.ai/
-address=/x.com/
 address=/x22report.com/
 address=/x22report.tv/
 address=/xandernieuws.punt.nl/
