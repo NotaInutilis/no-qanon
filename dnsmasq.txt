@@ -8770,6 +8770,7 @@ address=/sloreporter.com/
 address=/slug.com/
 address=/sm1.liveprayer.com/
 address=/smartmeters.news/
+address=/smashjt.com/
 address=/smashleft.com/
 address=/smelleverything.minds.com/
 address=/smf21.jdl-germany.org/

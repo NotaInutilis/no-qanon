@@ -8770,6 +8770,7 @@
 "*://*.slug.com/*",
 "*://*.sm1.liveprayer.com/*",
 "*://*.smartmeters.news/*",
+"*://*.smashjt.com/*",
 "*://*.smashleft.com/*",
 "*://*.smelleverything.minds.com/*",
 "*://*.smf21.jdl-germany.org/*",

@@ -17542,6 +17542,8 @@
 0.0.0.0 www.sm1.liveprayer.com
 0.0.0.0 smartmeters.news
 0.0.0.0 www.smartmeters.news
+0.0.0.0 smashjt.com
+0.0.0.0 www.smashjt.com
 0.0.0.0 smashleft.com
 0.0.0.0 www.smashleft.com
 0.0.0.0 smelleverything.minds.com
