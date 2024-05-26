@@ -10579,6 +10579,7 @@ address=/virginiaoathkeepers.org/
 address=/virginiastoner.com/
 address=/virtualshield.com/
 address=/virtuowl.com/
+address=/viruswar.fr/
 address=/visegradpost.com/
 address=/visionary.minds.com/
 address=/visionlaunch.com/

@@ -21160,6 +21160,8 @@
 0.0.0.0 www.virtualshield.com
 0.0.0.0 virtuowl.com
 0.0.0.0 www.virtuowl.com
+0.0.0.0 viruswar.fr
+0.0.0.0 www.viruswar.fr
 0.0.0.0 visegradpost.com
 0.0.0.0 www.visegradpost.com
 0.0.0.0 visionary.minds.com
