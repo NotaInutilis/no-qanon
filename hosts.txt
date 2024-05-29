@@ -476,8 +476,6 @@
 0.0.0.0 www.adventskalender.danskfolkeparti.dk
 0.0.0.0 advertising.minds.com
 0.0.0.0 www.advertising.minds.com
-0.0.0.0 advocate.com
-0.0.0.0 www.advocate.com
 0.0.0.0 ae911truth.org
 0.0.0.0 www.ae911truth.org
 0.0.0.0 aei.org

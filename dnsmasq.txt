@@ -237,7 +237,6 @@ address=/advancedliving.com/
 address=/advancedmedicine.com/
 address=/adventskalender.danskfolkeparti.dk/
 address=/advertising.minds.com/
-address=/advocate.com/
 address=/ae911truth.org/
 address=/aei.org/
 address=/aeroe.danskfolkeparti.dk/
