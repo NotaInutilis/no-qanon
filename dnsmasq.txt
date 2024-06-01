@@ -10064,6 +10064,7 @@ address=/trump.com/
 address=/trump.fairus.org/
 address=/trump.news/
 address=/trumpbookusa.com/
+address=/trumpdailyposts.com/
 address=/trumpgolf.com/
 address=/trumphotels.com/
 address=/trumpinternationalrealty.com/

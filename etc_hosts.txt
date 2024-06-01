@@ -20130,6 +20130,8 @@
 0.0.0.0 www.trump.news
 0.0.0.0 trumpbookusa.com
 0.0.0.0 www.trumpbookusa.com
+0.0.0.0 trumpdailyposts.com
+0.0.0.0 www.trumpdailyposts.com
 0.0.0.0 trumpgolf.com
 0.0.0.0 www.trumpgolf.com
 0.0.0.0 trumphotels.com

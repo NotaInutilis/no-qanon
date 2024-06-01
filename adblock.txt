@@ -10068,6 +10068,7 @@
 ||trump.fairus.org^
 ||trump.news^
 ||trumpbookusa.com^
+||trumpdailyposts.com^
 ||trumpgolf.com^
 ||trumphotels.com^
 ||trumpinternationalrealty.com^
