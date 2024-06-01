@@ -7886,6 +7886,7 @@
 "*://*.recoilmag.com/*",
 "*://*.recruiting.army.mil/*",
 "*://*.recrutementarmee.com/*",
+"*://*.redaudience.com/*",
 "*://*.redcountry.us/*",
 "*://*.reddingtoday.com/*",
 "*://*.redeinfoa.noblogs.org/*",
