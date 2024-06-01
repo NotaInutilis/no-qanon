@@ -2530,6 +2530,8 @@
 0.0.0.0 www.britainawake01.blogspot.com
 0.0.0.0 britainfirst.org
 0.0.0.0 www.britainfirst.org
+0.0.0.0 britbong.com
+0.0.0.0 www.britbong.com
 0.0.0.0 britishdemocrats.uk
 0.0.0.0 www.britishdemocrats.uk
 0.0.0.0 britologywatch.wordpress.com

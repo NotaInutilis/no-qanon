@@ -1264,6 +1264,7 @@ address=/brighteon.social/
 address=/bristolreporter.com/
 address=/britainawake01.blogspot.com/
 address=/britainfirst.org/
+address=/britbong.com/
 address=/britishdemocrats.uk/
 address=/britologywatch.wordpress.com/
 address=/bro.nyeborgerlige.dk/
