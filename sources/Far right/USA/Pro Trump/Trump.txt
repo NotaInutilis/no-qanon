@@ -26,11 +26,12 @@ donaldjtrump.com
 # PAC
 magapac.com
 
-# Unsorted
+# Fan sites
 donaldtrumpnews.co
 trumpvision365.com
 trumpsminutemen.org
 thetrumptimes.com
+news.thetrumptimes.com
 trumpknows.com
 trump.news
 welovetrump.com
@@ -42,7 +43,7 @@ trumpbookusa.com
 freetrumpcommemorative.com
 freetrumpbox.com
 thedonald.win
-news.thetrumptimes.com
+https://trumpdailyposts.com/
 
 # Probably fake stores
 officialtrump2024store.com
