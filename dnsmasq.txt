@@ -521,6 +521,7 @@ address=/antipodean-resistance.com/
 address=/antiprogre.com/
 address=/antivaxxer.icu/
 address=/antiwar.com/
+address=/antoinebaudino.fr/
 address=/antoinettejames.com/
 address=/antoniusaquinas.wp.com/
 address=/antwerpen.vlaamsbelang.org/

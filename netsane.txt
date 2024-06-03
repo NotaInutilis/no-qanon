@@ -521,6 +521,7 @@
 "*://*.antiprogre.com/*",
 "*://*.antivaxxer.icu/*",
 "*://*.antiwar.com/*",
+"*://*.antoinebaudino.fr/*",
 "*://*.antoinettejames.com/*",
 "*://*.antoniusaquinas.wp.com/*",
 "*://*.antwerpen.vlaamsbelang.org/*",
