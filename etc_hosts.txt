@@ -2348,6 +2348,8 @@
 0.0.0.0 www.bonginoreport.com
 0.0.0.0 bonn.pro-nrw.net
 0.0.0.0 www.bonn.pro-nrw.net
+0.0.0.0 bonnesnouvellesinfo.fr
+0.0.0.0 www.bonnesnouvellesinfo.fr
 0.0.0.0 bonsens.info
 0.0.0.0 www.bonsens.info
 0.0.0.0 boogcorps.org
@@ -10412,6 +10414,8 @@
 0.0.0.0 www.lerpesse.com
 0.0.0.0 lerum.sd.se
 0.0.0.0 www.lerum.sd.se
+0.0.0.0 leréveildesmoutons.fr
+0.0.0.0 www.leréveildesmoutons.fr
 0.0.0.0 les-coeurs-vaillants.com
 0.0.0.0 www.les-coeurs-vaillants.com
 0.0.0.0 les-collectifs-unis.info
@@ -18402,6 +18406,8 @@
 0.0.0.0 www.strangnas.sd.se
 0.0.0.0 strategic-culture.org
 0.0.0.0 www.strategic-culture.org
+0.0.0.0 stratpol.com
+0.0.0.0 www.stratpol.com
 0.0.0.0 stream-16k.infowars.com
 0.0.0.0 www.stream-16k.infowars.com
 0.0.0.0 stream-aac-eu.a.infowars.com

@@ -1177,6 +1177,7 @@
 ||bongino.com^
 ||bonginoreport.com^
 ||bonn.pro-nrw.net^
+||bonnesnouvellesinfo.fr^
 ||bonsens.info^
 ||boogcorps.org^
 ||bookacooklondon.parentsactionleague.org^
@@ -5209,6 +5210,7 @@
 ||lereveilcitoyen.fr^
 ||lerpesse.com^
 ||lerum.sd.se^
+||leréveildesmoutons.fr^
 ||les-coeurs-vaillants.com^
 ||les-collectifs-unis.info^
 ||les-identitaires.com^
@@ -9204,6 +9206,7 @@
 ||straightstoned.com^
 ||strangnas.sd.se^
 ||strategic-culture.org^
+||stratpol.com^
 ||stream-16k.infowars.com^
 ||stream-aac-eu.a.infowars.com^
 ||stream-aac-eu.infowars.com^
