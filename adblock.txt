@@ -3787,6 +3787,7 @@
 ||goldenrodnews.com^
 ||goldenstatetimes.com^
 ||goldenstatetoday.com^
+||gollnisch.com^
 ||gomastodon.cz^
 ||gomerblog.com^
 ||gondola.hu^

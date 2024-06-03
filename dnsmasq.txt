@@ -3783,6 +3783,7 @@ address=/goldenfront.ru/
 address=/goldenrodnews.com/
 address=/goldenstatetimes.com/
 address=/goldenstatetoday.com/
+address=/gollnisch.com/
 address=/gomastodon.cz/
 address=/gomerblog.com/
 address=/gondola.hu/
