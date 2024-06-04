@@ -1,5 +1,5 @@
-https://www.ifrap.org/
-https://www.touscontribuables.org/
-https://ifpfrance.org/
-https://www.institutmolinari.org/
-https://institutdeslibertes.org/
+ifrap.org
+touscontribuables.org
+ifpfrance.org
+institutmolinari.org
+institutdeslibertes.org
