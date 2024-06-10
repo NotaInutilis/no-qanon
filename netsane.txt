@@ -5390,6 +5390,7 @@
 "*://*.ljungby.sd.se/*",
 "*://*.ljusdal.sd.se/*",
 "*://*.ljusnarsberg.sd.se/*",
+"*://*.lm-media-libre.fr/*",
 "*://*.ln.renegadetribune.com/*",
 "*://*.load.live.triller.co/*",
 "*://*.local31news.com/*",
