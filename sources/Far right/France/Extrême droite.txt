@@ -12,9 +12,12 @@ lagrandehistoiredefrance.fr
 touchepasamonflic.com # Bruno Attal
 
 # Medias
+
 ## Publishers
 ring.fr
 editionsmagnus.fr
+https://editionsduverbehaut.fr/
+
 ## Newspapers
 valeursactuelles.com
 lincorrect.org
@@ -23,9 +26,11 @@ causeur.fr
 frontpopulaire.fr
 lafuria.fr
 rivarol.com
+
 ## Radio
 sudradio.fr
 radiocourtoisie.fr
+
 ## Web only
 omertamedia.fr
 bvoltaire.fr
