@@ -3,4 +3,4 @@ lp.org
 lpclc.org
 
 # Podcasts
-https://www.goodmorningliberty.us/
+goodmorningliberty.us

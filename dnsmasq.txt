@@ -3796,6 +3796,7 @@ address=/gonzalolira.blogspot.com/
 address=/gonzoglobe.com/
 address=/good-music.com/
 address=/goodgopher.com/
+address=/goodmorningliberty.us/
 address=/goodsauce.news/
 address=/goodsciencing.com/
 address=/gop/

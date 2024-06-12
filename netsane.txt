@@ -3796,6 +3796,7 @@
 "*://*.gonzoglobe.com/*",
 "*://*.good-music.com/*",
 "*://*.goodgopher.com/*",
+"*://*.goodmorningliberty.us/*",
 "*://*.goodsauce.news/*",
 "*://*.goodsciencing.com/*",
 "*://*.gop/*",
