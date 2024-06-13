@@ -12,7 +12,7 @@ droitepopulaire.fr
 thierrymariani.com
 gollnisch.com
 # Élus
-https://gentilletavocat.fr/
+gentilletavocat.fr
 
 ## Scissions du FN
 m-n-r.fr

@@ -3662,6 +3662,7 @@ address=/genocide.news/
 address=/genova.leganord.org/
 address=/genspect.org/
 address=/gent.vlaamsbelang.org/
+address=/gentilletavocat.fr/
 address=/gentofte.danskfolkeparti.dk/
 address=/genzconservative.com/
 address=/geoengineering.news/

@@ -7326,6 +7326,8 @@
 0.0.0.0 www.genspect.org
 0.0.0.0 gent.vlaamsbelang.org
 0.0.0.0 www.gent.vlaamsbelang.org
+0.0.0.0 gentilletavocat.fr
+0.0.0.0 www.gentilletavocat.fr
 0.0.0.0 gentofte.danskfolkeparti.dk
 0.0.0.0 www.gentofte.danskfolkeparti.dk
 0.0.0.0 genzconservative.com
