@@ -780,6 +780,8 @@
 0.0.0.0 www.americafirstpatriot.org
 0.0.0.0 americafirstprospects.com
 0.0.0.0 www.americafirstprospects.com
+0.0.0.0 americafirstreport.com
+0.0.0.0 www.americafirstreport.com
 0.0.0.0 americafullspeed.com
 0.0.0.0 www.americafullspeed.com
 0.0.0.0 americaismyname.org
@@ -7102,6 +7104,8 @@
 0.0.0.0 www.fulcrumnews.com
 0.0.0.0 fullfrontal.moe
 0.0.0.0 www.fullfrontal.moe
+0.0.0.0 fullmeasure.news
+0.0.0.0 www.fullmeasure.news
 0.0.0.0 fundyourtsunami.insaf.pk
 0.0.0.0 www.fundyourtsunami.insaf.pk
 0.0.0.0 funkgod.com
@@ -8660,6 +8664,8 @@
 0.0.0.0 www.i.ruqqus.com
 0.0.0.0 i24news.tv
 0.0.0.0 www.i24news.tv
+0.0.0.0 i2i.org
+0.0.0.0 www.i2i.org
 0.0.0.0 i3ziljxc37.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.i3ziljxc37.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 iabusinessdaily.com
@@ -9882,6 +9888,8 @@
 0.0.0.0 www.kiralyvidi.eu
 0.0.0.0 kirksvilletoday.com
 0.0.0.0 www.kirksvilletoday.com
+0.0.0.0 kirschsubstack.com
+0.0.0.0 www.kirschsubstack.com
 0.0.0.0 kirtinasha.minds.com
 0.0.0.0 www.kirtinasha.minds.com
 0.0.0.0 kiskegyed.creatorword.com
