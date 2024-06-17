@@ -775,6 +775,7 @@
 ||avenoel.org^
 ||avesta.sd.se^
 ||avilagtitkai.com^
+||avisa-partners.com^
 ||avn.org.au^
 ||avoiceformen.com^
 ||avortement.net^
@@ -3376,6 +3377,7 @@
 ||forums.siegeculture.biz^
 ||forumvoordemocratie.nl^
 ||forvictims.co.uk^
+||forwardglobal.com^
 ||forwardprogressives.com^
 ||forwomen.scot^
 ||forzanuova.eu^
@@ -5354,6 +5356,7 @@
 ||lincolnreport.com^
 ||lincorrect.org^
 ||lindesberg.sd.se^
+||link-edit.fr^
 ||link.breitbart.com^
 ||link.dev.live.triller.co^
 ||link.live.triller.co^
@@ -5757,6 +5760,7 @@
 ||mattermost.parler.com^
 ||mattforney.com^
 ||matthias331.wordpress.com^
+||matthieu-creux.fr^
 ||mattino.ch^
 ||mauireporter.com^
 ||mavenroundtable.io^
@@ -6223,6 +6227,7 @@
 ||nationonenews.com^
 ||natives-today.com^
 ||nativewhiteamerica.blogspot.com^
+||nativiz.fr^
 ||natowarcrimes.wordpress.com^
 ||natparty.com^
 ||naturahirek.com^

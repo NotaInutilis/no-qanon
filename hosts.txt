@@ -1544,6 +1544,8 @@
 0.0.0.0 www.avesta.sd.se
 0.0.0.0 avilagtitkai.com
 0.0.0.0 www.avilagtitkai.com
+0.0.0.0 avisa-partners.com
+0.0.0.0 www.avisa-partners.com
 0.0.0.0 avn.org.au
 0.0.0.0 www.avn.org.au
 0.0.0.0 avoiceformen.com
@@ -6746,6 +6748,8 @@
 0.0.0.0 www.forumvoordemocratie.nl
 0.0.0.0 forvictims.co.uk
 0.0.0.0 www.forvictims.co.uk
+0.0.0.0 forwardglobal.com
+0.0.0.0 www.forwardglobal.com
 0.0.0.0 forwardprogressives.com
 0.0.0.0 www.forwardprogressives.com
 0.0.0.0 forwomen.scot
@@ -10702,6 +10706,8 @@
 0.0.0.0 www.lincorrect.org
 0.0.0.0 lindesberg.sd.se
 0.0.0.0 www.lindesberg.sd.se
+0.0.0.0 link-edit.fr
+0.0.0.0 www.link-edit.fr
 0.0.0.0 link.breitbart.com
 0.0.0.0 www.link.breitbart.com
 0.0.0.0 link.dev.live.triller.co
@@ -11508,6 +11514,8 @@
 0.0.0.0 www.mattforney.com
 0.0.0.0 matthias331.wordpress.com
 0.0.0.0 www.matthias331.wordpress.com
+0.0.0.0 matthieu-creux.fr
+0.0.0.0 www.matthieu-creux.fr
 0.0.0.0 mattino.ch
 0.0.0.0 www.mattino.ch
 0.0.0.0 mauireporter.com
@@ -12440,6 +12448,8 @@
 0.0.0.0 www.natives-today.com
 0.0.0.0 nativewhiteamerica.blogspot.com
 0.0.0.0 www.nativewhiteamerica.blogspot.com
+0.0.0.0 nativiz.fr
+0.0.0.0 www.nativiz.fr
 0.0.0.0 natowarcrimes.wordpress.com
 0.0.0.0 www.natowarcrimes.wordpress.com
 0.0.0.0 natparty.com
