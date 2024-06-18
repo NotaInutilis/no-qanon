@@ -19736,6 +19736,8 @@
 0.0.0.0 www.thewhiterose.uk
 0.0.0.0 thewinedivepod.com
 0.0.0.0 www.thewinedivepod.com
+0.0.0.0 thewitness.news
+0.0.0.0 www.thewitness.news
 0.0.0.0 theywantyoudead.com
 0.0.0.0 www.theywantyoudead.com
 0.0.0.0 thezman.com

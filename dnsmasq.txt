@@ -9867,6 +9867,7 @@ address=/theweatherwiz.com/
 address=/thewellnessboutiquemn.com/
 address=/thewhiterose.uk/
 address=/thewinedivepod.com/
+address=/thewitness.news/
 address=/theywantyoudead.com/
 address=/thezman.com/
 address=/thi.nyeborgerlige.dk/
