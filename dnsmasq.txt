@@ -1136,6 +1136,7 @@ address=/bloodandsoil.org/
 address=/bloodlibertysoil.com/
 address=/bloomberg.ma/
 address=/bloomingtonleader.com/
+address=/bloquonsles.wordpress.com/
 address=/blueagle11.com/
 address=/bluegrasstimes.com/
 address=/bluehillguide.com/
