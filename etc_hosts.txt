@@ -1562,6 +1562,8 @@
 0.0.0.0 www.awakening.news
 0.0.0.0 awakeningchannel.com
 0.0.0.0 www.awakeningchannel.com
+0.0.0.0 awakenwithjp.com
+0.0.0.0 www.awakenwithjp.com
 0.0.0.0 awaking.minds.com
 0.0.0.0 www.awaking.minds.com
 0.0.0.0 awarenessact.com
@@ -4536,6 +4538,8 @@
 0.0.0.0 www.daventry.ukip.org
 0.0.0.0 daverubin.com
 0.0.0.0 www.daverubin.com
+0.0.0.0 daverubin.store
+0.0.0.0 www.daverubin.store
 0.0.0.0 daviddaniels.com
 0.0.0.0 www.daviddaniels.com
 0.0.0.0 davidduke.com

@@ -780,6 +780,7 @@
 *://*.awakeneduk.wordpress.com/*
 *://*.awakening.news/*
 *://*.awakeningchannel.com/*
+*://*.awakenwithjp.com/*
 *://*.awaking.minds.com/*
 *://*.awarenessact.com/*
 *://*.awazetribune.com/*
@@ -2267,6 +2268,7 @@
 *://*.davejanda.com/*
 *://*.daventry.ukip.org/*
 *://*.daverubin.com/*
+*://*.daverubin.store/*
 *://*.daviddaniels.com/*
 *://*.davidduke.com/*
 *://*.davidgorski.news/*
