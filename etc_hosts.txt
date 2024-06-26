@@ -6914,6 +6914,8 @@
 0.0.0.0 www.freedomalliance.co.uk
 0.0.0.0 freedomcells.org
 0.0.0.0 www.freedomcells.org
+0.0.0.0 freedomchat.com
+0.0.0.0 www.freedomchat.com
 0.0.0.0 freedomclubusa.org
 0.0.0.0 www.freedomclubusa.org
 0.0.0.0 freedomdaily.com

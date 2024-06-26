@@ -3456,6 +3456,7 @@
 *://*.freedomainradio.com/*
 *://*.freedomalliance.co.uk/*
 *://*.freedomcells.org/*
+*://*.freedomchat.com/*
 *://*.freedomclubusa.org/*
 *://*.freedomdaily.com/*
 *://*.freedomdefense.typepad.com/*

@@ -3456,6 +3456,7 @@ address=/freedomain.minds.com/
 address=/freedomainradio.com/
 address=/freedomalliance.co.uk/
 address=/freedomcells.org/
+address=/freedomchat.com/
 address=/freedomclubusa.org/
 address=/freedomdaily.com/
 address=/freedomdefense.typepad.com/

@@ -18,4 +18,4 @@ substack.com
 
 
 # Messenger
-https://freedomchat.com/
+freedomchat.com
