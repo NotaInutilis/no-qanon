@@ -2577,6 +2577,7 @@ address=/donjr.com/
 address=/donorbux.com/
 address=/donotlink.com/
 address=/donotlink.it/
+address=/donpartidelafrance.fr/
 address=/donpaulwearerev.com/
 address=/dont-tread-on.me/
 address=/donuts.domainssys.8kun.top/

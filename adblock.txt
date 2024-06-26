@@ -2581,6 +2581,7 @@
 ||donorbux.com^
 ||donotlink.com^
 ||donotlink.it^
+||donpartidelafrance.fr^
 ||donpaulwearerev.com^
 ||dont-tread-on.me^
 ||donuts.domainssys.8kun.top^

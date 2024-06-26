@@ -5156,6 +5156,8 @@
 0.0.0.0 www.donotlink.com
 0.0.0.0 donotlink.it
 0.0.0.0 www.donotlink.it
+0.0.0.0 donpartidelafrance.fr
+0.0.0.0 www.donpartidelafrance.fr
 0.0.0.0 donpaulwearerev.com
 0.0.0.0 www.donpaulwearerev.com
 0.0.0.0 dont-tread-on.me
