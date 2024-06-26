@@ -6405,6 +6405,7 @@ address=/newmail.psl.org.br/
 address=/newmedia.rickbulow.com/
 address=/newnation.org/
 address=/newnewzealand.org/
+address=/newnorm.tv/
 address=/newobserveronline.com/
 address=/newpoliticstoday.com/
 address=/newrightausnz.blogspot.com/

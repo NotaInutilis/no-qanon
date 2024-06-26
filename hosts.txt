@@ -12812,6 +12812,8 @@
 0.0.0.0 www.newnation.org
 0.0.0.0 newnewzealand.org
 0.0.0.0 www.newnewzealand.org
+0.0.0.0 newnorm.tv
+0.0.0.0 www.newnorm.tv
 0.0.0.0 newobserveronline.com
 0.0.0.0 www.newobserveronline.com
 0.0.0.0 newpoliticstoday.com

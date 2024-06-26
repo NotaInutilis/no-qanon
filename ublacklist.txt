@@ -6405,6 +6405,7 @@
 *://*.newmedia.rickbulow.com/*
 *://*.newnation.org/*
 *://*.newnewzealand.org/*
+*://*.newnorm.tv/*
 *://*.newobserveronline.com/*
 *://*.newpoliticstoday.com/*
 *://*.newrightausnz.blogspot.com/*
