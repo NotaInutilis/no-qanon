@@ -4578,6 +4578,7 @@ address=/investigatej6.org/
 address=/investmentresearchdynamics.com/
 address=/investmentwatchblog.com/
 address=/investors.com/
+address=/investyrefy.com/
 address=/invite.gab.com/
 address=/inzoomat.se/
 address=/ioco.altervista.org/
