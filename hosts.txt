@@ -2016,6 +2016,8 @@
 0.0.0.0 www.biblebelievers.org.au
 0.0.0.0 biblescienceforum.com
 0.0.0.0 www.biblescienceforum.com
+0.0.0.0 biblicalfembootcamp.com
+0.0.0.0 www.biblicalfembootcamp.com
 0.0.0.0 biblicalgenderroles.com
 0.0.0.0 www.biblicalgenderroles.com
 0.0.0.0 biblicisminstitute.wordpress.com

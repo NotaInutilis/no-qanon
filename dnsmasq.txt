@@ -1007,6 +1007,7 @@ address=/biasedbbc.org/
 address=/bible.oneplace.com/
 address=/biblebelievers.org.au/
 address=/biblescienceforum.com/
+address=/biblicalfembootcamp.com/
 address=/biblicalgenderroles.com/
 address=/biblicisminstitute.wordpress.com/
 address=/bibliotecapleyades.net/

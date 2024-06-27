@@ -1007,6 +1007,7 @@
 "*://*.bible.oneplace.com/*",
 "*://*.biblebelievers.org.au/*",
 "*://*.biblescienceforum.com/*",
+"*://*.biblicalfembootcamp.com/*",
 "*://*.biblicalgenderroles.com/*",
 "*://*.biblicisminstitute.wordpress.com/*",
 "*://*.bibliotecapleyades.net/*",
