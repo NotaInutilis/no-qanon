@@ -11430,6 +11430,8 @@
 0.0.0.0 www.marcorundo.wordpress.com
 0.0.0.0 marcusviniciusmotta.com
 0.0.0.0 www.marcusviniciusmotta.com
+0.0.0.0 maretraitenupes.fr
+0.0.0.0 www.maretraitenupes.fr
 0.0.0.0 margueritestern.com
 0.0.0.0 www.margueritestern.com
 0.0.0.0 mariagerfjord.danskfolkeparti.dk

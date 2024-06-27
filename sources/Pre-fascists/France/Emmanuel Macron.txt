@@ -14,4 +14,4 @@ besoindeurope.fr
 valeriehayer.eu
 
 # Fausses informations
-https://www.maretraitenupes.fr/
+maretraitenupes.fr
