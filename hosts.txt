@@ -10874,6 +10874,8 @@
 0.0.0.0 www.loop.joshwho.net
 0.0.0.0 loraintimes.com
 0.0.0.0 www.loraintimes.com
+0.0.0.0 lorialexander.blogspot.com
+0.0.0.0 www.lorialexander.blogspot.com
 0.0.0.0 lorieladd.com
 0.0.0.0 www.lorieladd.com
 0.0.0.0 losai.eu
@@ -19690,6 +19692,8 @@
 0.0.0.0 www.thetonicexpress.com
 0.0.0.0 thetoque.com
 0.0.0.0 www.thetoque.com
+0.0.0.0 thetransformedwife.com
+0.0.0.0 www.thetransformedwife.com
 0.0.0.0 thetruenews.info
 0.0.0.0 www.thetruenews.info
 0.0.0.0 thetrumpet.com
