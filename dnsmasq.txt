@@ -7364,6 +7364,7 @@ address=/pinnaclepeakpictures.com/
 address=/pioneerlittleeurope.wordpress.com/
 address=/piove.leganord.org/
 address=/piovegovernoladro.info/
+address=/pirbakas.fr/
 address=/pis.org.pl/
 address=/pistoia.leganord.org/
 address=/pitea.sd.se/
