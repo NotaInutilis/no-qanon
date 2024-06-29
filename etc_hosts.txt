@@ -1956,6 +1956,8 @@
 0.0.0.0 www.berliner-herold.de
 0.0.0.0 bernard-antony.com
 0.0.0.0 www.bernard-antony.com
+0.0.0.0 bernard-henri-levy.com
+0.0.0.0 www.bernard-henri-levy.com
 0.0.0.0 bernardgaynor.com.au
 0.0.0.0 www.bernardgaynor.com.au
 0.0.0.0 bernd-lucke.de
@@ -10240,6 +10242,8 @@
 0.0.0.0 www.larebubblica.tumblr.com
 0.0.0.0 laredotimes.com
 0.0.0.0 www.laredotimes.com
+0.0.0.0 laregledujeu.org
+0.0.0.0 www.laregledujeu.org
 0.0.0.0 lareleveetlapeste.fr
 0.0.0.0 www.lareleveetlapeste.fr
 0.0.0.0 larepubblica.info
