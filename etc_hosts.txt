@@ -328,6 +328,10 @@
 0.0.0.0 www.acallforanuprising.com
 0.0.0.0 accademiadellaliberta.blogspot.it
 0.0.0.0 www.accademiadellaliberta.blogspot.it
+0.0.0.0 accessconsciousness.com
+0.0.0.0 www.accessconsciousness.com
+0.0.0.0 accessconsciousness.eu
+0.0.0.0 www.accessconsciousness.eu
 0.0.0.0 account.breitbart.com
 0.0.0.0 www.account.breitbart.com
 0.0.0.0 accountsecuritylockdown.minds.com
@@ -1278,6 +1282,8 @@
 0.0.0.0 www.aryantiy.com
 0.0.0.0 aryanunity.com
 0.0.0.0 www.aryanunity.com
+0.0.0.0 asagiriren.wixsite.com
+0.0.0.0 www.asagiriren.wixsite.com
 0.0.0.0 asamblea.voxespana.es
 0.0.0.0 www.asamblea.voxespana.es
 0.0.0.0 asamericanasapplepie.org
@@ -6816,6 +6822,8 @@
 0.0.0.0 www.fr.sony.kukluxklan.com
 0.0.0.0 fr.sott.net
 0.0.0.0 www.fr.sott.net
+0.0.0.0 fra.accessconsciousness.eu
+0.0.0.0 www.fra.accessconsciousness.eu
 0.0.0.0 fracking.news
 0.0.0.0 www.fracking.news
 0.0.0.0 framix.fr
