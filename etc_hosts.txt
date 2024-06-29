@@ -1956,8 +1956,6 @@
 0.0.0.0 www.berliner-herold.de
 0.0.0.0 bernard-antony.com
 0.0.0.0 www.bernard-antony.com
-0.0.0.0 bernard-henri-levy.com
-0.0.0.0 www.bernard-henri-levy.com
 0.0.0.0 bernardgaynor.com.au
 0.0.0.0 www.bernardgaynor.com.au
 0.0.0.0 bernd-lucke.de
