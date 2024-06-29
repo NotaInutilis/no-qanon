@@ -1802,6 +1802,7 @@ address=/collamask.minds.com/
 address=/collapse.news/
 address=/collapsifornia.com/
 address=/collateralglobal.org/
+address=/collectif-eros.com/
 address=/collectif-nemesis.com/
 address=/collectifdesantepediatrique.fr/
 address=/collective-evolution.com/

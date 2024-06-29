@@ -3606,6 +3606,8 @@
 0.0.0.0 www.collapsifornia.com
 0.0.0.0 collateralglobal.org
 0.0.0.0 www.collateralglobal.org
+0.0.0.0 collectif-eros.com
+0.0.0.0 www.collectif-eros.com
 0.0.0.0 collectif-nemesis.com
 0.0.0.0 www.collectif-nemesis.com
 0.0.0.0 collectifdesantepediatrique.fr
