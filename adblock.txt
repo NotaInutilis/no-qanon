@@ -7654,6 +7654,7 @@
 ||programs.aynrand.org^
 ||programs.naturalnews.com^
 ||progress.news^
+||project2025.org^
 ||projectavalon.net^
 ||projectcamelot.org^
 ||projectcamelotportal.com^
