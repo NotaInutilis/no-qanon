@@ -16078,6 +16078,8 @@
 0.0.0.0 www.republicbroadcasting.org
 0.0.0.0 research.news
 0.0.0.0 www.research.news
+0.0.0.0 reseau-libre.org
+0.0.0.0 www.reseau-libre.org
 0.0.0.0 reseauinternational.net
 0.0.0.0 www.reseauinternational.net
 0.0.0.0 reseausherlockholmes.net

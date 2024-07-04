@@ -8038,6 +8038,7 @@ address=/republicains.fr/
 address=/republican/
 address=/republicbroadcasting.org/
 address=/research.news/
+address=/reseau-libre.org/
 address=/reseauinternational.net/
 address=/reseausherlockholmes.net/
 address=/resett.no/

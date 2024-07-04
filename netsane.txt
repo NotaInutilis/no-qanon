@@ -8038,6 +8038,7 @@
 "*://*.republican/*",
 "*://*.republicbroadcasting.org/*",
 "*://*.research.news/*",
+"*://*.reseau-libre.org/*",
 "*://*.reseauinternational.net/*",
 "*://*.reseausherlockholmes.net/*",
 "*://*.resett.no/*",
