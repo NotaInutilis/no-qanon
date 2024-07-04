@@ -3884,6 +3884,8 @@
 0.0.0.0 www.cops13.com
 0.0.0.0 copsarizona.org
 0.0.0.0 www.copsarizona.org
+0.0.0.0 copycopai.com
+0.0.0.0 www.copycopai.com
 0.0.0.0 corbettreport.com
 0.0.0.0 www.corbettreport.com
 0.0.0.0 core.infowars.com
@@ -6838,6 +6840,8 @@
 0.0.0.0 www.france-police.org
 0.0.0.0 france.upf.org
 0.0.0.0 www.france.upf.org
+0.0.0.0 franceencolere.fr
+0.0.0.0 www.franceencolere.fr
 0.0.0.0 francefoire.fr
 0.0.0.0 www.francefoire.fr
 0.0.0.0 francemediasnumerique.com
@@ -21076,6 +21080,8 @@
 0.0.0.0 www.vergereport.com
 0.0.0.0 veritanwo.altervista.org
 0.0.0.0 www.veritanwo.altervista.org
+0.0.0.0 veritecachee.fr
+0.0.0.0 www.veritecachee.fr
 0.0.0.0 veriteouconsequence.com
 0.0.0.0 www.veriteouconsequence.com
 0.0.0.0 verity-france.org

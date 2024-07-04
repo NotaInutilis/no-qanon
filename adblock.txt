@@ -1945,6 +1945,7 @@
 ||cops.donaldjtrump.com^
 ||cops13.com^
 ||copsarizona.org^
+||copycopai.com^
 ||corbettreport.com^
 ||core.infowars.com^
 ||coreysdigs.com^
@@ -3422,6 +3423,7 @@
 ||francaisdefrance.wordpress.com^
 ||france-police.org^
 ||france.upf.org^
+||franceencolere.fr^
 ||francefoire.fr^
 ||francemediasnumerique.com^
 ||francesoir.fr^
@@ -10541,6 +10543,7 @@
 ||verenigingsbeweging.nl^
 ||vergereport.com^
 ||veritanwo.altervista.org^
+||veritecachee.fr^
 ||veriteouconsequence.com^
 ||verity-france.org^
 ||vernoncoleman.com^
