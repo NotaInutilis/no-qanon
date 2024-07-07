@@ -11574,6 +11574,7 @@ address=/yuga.com/
 address=/yuki.la/
 address=/yummy.doctor/
 address=/yummytownfoodtruck.parentsactionleague.org/
+address=/yvesroucaute.com/
 address=/yw.8kun.top/
 address=/yyy.liveprayer.com/
 address=/z-28b3jxzl1og7.bitchute.com/
