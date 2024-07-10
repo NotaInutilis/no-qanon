@@ -6442,6 +6442,8 @@
 0.0.0.0 www.fellowshipoftheminds.com
 0.0.0.0 femelliste.com
 0.0.0.0 www.femelliste.com
+0.0.0.0 feminicides.fr
+0.0.0.0 www.feminicides.fr
 0.0.0.0 feministcurrent.com
 0.0.0.0 www.feministcurrent.com
 0.0.0.0 fenixx.org

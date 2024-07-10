@@ -3220,6 +3220,7 @@ address=/fedsalert.com/
 address=/feedback.dlive.tv/
 address=/fellowshipoftheminds.com/
 address=/femelliste.com/
+address=/feminicides.fr/
 address=/feministcurrent.com/
 address=/fenixx.org/
 address=/fexch.fidesz.hu/
