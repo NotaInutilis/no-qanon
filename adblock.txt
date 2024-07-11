@@ -630,6 +630,7 @@
 ||armstrongeconomics.com^
 ||armswatch.com^
 ||armycadets.com^
+||arnaudstephan.com^
 ||arnhem.pvv.nl^
 ||aroostooknews.com^
 ||arpac.eu^
@@ -5117,6 +5118,7 @@
 ||lang-server.parler.com^
 ||langeland.danskfolkeparti.dk^
 ||langleveeuropa.nl^
+||lanotedecom.com^
 ||lanozione.com^
 ||lansingreporter.com^
 ||lansingsun.com^
