@@ -1618,8 +1618,6 @@
 0.0.0.0 www.aztbeszelik.com
 0.0.0.0 b.8kun.top
 0.0.0.0 www.b.8kun.top
-0.0.0.0 b.tc
-0.0.0.0 www.b.tc
 0.0.0.0 b2cbzjzqkk.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.b2cbzjzqkk.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 babylonbee.com
