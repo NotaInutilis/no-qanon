@@ -1618,6 +1618,8 @@
 0.0.0.0 www.aztbeszelik.com
 0.0.0.0 b.8kun.top
 0.0.0.0 www.b.8kun.top
+0.0.0.0 b.tc
+0.0.0.0 www.b.tc
 0.0.0.0 b2cbzjzqkk.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.b2cbzjzqkk.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 babylonbee.com
@@ -2132,6 +2134,8 @@
 0.0.0.0 www.bitchute.com
 0.0.0.0 bitcoin20.org
 0.0.0.0 www.bitcoin20.org
+0.0.0.0 bitcoinblackfriday.com
+0.0.0.0 www.bitcoinblackfriday.com
 0.0.0.0 bitcoincenter.minds.com
 0.0.0.0 www.bitcoincenter.minds.com
 0.0.0.0 bitcoincollapse.news
@@ -2140,6 +2144,10 @@
 0.0.0.0 www.bitcoincrash.news
 0.0.0.0 bitcoinhackers.org
 0.0.0.0 www.bitcoinhackers.org
+0.0.0.0 bitcoinhalving.com
+0.0.0.0 www.bitcoinhalving.com
+0.0.0.0 bitcoinmagazine.com
+0.0.0.0 www.bitcoinmagazine.com
 0.0.0.0 bitrix.afa.net
 0.0.0.0 www.bitrix.afa.net
 0.0.0.0 bitrixdev.afa.net
