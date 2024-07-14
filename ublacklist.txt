@@ -10137,6 +10137,7 @@
 *://*.trumplive.com.au/*
 *://*.trumpq.uk/*
 *://*.trumpsminutemen.org/*
+*://*.trumpsol.xyz/*
 *://*.trumpstore.com/*
 *://*.trumpstoreamerica.com/*
 *://*.trumpvision365.com/*

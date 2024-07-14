@@ -10137,6 +10137,7 @@ address=/trumpknows.com/
 address=/trumplive.com.au/
 address=/trumpq.uk/
 address=/trumpsminutemen.org/
+address=/trumpsol.xyz/
 address=/trumpstore.com/
 address=/trumpstoreamerica.com/
 address=/trumpvision365.com/

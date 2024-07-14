@@ -20276,6 +20276,8 @@
 0.0.0.0 www.trumpq.uk
 0.0.0.0 trumpsminutemen.org
 0.0.0.0 www.trumpsminutemen.org
+0.0.0.0 trumpsol.xyz
+0.0.0.0 www.trumpsol.xyz
 0.0.0.0 trumpstore.com
 0.0.0.0 www.trumpstore.com
 0.0.0.0 trumpstoreamerica.com
