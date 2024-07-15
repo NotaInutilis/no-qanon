@@ -3276,6 +3276,7 @@
 *://*.finspangold.sd.se/*
 *://*.firearmownersunited.com/*
 *://*.firearmscoalition.org/*
+*://*.firearmspolicy.org/*
 *://*.firebrandleft.com/*
 *://*.firerescue1.com/*
 *://*.firmecongresso2017.leganord.org/*
@@ -4815,6 +4816,7 @@
 *://*.johnstontimes.com/*
 *://*.join.thecourtshipnetwork.com/*
 *://*.join.ukip.org/*
+*://*.joinfpc.org/*
 *://*.joiningthepolice.co.uk/*
 *://*.joinlapd.com/*
 *://*.joinpsni.co.uk/*
@@ -8454,6 +8456,7 @@
 *://*.secure.clarionproject.org/*
 *://*.secure.counter-currents.com/*
 *://*.secure.donaldjtrump.com/*
+*://*.secure.firearmspolicy.org/*
 *://*.secure.info14.com/*
 *://*.secure.jaromebellforcongress.com/*
 *://*.secure.liveprayer.com/*

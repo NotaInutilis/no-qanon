@@ -6554,6 +6554,8 @@
 0.0.0.0 www.firearmownersunited.com
 0.0.0.0 firearmscoalition.org
 0.0.0.0 www.firearmscoalition.org
+0.0.0.0 firearmspolicy.org
+0.0.0.0 www.firearmspolicy.org
 0.0.0.0 firebrandleft.com
 0.0.0.0 www.firebrandleft.com
 0.0.0.0 firerescue1.com
@@ -9632,6 +9634,8 @@
 0.0.0.0 www.join.thecourtshipnetwork.com
 0.0.0.0 join.ukip.org
 0.0.0.0 www.join.ukip.org
+0.0.0.0 joinfpc.org
+0.0.0.0 www.joinfpc.org
 0.0.0.0 joiningthepolice.co.uk
 0.0.0.0 www.joiningthepolice.co.uk
 0.0.0.0 joinlapd.com
@@ -16910,6 +16914,8 @@
 0.0.0.0 www.secure.counter-currents.com
 0.0.0.0 secure.donaldjtrump.com
 0.0.0.0 www.secure.donaldjtrump.com
+0.0.0.0 secure.firearmspolicy.org
+0.0.0.0 www.secure.firearmspolicy.org
 0.0.0.0 secure.info14.com
 0.0.0.0 www.secure.info14.com
 0.0.0.0 secure.jaromebellforcongress.com

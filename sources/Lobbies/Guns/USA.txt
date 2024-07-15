@@ -2,9 +2,9 @@ nssf.org
 gunowners.org
 nra.org
 saf.org
-https://firearmspolicy.org
-https://secure.firearmspolicy.org
-http://joinfpc.org/
+firearmspolicy.org
+secure.firearmspolicy.org
+joinfpc.org
 
 # https://www.pcgamer.com/how-one-gun-company-partnered-with-call-of-duty-to-attract-young-potential-shooters/
 remington.com
