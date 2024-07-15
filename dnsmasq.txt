@@ -9188,6 +9188,7 @@ address=/stg.infowars.com/
 address=/stgeorgegazette.com/
 address=/stgeorgewest.blogspot.com/
 address=/stichtsevecht.pvv.nl/
+address=/stickermule.com/
 address=/stillnessinthestorm.com/
 address=/stimme.afd.de/
 address=/stj911.org/

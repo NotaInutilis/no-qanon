@@ -9188,6 +9188,7 @@
 "*://*.stgeorgegazette.com/*",
 "*://*.stgeorgewest.blogspot.com/*",
 "*://*.stichtsevecht.pvv.nl/*",
+"*://*.stickermule.com/*",
 "*://*.stillnessinthestorm.com/*",
 "*://*.stimme.afd.de/*",
 "*://*.stj911.org/*",
