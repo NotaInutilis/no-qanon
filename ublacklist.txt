@@ -9299,6 +9299,7 @@
 *://*.students.kataeb.org/*
 *://*.studentsagainsttyranny.com/*
 *://*.studentsforliberty.org/*
+*://*.studentsforliberty.start.page/*
 *://*.studiobuchung.afd.de/*
 *://*.studiotour.warnerbros.fr/*
 *://*.study.noi.org/*
