@@ -19580,6 +19580,8 @@
 0.0.0.0 www.thepatrioticvoice.com
 0.0.0.0 thepatriotlight.com
 0.0.0.0 www.thepatriotlight.com
+0.0.0.0 thepatriotoasis.com
+0.0.0.0 www.thepatriotoasis.com
 0.0.0.0 thepatriotpartynews.com
 0.0.0.0 www.thepatriotpartynews.com
 0.0.0.0 thepatriotpin.com

@@ -9789,6 +9789,7 @@
 "*://*.thepatriothour.com/*",
 "*://*.thepatrioticvoice.com/*",
 "*://*.thepatriotlight.com/*",
+"*://*.thepatriotoasis.com/*",
 "*://*.thepatriotpartynews.com/*",
 "*://*.thepatriotpin.com/*",
 "*://*.thepatriotvoice.us/*",

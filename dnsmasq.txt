@@ -9789,6 +9789,7 @@ address=/thepatriotfactor.blogspot.com/
 address=/thepatriothour.com/
 address=/thepatrioticvoice.com/
 address=/thepatriotlight.com/
+address=/thepatriotoasis.com/
 address=/thepatriotpartynews.com/
 address=/thepatriotpin.com/
 address=/thepatriotvoice.us/
