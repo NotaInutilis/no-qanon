@@ -11,6 +11,7 @@
 *://*.1080science.co.nz/*
 *://*.10news.one/*
 *://*.12160.info/*
+*://*.159.203.150.217/*
 *://*.163.info14.com/*
 *://*.164.info14.com/*
 *://*.165.info14.com/*
@@ -36,6 +37,7 @@
 *://*.21stcenturywire.com/*
 *://*.220-srv1.insaf.pk/*
 *://*.22passi.blogspot.it/*
+*://*.23.56.163.108/*
 *://*.24heuresactu.com/*
 *://*.24matin.ch/*
 *://*.24newsflash.com/*
@@ -86,8 +88,10 @@
 *://*.5iisjztgyz.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/*
 *://*.5x0eggbvlm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/*
 *://*.5x5.network/*
+*://*.64.135.21.3/*
 *://*.6hwzzfs2iy.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/*
 *://*.70news.wordpress.com/*
+*://*.73.0.253.181/*
 *://*.74millionred.com/*
 *://*.777.8ch.net/*
 *://*.7phie4ohrahgo2dae3ae4eelie1ooj.gab.ai/*
@@ -676,6 +680,7 @@
 *://*.associazionipadane.leganord.org/*
 *://*.asti.leganord.org/*
 *://*.astorp.sd.se/*
+*://*.astound911.com/*
 *://*.astronogeek.fr/*
 *://*.astronogeek.tv/*
 *://*.astuce-story.com/*
@@ -1097,6 +1102,8 @@
 *://*.blankenberge.vlaamsbelang.org/*
 *://*.blastingnews.com/*
 *://*.blauewende.de/*
+*://*.blaylockbook.com/*
+*://*.blaylockreport.com/*
 *://*.blazetv.com/*
 *://*.blazingbulgaria.wordpress.com/*
 *://*.blazingpress.com/*
@@ -1165,6 +1172,7 @@
 *://*.boatos.org/*
 *://*.boatsinker.online/*
 *://*.bobards-dor.fr/*
+*://*.bocastudio1.com/*
 *://*.bochum.pro-nrw.net/*
 *://*.bock-cote.info/*
 *://*.boden.sd.se/*
@@ -1253,6 +1261,7 @@
 *://*.bravepatrie.com/*
 *://*.bravetruth.org/*
 *://*.brazenbonapartist.blogspot.com/*
+*://*.breakawayincome.com/*
 *://*.breaking911.com/*
 *://*.breakingfirst.com/*
 *://*.breakingviewsnz.blogspot.com/*
@@ -1438,6 +1447,7 @@
 *://*.carbondioxide.news/*
 *://*.carbonfolly.com/*
 *://*.cardinalsupportnetwork.com/*
+*://*.cardioadvance.com/*
 *://*.cardiomiracle.com/*
 *://*.careers.cityoflondon.police.uk/*
 *://*.carlbherman.blogspot.com/*
@@ -2087,6 +2097,9 @@
 *://*.cpcontacts.savecalifornia.com/*
 *://*.cpcontacts.thefreethoughtproject.com/*
 *://*.cpcontacts.veteranstoday.com/*
+*://*.crandalheart.com/*
+*://*.crandallheart.com/*
+*://*.crandallreport.com/*
 *://*.crashdebug.fr/*
 *://*.crashthematrix.wordpress.com/*
 *://*.crawfordcountytimes.com/*
@@ -2114,6 +2127,7 @@
 *://*.crew38.com/*
 *://*.crimaz.minds.com/*
 *://*.crisis.thethreepercenters.org/*
+*://*.crisispointinvestor.com/*
 *://*.criticalrace.org/*
 *://*.criticapolitica.org/*
 *://*.cronicadeportiva.com/*
@@ -2124,6 +2138,8 @@
 *://*.croydon.ukip.org/*
 *://*.crpc.org/*
 *://*.crrow777radio.com/*
+*://*.crtv.com/*
+*://*.crtv.net/*
 *://*.crusadechannel.com/*
 *://*.cruz.senate.gov/*
 *://*.cryforrecognition.be/*
@@ -2229,6 +2245,7 @@
 *://*.dailytruthreport.com/*
 *://*.dailywhiterabbit.com/*
 *://*.dailywire.com/*
+*://*.dailywire.multiscreensite.com/*
 *://*.dailyworldupdate.us/*
 *://*.dailyxrpnews.com/*
 *://*.dajiyuan.com/*
@@ -2525,6 +2542,7 @@
 *://*.diti.fidesz.hu/*
 *://*.ditoverblik.dk/*
 *://*.diversitychronicle.wordpress.com/*
+*://*.dividendmachine.com/*
 *://*.divinecosmos.com/*
 *://*.divinecosmos.minds.com/*
 *://*.divineprinciplestudy.org/*
@@ -2645,6 +2663,11 @@
 *://*.droitepopulaire.fr/*
 *://*.droitesociale.fr/*
 *://*.drop.space/*
+*://*.dropatlanticbreezeline.com/*
+*://*.dropbreezelineohio.com/*
+*://*.dropcitizenscable.com/*
+*://*.drophargray.com/*
+*://*.drophawaiiantelcom.com/*
 *://*.drpaulalexander.com/*
 *://*.drrobertyoung.com/*
 *://*.drroyspencer.com/*
@@ -2798,6 +2821,7 @@
 *://*.egyptianreview.com/*
 *://*.ehris.minds.com/*
 *://*.eine-zeitung.net/*
+*://*.einstein-rosen-bridge.com/*
 *://*.ejbron.wordpress.com/*
 *://*.ekerdoiv.fidesz.hu/*
 *://*.ekerdoivdev.fidesz.hu/*
@@ -3205,6 +3229,7 @@
 *://*.fayettevilletoday.com/*
 *://*.fazekassandor.fidesz.hu/*
 *://*.fbicorruption.news/*
+*://*.fbtalliance.com/*
 *://*.fca.nyeborgerlige.dk/*
 *://*.fda.news/*
 *://*.fdahealthnews.com/*
@@ -3262,6 +3287,8 @@
 *://*.finaltelegraph.com/*
 *://*.finalwakeupcall.info/*
 *://*.finance.breitbart.com/*
+*://*.financialintelligencereport.com/*
+*://*.financialintelligencereports.com/*
 *://*.financialnewsdisclosure.com/*
 *://*.financialnewsdisclosure.wordpress.com/*
 *://*.financialsurvivalnetwork.com/*
@@ -3405,6 +3432,7 @@
 *://*.foxcitiesnews.com/*
 *://*.foxnews.com/*
 *://*.foxnewsbrasil.com/*
+*://*.foxnewsinternational.com/*
 *://*.foxweather.com/*
 *://*.fp-prod.thriveon.com/*
 *://*.fpip-police.fr/*
@@ -3436,6 +3464,8 @@
 *://*.francisrichard.net/*
 *://*.francoisasselineau.fr/*
 *://*.franklinarcher.com/*
+*://*.franklinprosperity.com/*
+*://*.franklinprosperityreport.com/*
 *://*.franko.info/*
 *://*.frankspeech.com/*
 *://*.fraservalleysoldiersofodin.ca/*
@@ -3740,6 +3770,7 @@
 *://*.giuindaerba.leganord.org/*
 *://*.give.afa.net/*
 *://*.give.unitedfutureparty.kr/*
+*://*.giveitbacknancy.com/*
 *://*.givesendgo.com/*
 *://*.gla.nyeborgerlige.dk/*
 *://*.glaciercountrynews.com/*
@@ -3812,6 +3843,7 @@
 *://*.goldenrodnews.com/*
 *://*.goldenstatetimes.com/*
 *://*.goldenstatetoday.com/*
+*://*.goldstockadviser.com/*
 *://*.gollnisch.com/*
 *://*.gomastodon.cz/*
 *://*.gomerblog.com/*
@@ -3828,6 +3860,7 @@
 *://*.gop/*
 *://*.gop.com/*
 *://*.gop.gov/*
+*://*.gopinsiderbrief.com/*
 *://*.gopthedailydose.com/*
 *://*.gorf.tube/*
 *://*.gorle.leganord.org/*
@@ -3918,6 +3951,7 @@
 *://*.gruntstyle.com/*
 *://*.gruppopoliticofemminile.leganord.org/*
 *://*.gsmnet.minds.com/*
+*://*.gstnetwork.com/*
 *://*.gtrtimes.com/*
 *://*.guangming.org/*
 *://*.guarda.link/*
@@ -3941,6 +3975,7 @@
 *://*.gv.minds.com/*
 *://*.gw.cluster.d.tube/*
 *://*.gw.rumble.com/*
+*://*.gxm.com/*
 *://*.gyal.fidesz.hu/*
 *://*.gyomro.fidesz.hu/*
 *://*.gyorgyistvandr.fidesz.hu/*
@@ -4140,6 +4175,7 @@
 *://*.hickorysun.com/*
 *://*.highcountrytimes.com/*
 *://*.highereducationtribune.com/*
+*://*.highincomefactor.com/*
 *://*.highplainsskeptic.com/*
 *://*.hil.nyeborgerlige.dk/*
 *://*.hillcountrychronicle.com/*
@@ -4559,6 +4595,7 @@
 *://*.inquisitor.com/*
 *://*.inquisitr.com/*
 *://*.insaf.pk/*
+*://*.insiderhotline.com/*
 *://*.institut-iliade.com/*
 *://*.institutdelasecuriteinterieure.fr/*
 *://*.institutdeslibertes.org/*
@@ -4595,6 +4632,7 @@
 *://*.investmentresearchdynamics.com/*
 *://*.investmentwatchblog.com/*
 *://*.investors.com/*
+*://*.investwithinsiders.com/*
 *://*.investyrefy.com/*
 *://*.invite.gab.com/*
 *://*.inzoomat.se/*
@@ -4690,6 +4728,7 @@
 *://*.ivg-romprelesilence.fr/*
 *://*.ivg.net/*
 *://*.ivmmeta.com/*
+*://*.iwantnewsmax.com/*
 *://*.iwanttoexplore.com/*
 *://*.iwww.jtf.org/*
 *://*.iz.ru/*
@@ -5180,6 +5219,7 @@
 *://*.lc.org/*
 *://*.le-scpn.fr/*
 *://*.leafposter.club/*
+*://*.leagueofamericanvoters.com/*
 *://*.leagueofthesouth.com/*
 *://*.leaksource.wordpress.com/*
 *://*.learn.evangelismexplosion.org/*
@@ -5283,6 +5323,7 @@
 *://*.lessebo.sd.se/*
 *://*.lessurvivants.com/*
 *://*.lessurvivantsroadshow.com/*
+*://*.lestranol.com/*
 *://*.lesyndicatdelafamille.fr/*
 *://*.letopdelhumour.fr/*
 *://*.letsbfree.com/*
@@ -5290,6 +5331,7 @@
 *://*.leurenmoret.info/*
 *://*.leuven.vlaamsbelang.org/*
 *://*.leverkusen.pro-nrw.net/*
+*://*.levintv.com/*
 *://*.lewistontimes.com/*
 *://*.lewrockwell.com/*
 *://*.lexipol.com/*
@@ -5363,6 +5405,7 @@
 *://*.lightlybraisedturnip.com/*
 *://*.lightofbaldr.com/*
 *://*.lightsinthedark.info/*
+*://*.lignet.com/*
 *://*.liguedumidi.com/*
 *://*.liiighthouse.com/*
 *://*.likethedaysofnoah.wordpress.com/*
@@ -5791,6 +5834,7 @@
 *://*.mavenroundtable.io/*
 *://*.max.minds.com/*
 *://*.maxkeiser.com/*
+*://*.maxnews.com/*
 *://*.mb.infowars.com/*
 *://*.mbynews.com/*
 *://*.mcallistertvonline.com/*
@@ -5848,6 +5892,7 @@
 *://*.medicdebate.org/*
 *://*.medicine.news/*
 *://*.medinatoday.com/*
+*://*.medixeverto.com/*
 *://*.medlem-dev.nyeborgerlige.dk/*
 *://*.medlem.nyeborgerlige.dk/*
 *://*.mednat.org/*
@@ -5988,6 +6033,7 @@
 *://*.mindenegybenblog.net/*
 *://*.mindenegyhelyen.info/*
 *://*.mindenszo.hu/*
+*://*.mindhealthreport.com/*
 *://*.minds.com/*
 *://*.minds.minds.com/*
 *://*.mindsgaming.minds.com/*
@@ -6173,6 +6219,7 @@
 *://*.mx2.renegadebroadcasting.com/*
 *://*.mx2.renegadetribune.com/*
 *://*.my.minds.com/*
+*://*.myarterin.com/*
 *://*.mydailyrelaxation.com/*
 *://*.mydup.com/*
 *://*.myfoodepic.com/*
@@ -6182,6 +6229,7 @@
 *://*.mypatriotcigars.com/*
 *://*.mypatriotsnetwork.com/*
 *://*.mypillow.com/*
+*://*.myretamin.com/*
 *://*.myrightamerica.com/*
 *://*.myrtlebeachleader.com/*
 *://*.mysql.8kun.top/*
@@ -6479,7 +6527,25 @@
 *://*.newsletters.oneplace.com/*
 *://*.newslo.com/*
 *://*.newsmagazine.com/*
+*://*.newsmax.asia/*
+*://*.newsmax.ca/*
+*://*.newsmax.co.uk/*
+*://*.newsmax.co.za/*
 *://*.newsmax.com/*
+*://*.newsmax.com.ar/*
+*://*.newsmax.com.au/*
+*://*.newsmax.com.br/*
+*://*.newsmax.com.mx/*
+*://*.newsmax.eu/*
+*://*.newsmax.jp/*
+*://*.newsmax.no/*
+*://*.newsmax.org/*
+*://*.newsmax3.tv/*
+*://*.newsmaxaffiliate.com/*
+*://*.newsmaxfeednetwork.com/*
+*://*.newsmaxplus.com/*
+*://*.newsmaxtv.ca/*
+*://*.newsmaxtv.ch/*
 *://*.newsmaxtv.com/*
 *://*.newsmutiny.com/*
 *://*.newsnadzis.pl/*
@@ -6542,6 +6608,7 @@
 *://*.nl.svp.ch/*
 *://*.nmbusinessdaily.com/*
 *://*.nmstandsup.org/*
+*://*.nnewsmaxtv.com/*
 *://*.nnnforum.com/*
 *://*.nnsfront.wordpress.com/*
 *://*.no.metapedia.org/*
@@ -7905,6 +7972,7 @@
 *://*.rbth.com/*
 *://*.rbth.ru/*
 *://*.rcc.onenation.org.au/*
+*://*.rcncomplaints.com/*
 *://*.rdice.net.redice.tv/*
 *://*.rdps.leganord.org/*
 *://*.reaconaria.org/*
@@ -8072,6 +8140,7 @@
 *://*.retalk.com/*
 *://*.retenews24.it/*
 *://*.rethinkime.org/*
+*://*.retirementprofits.com/*
 *://*.retrospective.clarionproject.org/*
 *://*.retrotic.mattforney.com/*
 *://*.returnofkings.com/*
@@ -8163,6 +8232,8 @@
 *://*.roadwarriorsnews.com/*
 *://*.roanokesun.com/*
 *://*.robadapazzi.com/*
+*://*.robcarsonradio.com/*
+*://*.robcarsonshow.com/*
 *://*.robertfaurisson.blogspot.com/*
 *://*.robertmueller.news/*
 *://*.robertsungenis.org/*
@@ -9051,6 +9122,7 @@
 *://*.speisa.com/*
 *://*.speld.nl/*
 *://*.spencergate.wordpress.com/*
+*://*.spetrinoinnercircle.com/*
 *://*.spf.parler.com/*
 *://*.spherebeingalliance.com/*
 *://*.spiked-online.com/*
@@ -9175,6 +9247,7 @@
 *://*.stenungsund.sd.se/*
 *://*.stephanebern.com/*
 *://*.stephenlendman.org/*
+*://*.stevedeace.com/*
 *://*.stevekirsch.substack.com/*
 *://*.stevengoddard.wordpress.com/*
 *://*.stevepieczenik.com/*
@@ -9662,6 +9735,7 @@
 *://*.thedailysheeple.com/*
 *://*.thedcgazette.com/*
 *://*.thedesertreview.com/*
+*://*.thedividendmachine.com/*
 *://*.thedonald.one/*
 *://*.thedonald.space/*
 *://*.thedonald.win/*
@@ -9755,6 +9829,7 @@
 *://*.themarshallreport.wordpress.com/*
 *://*.theme.wrongthink.net/*
 *://*.themelkshow.com/*
+*://*.themetabio.com/*
 *://*.themilitia.blog/*
 *://*.themillenniumreport.com/*
 *://*.themindunleashed.com/*
@@ -10146,6 +10221,7 @@
 *://*.trumpsol.xyz/*
 *://*.trumpstore.com/*
 *://*.trumpstoreamerica.com/*
+*://*.trumptaxcut.com/*
 *://*.trumpvision365.com/*
 *://*.trumpwinery.com/*
 *://*.trunews.com/*
@@ -10272,6 +10348,7 @@
 *://*.ullanoertoftthomsen.blogspot.com/*
 *://*.ulricehamn.sd.se/*
 *://*.ultimateflashnews.com/*
+*://*.ultimatewealthreport.com/*
 *://*.ultimora24.it/*
 *://*.ultimosegundo.ig.com.br/*
 *://*.um-fin.org/*
@@ -10669,6 +10746,7 @@
 *://*.vladtepesblog.com/*
 *://*.vlag.vlaamsbelang.org/*
 *://*.vnews24.it/*
+*://*.vnewsmax.com/*
 *://*.vnnforum.com/*
 *://*.vns.nyeborgerlige.dk/*
 *://*.voat.co/*
