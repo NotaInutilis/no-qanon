@@ -9392,6 +9392,8 @@
 0.0.0.0 www.isosio.minds.com
 0.0.0.0 israelcc.org
 0.0.0.0 www.israelcc.org
+0.0.0.0 israelinstitute.nz
+0.0.0.0 www.israelinstitute.nz
 0.0.0.0 israelislamandendtimes.com
 0.0.0.0 www.israelislamandendtimes.com
 0.0.0.0 israelnationalnews.com

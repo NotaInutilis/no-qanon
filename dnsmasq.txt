@@ -4695,6 +4695,7 @@ address=/islamthreat.com/
 address=/isola.leganord.org/
 address=/isosio.minds.com/
 address=/israelcc.org/
+address=/israelinstitute.nz/
 address=/israelislamandendtimes.com/
 address=/israelnationalnews.com/
 address=/israeloncampuscoalition.org/

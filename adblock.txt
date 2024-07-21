@@ -4699,6 +4699,7 @@
 ||isola.leganord.org^
 ||isosio.minds.com^
 ||israelcc.org^
+||israelinstitute.nz^
 ||israelislamandendtimes.com^
 ||israelnationalnews.com^
 ||israeloncampuscoalition.org^
