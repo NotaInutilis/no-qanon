@@ -90,6 +90,10 @@
 ::1 www.24ora.eu
 ::1 24orenotizie.com
 ::1 www.24orenotizie.com
+::1 2600:141b:e800:c86::2313
+::1 www.2600:141b:e800:c86::2313
+::1 2600:141b:e800:c90::2313
+::1 www.2600:141b:e800:c90::2313
 ::1 2ch.sc
 ::1 www.2ch.sc
 ::1 2ch.sh
