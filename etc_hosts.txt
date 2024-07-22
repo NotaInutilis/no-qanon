@@ -6660,8 +6660,6 @@
 0.0.0.0 www.flemingmethod.com
 0.0.0.0 flen.sd.se
 0.0.0.0 www.flen.sd.se
-0.0.0.0 flickr.com
-0.0.0.0 www.flickr.com
 0.0.0.0 flip.jbs.org
 0.0.0.0 www.flip.jbs.org
 0.0.0.0 floraisons.blog

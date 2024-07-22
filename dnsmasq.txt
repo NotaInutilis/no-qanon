@@ -3329,7 +3329,6 @@ address=/flccc.net/
 address=/flds.org/
 address=/flemingmethod.com/
 address=/flen.sd.se/
-address=/flickr.com/
 address=/flip.jbs.org/
 address=/floraisons.blog/
 address=/floridajolt.com/

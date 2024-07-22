@@ -3333,7 +3333,6 @@
 ||flds.org^
 ||flemingmethod.com^
 ||flen.sd.se^
-||flickr.com^
 ||flip.jbs.org^
 ||floraisons.blog^
 ||floridajolt.com^
