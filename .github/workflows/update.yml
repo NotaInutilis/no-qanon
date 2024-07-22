@@ -4,7 +4,6 @@ on:
   push:
     paths:
       - 'sources/**.txt'
-      - 'filters/**.txt'
   workflow_dispatch:
 
 jobs:
