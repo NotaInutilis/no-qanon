@@ -14,4 +14,4 @@ parismatch.com
 europe1.fr
 
 # https://rsf.org/fr/derri%C3%A8re-la-campagne-de-d%C3%A9sinformation-contre-rsf-progressif-media-une-bo%C3%AEte-d-influence-sulfureuse
-https://progressifmedia.com/
+progressifmedia.com

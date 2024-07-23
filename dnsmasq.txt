@@ -7731,6 +7731,7 @@ address=/profundityyours.com/
 address=/programs.aynrand.org/
 address=/programs.naturalnews.com/
 address=/progress.news/
+address=/progressifmedia.com/
 address=/project2025.org/
 address=/projectavalon.net/
 address=/projectcamelot.org/
