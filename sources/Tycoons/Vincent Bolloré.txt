@@ -1,11 +1,17 @@
 # Groupe Bolloré
 bollore.com
+
 # Médias
 cnews.fr
 # Canal +, in the list but commented because it might be disruptive for users. Currently not a major propaganda channel.
 # canalplus.com
+
 # Newspapers
 lejdd.fr # Now fully far-right: all the striking journalists left and were replaced.
 parismatch.com
+
 # Radio
 europe1.fr
+
+# https://rsf.org/fr/derri%C3%A8re-la-campagne-de-d%C3%A9sinformation-contre-rsf-progressif-media-une-bo%C3%AEte-d-influence-sulfureuse
+https://progressifmedia.com/
