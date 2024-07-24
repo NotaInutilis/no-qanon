@@ -54,6 +54,7 @@
 2perc.info
 2sucres.fandom.com
 2ylj5xz8us.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
+3.217.28.58
 3.btfsu.d.tube
 365usanews.com
 38defense.crew38.com
@@ -77,6 +78,9 @@
 4threvolutionarywar.wordpress.com
 4thwavenow.com
 50-50magazine.fr
+52.52.36.101
+54.176.177.43
+54.92.169.214
 564defd7-392a-241a-59db-3cf0d57a8aa2.softserve.8kun.top
 5ch.net
 5dandbeyond.nz
@@ -91,6 +95,7 @@
 5x0eggbvlm.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 5x5.network
 64.135.21.3
+64.135.21.5
 6hwzzfs2iy.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 70news.wordpress.com
 73.0.253.181
@@ -121,6 +126,7 @@ a.live.triller.co
 a.load.live.triller.co
 a.minds.com
 a.thefreethoughtproject.com
+a1978.r.akamai.net
 a2.dev.live.triller.co
 a2.live.triller.co
 a2.load.live.triller.co
@@ -553,11 +559,13 @@ api.churchmilitant.com
 api.clouthub.com
 api.d.tube
 api.dev.live.triller.co
+api.foxnews.com
 api.frc.org
 api.gab.com
 api.live.triller.co
 api.load.live.triller.co
 api.mewe.com
+api.p1.media
 api.parler.com
 api.voat.co
 apmlonline.orgwww.insaf.pk
@@ -583,6 +591,8 @@ applications.onenation.org.au
 appliedunificationism.com
 apply.adflegal.org
 apppush.afa.net
+apps.foxnews.com
+apps.foxnews.com.edgekey.net
 apps.fpoe.at
 apps.frc.org
 apps.gab.com
@@ -674,6 +684,7 @@ assens.danskfolkeparti.dk
 assests-svc.dlive.tv
 assets-svc.dlive.tv
 assets.donaldjtrump.com
+assets.foxdcg.com
 assets.infowars.com
 assets.minds.com
 assets.triller.co
@@ -1879,6 +1890,7 @@ conchovalleynews.com
 concisepolitics.com
 concordledger.com
 condividilo.org
+config.foxdcg.com
 confluence.parler.com
 connect.dlive.tv
 connect.parler.com
@@ -2198,6 +2210,7 @@ dagelijks.nu
 dagelijksekrant.nl
 dagelijksfilmpje.nl
 daily-journal.com
+daily-wire-production.imgix.net
 dailybuzzlive.com
 dailycaller.com
 dailycurrant.com
@@ -3250,6 +3263,7 @@ federazionefamiglie.org
 fedi.club
 fedsalert.com
 feedback.dlive.tv
+feeds-meta.foxnews.com
 fellowshipoftheminds.com
 femelliste.com
 feminicides.fr
@@ -3432,6 +3446,8 @@ fourwinds10.net
 foxbusiness.com
 foxcitiesnews.com
 foxnews.com
+foxnews.com.ssl.d1.sc.omtrdc.net
+foxnews.hb.omtrdc.net
 foxnewsbrasil.com
 foxnewsinternational.com
 foxweather.com
@@ -5452,6 +5468,7 @@ littleappletimes.com
 live.clouthub.com
 live.cluster.d.tube
 live.kolyma.org
+live.oann.com
 live.prd.dlive.tv
 live.triller.co
 livefreelivenatural.com
@@ -6542,6 +6559,7 @@ newsmax.eu
 newsmax.jp
 newsmax.no
 newsmax.org
+newsmax.production.thefilter.com
 newsmax3.tv
 newsmaxaffiliate.com
 newsmaxfeednetwork.com
@@ -6608,8 +6626,11 @@ nl.connectingconsciousness.org
 nl.fpoe.at
 nl.metapedia.org
 nl.svp.ch
+nmax.tv
 nmbusinessdaily.com
 nmstandsup.org
+nmtvbackstagecc.s3.amazonaws.com
+nmxlive.akamaized.net
 nnewsmaxtv.com
 nnnforum.com
 nnsfront.wordpress.com
@@ -6984,6 +7005,7 @@ o3.bosco.dlive.tv
 o4.sendgridsvr.mydup.com
 o9a.org
 oaklandrecord.com
+oanlive-env-production.eba-cpanhxmm.us-west-1.elasticbeanstalk.com
 oann.com
 oantagonista.com
 oath-keepers.blogspot.com
@@ -7238,6 +7260,7 @@ ozma-yeudit.co.il
 ozma-yeudit.com
 p.4chan.org
 p.8ch.net
+p1ml-categories-uploads-production.s3.amazonaws.com
 p2pprinting.com
 pabianice.pis.org.pl
 pacha.minds.com
@@ -7924,6 +7947,7 @@ radiocockpit.fr
 radiocourtoisie.fr
 radiopatriot.net
 radioquebec.tv
+radiovid.foxnews.com
 radiovox.org
 radishmag.wordpress.com
 radixjournal.com
@@ -8451,6 +8475,7 @@ scalaskanews.com
 scannedretina.com
 scarenormal.com
 scconnnews.com
+schedule-tool.foxnews.com
 schedule.djameskennedy.org
 schelle.vlaamsbelang.org
 scherpenheuvel-zichem.vlaamsbelang.org
@@ -8910,6 +8935,7 @@ smartmeters.news
 smashjt.com
 smashleft.com
 smelleverything.minds.com
+smetrics.foxnews.com
 smf21.jdl-germany.org
 smhwtfnews.com
 smmquotes.com
@@ -9215,6 +9241,8 @@ static.4chan.org
 static.avoiceformen.com
 static.bitchute.com
 static.fidesz.hu
+static.foxbusiness.com
+static.foxnews.com
 static.godhatesfags.com
 static.infowars.com
 static.infowars.comt
@@ -9230,6 +9258,7 @@ statsforgender.org
 status.4chan.org
 status.bitchute.com
 status.chalcedon.edu
+status.dataplane.rudderstack.com
 status.dlive.tv
 status.minds.com
 status.voat.co
@@ -10544,6 +10573,7 @@ v.8kun.top
 v.triller.co
 v1.noi.org
 v2.gab.ai
+v2server.dailywire.com
 vabusinessdaily.com
 vacationlandtimes.com
 vaccinatieraad.nl
@@ -10755,6 +10785,7 @@ vns.nyeborgerlige.dk
 voat.co
 voat.xyz
 vod-api.infowars.com
+vod.foxnews.com
 voiceforscienceandsolidarity.org
 voiceforscienceandsolidarity.substack.com
 voicenews.icu

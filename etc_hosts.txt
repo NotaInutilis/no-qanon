@@ -110,6 +110,8 @@
 0.0.0.0 www.2sucres.fandom.com
 0.0.0.0 2ylj5xz8us.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.2ylj5xz8us.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
+0.0.0.0 3.217.28.58
+0.0.0.0 www.3.217.28.58
 0.0.0.0 3.btfsu.d.tube
 0.0.0.0 www.3.btfsu.d.tube
 0.0.0.0 365usanews.com
@@ -156,6 +158,12 @@
 0.0.0.0 www.4thwavenow.com
 0.0.0.0 50-50magazine.fr
 0.0.0.0 www.50-50magazine.fr
+0.0.0.0 52.52.36.101
+0.0.0.0 www.52.52.36.101
+0.0.0.0 54.176.177.43
+0.0.0.0 www.54.176.177.43
+0.0.0.0 54.92.169.214
+0.0.0.0 www.54.92.169.214
 0.0.0.0 564defd7-392a-241a-59db-3cf0d57a8aa2.softserve.8kun.top
 0.0.0.0 www.564defd7-392a-241a-59db-3cf0d57a8aa2.softserve.8kun.top
 0.0.0.0 5ch.net
@@ -184,6 +192,8 @@
 0.0.0.0 www.5x5.network
 0.0.0.0 64.135.21.3
 0.0.0.0 www.64.135.21.3
+0.0.0.0 64.135.21.5
+0.0.0.0 www.64.135.21.5
 0.0.0.0 6hwzzfs2iy.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.6hwzzfs2iy.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 70news.wordpress.com
@@ -244,6 +254,8 @@
 0.0.0.0 www.a.minds.com
 0.0.0.0 a.thefreethoughtproject.com
 0.0.0.0 www.a.thefreethoughtproject.com
+0.0.0.0 a1978.r.akamai.net
+0.0.0.0 www.a1978.r.akamai.net
 0.0.0.0 a2.dev.live.triller.co
 0.0.0.0 www.a2.dev.live.triller.co
 0.0.0.0 a2.live.triller.co
@@ -1108,6 +1120,8 @@
 0.0.0.0 www.api.d.tube
 0.0.0.0 api.dev.live.triller.co
 0.0.0.0 www.api.dev.live.triller.co
+0.0.0.0 api.foxnews.com
+0.0.0.0 www.api.foxnews.com
 0.0.0.0 api.frc.org
 0.0.0.0 www.api.frc.org
 0.0.0.0 api.gab.com
@@ -1118,6 +1132,8 @@
 0.0.0.0 www.api.load.live.triller.co
 0.0.0.0 api.mewe.com
 0.0.0.0 www.api.mewe.com
+0.0.0.0 api.p1.media
+0.0.0.0 www.api.p1.media
 0.0.0.0 api.parler.com
 0.0.0.0 www.api.parler.com
 0.0.0.0 api.voat.co
@@ -1168,6 +1184,10 @@
 0.0.0.0 www.apply.adflegal.org
 0.0.0.0 apppush.afa.net
 0.0.0.0 www.apppush.afa.net
+0.0.0.0 apps.foxnews.com
+0.0.0.0 www.apps.foxnews.com
+0.0.0.0 apps.foxnews.com.edgekey.net
+0.0.0.0 www.apps.foxnews.com.edgekey.net
 0.0.0.0 apps.fpoe.at
 0.0.0.0 www.apps.fpoe.at
 0.0.0.0 apps.frc.org
@@ -1350,6 +1370,8 @@
 0.0.0.0 www.assets-svc.dlive.tv
 0.0.0.0 assets.donaldjtrump.com
 0.0.0.0 www.assets.donaldjtrump.com
+0.0.0.0 assets.foxdcg.com
+0.0.0.0 www.assets.foxdcg.com
 0.0.0.0 assets.infowars.com
 0.0.0.0 www.assets.infowars.com
 0.0.0.0 assets.minds.com
@@ -3760,6 +3782,8 @@
 0.0.0.0 www.concordledger.com
 0.0.0.0 condividilo.org
 0.0.0.0 www.condividilo.org
+0.0.0.0 config.foxdcg.com
+0.0.0.0 www.config.foxdcg.com
 0.0.0.0 confluence.parler.com
 0.0.0.0 www.confluence.parler.com
 0.0.0.0 connect.dlive.tv
@@ -4398,6 +4422,8 @@
 0.0.0.0 www.dagelijksfilmpje.nl
 0.0.0.0 daily-journal.com
 0.0.0.0 www.daily-journal.com
+0.0.0.0 daily-wire-production.imgix.net
+0.0.0.0 www.daily-wire-production.imgix.net
 0.0.0.0 dailybuzzlive.com
 0.0.0.0 www.dailybuzzlive.com
 0.0.0.0 dailycaller.com
@@ -6502,6 +6528,8 @@
 0.0.0.0 www.fedsalert.com
 0.0.0.0 feedback.dlive.tv
 0.0.0.0 www.feedback.dlive.tv
+0.0.0.0 feeds-meta.foxnews.com
+0.0.0.0 www.feeds-meta.foxnews.com
 0.0.0.0 fellowshipoftheminds.com
 0.0.0.0 www.fellowshipoftheminds.com
 0.0.0.0 femelliste.com
@@ -6866,6 +6894,10 @@
 0.0.0.0 www.foxcitiesnews.com
 0.0.0.0 foxnews.com
 0.0.0.0 www.foxnews.com
+0.0.0.0 foxnews.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 www.foxnews.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 foxnews.hb.omtrdc.net
+0.0.0.0 www.foxnews.hb.omtrdc.net
 0.0.0.0 foxnewsbrasil.com
 0.0.0.0 www.foxnewsbrasil.com
 0.0.0.0 foxnewsinternational.com
@@ -10906,6 +10938,8 @@
 0.0.0.0 www.live.cluster.d.tube
 0.0.0.0 live.kolyma.org
 0.0.0.0 www.live.kolyma.org
+0.0.0.0 live.oann.com
+0.0.0.0 www.live.oann.com
 0.0.0.0 live.prd.dlive.tv
 0.0.0.0 www.live.prd.dlive.tv
 0.0.0.0 live.triller.co
@@ -13086,6 +13120,8 @@
 0.0.0.0 www.newsmax.no
 0.0.0.0 newsmax.org
 0.0.0.0 www.newsmax.org
+0.0.0.0 newsmax.production.thefilter.com
+0.0.0.0 www.newsmax.production.thefilter.com
 0.0.0.0 newsmax3.tv
 0.0.0.0 www.newsmax3.tv
 0.0.0.0 newsmaxaffiliate.com
@@ -13218,10 +13254,16 @@
 0.0.0.0 www.nl.metapedia.org
 0.0.0.0 nl.svp.ch
 0.0.0.0 www.nl.svp.ch
+0.0.0.0 nmax.tv
+0.0.0.0 www.nmax.tv
 0.0.0.0 nmbusinessdaily.com
 0.0.0.0 www.nmbusinessdaily.com
 0.0.0.0 nmstandsup.org
 0.0.0.0 www.nmstandsup.org
+0.0.0.0 nmtvbackstagecc.s3.amazonaws.com
+0.0.0.0 www.nmtvbackstagecc.s3.amazonaws.com
+0.0.0.0 nmxlive.akamaized.net
+0.0.0.0 www.nmxlive.akamaized.net
 0.0.0.0 nnewsmaxtv.com
 0.0.0.0 www.nnewsmaxtv.com
 0.0.0.0 nnnforum.com
@@ -13970,6 +14012,8 @@
 0.0.0.0 www.o9a.org
 0.0.0.0 oaklandrecord.com
 0.0.0.0 www.oaklandrecord.com
+0.0.0.0 oanlive-env-production.eba-cpanhxmm.us-west-1.elasticbeanstalk.com
+0.0.0.0 www.oanlive-env-production.eba-cpanhxmm.us-west-1.elasticbeanstalk.com
 0.0.0.0 oann.com
 0.0.0.0 www.oann.com
 0.0.0.0 oantagonista.com
@@ -14478,6 +14522,8 @@
 0.0.0.0 www.p.4chan.org
 0.0.0.0 p.8ch.net
 0.0.0.0 www.p.8ch.net
+0.0.0.0 p1ml-categories-uploads-production.s3.amazonaws.com
+0.0.0.0 www.p1ml-categories-uploads-production.s3.amazonaws.com
 0.0.0.0 p2pprinting.com
 0.0.0.0 www.p2pprinting.com
 0.0.0.0 pabianice.pis.org.pl
@@ -15850,6 +15896,8 @@
 0.0.0.0 www.radiopatriot.net
 0.0.0.0 radioquebec.tv
 0.0.0.0 www.radioquebec.tv
+0.0.0.0 radiovid.foxnews.com
+0.0.0.0 www.radiovid.foxnews.com
 0.0.0.0 radiovox.org
 0.0.0.0 www.radiovox.org
 0.0.0.0 radishmag.wordpress.com
@@ -16904,6 +16952,8 @@
 0.0.0.0 www.scarenormal.com
 0.0.0.0 scconnnews.com
 0.0.0.0 www.scconnnews.com
+0.0.0.0 schedule-tool.foxnews.com
+0.0.0.0 www.schedule-tool.foxnews.com
 0.0.0.0 schedule.djameskennedy.org
 0.0.0.0 www.schedule.djameskennedy.org
 0.0.0.0 schelle.vlaamsbelang.org
@@ -17822,6 +17872,8 @@
 0.0.0.0 www.smashleft.com
 0.0.0.0 smelleverything.minds.com
 0.0.0.0 www.smelleverything.minds.com
+0.0.0.0 smetrics.foxnews.com
+0.0.0.0 www.smetrics.foxnews.com
 0.0.0.0 smf21.jdl-germany.org
 0.0.0.0 www.smf21.jdl-germany.org
 0.0.0.0 smhwtfnews.com
@@ -18432,6 +18484,10 @@
 0.0.0.0 www.static.bitchute.com
 0.0.0.0 static.fidesz.hu
 0.0.0.0 www.static.fidesz.hu
+0.0.0.0 static.foxbusiness.com
+0.0.0.0 www.static.foxbusiness.com
+0.0.0.0 static.foxnews.com
+0.0.0.0 www.static.foxnews.com
 0.0.0.0 static.godhatesfags.com
 0.0.0.0 www.static.godhatesfags.com
 0.0.0.0 static.infowars.com
@@ -18462,6 +18518,8 @@
 0.0.0.0 www.status.bitchute.com
 0.0.0.0 status.chalcedon.edu
 0.0.0.0 www.status.chalcedon.edu
+0.0.0.0 status.dataplane.rudderstack.com
+0.0.0.0 www.status.dataplane.rudderstack.com
 0.0.0.0 status.dlive.tv
 0.0.0.0 www.status.dlive.tv
 0.0.0.0 status.minds.com
@@ -21090,6 +21148,8 @@
 0.0.0.0 www.v1.noi.org
 0.0.0.0 v2.gab.ai
 0.0.0.0 www.v2.gab.ai
+0.0.0.0 v2server.dailywire.com
+0.0.0.0 www.v2server.dailywire.com
 0.0.0.0 vabusinessdaily.com
 0.0.0.0 www.vabusinessdaily.com
 0.0.0.0 vacationlandtimes.com
@@ -21512,6 +21572,8 @@
 0.0.0.0 www.voat.xyz
 0.0.0.0 vod-api.infowars.com
 0.0.0.0 www.vod-api.infowars.com
+0.0.0.0 vod.foxnews.com
+0.0.0.0 www.vod.foxnews.com
 0.0.0.0 voiceforscienceandsolidarity.org
 0.0.0.0 www.voiceforscienceandsolidarity.org
 0.0.0.0 voiceforscienceandsolidarity.substack.com
