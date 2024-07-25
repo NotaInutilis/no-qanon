@@ -9,8 +9,8 @@ horizonsleparti.fr
 # Ministres et cadres
 elhairy.fr # Modem
 ## Blanquer
-https://www.lelaboratoiredelarepublique.fr/mentions-legales/
-http://www.avenirlyceen.fr/
+lelaboratoiredelarepublique.fr
+avenirlyceen.fr
 
 # Campagne européenne 
 besoindeurope.fr

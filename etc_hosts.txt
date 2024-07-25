@@ -1580,6 +1580,8 @@
 0.0.0.0 www.avantnews.com
 0.0.0.0 avatars.wrongthink.net
 0.0.0.0 www.avatars.wrongthink.net
+0.0.0.0 avenirlyceen.fr
+0.0.0.0 www.avenirlyceen.fr
 0.0.0.0 avenoel.org
 0.0.0.0 www.avenoel.org
 0.0.0.0 avesta.sd.se
@@ -10578,6 +10580,8 @@
 0.0.0.0 www.lekkerwonen.org
 0.0.0.0 leksand.sd.se
 0.0.0.0 www.leksand.sd.se
+0.0.0.0 lelaboratoiredelarepublique.fr
+0.0.0.0 www.lelaboratoiredelarepublique.fr
 0.0.0.0 lelibrepenseur.org
 0.0.0.0 www.lelibrepenseur.org
 0.0.0.0 lemediaen442.fr

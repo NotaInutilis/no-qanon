@@ -793,6 +793,7 @@
 ||avalonianknight.wordpress.com^
 ||avantnews.com^
 ||avatars.wrongthink.net^
+||avenirlyceen.fr^
 ||avenoel.org^
 ||avesta.sd.se^
 ||avilagtitkai.com^
@@ -5292,6 +5293,7 @@
 ||lekeberg.sd.se^
 ||lekkerwonen.org^
 ||leksand.sd.se^
+||lelaboratoiredelarepublique.fr^
 ||lelibrepenseur.org^
 ||lemediaen442.fr^
 ||lemonde.co.il^
