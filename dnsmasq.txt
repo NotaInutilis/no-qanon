@@ -126,7 +126,6 @@ address=/a.live.triller.co/
 address=/a.load.live.triller.co/
 address=/a.minds.com/
 address=/a.thefreethoughtproject.com/
-address=/a1978.r.akamai.net/
 address=/a2.dev.live.triller.co/
 address=/a2.live.triller.co/
 address=/a2.load.live.triller.co/

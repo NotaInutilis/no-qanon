@@ -1,6 +1,6 @@
 #[Adblock Plus 3.17]
 #! Title: 🏗 Remover for Mainstream Tabloid, Alt-Right, and Anti-Vaxx Sites
-#! Version: 24July2024v1
+#! Version: 25July2024v2
 #! Expires: 10 days
 #! Description: This list targets international websites that clutter search engine results with misinformation, unfounded articles, and/or contempt for humanity. While designed for use with «Google Hit Hider by Domain» to remove search results, it can also be used with other domains-list tools if you want more thorough blocking of them, incl. AdGuard Home.
 #! Disclaimer: This is not to be mistaken for an anti-'fake news' list. I gave up the idea of making such a list after seeing that several other such lists couldn't agree on the definition of it.
@@ -1011,8 +1011,6 @@ stevedeace.com
 dailywire.multiscreensite.com
 
 # Domains looked up by various Apple TV apps that are owned by sites that are listed further up in this list
-# Extremely heavy caching by CDN sites and the Apple TV itself made many of the apps impossible to ensure the blockade of, although I was able to confirm the blockage of Fox News and Fox Business.
-a1978.r.akamai.net
 api.foxnews.com
 api.p1.media
 apps.foxnews.com

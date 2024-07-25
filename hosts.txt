@@ -254,8 +254,6 @@
 0.0.0.0 www.a.minds.com
 0.0.0.0 a.thefreethoughtproject.com
 0.0.0.0 www.a.thefreethoughtproject.com
-0.0.0.0 a1978.r.akamai.net
-0.0.0.0 www.a1978.r.akamai.net
 0.0.0.0 a2.dev.live.triller.co
 0.0.0.0 www.a2.dev.live.triller.co
 0.0.0.0 a2.live.triller.co
