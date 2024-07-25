@@ -637,6 +637,7 @@
 *://*.arkhaven.com/*
 *://*.arkhavencomics.com/*
 *://*.arktos.com/*
+*://*.armedcitizensnetwork.org/*
 *://*.armee-de-terre.career-inspiration.com/*
 *://*.armstrongeconomics.com/*
 *://*.armswatch.com/*
@@ -5834,6 +5835,7 @@
 *://*.maskoffmn.org/*
 *://*.masksoffusa.com/*
 *://*.massacarrara.leganord.org/*
+*://*.massadayoobgroup.com/*
 *://*.massawakening.org/*
 *://*.massimointrovigne.com/*
 *://*.massresistance.massresistance.org/*
@@ -7741,6 +7743,7 @@
 *://*.proamericanews.com/*
 *://*.proamericaonly.com/*
 *://*.proamericaonly.org/*
+*://*.proarmspodcast.com/*
 *://*.process.adflegal.org/*
 *://*.prod.infowars.com/*
 *://*.prod2.vdare.com/*
