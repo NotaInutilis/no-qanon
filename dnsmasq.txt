@@ -5228,6 +5228,7 @@ address=/lavocedelpatriota.it/
 address=/lavoixdugendarme.fr/
 address=/lavraiedemocratie.org/
 address=/lawenforcementtoday.com/
+address=/lawofselfdefense.com/
 address=/lawrencereporter.com/
 address=/lawrencetimes.com/
 address=/laxa.sd.se/

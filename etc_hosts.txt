@@ -10458,6 +10458,8 @@
 0.0.0.0 www.lavraiedemocratie.org
 0.0.0.0 lawenforcementtoday.com
 0.0.0.0 www.lawenforcementtoday.com
+0.0.0.0 lawofselfdefense.com
+0.0.0.0 www.lawofselfdefense.com
 0.0.0.0 lawrencereporter.com
 0.0.0.0 www.lawrencereporter.com
 0.0.0.0 lawrencetimes.com
