@@ -2667,6 +2667,7 @@ address=/drcharlieward.com/
 address=/drclark.co/
 address=/drdebrincat.com/
 address=/dreddymd.com/
+address=/dreslincourts.wpcomstaging.com/
 address=/dreuz.info/
 address=/drginaloudon.com/
 address=/drgood.fr/
