@@ -7186,6 +7186,8 @@
 0.0.0.0 www.fromthetrenchesworldreport.com
 0.0.0.0 fronten.no
 0.0.0.0 www.fronten.no
+0.0.0.0 frontieresmedia.fr
+0.0.0.0 www.frontieresmedia.fr
 0.0.0.0 frontlineflags.com
 0.0.0.0 www.frontlineflags.com
 0.0.0.0 frontlinemds.com

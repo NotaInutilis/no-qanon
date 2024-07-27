@@ -3592,6 +3592,7 @@ address=/fringeculture.home.blog/
 address=/frissvilag.com/
 address=/fromthetrenchesworldreport.com/
 address=/fronten.no/
+address=/frontieresmedia.fr/
 address=/frontlineflags.com/
 address=/frontlinemds.com/
 address=/frontmediatique.fr/
