@@ -311,6 +311,7 @@
 ||aktiv-blog.com^
 ||aktiv-hirek.net^
 ||aktuell.fpoe.at^
+||aktuelle-nachrichten.app^
 ||aktueltspania.net^
 ||alacrity.8ch.net^
 ||alaindebenoist.com^
@@ -322,6 +323,7 @@
 ||albert.churchmilitant.com^
 ||albertslund.danskfolkeparti.dk^
 ||albusinessdaily.com^
+||alchevsk-news.ru^
 ||alcyonpleiadi.blogspot.it^
 ||aldershot.ukip.org^
 ||ale.sd.se^
@@ -529,6 +531,7 @@
 ||antepithesi.gr^
 ||anthonyblogan.com^
 ||anthraxvaccine.blogspot.com^
+||anti-spiegel.ru^
 ||antiantifa-usa.blogspot.com^
 ||anticancer.news^
 ||antifeminismaustralia.com^
@@ -578,6 +581,7 @@
 ||apollo-dev.identityevropa.com^
 ||apollo-staging.identityevropa.com^
 ||apollo.identityevropa.com^
+||apolut.net^
 ||apopkatimes.com^
 ||apostate.faithfreedom.org^
 ||apostats.fr^
@@ -666,6 +670,7 @@
 ||asamericanasapplepie.org^
 ||asatro.se^
 ||asatru.de^
+||ascendyourlife.org^
 ||ascension.news^
 ||ascensionenergies.com^
 ||ascensionwithearth.com^
@@ -679,6 +684,7 @@
 ||askersund.sd.se^
 ||askfarrakhan.noi.org^
 ||askingangels.com^
+||asoneguidance.com^
 ||aspartame.news^
 ||ass.nyeborgerlige.dk^
 ||assassinationscience.com^
@@ -718,6 +724,7 @@
 ||atomial.com^
 ||atomicfabrik.com^
 ||atomwaffendivision.org^
+||atpeacewithincoaching.com^
 ||atrazine.news^
 ||attaccomirato.com^
 ||attackthesystem.com^
@@ -996,6 +1003,7 @@
 ||bentontimes.com^
 ||bentspud.com^
 ||berchem.vlaamsbelang.org^
+||berdyansk-news.ru^
 ||bergamo.leganord.org^
 ||berkeleyleader.com^
 ||berksconews.com^
@@ -1657,6 +1665,8 @@
 ||chemtrailsnews.com^
 ||chemtrailsnorthnz.wordpress.com^
 ||chemtrailsplanet.net^
+||chernigov-news.ru^
+||chernovcy-news.ru^
 ||cherylchumley.com^
 ||chess.minds.com^
 ||chestertoneagle.com^
@@ -1681,6 +1691,7 @@
 ||chippewavalleytimes.com^
 ||chn.the-liberty.com^
 ||chocolate.news^
+||choiceforlove.de^
 ||choisirlavie.fr^
 ||choosing-him.blogspot.com^
 ||chrisjantzen.com^
@@ -1729,6 +1740,7 @@
 ||citizensforresponsiblesolar.org^
 ||citizensireport.com^
 ||citizenwarrior.com^
+||citizenwatchreport.com^
 ||citoyens-et-francais.fr^
 ||citoyenveilleur.canalblog.com^
 ||city-journal.org^
@@ -2351,6 +2363,7 @@
 ||de.metapedia.org^
 ||de.news-front.info^
 ||de.rt.com^
+||de.sott.net^
 ||deadlinelive.info^
 ||deadlyclear.wordpress.com^
 ||deals.breitbart.com^
@@ -2567,7 +2580,10 @@
 ||dividendmachine.com^
 ||divinecosmos.com^
 ||divinecosmos.minds.com^
+||divinehealingslove.com^
+||divinelove.one^
 ||divineprinciplestudy.org^
+||divingintothedivine.com^
 ||divinitynow.org^
 ||dixie.leagueofthesouth.com^
 ||djameskennedy.org^
@@ -2580,6 +2596,8 @@
 ||dmrpublications.com^
 ||dnc.news^
 ||dneiwert.blogspot.com^
+||dnepr-news.ru^
+||dnr-news.ru^
 ||dns1.8ch.net^
 ||dns1.minds.com^
 ||dns2.8ch.net^
@@ -2625,6 +2643,7 @@
 ||donation.fairus.org^
 ||donda.org^
 ||dondevamos.canalblog.com^
+||donetsk-news.ru^
 ||dongtaiwang.com^
 ||donjr.com^
 ||donorbux.com^
@@ -2928,6 +2947,7 @@
 ||enabon.com^
 ||enchantmentstatenews.com^
 ||encyclopediadramatica.rs^
+||endchan.gg^
 ||endchan.net^
 ||endchan.org^
 ||endchan5doxvprs5.onion^
@@ -2940,6 +2960,7 @@
 ||endthechinesevirus.com^
 ||endthewokeness.com^
 ||endtime.com^
+||endtimeheadlines.org^
 ||endtimesnews.wordpress.com^
 ||enduringvision.com^
 ||endwokeness.quora.com^
@@ -3143,6 +3164,7 @@
 ||extraclubmagazine.com^
 ||extraterrestre-ovni.blogspot.fr^
 ||extremblog.com^
+||extremnews.com^
 ||eyedropmedia.com^
 ||eyehealth.news^
 ||eyeopening.info^
@@ -3631,6 +3653,7 @@
 ||fukushima.news^
 ||fukushimawatch.com^
 ||fulcrumnews.com^
+||fullchan.net^
 ||fullfrontal.moe^
 ||fullmeasure.news^
 ||fundyourtsunami.insaf.pk^
@@ -3642,6 +3665,7 @@
 ||furesoe.danskfolkeparti.dk^
 ||furtherglory.wordpress.com^
 ||fusionlacedillusions.com^
+||fusionliebe.com^
 ||futurenews.news^
 ||futuresciencenews.com^
 ||fw.davidicke.com^
@@ -3892,6 +3916,7 @@
 ||gopthedailydose.com^
 ||gorf.tube^
 ||gorle.leganord.org^
+||gorlovka-news.ru^
 ||gornahoor.wordpress.com^
 ||gorsuch.news^
 ||gospelnewsnetwork.org^
@@ -4140,6 +4165,7 @@
 ||heartland.org^
 ||heartlandernews.com^
 ||heathenwomen.com^
+||heavenlystate.com^
 ||heaviermetal.net^
 ||heavy.com^
 ||heavymetals.news^
@@ -4302,6 +4328,7 @@
 ||horcsikrichard.fidesz.hu^
 ||horizonquebecactuel.com^
 ||horizonsleparti.fr^
+||horizont.blog^
 ||horowitzfreedomcenter.org^
 ||horsdevospenses0833.blogspot.fr^
 ||horsens.danskfolkeparti.dk^
@@ -4449,6 +4476,7 @@
 ||iedm.org^
 ||ieper.vlaamsbelang.org^
 ||ies-europe.org^
+||if-news.ru^
 ||ifactsviral.com^
 ||ifamnews.com^
 ||ifers.123.st^
@@ -4773,6 +4801,7 @@
 ||jacksonreporter.com^
 ||jacob.frc.org^
 ||jahealthadvocate.com^
+||jaijenny.com^
 ||jakeducey.com^
 ||jalsa.insaf.pk^
 ||james-school-3c92.thinkific.com^
@@ -4864,6 +4893,7 @@
 ||joebiden.info^
 ||joebiden.news^
 ||joecheated.com^
+||joedubs.com^
 ||joeforamerica.com^
 ||joemiller.us^
 ||joeplummer.com^
@@ -4911,6 +4941,7 @@
 ||joshwhotv.com^
 ||journaalflash.wordpress.com^
 ||journal-neo.org^
+||journal-neo.su^
 ||journalapi.afa.net^
 ||journaldemourreal.com^
 ||journalistenwatch.com^
@@ -5025,6 +5056,7 @@
 ||keywestreporter.com^
 ||khanh-qa.devstage.rumble.com^
 ||khanh.devstage.rumble.com^
+||khmelnitskiy-news.ru^
 ||kids.stormfront.org^
 ||kijkhet.nl^
 ||kil.sd.se^
@@ -5042,6 +5074,7 @@
 ||kingworldnews.com^
 ||kiralyvidi.eu^
 ||kirksvilletoday.com^
+||kirovograd-news.ru^
 ||kirschsubstack.com^
 ||kirtinasha.minds.com^
 ||kiskegyed.creatorword.com^
@@ -5104,11 +5137,14 @@
 ||kozpontiujsag.hu^
 ||kpblog.space^
 ||kr.theepochtimes.com^
+||kramatorsk-news.ru^
 ||krbcnews.com^
+||kremenchug-news.ru^
 ||kremlin.ru^
 ||kreuz.net^
 ||kristianstad.sd.se^
 ||kristinehamn.sd.se^
+||krivoy-rog-news.ru^
 ||krokom.sd.se^
 ||kronoberg.sd.se^
 ||krystaltini.com^
@@ -5266,6 +5302,7 @@
 ||leaveeuofficial.com^
 ||leavemeansleave.eu^
 ||lebanonpanews.com^
+||lebe-liebe.ch^
 ||lechasseurfrancais.com^
 ||lechodelaboucle.fr^
 ||lecourrierdesstrateges.fr^
@@ -5470,6 +5507,7 @@
 ||linode.ruqqus.com^
 ||lint.vlaamsbelang.org^
 ||linyoathkeepers.org^
+||lionessofjudah.substack.com^
 ||lipstick-and-war-crimes.org^
 ||lissahumanelife.wordpress.com^
 ||lists.afa.net^
@@ -5536,6 +5574,7 @@
 ||lorialexander.blogspot.com^
 ||lorieladd.com^
 ||losai.eu^
+||lostineu.eu^
 ||lotuseaters.com^
 ||louderwithcrowder.com^
 ||louisianarecord.com^
@@ -5564,6 +5603,7 @@
 ||lucianwintrich.com^
 ||lucidawakenings.net^
 ||ludvika.sd.se^
+||lugansk-news.ru^
 ||lulea.sd.se^
 ||luluscope.co.uk^
 ||lulz.com^
@@ -5573,6 +5613,7 @@
 ||luogocomune.net^
 ||lushforlife.com^
 ||luzernetimes.com^
+||lvov-news.ru^
 ||lycomingnews.com^
 ||lykten.no^
 ||lyn.nyeborgerlige.dk^
@@ -5635,6 +5676,7 @@
 ||magazine-du-net.com^
 ||magentapixie.com^
 ||maghrebnewswire.com^
+||magicalmysteriesoftwinflames.com^
 ||magicawakened.com^
 ||magicvalleytimes.com^
 ||magnetic.minds.com^
@@ -5786,6 +5828,7 @@
 ||makeamericagreattoday.com^
 ||makeamericansfreeagain.com^
 ||maketexasgreat.com^
+||makeyourainbow.com^
 ||makismd.substack.com^
 ||mala.sd.se^
 ||malachi.frc.org^
@@ -5822,6 +5865,7 @@
 ||marioncountyguide.com^
 ||marionmarechal.info^
 ||marionmorrowtimes.com^
+||mariupol-news.ru^
 ||mariusmircea.minds.com^
 ||mariuveren.wordpress.com^
 ||mark.dlive.tv^
@@ -5943,6 +5987,7 @@
 ||megynkelly.us^
 ||meitryx.com^
 ||melaniatrump.com^
+||melitopol-news.ru^
 ||melk.news^
 ||mellerud.sd.se^
 ||melmc.nohost.me^
@@ -6009,6 +6054,7 @@
 ||mhpublishing.org^
 ||mhradio.org^
 ||mhwindow.org^
+||miamichron.com^
 ||miamicourant.com^
 ||mibusinessdaily.com^
 ||micapitolnews.com^
@@ -6273,10 +6319,12 @@
 ||mysterybabylon-watch.blogspot.com^
 ||mystore.com^
 ||myth20c.wordpress.com^
+||mytwinflamejourney.com^
 ||mywillaustralia.com^
 ||myzonetoday.com^
 ||n4mation.org^
 ||na246.insaf.pk^
+||nabchelny-news.ru^
 ||nacka.sd.se^
 ||nadiageerts.over-blog.com^
 ||nadinemorano.fr^
@@ -6517,10 +6565,16 @@
 ||newrightausnz.blogspot.com^
 ||newrightnetwork.com^
 ||newrivervalleytimes.com^
+||news-balashiha.ru^
 ||news-bar.hr^
 ||news-for-friends.com^
 ||news-front.info^
 ||news-hound.com^
+||news-kharkov.ru^
+||news-kiev.ru^
+||news-makeevka.ru^
+||news-odessa.ru^
+||news-surgut.ru^
 ||news.cn^
 ||news.edgeofwonder.tv^
 ||news.faithfreedom.org^
@@ -6529,6 +6583,7 @@
 ||news.leganord.org^
 ||news.mostholyfamilymonastery.com^
 ||news.parler.com^
+||news.ru^
 ||news.thetrumptimes.com^
 ||news.volksfrontinternational.com^
 ||news.yuga.com^
@@ -6632,7 +6687,9 @@
 ||nigelfaragemep.co.uk^
 ||nijlen.vlaamsbelang.org^
 ||nikh.gr^
+||nikolaev-news.ru^
 ||nikolatesla.minds.com^
+||nikopol-news.ru^
 ||nimiskincare.com^
 ||ninefornews.nl^
 ||niooz.fr^
@@ -6640,6 +6697,7 @@
 ||nita.one^
 ||njbusinessdaily.com^
 ||njoathkeepers.org^
+||nk-news.ru^
 ||nl.connectingconsciousness.org^
 ||nl.fpoe.at^
 ||nl.metapedia.org^
@@ -6703,6 +6761,7 @@
 ||nordicresistancemovement.org^
 ||nordpresse.be^
 ||norfolkreporter.com^
+||norilsk-news.ru^
 ||norrbotten.sd.se^
 ||norrkoping.sd.se^
 ||norrtalje.sd.se^
@@ -7061,6 +7120,7 @@
 ||odinist.com^
 ||odinsreich.com^
 ||odsherred.danskfolkeparti.dk^
+||ody.sh^
 ||odysee.com^
 ||off-guardian.com^
 ||off-guardian.org^
@@ -7126,6 +7186,7 @@
 ||ondang.unitedfutureparty.kr^
 ||oneangrygamer.net^
 ||onechoice.no^
+||oneconnectedlove.com^
 ||onedaymd.com^
 ||onefuriousllama.wordpress.com^
 ||onegreatworknetwork.com^
@@ -7355,6 +7416,7 @@
 ||patriactionary.wordpress.com^
 ||patrianossa.wordpress.com^
 ||patrickdhampton.net^
+||patriot-foundation.com^
 ||patriotchronicle.com^
 ||patriotcoalition.com^
 ||patriotcoalition.org^
@@ -7393,6 +7455,7 @@
 ||paulcraigroberts.org^
 ||paulinearrighi.com^
 ||paulrevere.infowars.com^
+||pavlograd-news.ru^
 ||paws.moe^
 ||payment.dev.live.triller.co^
 ||payment.live.triller.co^
@@ -7596,11 +7659,13 @@
 ||polktimes.com^
 ||pollution.news^
 ||polskawalczaca.com^
+||poltava-news.ru^
 ||pomonavalleynews.com^
 ||pontiactimes.com^
 ||ponyexpress1.afa.net^
 ||ponyexpress2.afa.net^
 ||pooble.fr^
+||pop-paper-love.com^
 ||pop.org^
 ||pop3.minds.com^
 ||popec.net^
@@ -7668,7 +7733,11 @@
 ||prairiestatewire.com^
 ||prankster.nl^
 ||pratherdirect.com^
+||pravda-de.com^
 ||pravda-en.com^
+||pravda-es.com^
+||pravda-fr.com^
+||pravda-pl.com^
 ||pravda-tv.com^
 ||pravda.infowars.com^
 ||pravda.ru^
@@ -7878,8 +7947,10 @@
 ||qa2.devstage.rumble.com^
 ||qactus.fr^
 ||qagg.news^
+||qaggregator.news^
 ||qalerts.app^
 ||qalerts.net^
+||qalerts.pub^
 ||qalerts.top^
 ||qanon-news.com^
 ||qanon.fun^
@@ -7918,6 +7989,7 @@
 ||qpolitical.com^
 ||qposts.in^
 ||qposts.online^
+||qpress.de^
 ||qproofs.com^
 ||qresear.ch^
 ||qsat.ai^
@@ -8337,6 +8409,7 @@
 ||rotterdam.pvv.nl^
 ||rougenoir76.over-blog.com^
 ||rovato.leganord.org^
+||rovno-news.ru^
 ||rowannews.com^
 ||roxytube.com^
 ||royal---rumble.com^
@@ -8388,6 +8461,7 @@
 ||russian.rt.com^
 ||russiatruth.co^
 ||rustyjames.canalblog.com^
+||rusvesna.su^
 ||rutherfordtimes.com^
 ||ruthinstitute.org^
 ||ryuho-okawa.ae.org^
@@ -8412,6 +8486,7 @@
 ||sacramentostandard.com^
 ||sacred-texts.com^
 ||sacredsexualenergies.blogspot.com^
+||sacredtwinflameunion.com^
 ||sadefenza.blogspot.it^
 ||saf.org^
 ||safechat.com^
@@ -8470,6 +8545,7 @@
 ||sarahvaci.com^
 ||sarahwestall.com^
 ||sarasotareview.com^
+||saraswaessenceofself.com^
 ||saratogastandard.com^
 ||sashaayad.com^
 ||satanictech.com^
@@ -8948,6 +9024,7 @@
 ||slava.devalpha.rumble.com^
 ||slava.devstage.rumble.com^
 ||slave2libertystore.itemorder.com^
+||slavyansk-news.ru^
 ||slaynews.com^
 ||slctimes.com^
 ||slender.news^
@@ -9391,6 +9468,7 @@
 ||straightstoned.com^
 ||strangnas.sd.se^
 ||strategic-culture.org^
+||strategic-culture.su^
 ||stratpol.com^
 ||stream-16k.infowars.com^
 ||stream-aac-eu.a.infowars.com^
@@ -9422,6 +9500,7 @@
 ||strikeforceofprayer.com^
 ||stromstad.sd.se^
 ||stromsund.sd.se^
+||strongandfreecanada.org^
 ||struer.danskfolkeparti.dk^
 ||struggleswithfaith.wordpress.com^
 ||stuartbramhall.wordpress.com^
@@ -9461,6 +9540,7 @@
 ||sulatestagiannilannes.blogspot.it^
 ||summit.news^
 ||sumtertimes.com^
+||sumy-news.ru^
 ||sundbyberg.sd.se^
 ||sundsvall.sd.se^
 ||sunflowerstatenews.com^
@@ -9590,6 +9670,7 @@
 ||tabdeeli.insaf.pk^
 ||taby.sd.se^
 ||tactical-equipements.fr^
+||tagil-news.ru^
 ||takebackaustralia.org^
 ||takebackour.world^
 ||takecontrol.substack.com^
@@ -9650,6 +9731,7 @@
 ||teentake.minds.com^
 ||telegraph.co.uk^
 ||teleguiado.com^
+||telepolis.de^
 ||temse.vlaamsbelang.org^
 ||tenesoun.fr^
 ||tenetmedia.com^
@@ -9661,6 +9743,7 @@
 ||terms-privacy.html^
 ||ternat.vlaamsbelang.org^
 ||terneuzen.pvv.nl^
+||ternopol-news.ru^
 ||terrarealtime.blogspot.com^
 ||terrarealtime2.blogspot.com^
 ||terredefrance.fr^
@@ -9896,6 +9979,7 @@
 ||themoscowtimes.com^
 ||themuslimissue.wordpress.com^
 ||thenational912project.org^
+||thenationalpatriot.com^
 ||thenationalpulse.com^
 ||thenationalsun.com^
 ||theneighborhoodguardian.com^
@@ -10020,6 +10104,8 @@
 ||thetruthreview.com^
 ||thetruthrevolution.net^
 ||thetruthseeker.co.uk^
+||thetwinflamedance.com^
+||thetwinflamepsychic.com^
 ||theunhivedmind.com^
 ||theunrealtimes.com^
 ||theusa-news.com^
@@ -10109,6 +10195,7 @@
 ||tingsryd.sd.se^
 ||tinochrupalla.de^
 ||tipsenweetjes.nl^
+||tiraspol-news.ru^
 ||tjorn.sd.se^
 ||tkcommerce.com^
 ||tkp.at^
@@ -10217,9 +10304,11 @@
 ||tranas.sd.se^
 ||tranemo.sd.se^
 ||transagainstgroomers.com^
+||transascend.love^
 ||transgendertrend.com^
 ||transhumanism.news^
 ||transients.info^
+||transition-news.org^
 ||translate.minds.com^
 ||transteens-sorge-berechtigt.net^
 ||transwidowsvoices.org^
@@ -10229,6 +10318,7 @@
 ||treasurecoastsun.com^
 ||treasurevalleytimes.com^
 ||treeofliberty.me^
+||treeoflifetwinflamecoaching.com^
 ||trelleborg.sd.se^
 ||tremelo-baal.vlaamsbelang.org^
 ||trendingpolitics.com^
@@ -10257,6 +10347,7 @@
 ||trueamericans.me^
 ||truefinns.blogspot.com^
 ||truehealthfacts.com^
+||trueloveuniverse.com^
 ||truepundit.com^
 ||truetrumpers.com^
 ||truetube.media^
@@ -10273,6 +10364,7 @@
 ||trumpinternationalrealty.com^
 ||trumpknows.com^
 ||trumplive.com.au^
+||trumpmedbed.com^
 ||trumpq.uk^
 ||trumpsminutemen.org^
 ||trumpsol.xyz^
@@ -10365,7 +10457,28 @@
 ||twd5x6.minds.com^
 ||tweets.charlescjohnson.com^
 ||twenterand.pvv.nl^
+||twinflamealchemyofunion.com^
+||twinflamehearthealing.com^
+||twinflameliberation.com^
+||twinflamelove.net^
+||twinflameperfectunion.com^
+||twinflamesacredreality.com^
+||twinflamesareforever.com^
+||twinflamesembrace.com^
+||twinflamesfireinyourheart.com^
+||twinflamesgameoflife.com^
+||twinflamesguidinglight.com^
+||twinflamesheartsdesire.com^
+||twinflamesinharmony.com^
+||twinflamesmastery.com^
+||twinflamesmiracles.com^
+||twinflamesreality.com^
+||twinflamestravelingwithin.com^
+||twinflamesuniverse.com^
+||twinflameunionwithin.com^
+||twinsoulsascension.com^
 ||twitchy.com^
+||twoheartsinharmony.com^
 ||txbusinessdaily.com^
 ||tylerreporter.com^
 ||tyranny.news^
@@ -10441,6 +10554,7 @@
 ||unificationcanada.org^
 ||unificationnisme.org^
 ||unioncountyreview.com^
+||unionism.org^
 ||uniteamericafirst.com^
 ||united-lightworkers.be^
 ||unitedfamilies.org^
@@ -10448,6 +10562,7 @@
 ||unitedmediapublishing.com^
 ||unitedpatriotsofamerica.com^
 ||unitesgppolice.com^
+||unitewiththedivine.com^
 ||uniteworld.minds.com^
 ||unitymaineguide.com^
 ||unitynewsnetwork.co.uk^
@@ -10592,6 +10707,7 @@
 ||uvell.se^
 ||uvmedia.org^
 ||uyuypkq00c.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.rense.com^
+||uzhgorod-news.ru^
 ||v.4chan.org^
 ||v.8ch.net^
 ||v.8kun.top^
@@ -10619,6 +10735,7 @@
 ||vaccinvrij.nl^
 ||vaclib.org^
 ||vactruth.com^
+||vaersaware.com^
 ||vak.nyeborgerlige.dk^
 ||vakarek.info^
 ||val.sd.se^
@@ -10761,6 +10878,7 @@
 ||vilhelmina.sd.se^
 ||vilvoorde.vlaamsbelang.org^
 ||vimmerby.sd.se^
+||vin-news.ru^
 ||vincentflibustier.com^
 ||vindoegat.se^
 ||vinlandianlore.wordpress.com^
@@ -10828,6 +10946,8 @@
 ||voltairenet.org^
 ||volunteercadetcorps.org^
 ||volunteerstatenews.com^
+||volyn-news.ru^
+||volzhskiy-news.ru^
 ||voorpost.org^
 ||vor.nyeborgerlige.dk^
 ||vordingborg.danskfolkeparti.dk^
@@ -10845,6 +10965,7 @@
 ||voxnr.com^
 ||voxtribune.com^
 ||voxxlife.com^
+||voyageindivinelove.com^
 ||voyagesoflight.blogspot.com^
 ||voz.us^
 ||vpn.centerforsecuritypolicy.org^
@@ -11108,6 +11229,7 @@
 ||welovecharlie.co.uk^
 ||welovetrump.com^
 ||weltfriede.at^
+||weltnetz.tv^
 ||wenatcheetimes.com^
 ||weshapelife.org^
 ||westarapahoenews.com^
@@ -11340,6 +11462,7 @@
 ||wpww.net^
 ||wr.lc.org^
 ||wrapped.cryptopunks.app^
+||wrathofeden.com^
 ||wrightcountyguide.com^
 ||wrongop.creator-spring.com^
 ||wrongop.gumroad.com^
@@ -11753,6 +11876,7 @@
 ||zbbb278hfll091.bitchute.com^
 ||zedelgem.vlaamsbelang.org^
 ||zeitknall.de^
+||zeitpunkt.ch^
 ||zejournal.mobi^
 ||zemst.vlaamsbelang.org^
 ||zengardner.com^
@@ -11764,6 +11888,7 @@
 ||zeromacho.wordpress.com^
 ||zhengjian.org^
 ||zhengwunet.org^
+||zhitomir-news.ru^
 ||zhuichaguoji.org^
 ||zimm3rmann.com^
 ||zionutdatit.org.il^
@@ -11779,8 +11904,10 @@
 ||zonhoven.vlaamsbelang.org^
 ||zonnewind.be^
 ||zootfeed.com^
+||zp-news.ru^
 ||zsigorobert.fidesz.hu^
 ||zubymusic.minds.com^
+||zuerst.de^
 ||zuglo.fidesz.hu^
 ||zutendaal.vlaamsbelang.org^
 ||zv-0itdc-2y0x1.bitchute.com^
