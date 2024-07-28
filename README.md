@@ -81,6 +81,7 @@ If you have no idea how Git works, you can still contribute! Just [open an issue
 ## Aggregated lists
 
 This blocklist borrows from the following projects:
+- the [full blocklist](https://github.com/rimu/no-qanon/blob/master/domains.txt) from rimu's [No-QAnon](https://github.com/rimu/no-qanon) ([Anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt)).
 - the [full blocklist](https://peertube_isolation.frama.io/list/peertube_isolation.txt) from [PeerTube Isolation](https://peertube_isolation.frama.io/) (no licence, free redistribution).
 - the [Tabloid Remover blocklist](https://github.com/DandelionSprout/adfilt/blob/master/Sensitive%20lists/TabloidRemover.txt) and its [Mastodon extension](https://github.com/DandelionSprout/adfilt/blob/master/Sensitive%20lists/TabloidRemover-MastodonCategoryForImports.csv) from DandelionSprout's [adfilt](https://github.com/DandelionSprout/adfilt) ([Dandelicence](https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md)).
 - the [fake local journals list](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/fake-local-journals-list.txt) from MassMove's [Attack Vectors](https://github.com/MassMove/AttackVectors/) ([MIT licence](https://github.com/MassMove/AttackVectors/blob/master/LICENSE)).

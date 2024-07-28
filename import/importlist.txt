@@ -1,3 +1,4 @@
+noqanon.txt|https://raw.githubusercontent.com/rimu/no-qanon/master/domains.txt
 peertube_isolation fediverse.txt|https://peertube_isolation.frama.io/list/peertube_isolation.txt
 Adfilt TabloidRemover.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover.txt
 Adfilt TabloidRemover-MastodonCategoryForImports fediverse.txt|https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/TabloidRemover-MastodonCategoryForImports.csv

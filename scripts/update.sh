@@ -31,7 +31,6 @@ mv fediverse_domains_temp.txt fediverse_domains.txt
 ## For DNS filtering
 ### Hosts
 python scripts/domains_to_hosts.py > hosts.txt
-cp hosts.txt etc_hosts.txt # Previous filename for PiHole installations still subscribed to the old url.
 python scripts/domains_to_hosts_ipv6.py > hosts.txt.ipv6
 ### DNSmasq
 python scripts/domains_to_dnsmasq.py > dnsmasq.txt
