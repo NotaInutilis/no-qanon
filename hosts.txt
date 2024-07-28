@@ -1756,6 +1756,8 @@
 0.0.0.0 www.barackobama.news
 0.0.0.0 baragaguide.com
 0.0.0.0 www.baragaguide.com
+0.0.0.0 barbarakay.ca
+0.0.0.0 www.barbarakay.ca
 0.0.0.0 barcelona.harrypotterexhibition.com
 0.0.0.0 www.barcelona.harrypotterexhibition.com
 0.0.0.0 bardsfm.com
@@ -3480,6 +3482,8 @@
 0.0.0.0 www.cjcc-aryan-nations.com
 0.0.0.0 cjccan.org
 0.0.0.0 www.cjccan.org
+0.0.0.0 clairelehmann.net
+0.0.0.0 www.clairelehmann.net
 0.0.0.0 clancyreport.com
 0.0.0.0 www.clancyreport.com
 0.0.0.0 clarionproject.org
@@ -6332,6 +6336,8 @@
 0.0.0.0 www.faithfreedom.org
 0.0.0.0 faithfulwordbaptist.org
 0.0.0.0 www.faithfulwordbaptist.org
+0.0.0.0 faithgoldy.ca
+0.0.0.0 www.faithgoldy.ca
 0.0.0.0 faithit.com
 0.0.0.0 www.faithit.com
 0.0.0.0 faithkeepers.clarionproject.org
@@ -6750,6 +6756,8 @@
 0.0.0.0 www.folkishrevolution.wordpress.com
 0.0.0.0 folksvideo.com
 0.0.0.0 www.folksvideo.com
+0.0.0.0 followavi.com
+0.0.0.0 www.followavi.com
 0.0.0.0 fonagyjanos.fidesz.hu
 0.0.0.0 www.fonagyjanos.fidesz.hu
 0.0.0.0 fondationlejeune.org
@@ -9518,6 +9526,8 @@
 0.0.0.0 www.j.4chan.org
 0.0.0.0 jabbeke.vlaamsbelang.org
 0.0.0.0 www.jabbeke.vlaamsbelang.org
+0.0.0.0 jackbuckby.co.uk
+0.0.0.0 www.jackbuckby.co.uk
 0.0.0.0 jacksoncoguide.com
 0.0.0.0 www.jacksoncoguide.com
 0.0.0.0 jacksonlahmeyer.com
@@ -9556,6 +9566,8 @@
 0.0.0.0 www.jamtland.sd.se
 0.0.0.0 jan27.org
 0.0.0.0 www.jan27.org
+0.0.0.0 janiceatkinson.co.uk
+0.0.0.0 www.janiceatkinson.co.uk
 0.0.0.0 janmorganmedia.com
 0.0.0.0 www.janmorganmedia.com
 0.0.0.0 jaredhowe.net
@@ -9962,6 +9974,8 @@
 0.0.0.0 www.kathleenstock.com
 0.0.0.0 katiehopkinspolitical.icu
 0.0.0.0 www.katiehopkinspolitical.icu
+0.0.0.0 katiesarms.com
+0.0.0.0 www.katiesarms.com
 0.0.0.0 katrineholm.sd.se
 0.0.0.0 www.katrineholm.sd.se
 0.0.0.0 kauaisun.com
@@ -12006,6 +12020,8 @@
 0.0.0.0 www.micapitolnews.com
 0.0.0.0 micatholictribune.com
 0.0.0.0 www.micatholictribune.com
+0.0.0.0 michaelcoren.com
+0.0.0.0 www.michaelcoren.com
 0.0.0.0 michaelgleesonmedia.com
 0.0.0.0 www.michaelgleesonmedia.com
 0.0.0.0 michaeljlindell.com
@@ -16080,8 +16096,16 @@
 0.0.0.0 www.reason.org
 0.0.0.0 reason.tv
 0.0.0.0 www.reason.tv
+0.0.0.0 rebelfromthestart.com
+0.0.0.0 www.rebelfromthestart.com
+0.0.0.0 rebelne.ws
+0.0.0.0 www.rebelne.ws
 0.0.0.0 rebelnews.com
 0.0.0.0 www.rebelnews.com
+0.0.0.0 rebelnews.com.au
+0.0.0.0 www.rebelnews.com.au
+0.0.0.0 rebelnewsstore.com
+0.0.0.0 www.rebelnewsstore.com
 0.0.0.0 rebild.danskfolkeparti.dk
 0.0.0.0 www.rebild.danskfolkeparti.dk
 0.0.0.0 reckonin.com
@@ -17094,6 +17118,8 @@
 0.0.0.0 www.sebastianski.minds.com
 0.0.0.0 sebestyen.fidesz.hu
 0.0.0.0 www.sebestyen.fidesz.hu
+0.0.0.0 sebgorka.com
+0.0.0.0 www.sebgorka.com
 0.0.0.0 sebluegrassnews.com
 0.0.0.0 www.sebluegrassnews.com
 0.0.0.0 secoloditalia.it
@@ -19188,6 +19214,8 @@
 0.0.0.0 www.tankerenemymeteo.blogspot.it
 0.0.0.0 tanum.sd.se
 0.0.0.0 www.tanum.sd.se
+0.0.0.0 tanveerahmed.com.au
+0.0.0.0 www.tanveerahmed.com.au
 0.0.0.0 tapintothetruth.com
 0.0.0.0 www.tapintothetruth.com
 0.0.0.0 tapnewswire.com
