@@ -9505,6 +9505,7 @@
 *://*.studentsforliberty.org/*
 *://*.studentsforliberty.start.page/*
 *://*.studiobuchung.afd.de/*
+*://*.studiometamorphoses.com/*
 *://*.studiotour.warnerbros.fr/*
 *://*.study.noi.org/*
 *://*.studyguides.noi.org/*

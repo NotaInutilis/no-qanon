@@ -9505,6 +9505,7 @@ address=/studentsagainsttyranny.com/
 address=/studentsforliberty.org/
 address=/studentsforliberty.start.page/
 address=/studiobuchung.afd.de/
+address=/studiometamorphoses.com/
 address=/studiotour.warnerbros.fr/
 address=/study.noi.org/
 address=/studyguides.noi.org/
