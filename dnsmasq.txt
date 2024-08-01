@@ -497,6 +497,7 @@ address=/animap.fr/
 address=/animap.info/
 address=/animetudes.com/
 address=/ankenyguide.com/
+address=/annaforredcar.com/
 address=/annalyttiger.wordpress.com/
 address=/annaperdue.com/
 address=/annarbortimes.com/
