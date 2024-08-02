@@ -5442,6 +5442,10 @@
 0.0.0.0 www.drudgereport.com
 0.0.0.0 drudgereport.com.co
 0.0.0.0 www.drudgereport.com.co
+0.0.0.0 drugfreeworld.jp
+0.0.0.0 www.drugfreeworld.jp
+0.0.0.0 drugfreeworld.org
+0.0.0.0 www.drugfreeworld.org
 0.0.0.0 drugsofficial.com
 0.0.0.0 www.drugsofficial.com
 0.0.0.0 druthers.net
@@ -6560,6 +6564,8 @@
 0.0.0.0 www.fdareporter.com
 0.0.0.0 fdesouche.com
 0.0.0.0 www.fdesouche.com
+0.0.0.0 fdfw.blog.fc2.com
+0.0.0.0 www.fdfw.blog.fc2.com
 0.0.0.0 fdrliberated.org
 0.0.0.0 www.fdrliberated.org
 0.0.0.0 fdrpodcasts.com
@@ -13482,6 +13488,12 @@
 0.0.0.0 www.nomosdk.blogspot.com
 0.0.0.0 non-intervention2.com
 0.0.0.0 www.non-intervention2.com
+0.0.0.0 nonaladrogue.ch
+0.0.0.0 www.nonaladrogue.ch
+0.0.0.0 nonaladrogue.fr
+0.0.0.0 www.nonaladrogue.fr
+0.0.0.0 nonaladrogue.org
+0.0.0.0 www.nonaladrogue.org
 0.0.0.0 nonconformismen.wordpress.com
 0.0.0.0 www.nonconformismen.wordpress.com
 0.0.0.0 noncounterproductive.blogspot.com
@@ -17180,6 +17192,8 @@
 0.0.0.0 www.scientific.news
 0.0.0.0 scientologie.fr
 0.0.0.0 www.scientologie.fr
+0.0.0.0 scientology.jp
+0.0.0.0 www.scientology.jp
 0.0.0.0 scientology.org
 0.0.0.0 www.scientology.org
 0.0.0.0 sckansasnews.com
