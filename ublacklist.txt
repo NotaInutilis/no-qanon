@@ -2308,6 +2308,7 @@
 *://*.daragrennie.com/*
 *://*.dare-to-fly.co.uk/*
 *://*.dark-to-light.org/*
+*://*.darkbuddhism.com/*
 *://*.darkforeigner.tumblr.com/*
 *://*.darkmoon.me/*
 *://*.darkoutpost.com/*

@@ -4618,6 +4618,8 @@
 0.0.0.0 www.dare-to-fly.co.uk
 0.0.0.0 dark-to-light.org
 0.0.0.0 www.dark-to-light.org
+0.0.0.0 darkbuddhism.com
+0.0.0.0 www.darkbuddhism.com
 0.0.0.0 darkforeigner.tumblr.com
 0.0.0.0 www.darkforeigner.tumblr.com
 0.0.0.0 darkmoon.me

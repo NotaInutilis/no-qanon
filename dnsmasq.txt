@@ -2308,6 +2308,7 @@ address=/dapaan.com/
 address=/daragrennie.com/
 address=/dare-to-fly.co.uk/
 address=/dark-to-light.org/
+address=/darkbuddhism.com/
 address=/darkforeigner.tumblr.com/
 address=/darkmoon.me/
 address=/darkoutpost.com/
