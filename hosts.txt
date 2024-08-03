@@ -9296,6 +9296,8 @@
 0.0.0.0 www.initiativecitoyenne.be
 0.0.0.0 injouercad.us
 0.0.0.0 www.injouercad.us
+0.0.0.0 inkolloart.com
+0.0.0.0 www.inkolloart.com
 0.0.0.0 innovation.minds.com
 0.0.0.0 www.innovation.minds.com
 0.0.0.0 innovative.minds.com
