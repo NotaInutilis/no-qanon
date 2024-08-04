@@ -4007,6 +4007,8 @@
 "*://*.gsmnet.minds.com/*",
 "*://*.gstnetwork.com/*",
 "*://*.gtrtimes.com/*",
+"*://*.gtvflyers.com/*",
+"*://*.gtvflyers.st/*",
 "*://*.guangming.org/*",
 "*://*.guarda.link/*",
 "*://*.guarda.one/*",
