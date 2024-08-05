@@ -210,6 +210,8 @@
 0.0.0.0 www.800whistleblower.com
 0.0.0.0 82.221.129.208
 0.0.0.0 www.82.221.129.208
+0.0.0.0 888.hu
+0.0.0.0 www.888.hu
 0.0.0.0 8ch.net
 0.0.0.0 www.8ch.net
 0.0.0.0 8ch.netwww.8ch.net
@@ -1154,6 +1156,8 @@
 0.0.0.0 www.apoderados.voxespana.es
 0.0.0.0 apollo-dev.identityevropa.com
 0.0.0.0 www.apollo-dev.identityevropa.com
+0.0.0.0 apollo-news.net
+0.0.0.0 www.apollo-news.net
 0.0.0.0 apollo-staging.identityevropa.com
 0.0.0.0 www.apollo-staging.identityevropa.com
 0.0.0.0 apollo.identityevropa.com
@@ -3490,6 +3494,8 @@
 0.0.0.0 www.civictribune.com
 0.0.0.0 civil-liberties.com
 0.0.0.0 www.civil-liberties.com
+0.0.0.0 civilek.info
+0.0.0.0 www.civilek.info
 0.0.0.0 civilhir.net
 0.0.0.0 www.civilhir.net
 0.0.0.0 civilwar.news
@@ -4832,6 +4838,8 @@
 0.0.0.0 www.democratieparticipative.eu
 0.0.0.0 democrats.donaldjtrump.com
 0.0.0.0 www.democrats.donaldjtrump.com
+0.0.0.0 demokrata.hu
+0.0.0.0 www.demokrata.hu
 0.0.0.0 demonic.news
 0.0.0.0 www.demonic.news
 0.0.0.0 demonictimes.com
@@ -11374,6 +11382,8 @@
 0.0.0.0 www.magnoliastatenews.com
 0.0.0.0 magyar-media.com
 0.0.0.0 www.magyar-media.com
+0.0.0.0 magyarhirlap.hu
+0.0.0.0 www.magyarhirlap.hu
 0.0.0.0 magyarnemzet.hu
 0.0.0.0 www.magyarnemzet.hu
 0.0.0.0 mahaskaguide.com
@@ -11692,6 +11702,8 @@
 0.0.0.0 www.mammothnation.com
 0.0.0.0 manateereview.com
 0.0.0.0 www.manateereview.com
+0.0.0.0 mandiner.hu
+0.0.0.0 www.mandiner.hu
 0.0.0.0 manifest.minds.com
 0.0.0.0 www.manifest.minds.com
 0.0.0.0 manilabusinessdaily.com
@@ -15034,6 +15046,8 @@
 0.0.0.0 www.perstorp.sd.se
 0.0.0.0 pesticides.news
 0.0.0.0 www.pesticides.news
+0.0.0.0 pestisracok.hu
+0.0.0.0 www.pestisracok.hu
 0.0.0.0 peter.frc.org
 0.0.0.0 www.peter.frc.org
 0.0.0.0 petergeorgiouwa-com-au.onenation.org.au
@@ -21560,6 +21574,8 @@
 0.0.0.0 www.varnish.us-east-1.infowars.com
 0.0.0.0 varnish.us-west-1.infowars.com
 0.0.0.0 www.varnish.us-west-1.infowars.com
+0.0.0.0 vasarnap.hu
+0.0.0.0 www.vasarnap.hu
 0.0.0.0 vashiva.com
 0.0.0.0 www.vashiva.com
 0.0.0.0 vasimre.fidesz.hu

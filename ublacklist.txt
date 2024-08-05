@@ -104,6 +104,7 @@
 *://*.7phie4ohrahgo2dae3ae4eelie1ooj.gab.ai/*
 *://*.800whistleblower.com/*
 *://*.82.221.129.208/*
+*://*.888.hu/*
 *://*.8ch.net/*
 *://*.8ch.netwww.8ch.net/*
 *://*.8chan.org/*
@@ -576,6 +577,7 @@
 *://*.apocalypsesoon.org/*
 *://*.apoderados.voxespana.es/*
 *://*.apollo-dev.identityevropa.com/*
+*://*.apollo-news.net/*
 *://*.apollo-staging.identityevropa.com/*
 *://*.apollo.identityevropa.com/*
 *://*.apolut.net/*
@@ -1744,6 +1746,7 @@
 *://*.cityworldnews.com/*
 *://*.civictribune.com/*
 *://*.civil-liberties.com/*
+*://*.civilek.info/*
 *://*.civilhir.net/*
 *://*.civilwar.news/*
 *://*.civilwarineurope.com/*
@@ -2415,6 +2418,7 @@
 *://*.democratieparticipative.be/*
 *://*.democratieparticipative.eu/*
 *://*.democrats.donaldjtrump.com/*
+*://*.demokrata.hu/*
 *://*.demonic.news/*
 *://*.demonictimes.com/*
 *://*.demstuermer.wordpress.com/*
@@ -5686,6 +5690,7 @@
 *://*.magnetic.minds.com/*
 *://*.magnoliastatenews.com/*
 *://*.magyar-media.com/*
+*://*.magyarhirlap.hu/*
 *://*.magyarnemzet.hu/*
 *://*.mahaskaguide.com/*
 *://*.mai-friss.com/*
@@ -5845,6 +5850,7 @@
 *://*.mammainrete.blogspot.it/*
 *://*.mammothnation.com/*
 *://*.manateereview.com/*
+*://*.mandiner.hu/*
 *://*.manifest.minds.com/*
 *://*.manilabusinessdaily.com/*
 *://*.mansfieldtimes.com/*
@@ -7516,6 +7522,7 @@
 *://*.personhood.afa.net/*
 *://*.perstorp.sd.se/*
 *://*.pesticides.news/*
+*://*.pestisracok.hu/*
 *://*.peter.frc.org/*
 *://*.petergeorgiouwa-com-au.onenation.org.au/*
 *://*.petergeorgiouwa.onenation.org.au/*
@@ -10779,6 +10786,7 @@
 *://*.varnish.ca-central-1.infowars.com/*
 *://*.varnish.us-east-1.infowars.com/*
 *://*.varnish.us-west-1.infowars.com/*
+*://*.vasarnap.hu/*
 *://*.vashiva.com/*
 *://*.vasimre.fidesz.hu/*
 *://*.vasteras.sd.se/*
