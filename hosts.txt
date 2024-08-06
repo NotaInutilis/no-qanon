@@ -19948,6 +19948,8 @@
 0.0.0.0 www.thelastgreatstand.com
 0.0.0.0 thelastlineofdefense.org
 0.0.0.0 www.thelastlineofdefense.org
+0.0.0.0 theleadingreport.com
+0.0.0.0 www.theleadingreport.com
 0.0.0.0 thelegacyoflove.org
 0.0.0.0 www.thelegacyoflove.org
 0.0.0.0 thelibertarianrepublic.com

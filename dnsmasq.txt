@@ -9973,6 +9973,7 @@ address=/thelapine.ca/
 address=/thelastamericanvagabond.com/
 address=/thelastgreatstand.com/
 address=/thelastlineofdefense.org/
+address=/theleadingreport.com/
 address=/thelegacyoflove.org/
 address=/thelibertarianrepublic.com/
 address=/thelibertybeacon.com/
