@@ -5,3 +5,4 @@ About conspiracies: [Conspiracy Watch](https://www.conspiracywatch.info/) BE CAR
 
 https://indextreme.fr/
 https://www.la-philosophie.fr/tag/fachosphere/
+https://www.debunkersdehoax.org/

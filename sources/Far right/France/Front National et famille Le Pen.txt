@@ -1,5 +1,3 @@
-# Principalement les nationalistes et fascistes.
-
 # Front National, Rassemblement National, famille Le Pen
 les-patriotes.fr
 frontnational.com
@@ -22,22 +20,7 @@ udn.hautetfort.com
 synthesenationale.hautetfort.com
 ndp-infos.over-blog.com
 
-# Reconquête, Éric Zemmour
-parti-reconquete.fr
-ericzemmour.fr
-bernard-antony.com
-parents-vigilants.fr # Astroturfing/asso crée par Zemmour et site web hébergé par son parti
-protegeons-nos-enfants.fr
-antoinebaudino.fr
-
 # Marion Maréchal Le Pen
 marionmarechal.info
 issep.fr
 jesoutienslunion.fr
-
-# Debout la France, Nicolas Dupont-Aignan
-debout-la-france.fr
-
-# Via (ex-PCD), Christine Boutin, Jean-Frédéric Poisson
-via-lavoiedupeuple.fr
-lepcd.fr
