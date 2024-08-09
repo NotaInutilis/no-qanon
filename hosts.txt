@@ -3298,6 +3298,8 @@
 0.0.0.0 www.chat.gab.com
 0.0.0.0 chateau.heartiste.wordpress.com
 0.0.0.0 www.chateau.heartiste.wordpress.com
+0.0.0.0 chbmp.org
+0.0.0.0 www.chbmp.org
 0.0.0.0 cheateau.heartiste.wordpress.com
 0.0.0.0 www.cheateau.heartiste.wordpress.com
 0.0.0.0 cheatu.heartiste.wordpress.com
@@ -6874,6 +6876,8 @@
 0.0.0.0 www.fork1.infogalactic.com
 0.0.0.0 formations-spiritualite-energetique.com
 0.0.0.0 www.formations-spiritualite-energetique.com
+0.0.0.0 formerfedsgroup.org
+0.0.0.0 www.formerfedsgroup.org
 0.0.0.0 formmesh.com
 0.0.0.0 www.formmesh.com
 0.0.0.0 forms.bnp.org.uk

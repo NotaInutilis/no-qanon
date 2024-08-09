@@ -1648,6 +1648,7 @@
 *://*.chat.europeanamericansunited.org/*
 *://*.chat.gab.com/*
 *://*.chateau.heartiste.wordpress.com/*
+*://*.chbmp.org/*
 *://*.cheateau.heartiste.wordpress.com/*
 *://*.cheatu.heartiste.wordpress.com/*
 *://*.chechar.wordpress.com/*
@@ -3436,6 +3437,7 @@
 *://*.forestcountrynews.com/*
 *://*.fork1.infogalactic.com/*
 *://*.formations-spiritualite-energetique.com/*
+*://*.formerfedsgroup.org/*
 *://*.formmesh.com/*
 *://*.forms.bnp.org.uk/*
 *://*.forms.breitbart.com/*
