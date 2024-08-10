@@ -126,6 +126,8 @@
 0.0.0.0 www.3speak.co
 0.0.0.0 3speak.online
 0.0.0.0 www.3speak.online
+0.0.0.0 3wiresports.com
+0.0.0.0 www.3wiresports.com
 0.0.0.0 3xv4cobvbf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.3xv4cobvbf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 4.btfsu.d.tube
@@ -5194,6 +5196,8 @@
 0.0.0.0 www.dlive.tv
 0.0.0.0 dmca.d.tube
 0.0.0.0 www.dmca.d.tube
+0.0.0.0 dmcl.biz
+0.0.0.0 www.dmcl.biz
 0.0.0.0 dmrpublications.com
 0.0.0.0 www.dmrpublications.com
 0.0.0.0 dnc.news
@@ -7320,6 +7324,8 @@
 0.0.0.0 www.fukushima.news
 0.0.0.0 fukushimawatch.com
 0.0.0.0 www.fukushimawatch.com
+0.0.0.0 fulcrum7.com
+0.0.0.0 www.fulcrum7.com
 0.0.0.0 fulcrumnews.com
 0.0.0.0 www.fulcrumnews.com
 0.0.0.0 fullchan.net
@@ -8874,6 +8880,8 @@
 0.0.0.0 www.humboldtreview.com
 0.0.0.0 humortimes.com
 0.0.0.0 www.humortimes.com
+0.0.0.0 hungarianconservative.com
+0.0.0.0 www.hungarianconservative.com
 0.0.0.0 huniepot.com
 0.0.0.0 www.huniepot.com
 0.0.0.0 huniepot.tumblr.com
@@ -9326,6 +9334,8 @@
 0.0.0.0 www.insaf.pk
 0.0.0.0 insiderhotline.com
 0.0.0.0 www.insiderhotline.com
+0.0.0.0 insidethegames.biz
+0.0.0.0 www.insidethegames.biz
 0.0.0.0 institut-de-la-parole.com
 0.0.0.0 www.institut-de-la-parole.com
 0.0.0.0 institut-iliade.com
