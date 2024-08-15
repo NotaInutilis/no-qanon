@@ -3103,6 +3103,7 @@
 "*://*.europa-terra-nostra.com/*",
 "*://*.europaeische-aktion.org/*",
 "*://*.europasoberana.blogspot.com.es/*",
+"*://*.europathelastbattle.net/*",
 "*://*.europe-israel.org/*",
 "*://*.europe.infowars.com/*",
 "*://*.europe1.fr/*",
