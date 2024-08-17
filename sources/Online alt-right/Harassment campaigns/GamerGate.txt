@@ -9,14 +9,21 @@ gamergate-news.tumblr.com
 # Pro-GamerGate news sites
 nichegamer.com
 thegg.net
+
 # Pro GamerGate devs
+
 # HuniePot
 huniepot.com
 cantaloupekids.com
 huniepot.tumblr.com
+
 ## Destructive Creations (Hatred)
 destructivecreations.com
 warmongrels.com
+
+# Running with scissors (Postal)
+https://runningwithscissors.com/
+gopostal.com
 
 # Pro GamerGate stores
 play-asia.com
