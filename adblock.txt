@@ -3928,6 +3928,7 @@
 ||gop.com^
 ||gop.gov^
 ||gopinsiderbrief.com^
+||gopostal.com^
 ||gopthedailydose.com^
 ||gorf.tube^
 ||gorle.leganord.org^
@@ -8472,6 +8473,7 @@
 ||rumormillnews.com^
 ||rumormillnews.jurak.com^
 ||rumst.vlaamsbelang.org^
+||runningwithscissors.com^
 ||runtube.re^
 ||ruptly.tv^
 ||ruqqus.com^

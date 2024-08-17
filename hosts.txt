@@ -7850,6 +7850,8 @@
 0.0.0.0 www.gop.gov
 0.0.0.0 gopinsiderbrief.com
 0.0.0.0 www.gopinsiderbrief.com
+0.0.0.0 gopostal.com
+0.0.0.0 www.gopostal.com
 0.0.0.0 gopthedailydose.com
 0.0.0.0 www.gopthedailydose.com
 0.0.0.0 gorf.tube
@@ -16938,6 +16940,8 @@
 0.0.0.0 www.rumormillnews.jurak.com
 0.0.0.0 rumst.vlaamsbelang.org
 0.0.0.0 www.rumst.vlaamsbelang.org
+0.0.0.0 runningwithscissors.com
+0.0.0.0 www.runningwithscissors.com
 0.0.0.0 runtube.re
 0.0.0.0 www.runtube.re
 0.0.0.0 ruptly.tv
