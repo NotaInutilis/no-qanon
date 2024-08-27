@@ -2398,6 +2398,7 @@
 "*://*.defendthefamily.com/*",
 "*://*.defiantamerica.com/*",
 "*://*.defirepublicain.fr/*",
+"*://*.deidetected.com/*",
 "*://*.deinze-nevele.vlaamsbelang.org/*",
 "*://*.dekalbganews.com/*",
 "*://*.dekalbtimes.com/*",
