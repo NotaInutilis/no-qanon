@@ -5269,6 +5269,7 @@
 "*://*.larouchepub.com/*",
 "*://*.larrydcook.com/*",
 "*://*.larryhannigan.com.au/*",
+"*://*.larslarson.com/*",
 "*://*.lask.pis.org.pl/*",
 "*://*.last-webs.com/*",
 "*://*.lastdeplorables.com/*",
