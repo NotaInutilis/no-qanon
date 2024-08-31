@@ -2584,6 +2584,8 @@
 0.0.0.0 www.breaking911.com
 0.0.0.0 breakingfirst.com
 0.0.0.0 www.breakingfirst.com
+0.0.0.0 breakingnewsdigest.com
+0.0.0.0 www.breakingnewsdigest.com
 0.0.0.0 breakingviewsnz.blogspot.com
 0.0.0.0 www.breakingviewsnz.blogspot.com
 0.0.0.0 breaknotizie.com
@@ -3894,6 +3896,8 @@
 0.0.0.0 www.conservativehq.org
 0.0.0.0 conservativeinfidel.com
 0.0.0.0 www.conservativeinfidel.com
+0.0.0.0 conservativeinstitute.org
+0.0.0.0 www.conservativeinstitute.org
 0.0.0.0 conservativemedia.com
 0.0.0.0 www.conservativemedia.com
 0.0.0.0 conservativeoutfitters.com
@@ -4470,6 +4474,8 @@
 0.0.0.0 www.dailybuzzlive.com
 0.0.0.0 dailycaller.com
 0.0.0.0 www.dailycaller.com
+0.0.0.0 dailyconservative.com
+0.0.0.0 www.dailyconservative.com
 0.0.0.0 dailycurrant.com
 0.0.0.0 www.dailycurrant.com
 0.0.0.0 dailydiscord.com

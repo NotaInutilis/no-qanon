@@ -1295,6 +1295,7 @@
 ||breakawayincome.com^
 ||breaking911.com^
 ||breakingfirst.com^
+||breakingnewsdigest.com^
 ||breakingviewsnz.blogspot.com^
 ||breaknotizie.com^
 ||breakpoint.org^
@@ -1950,6 +1951,7 @@
 ||conservativehq.com^
 ||conservativehq.org^
 ||conservativeinfidel.com^
+||conservativeinstitute.org^
 ||conservativemedia.com^
 ||conservativeoutfitters.com^
 ||conservativepapers.com^
@@ -2238,6 +2240,7 @@
 ||daily-wire-production.imgix.net^
 ||dailybuzzlive.com^
 ||dailycaller.com^
+||dailyconservative.com^
 ||dailycurrant.com^
 ||dailydiscord.com^
 ||dailyexpose.co.uk^
