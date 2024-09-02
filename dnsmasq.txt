@@ -8016,6 +8016,7 @@ address=/qmap.pub/
 address=/qnation.us/
 address=/qnewsletter.com/
 address=/qntmpkts.keybase.pub/
+address=/qofficial.net/
 address=/qoto.org/
 address=/qpolitical.com/
 address=/qposts.in/

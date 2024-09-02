@@ -16034,6 +16034,8 @@
 0.0.0.0 www.qnewsletter.com
 0.0.0.0 qntmpkts.keybase.pub
 0.0.0.0 www.qntmpkts.keybase.pub
+0.0.0.0 qofficial.net
+0.0.0.0 www.qofficial.net
 0.0.0.0 qoto.org
 0.0.0.0 www.qoto.org
 0.0.0.0 qpolitical.com
