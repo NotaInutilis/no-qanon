@@ -5834,6 +5834,8 @@
 0.0.0.0 www.elpasostandard.com
 0.0.0.0 em.dlive.tv
 0.0.0.0 www.em.dlive.tv
+0.0.0.0 em8er.com
+0.0.0.0 www.em8er.com
 0.0.0.0 email.donaldjtrump.com
 0.0.0.0 www.email.donaldjtrump.com
 0.0.0.0 email.hol.frc.org

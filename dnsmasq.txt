@@ -2916,6 +2916,7 @@ address=/ellinikipatriotikienosi.blogspot.com/
 address=/elmundotoday.com/
 address=/elpasostandard.com/
 address=/em.dlive.tv/
+address=/em8er.com/
 address=/email.donaldjtrump.com/
 address=/email.hol.frc.org/
 address=/email.infowars.com/
