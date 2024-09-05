@@ -1992,6 +1992,8 @@
 0.0.0.0 www.benklassen.com
 0.0.0.0 benklassenschurch.blogspot.com
 0.0.0.0 www.benklassenschurch.blogspot.com
+0.0.0.0 bennyjohnson.com
+0.0.0.0 www.bennyjohnson.com
 0.0.0.0 bennywills.com
 0.0.0.0 www.bennywills.com
 0.0.0.0 bentkey.com
@@ -8016,6 +8018,8 @@
 0.0.0.0 www.greve.danskfolkeparti.dk
 0.0.0.0 grffthegop.bandcamp.com
 0.0.0.0 www.grffthegop.bandcamp.com
+0.0.0.0 grftr.news
+0.0.0.0 www.grftr.news
 0.0.0.0 grimesjournal.com
 0.0.0.0 www.grimesjournal.com
 0.0.0.0 grobbendonk.vlaamsbelang.org
@@ -11864,6 +11868,8 @@
 0.0.0.0 www.mathildasanthropologyblog.wordpress.com
 0.0.0.0 matsutimes.com
 0.0.0.0 www.matsutimes.com
+0.0.0.0 mattchristiansenmedia.com
+0.0.0.0 www.mattchristiansenmedia.com
 0.0.0.0 mattermost.parler.com
 0.0.0.0 www.mattermost.parler.com
 0.0.0.0 mattforney.com
@@ -19482,6 +19488,8 @@
 0.0.0.0 www.tauranganews.tk
 0.0.0.0 taxpayers.org.nz
 0.0.0.0 www.taxpayers.org.nz
+0.0.0.0 taylerusa.com
+0.0.0.0 www.taylerusa.com
 0.0.0.0 tcmhijacked.blogspot.com
 0.0.0.0 www.tcmhijacked.blogspot.com
 0.0.0.0 tcode.kenfm.de
