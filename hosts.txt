@@ -14260,6 +14260,8 @@
 0.0.0.0 www.oauth.8ch.net
 0.0.0.0 observateurcontinental.fr
 0.0.0.0 www.observateurcontinental.fr
+0.0.0.0 observatoireduwokisme.fr
+0.0.0.0 www.observatoireduwokisme.fr
 0.0.0.0 observatoirepetitesirene.org
 0.0.0.0 www.observatoirepetitesirene.org
 0.0.0.0 oc.lc.org

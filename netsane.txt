@@ -7129,6 +7129,7 @@
 "*://*.oathkeepersoutpost.us/*",
 "*://*.oauth.8ch.net/*",
 "*://*.observateurcontinental.fr/*",
+"*://*.observatoireduwokisme.fr/*",
 "*://*.observatoirepetitesirene.org/*",
 "*://*.oc.lc.org/*",
 "*://*.ocalastandard.com/*",

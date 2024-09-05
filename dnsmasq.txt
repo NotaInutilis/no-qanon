@@ -7129,6 +7129,7 @@ address=/oathkeepersorangecony.com/
 address=/oathkeepersoutpost.us/
 address=/oauth.8ch.net/
 address=/observateurcontinental.fr/
+address=/observatoireduwokisme.fr/
 address=/observatoirepetitesirene.org/
 address=/oc.lc.org/
 address=/ocalastandard.com/
