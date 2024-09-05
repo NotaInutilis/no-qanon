@@ -1420,6 +1420,7 @@
 *://*.call2fall.com/*
 *://*.callmestormy.net/*
 *://*.callthecops.net/*
+*://*.cambadelis.net/*
 *://*.cambriatimes.com/*
 *://*.camelottvnetwork.com/*
 *://*.campaign.company/*
@@ -6919,6 +6920,7 @@
 *://*.notthenation.com/*
 *://*.nous-vivrons.fr/*
 *://*.nouvelle-action-royaliste.fr/*
+*://*.nouvellesociete.fr/*
 *://*.nouvelordremondial.cc/*
 *://*.nouvelordremondial.org/*
 *://*.novax.org/*

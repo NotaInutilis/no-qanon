@@ -2842,6 +2842,8 @@
 0.0.0.0 www.callmestormy.net
 0.0.0.0 callthecops.net
 0.0.0.0 www.callthecops.net
+0.0.0.0 cambadelis.net
+0.0.0.0 www.cambadelis.net
 0.0.0.0 cambriatimes.com
 0.0.0.0 www.cambriatimes.com
 0.0.0.0 camelottvnetwork.com
@@ -13840,6 +13842,8 @@
 0.0.0.0 www.nous-vivrons.fr
 0.0.0.0 nouvelle-action-royaliste.fr
 0.0.0.0 www.nouvelle-action-royaliste.fr
+0.0.0.0 nouvellesociete.fr
+0.0.0.0 www.nouvellesociete.fr
 0.0.0.0 nouvelordremondial.cc
 0.0.0.0 www.nouvelordremondial.cc
 0.0.0.0 nouvelordremondial.org
