@@ -104,6 +104,8 @@
 0.0.0.0 www.2ndamendmentpatches.com
 0.0.0.0 2ndenforcers.org
 0.0.0.0 www.2ndenforcers.org
+0.0.0.0 2njb.com
+0.0.0.0 www.2njb.com
 0.0.0.0 2perc.info
 0.0.0.0 www.2perc.info
 0.0.0.0 2sucres.fandom.com

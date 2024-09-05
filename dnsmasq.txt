@@ -51,6 +51,7 @@ address=/2ch.sh/
 address=/2fwww.minds.com/
 address=/2ndamendmentpatches.com/
 address=/2ndenforcers.org/
+address=/2njb.com/
 address=/2perc.info/
 address=/2sucres.fandom.com/
 address=/2ylj5xz8us.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/
