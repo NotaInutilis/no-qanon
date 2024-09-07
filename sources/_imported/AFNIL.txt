@@ -10,6 +10,14 @@
 #
 # ===============================================================
 
+127.0.0.1 
+255.255.255.255 
+#::1 localhost
+fe80::1%lo0 
+0.0.0.0
+
+
+
 100percentfedup.com
 1eclaireur.wordpress.com
 2012un-nouveau-paradigme.com
@@ -971,7 +979,7 @@ patriotnewsagency.com
 patriotrising.com
 patriotupdate.com
 paulcraigroberts.org
-pedocriminel.blogspot.fr
+pedocriminel.blogspot.fr 
 pensabrasil.com
 peoplemagazine.co.za
 peoplespresscollective.org
