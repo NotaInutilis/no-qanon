@@ -9,3 +9,6 @@ antifa-n blocklist.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/
 antifa-n blocklist-alttech.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt
 antifa-n blocklist-pop.txt|https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt
 AFNIL.txt|https://raw.githubusercontent.com/AFNIL-AntiFakeNewsInternationalList/AFNIL/master/hosts
+Conspiracy Media blocklist.txt|https://raw.githubusercontent.com/RubenKelevra/ublacklist_conspiracy/master/ublacklist-conspiracy-media-full.txt
+Fake News Media blocklist.txt|https://raw.githubusercontent.com/RubenKelevra/ublacklist_fakenews/master/ublacklist-fakenews-media-full.txt
+Right Wing Media blocklist.txt|https://raw.githubusercontent.com/RubenKelevra/ublacklist_rightwing_media/master/ublacklist-rightwing-media.txt
