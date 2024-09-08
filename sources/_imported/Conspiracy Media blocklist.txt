@@ -1,7 +1,6 @@
 #---
 name: 
 description: 
-github.com
 #---
 # 2020ElectionCenter.com (USA)
 2020electioncenter.com

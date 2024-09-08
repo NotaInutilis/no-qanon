@@ -1,7 +1,6 @@
 #---
 name: 
 description: 
-github.com
 #---
 # 4Chan (USA)
 4chan.org
@@ -1006,7 +1005,7 @@ eastindynews.com
 eciowanews.com
 
 # East Kentucky Times (USA)
-#*eastkentuckytimes.com/*
+eastkentuckytimes.com
 
 # East Lake Norman News (USA)
 eastlakenormannews.com

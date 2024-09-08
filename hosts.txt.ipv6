@@ -3090,8 +3090,6 @@
 ::1 www.bro.nyeborgerlige.dk
 ::1 broadcast.rumble.com
 ::1 www.broadcast.rumble.com
-::1 broadcasthost
-::1 www.broadcasthost
 ::1 broendby.danskfolkeparti.dk
 ::1 www.broendby.danskfolkeparti.dk
 ::1 broenderslev.danskfolkeparti.dk
@@ -8954,8 +8952,6 @@
 ::1 www.git.ruqqus.com
 ::1 gitgud.io
 ::1 www.gitgud.io
-::1 github.com
-::1 www.github.com
 ::1 gitlab.parler.com
 ::1 www.gitlab.parler.com
 ::1 gitmo.life

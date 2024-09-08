@@ -1544,7 +1544,6 @@ britishdemocrats.uk
 britologywatch.wordpress.com
 bro.nyeborgerlige.dk
 broadcast.rumble.com
-broadcasthost
 broendby.danskfolkeparti.dk
 broenderslev.danskfolkeparti.dk
 brokenworldnews.com
@@ -4476,7 +4475,6 @@ gislaved.sd.se
 gisreportsonline.com
 git.ruqqus.com
 gitgud.io
-github.com
 gitlab.parler.com
 gitmo.life
 giuindaerba.leganord.org
