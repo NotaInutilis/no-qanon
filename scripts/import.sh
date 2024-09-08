@@ -12,7 +12,7 @@ cp -a ./import/original/. ./import/modified/
 
 # Cleanup imported sources (Same code in update.sh)
 ## Special cleanup for imported sources of other formats (match, hosts, AdBlock, etc.)
-find ./import/modified -type f -name "*.txt" -exec sed -ri 's/^\*\:\/\///i; s/^\*\.//i; s/^0\.0\.0\.0[[:space:]]*//i; s/^127\.0\.0\.1[[:space:]]*//i; s/^255\.255\.255\.255[[:space:]]*//i; s/^\:\:1[[:space:]]*//i; s/^fe80\:\:1\%lo0[[:space:]]*//i; s/^[[:space:]]*localhost[[:space:]]*$//i; s/^[[:space:]]*localhost.localdomain[[:space:]]*$//i; s/^[[:space:]]*local[[:space:]]*$//i; s/^[^#[:alnum:]]/#&/' {} \;
+find ./import/modified -type f -name "*.txt" -exec sed -ri 's/^\*\:\/\///i; s/^\*\.//i; s/^0\.0\.0\.0[[:space:]]*//i; s/^127\.0\.0\.1[[:space:]]*//i; s/^255\.255\.255\.255[[:space:]]*//i; s/^\:\:1[[:space:]]*//i; s/^fe80\:\:1\%lo0[[:space:]]*//i; s/^[[:space:]]*localhost[[:space:]]*$//i; s/^[[:space:]]*localhost.localdomain[[:space:]]*$//i; s/^[[:space:]]*local[[:space:]]*$//i; s/^[[:space:]]*broadcasthost[[:space:]]*$//i; s/^[^#[:alnum:]]/#&/' {} \;
 ## Normalizes URLs into domains: lowercases, remove leading spaces, protocol (`x://`) `www.` subdomains, everything after `/`, only one space before `#`. Keeps comments intact
 find ./import/modified -type f -name "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^[.*]*//i; s/^www\.//i; s/\/[^[:space:]]*//i; s/[[:space:]].*$/ /i; G; s/(.*)\n/\1/' {} \;
 find ./import/modified -type f -name "*.txt" -exec sed -ri 's/^www\.//i' {} \; # Removing "www." twice because unmaintained imported lists are weird.
