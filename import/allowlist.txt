@@ -14,3 +14,4 @@ open.spotify.com
 classy.org
 crunchbase.com
 zoominfo.com
+github.com
