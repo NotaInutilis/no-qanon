@@ -6,8 +6,11 @@ code-reinho.myspreadshop.fr
 # Mysogyny, antisemitism, racism, etc.
 # https://www.cairn.info/revue-zilsel-2020-2-page-15.htm
 # https://blogs.mediapart.fr/mouais-le-journal-dubitatif/blog/090523/quand-la-zetetique-ouvre-les-dernieres-portes-droite
-
 menace-theoriste.fr
 astronogeek.fr
 astronogeek.tv
 clementfreze.fr
+
+# Raptor
+https://raptornutrition.fr/
+https://raptorcoaching.pro/
