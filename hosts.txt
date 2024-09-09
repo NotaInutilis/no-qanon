@@ -18692,6 +18692,10 @@
 0.0.0.0 www.rapefugees.net
 0.0.0.0 rapsodia.fi
 0.0.0.0 www.rapsodia.fi
+0.0.0.0 raptorcoaching.pro
+0.0.0.0 www.raptorcoaching.pro
+0.0.0.0 raptornutrition.fr
+0.0.0.0 www.raptornutrition.fr
 0.0.0.0 raptureforums.com
 0.0.0.0 www.raptureforums.com
 0.0.0.0 raptureready.com

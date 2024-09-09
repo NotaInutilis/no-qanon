@@ -12,5 +12,5 @@ astronogeek.tv
 clementfreze.fr
 
 # Raptor
-https://raptornutrition.fr/
-https://raptorcoaching.pro/
+raptornutrition.fr
+raptorcoaching.pro
