@@ -8240,6 +8240,8 @@
 0.0.0.0 www.francais.rt.com
 0.0.0.0 francaisdefrance.wordpress.com
 0.0.0.0 www.francaisdefrance.wordpress.com
+0.0.0.0 francaisetfier.fr
+0.0.0.0 www.francaisetfier.fr
 0.0.0.0 france-police.org
 0.0.0.0 www.france-police.org
 0.0.0.0 france.upf.org

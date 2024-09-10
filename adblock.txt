@@ -4123,6 +4123,7 @@
 ||franc-tireur.fr^
 ||francais.rt.com^
 ||francaisdefrance.wordpress.com^
+||francaisetfier.fr^
 ||france-police.org^
 ||france.upf.org^
 ||franceencolere.fr^

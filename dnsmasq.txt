@@ -4119,6 +4119,7 @@ address=/framix.fr/
 address=/franc-tireur.fr/
 address=/francais.rt.com/
 address=/francaisdefrance.wordpress.com/
+address=/francaisetfier.fr/
 address=/france-police.org/
 address=/france.upf.org/
 address=/franceencolere.fr/
