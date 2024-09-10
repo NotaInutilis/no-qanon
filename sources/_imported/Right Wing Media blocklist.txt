@@ -8241,3 +8241,12 @@ wmbdradio.com
 
 # Cumberland Valley News (USA)
 cumberlandvalleynews.com
+
+# Today is America (USA)
+todayisamerica.com
+
+# Word on Fire (USA)
+wordonfire.org
+
+# Trafalgar Group Polling (USA)
+thetrafalgargroup.org

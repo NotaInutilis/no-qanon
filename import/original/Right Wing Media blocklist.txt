@@ -8835,3 +8835,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Cumberland Valley News (USA)
 *://*.cumberlandvalleynews.com/*
+
+# Today is America (USA)
+*://*.todayisamerica.com/*
+
+# Word on Fire (USA)
+*://*.wordonfire.org/*
+
+# Trafalgar Group Polling (USA)
+*://*.thetrafalgargroup.org/*

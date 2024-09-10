@@ -11653,6 +11653,7 @@
 ||thetonicexpress.com^
 ||thetoque.com^
 ||thetorreonpost.com^
+||thetrafalgargroup.org^
 ||thetransformedwife.com^
 ||thetruedefender.com^
 ||thetruenews.info^
@@ -11816,6 +11817,7 @@
 ||tobacconewswire.com^
 ||toben.biz^
 ||tocsin-media.fr^
+||todayisamerica.com^
 ||todayonline.com^
 ||toddstarnes.com^
 ||toender.danskfolkeparti.dk^
@@ -13170,6 +13172,7 @@
 ||wonkie.com^
 ||woodstocksentinelreview.com^
 ||woolstangray.eu^
+||wordonfire.org^
 ||words.happyscience.me^
 ||wordsofiron.com^
 ||workers.donaldjtrump.com^
