@@ -17,3 +17,6 @@ les-temeraires.org
 
 #Blogs
 francisrichard.net
+
+# Shops
+https://www.francaisetfier.fr/
