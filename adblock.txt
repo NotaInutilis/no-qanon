@@ -6320,6 +6320,7 @@
 ||lexingtoninstitute.org^
 ||lexipol.com^
 ||lf.nyeborgerlige.dk^
+||lfatv.us^
 ||lfpress.com^
 ||lgballiance.org.uk^
 ||lgbtqnation.com^
@@ -8667,6 +8668,7 @@
 ||paulboylan.wordpress.com^
 ||paulcraigroberts.org^
 ||paulinearrighi.com^
+||paulingrassia.substack.com^
 ||paulrevere.infowars.com^
 ||pavlograd-news.ru^
 ||paws.moe^

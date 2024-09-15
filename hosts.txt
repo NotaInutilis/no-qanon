@@ -12634,6 +12634,8 @@
 0.0.0.0 www.lexipol.com
 0.0.0.0 lf.nyeborgerlige.dk
 0.0.0.0 www.lf.nyeborgerlige.dk
+0.0.0.0 lfatv.us
+0.0.0.0 www.lfatv.us
 0.0.0.0 lfpress.com
 0.0.0.0 www.lfpress.com
 0.0.0.0 lgballiance.org.uk
@@ -17328,6 +17330,8 @@
 0.0.0.0 www.paulcraigroberts.org
 0.0.0.0 paulinearrighi.com
 0.0.0.0 www.paulinearrighi.com
+0.0.0.0 paulingrassia.substack.com
+0.0.0.0 www.paulingrassia.substack.com
 0.0.0.0 paulrevere.infowars.com
 0.0.0.0 www.paulrevere.infowars.com
 0.0.0.0 pavlograd-news.ru
