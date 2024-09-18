@@ -9607,6 +9607,7 @@
 "*://*.ribelli.eu/*",
 "*://*.ribusinessdaily.com/*",
 "*://*.richardbspencer.com/*",
+"*://*.richardgage911.org/*",
 "*://*.richardpan.news/*",
 "*://*.richardtice.com/*",
 "*://*.richmond.com/*",
