@@ -4658,3 +4658,12 @@ cumberlandvalleynews.com
 
 # Today is America (USA)
 todayisamerica.com
+
+# Shockya News (USA)
+shockya.com
+
+# Erie County Times (USA)
+eriecotimes.com
+
+# East Montgomery Times (USA)
+eastmonttimes.com

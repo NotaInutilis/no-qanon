@@ -20514,6 +20514,8 @@
 0.0.0.0 www.shoabloger.wordpress.com
 0.0.0.0 shoalstoday.com
 0.0.0.0 www.shoalstoday.com
+0.0.0.0 shockya.com
+0.0.0.0 www.shockya.com
 0.0.0.0 shoebat.com
 0.0.0.0 www.shoebat.com
 0.0.0.0 shop-liberal.fr
@@ -26130,6 +26132,8 @@
 0.0.0.0 www.whydontyoutrythis.com
 0.0.0.0 wiartonecho.com
 0.0.0.0 www.wiartonecho.com
+0.0.0.0 wibqam.com
+0.0.0.0 www.wibqam.com
 0.0.0.0 wibusinessdaily.com
 0.0.0.0 www.wibusinessdaily.com
 0.0.0.0 wicatholictribune.com

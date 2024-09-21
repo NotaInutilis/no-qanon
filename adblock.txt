@@ -10260,6 +10260,7 @@
 ||shiva4senate.com^
 ||shoabloger.wordpress.com^
 ||shoalstoday.com^
+||shockya.com^
 ||shoebat.com^
 ||shop-liberal.fr^
 ||shop.8kun.top^
@@ -13068,6 +13069,7 @@
 ||whowhatwhy.org^
 ||whydontyoutrythis.com^
 ||wiartonecho.com^
+||wibqam.com^
 ||wibusinessdaily.com^
 ||wicatholictribune.com^
 ||wichitastandard.com^

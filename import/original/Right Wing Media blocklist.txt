@@ -8844,3 +8844,15 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Trafalgar Group Polling (USA)
 *://*.thetrafalgargroup.org/*
+
+# Shockya News (USA)
+*://*.shockya.com/*
+
+# WIBQ – 1230 AM – Terre Haute (USA)
+*://*.wibqam.com/*
+
+# Erie County Times (USA)
+*://*.eriecotimes.com/*
+
+# East Montgomery Times (USA)
+*://*.eastmonttimes.com/*
