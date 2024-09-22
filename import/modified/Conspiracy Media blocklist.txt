@@ -1306,3 +1306,9 @@ occidentaldissent.com
 
 # Peak Prosperity (USA)
 peakprosperity.com
+
+# Vital Force (UK)
+vitalforce.me
+
+# Compact Magazine (Germany)
+compact-online.de

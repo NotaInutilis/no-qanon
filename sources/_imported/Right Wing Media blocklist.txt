@@ -63,7 +63,7 @@ americanallianceforequalrights.org
 # American Center for Law and Justice (USA)
 aclj.org
 
-# American Conservative Union (USA)
+# American Conservative Union / CPAC (Conservative Political Action Conference) (USA)
 conservative.org
 cpac.org
 
@@ -8262,3 +8262,21 @@ eriecotimes.com
 
 # East Montgomery Times (USA)
 eastmonttimes.com
+
+# Loomered.com (USA)
+loomered.com
+
+# Utah Standard News (USA)
+utahstandardnews.com
+
+# Decatur Daily Democrat (USA)
+decaturdailydemocrat.com
+
+# WPBG – Freedom 95.9 – Peoria (USA)
+freedom959.net
+
+# Dauphin News (USA)
+dauphinnews.com
+
+# CAClubIndia (India)
+caclubindia.com

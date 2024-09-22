@@ -4667,3 +4667,19 @@ eriecotimes.com
 
 # East Montgomery Times (USA)
 eastmonttimes.com
+
+# Loomered.com (USA)
+loomered.com
+
+# Utah Standard News (USA)
+utahstandardnews.com
+
+# COMPACT-Magazin (Germany)
+compact-online.de
+
+# American Conservative Union / CPAC (Conservative Political Action Conference) (USA)
+conservative.org
+cpac.org
+
+# Dauphin News (USA)
+dauphinnews.com

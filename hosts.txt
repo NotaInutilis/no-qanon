@@ -3330,6 +3330,8 @@
 0.0.0.0 www.cache1.rationalwiki.org
 0.0.0.0 cache2.rationalwiki.org
 0.0.0.0 www.cache2.rationalwiki.org
+0.0.0.0 caclubindia.com
+0.0.0.0 www.caclubindia.com
 0.0.0.0 cadoitsesavoir.fr
 0.0.0.0 www.cadoitsesavoir.fr
 0.0.0.0 cafehayek.com
@@ -5600,6 +5602,8 @@
 0.0.0.0 www.debunkingskeptics.com
 0.0.0.0 debusinessdaily.com
 0.0.0.0 www.debusinessdaily.com
+0.0.0.0 decaturdailydemocrat.com
+0.0.0.0 www.decaturdailydemocrat.com
 0.0.0.0 decaturtimes.com
 0.0.0.0 www.decaturtimes.com
 0.0.0.0 deccanchronicle.com
@@ -8344,6 +8348,8 @@
 0.0.0.0 www.freedom.social
 0.0.0.0 freedom1400.com
 0.0.0.0 www.freedom1400.com
+0.0.0.0 freedom959.net
+0.0.0.0 www.freedom959.net
 0.0.0.0 freedomadvocates.org
 0.0.0.0 www.freedomadvocates.org
 0.0.0.0 freedomain.com
@@ -24712,6 +24718,8 @@
 0.0.0.0 www.usviewer.com
 0.0.0.0 usviral.info
 0.0.0.0 www.usviral.info
+0.0.0.0 utahstandardnews.com
+0.0.0.0 www.utahstandardnews.com
 0.0.0.0 utahvalleytimes.com
 0.0.0.0 www.utahvalleytimes.com
 0.0.0.0 utbusinessdaily.com
@@ -25190,6 +25198,8 @@
 0.0.0.0 www.visionlaunch.minds.com
 0.0.0.0 visiontimes.com
 0.0.0.0 www.visiontimes.com
+0.0.0.0 vitalforce.me
+0.0.0.0 www.vitalforce.me
 0.0.0.0 vitamind.news
 0.0.0.0 www.vitamind.news
 0.0.0.0 vitanyiistvan.fidesz.hu
