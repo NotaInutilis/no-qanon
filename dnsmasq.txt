@@ -344,6 +344,7 @@ address=/aflds.org/
 address=/aflegal.org/
 address=/afn.net/
 address=/afpc.org/
+address=/afpost.news/
 address=/afpstore.americanfreepress.net/
 address=/africa24.info/
 address=/africanamericanconservatives.com/

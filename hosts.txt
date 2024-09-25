@@ -690,6 +690,8 @@
 0.0.0.0 www.afn.net
 0.0.0.0 afpc.org
 0.0.0.0 www.afpc.org
+0.0.0.0 afpost.news
+0.0.0.0 www.afpost.news
 0.0.0.0 afpstore.americanfreepress.net
 0.0.0.0 www.afpstore.americanfreepress.net
 0.0.0.0 africa24.info
