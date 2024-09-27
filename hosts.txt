@@ -21340,8 +21340,6 @@
 0.0.0.0 www.spokesman.com
 0.0.0.0 sportspickle.com
 0.0.0.0 www.sportspickle.com
-0.0.0.0 spotify.com
-0.0.0.0 www.spotify.com
 0.0.0.0 spreely.com
 0.0.0.0 www.spreely.com
 0.0.0.0 springfieldcitywire.com

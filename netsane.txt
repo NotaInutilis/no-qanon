@@ -10669,7 +10669,6 @@
 "*://*.spokanestandard.com/*",
 "*://*.spokesman.com/*",
 "*://*.sportspickle.com/*",
-"*://*.spotify.com/*",
 "*://*.spreely.com/*",
 "*://*.springfieldcitywire.com/*",
 "*://*.springfieldrecord.com/*",

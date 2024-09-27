@@ -10669,7 +10669,6 @@ address=/spokanecotimes.com/
 address=/spokanestandard.com/
 address=/spokesman.com/
 address=/sportspickle.com/
-address=/spotify.com/
 address=/spreely.com/
 address=/springfieldcitywire.com/
 address=/springfieldrecord.com/
