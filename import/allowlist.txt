@@ -15,3 +15,4 @@ classy.org
 crunchbase.com
 zoominfo.com
 github.com
+spotify.com
