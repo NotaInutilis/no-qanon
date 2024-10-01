@@ -12762,6 +12762,7 @@ address=/waynedupree.com/
 address=/wayneherald.org/
 address=/wbap.com/
 address=/wcalabamanews.com/
+address=/wcbm.com/
 address=/wcgeorgianews.com/
 address=/wchstv.com/
 address=/wcindiananews.com/

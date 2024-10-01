@@ -25526,6 +25526,8 @@
 0.0.0.0 www.wbap.com
 0.0.0.0 wcalabamanews.com
 0.0.0.0 www.wcalabamanews.com
+0.0.0.0 wcbm.com
+0.0.0.0 www.wcbm.com
 0.0.0.0 wcgeorgianews.com
 0.0.0.0 www.wcgeorgianews.com
 0.0.0.0 wchstv.com
