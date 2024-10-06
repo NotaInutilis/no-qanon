@@ -6674,6 +6674,8 @@
 0.0.0.0 www.edit.technews.infogalactic.com
 0.0.0.0 editions-voxgallia.fr
 0.0.0.0 www.editions-voxgallia.fr
+0.0.0.0 editionsdutoucan.fr
+0.0.0.0 www.editionsdutoucan.fr
 0.0.0.0 editionsduverbehaut.fr
 0.0.0.0 www.editionsduverbehaut.fr
 0.0.0.0 editionsmagnus.fr

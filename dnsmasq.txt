@@ -3336,6 +3336,7 @@ address=/edgeofwonder.tv/
 address=/edit.news.infogalactic.com/
 address=/edit.technews.infogalactic.com/
 address=/editions-voxgallia.fr/
+address=/editionsdutoucan.fr/
 address=/editionsduverbehaut.fr/
 address=/editionsmagnus.fr/
 address=/editorial-streicher.blogspot.com.es/

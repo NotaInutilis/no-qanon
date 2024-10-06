@@ -3336,6 +3336,7 @@
 "*://*.edit.news.infogalactic.com/*",
 "*://*.edit.technews.infogalactic.com/*",
 "*://*.editions-voxgallia.fr/*",
+"*://*.editionsdutoucan.fr/*",
 "*://*.editionsduverbehaut.fr/*",
 "*://*.editionsmagnus.fr/*",
 "*://*.editorial-streicher.blogspot.com.es/*",
