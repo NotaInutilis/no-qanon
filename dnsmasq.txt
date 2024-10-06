@@ -2136,6 +2136,7 @@ address=/climatesci.org/
 address=/climatescience.org.nz/
 address=/climatescienceinternational.org/
 address=/climatesciencenews.com/
+address=/climato-realistes.fr/
 address=/clintonnewsrecord.com/
 address=/clintonreview.com/
 address=/clivenews.com/

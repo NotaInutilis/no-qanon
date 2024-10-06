@@ -2136,6 +2136,7 @@
 *://*.climatescience.org.nz/*
 *://*.climatescienceinternational.org/*
 *://*.climatesciencenews.com/*
+*://*.climato-realistes.fr/*
 *://*.clintonnewsrecord.com/*
 *://*.clintonreview.com/*
 *://*.clivenews.com/*

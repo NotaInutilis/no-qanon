@@ -4274,6 +4274,8 @@
 0.0.0.0 www.climatescienceinternational.org
 0.0.0.0 climatesciencenews.com
 0.0.0.0 www.climatesciencenews.com
+0.0.0.0 climato-realistes.fr
+0.0.0.0 www.climato-realistes.fr
 0.0.0.0 clintonnewsrecord.com
 0.0.0.0 www.clintonnewsrecord.com
 0.0.0.0 clintonreview.com
