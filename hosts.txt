@@ -3338,6 +3338,8 @@
 0.0.0.0 www.cadoitsesavoir.fr
 0.0.0.0 cafehayek.com
 0.0.0.0 www.cafehayek.com
+0.0.0.0 cafejoyeux.com
+0.0.0.0 www.cafejoyeux.com
 0.0.0.0 cagw.org
 0.0.0.0 www.cagw.org
 0.0.0.0 caintv.com
@@ -11554,6 +11556,8 @@
 0.0.0.0 www.journeysdream.org
 0.0.0.0 joyeusesaintvalentin.net
 0.0.0.0 www.joyeusesaintvalentin.net
+0.0.0.0 joyeux.pt
+0.0.0.0 www.joyeux.pt
 0.0.0.0 joyinliberty.com
 0.0.0.0 www.joyinliberty.com
 0.0.0.0 joyu.jp

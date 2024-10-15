@@ -1672,6 +1672,7 @@
 ||caclubindia.com^
 ||cadoitsesavoir.fr^
 ||cafehayek.com^
+||cafejoyeux.com^
 ||cagw.org^
 ||caintv.com^
 ||cair.com^
@@ -5780,6 +5781,7 @@
 ||journals.uts.edu^
 ||journeysdream.org^
 ||joyeusesaintvalentin.net^
+||joyeux.pt^
 ||joyinliberty.com^
 ||joyu.jp^
 ||jp.8ch.net^
