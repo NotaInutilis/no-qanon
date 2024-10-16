@@ -8746,6 +8746,8 @@
 0.0.0.0 www.gaysagainstgroomers.ca
 0.0.0.0 gaysagainstgroomers.com
 0.0.0.0 www.gaysagainstgroomers.com
+0.0.0.0 gazasmostwanted.com
+0.0.0.0 www.gazasmostwanted.com
 0.0.0.0 gazeta.ru
 0.0.0.0 www.gazeta.ru
 0.0.0.0 gazetasocial.com
@@ -27394,6 +27396,8 @@
 0.0.0.0 www.zhuichaguoji.org
 0.0.0.0 zimm3rmann.com
 0.0.0.0 www.zimm3rmann.com
+0.0.0.0 zionmerch.com
+0.0.0.0 www.zionmerch.com
 0.0.0.0 zionutdatit.org.il
 0.0.0.0 www.zionutdatit.org.il
 0.0.0.0 zip.4chan.org

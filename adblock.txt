@@ -4376,6 +4376,7 @@
 ||gawker.com^
 ||gaysagainstgroomers.ca^
 ||gaysagainstgroomers.com^
+||gazasmostwanted.com^
 ||gazeta.ru^
 ||gazetasocial.com^
 ||gazette.com^
@@ -13700,6 +13701,7 @@
 ||zhitomir-news.ru^
 ||zhuichaguoji.org^
 ||zimm3rmann.com^
+||zionmerch.com^
 ||zionutdatit.org.il^
 ||zip.4chan.org^
 ||zllh4v-bt7mii0.bitchute.com^
