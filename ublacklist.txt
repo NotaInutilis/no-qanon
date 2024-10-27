@@ -2989,6 +2989,7 @@
 *://*.diepresse.com/*
 *://*.diest.vlaamsbelang.org/*
 *://*.dietagespresse.com/*
+*://*.dieudocube.com/*
 *://*.dieudosphere.com/*
 *://*.dieweltpresse.de/*
 *://*.digestion.news/*

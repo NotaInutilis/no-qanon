@@ -2989,6 +2989,7 @@ address=/dienekes.blogspot.com/
 address=/diepresse.com/
 address=/diest.vlaamsbelang.org/
 address=/dietagespresse.com/
+address=/dieudocube.com/
 address=/dieudosphere.com/
 address=/dieweltpresse.de/
 address=/digestion.news/
