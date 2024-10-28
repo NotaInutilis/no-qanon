@@ -18,6 +18,14 @@
 0.0.0.0 www.100jahre-fuer-den-frieden.com
 0.0.0.0 100percentfedup.com
 0.0.0.0 www.100percentfedup.com
+0.0.0.0 104.100.48.205
+0.0.0.0 www.104.100.48.205
+0.0.0.0 104.19.244.62
+0.0.0.0 www.104.19.244.62
+0.0.0.0 104.22.5.85
+0.0.0.0 www.104.22.5.85
+0.0.0.0 104.23.140.7
+0.0.0.0 www.104.23.140.7
 0.0.0.0 107daily.com
 0.0.0.0 www.107daily.com
 0.0.0.0 1080science.co.nz
@@ -100,6 +108,8 @@
 0.0.0.0 www.220-srv1.insaf.pk
 0.0.0.0 22passi.blogspot.it
 0.0.0.0 www.22passi.blogspot.it
+0.0.0.0 23.37.17.109
+0.0.0.0 www.23.37.17.109
 0.0.0.0 23.56.163.108
 0.0.0.0 www.23.56.163.108
 0.0.0.0 24heuresactu.com
@@ -142,6 +152,8 @@
 0.0.0.0 www.3.217.28.58
 0.0.0.0 3.btfsu.d.tube
 0.0.0.0 www.3.btfsu.d.tube
+0.0.0.0 34.117.28.18
+0.0.0.0 www.34.117.28.18
 0.0.0.0 365usanews.com
 0.0.0.0 www.365usanews.com
 0.0.0.0 369news.net
@@ -25308,6 +25320,8 @@
 0.0.0.0 www.votejillian.com
 0.0.0.0 voteleavetakecontrol.org
 0.0.0.0 www.voteleavetakecontrol.org
+0.0.0.0 votesafe.org
+0.0.0.0 www.votesafe.org
 0.0.0.0 votingforjesus.com
 0.0.0.0 www.votingforjesus.com
 0.0.0.0 voxday.net
