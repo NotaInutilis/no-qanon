@@ -12521,6 +12521,7 @@
 *://*.vfj.liveprayer.com/*
 *://*.vg-norra.sd.se/*
 *://*.vg-vastra.sd.se/*
+*://*.vgcats.com/*
 *://*.vgr.sd.se/*
 *://*.via-lavoiedupeuple.fr/*
 *://*.vib.nyeborgerlige.dk/*

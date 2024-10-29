@@ -25044,6 +25044,8 @@
 0.0.0.0 www.vg-norra.sd.se
 0.0.0.0 vg-vastra.sd.se
 0.0.0.0 www.vg-vastra.sd.se
+0.0.0.0 vgcats.com
+0.0.0.0 www.vgcats.com
 0.0.0.0 vgr.sd.se
 0.0.0.0 www.vgr.sd.se
 0.0.0.0 via-lavoiedupeuple.fr

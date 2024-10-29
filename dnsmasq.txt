@@ -12521,6 +12521,7 @@ address=/vfec.8ch.net/
 address=/vfj.liveprayer.com/
 address=/vg-norra.sd.se/
 address=/vg-vastra.sd.se/
+address=/vgcats.com/
 address=/vgr.sd.se/
 address=/via-lavoiedupeuple.fr/
 address=/vib.nyeborgerlige.dk/
