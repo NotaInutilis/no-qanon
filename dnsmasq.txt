@@ -11546,6 +11546,7 @@ address=/theoriedugenre.fr/
 address=/theothermccain.com/
 address=/theoxymoron.co.uk/
 address=/thepalmierireport.com/
+address=/thepatrioteagle.com/
 address=/thepatriotfactor.blogspot.com/
 address=/thepatriothour.com/
 address=/thepatriotictimes.com/

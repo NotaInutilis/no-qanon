@@ -23094,6 +23094,8 @@
 0.0.0.0 www.theoxymoron.co.uk
 0.0.0.0 thepalmierireport.com
 0.0.0.0 www.thepalmierireport.com
+0.0.0.0 thepatrioteagle.com
+0.0.0.0 www.thepatrioteagle.com
 0.0.0.0 thepatriotfactor.blogspot.com
 0.0.0.0 www.thepatriotfactor.blogspot.com
 0.0.0.0 thepatriothour.com
