@@ -9134,6 +9134,7 @@ address=/projectcamelotportal.com/
 address=/projectmatilda.net/
 address=/projecttomahawk.groovepages.com/
 address=/projectveritas.com/
+address=/prolifecampaign.ie/
 address=/prolifevoices.donaldjtrump.com/
 address=/prometheanpac.com/
 address=/promic.info/

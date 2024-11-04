@@ -18270,6 +18270,8 @@
 0.0.0.0 www.projecttomahawk.groovepages.com
 0.0.0.0 projectveritas.com
 0.0.0.0 www.projectveritas.com
+0.0.0.0 prolifecampaign.ie
+0.0.0.0 www.prolifecampaign.ie
 0.0.0.0 prolifevoices.donaldjtrump.com
 0.0.0.0 www.prolifevoices.donaldjtrump.com
 0.0.0.0 prometheanpac.com
