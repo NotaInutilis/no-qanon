@@ -4726,3 +4726,18 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Dauphin News (USA)
 *://*.dauphinnews.com/*
+
+# Lycoming News (USA)
+*://*.lycomingnews.com/*
+
+# RBC.ru (Russia)
+*://*.rbc.ru/*
+
+# SebGorka.com (USA)
+*://*.sebgorka.com/*
+
+# Monroe County News (USA)
+*://*.monroeconews.com/*
+
+# Real Not Rare (USA)
+*://*.realnotrare.com/*

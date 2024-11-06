@@ -1312,3 +1312,9 @@ vitalforce.me
 
 # Compact Magazine (Germany)
 compact-online.de
+
+# Stop World Control (USA)
+stopworldcontrol.com
+
+# Reasons to Believe - RTB (USA)
+reasons.org

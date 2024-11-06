@@ -7286,6 +7286,7 @@
 ||movcivitas.pt^
 ||mover.cis.org^
 ||movieandmusicworld.minds.com^
+||movieguide.org^
 ||mozilla.minds.com^
 ||mp-tube.de^
 ||mpcdot.com^
@@ -9393,6 +9394,7 @@
 ||rawws.com^
 ||raymondasmith.blogspot.com^
 ||rayn.bo^
+||rbc.ru^
 ||rbth.com^
 ||rbth.ru^
 ||rcc.onenation.org.au^
@@ -9401,6 +9403,7 @@
 ||rdice.net.redice.tv^
 ||rdps.leganord.org^
 ||reaconaria.org^
+||react19.org^
 ||react365.com^
 ||reaction19.fr^
 ||reactionameric.com^
@@ -9429,6 +9432,7 @@
 ||realjewnews.com^
 ||realnewsnow.com^
 ||realnewsrightnow.com^
+||realnotrare.com^
 ||realplanetnews.com^
 ||realprogress.online^
 ||realrawnews.com^
@@ -9439,6 +9443,7 @@
 ||reason.com^
 ||reason.org^
 ||reason.tv^
+||reasons.org^
 ||rebelfromthestart.com^
 ||rebelne.ws^
 ||rebelnews.com^
@@ -11042,6 +11047,7 @@
 ||swalleghenynews.com^
 ||swampdrain.com^
 ||swampfoxden.com^
+||swampmonsters.news^
 ||swarajyamag.com^
 ||swarizonanews.com^
 ||swarkansastimes.com^

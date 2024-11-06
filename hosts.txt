@@ -14566,6 +14566,8 @@
 0.0.0.0 www.mover.cis.org
 0.0.0.0 movieandmusicworld.minds.com
 0.0.0.0 www.movieandmusicworld.minds.com
+0.0.0.0 movieguide.org
+0.0.0.0 www.movieguide.org
 0.0.0.0 mozilla.minds.com
 0.0.0.0 www.mozilla.minds.com
 0.0.0.0 mp-tube.de
@@ -18780,6 +18782,8 @@
 0.0.0.0 www.raymondasmith.blogspot.com
 0.0.0.0 rayn.bo
 0.0.0.0 www.rayn.bo
+0.0.0.0 rbc.ru
+0.0.0.0 www.rbc.ru
 0.0.0.0 rbth.com
 0.0.0.0 www.rbth.com
 0.0.0.0 rbth.ru
@@ -18796,6 +18800,8 @@
 0.0.0.0 www.rdps.leganord.org
 0.0.0.0 reaconaria.org
 0.0.0.0 www.reaconaria.org
+0.0.0.0 react19.org
+0.0.0.0 www.react19.org
 0.0.0.0 react365.com
 0.0.0.0 www.react365.com
 0.0.0.0 reaction19.fr
@@ -18852,6 +18858,8 @@
 0.0.0.0 www.realnewsnow.com
 0.0.0.0 realnewsrightnow.com
 0.0.0.0 www.realnewsrightnow.com
+0.0.0.0 realnotrare.com
+0.0.0.0 www.realnotrare.com
 0.0.0.0 realplanetnews.com
 0.0.0.0 www.realplanetnews.com
 0.0.0.0 realprogress.online
@@ -18872,6 +18880,8 @@
 0.0.0.0 www.reason.org
 0.0.0.0 reason.tv
 0.0.0.0 www.reason.tv
+0.0.0.0 reasons.org
+0.0.0.0 www.reasons.org
 0.0.0.0 rebelfromthestart.com
 0.0.0.0 www.rebelfromthestart.com
 0.0.0.0 rebelne.ws
@@ -22078,6 +22088,8 @@
 0.0.0.0 www.swampdrain.com
 0.0.0.0 swampfoxden.com
 0.0.0.0 www.swampfoxden.com
+0.0.0.0 swampmonsters.news
+0.0.0.0 www.swampmonsters.news
 0.0.0.0 swarajyamag.com
 0.0.0.0 www.swarajyamag.com
 0.0.0.0 swarizonanews.com

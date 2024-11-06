@@ -8874,3 +8874,33 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # CAClubIndia (India)
 *://*.caclubindia.com/*
+
+# MovieGuide (USA)
+*://*.movieguide.org/*
+
+# Lycoming News (USA)
+*://*.lycomingnews.com/*
+
+# RBC.ru (Russia)
+*://*.rbc.ru/*
+
+# SebGorka.com (USA)
+*://*.sebgorka.com/*
+
+# React19 (USA)
+*://*.react19.org/*
+
+# Stop World Control (USA)
+*://*.stopworldcontrol.com/*
+
+# Swamp Monsters (USA)
+*://*.swampmonsters.news/*
+
+# Monroe County News (USA)
+*://*.monroeconews.com/*
+
+# Real Not Rare (USA)
+*://*.realnotrare.com/*
+
+# Reasons to Believe - RTB (USA)
+*://*.reasons.org/*
