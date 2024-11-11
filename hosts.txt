@@ -1950,6 +1950,8 @@
 0.0.0.0 www.avantnews.com
 0.0.0.0 avatars.wrongthink.net
 0.0.0.0 www.avatars.wrongthink.net
+0.0.0.0 avenirfrancais.fr
+0.0.0.0 www.avenirfrancais.fr
 0.0.0.0 avenirlyceen.fr
 0.0.0.0 www.avenirlyceen.fr
 0.0.0.0 avenoel.org

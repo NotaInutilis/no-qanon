@@ -974,6 +974,7 @@ address=/avalon.d.tube/
 address=/avalonianknight.wordpress.com/
 address=/avantnews.com/
 address=/avatars.wrongthink.net/
+address=/avenirfrancais.fr/
 address=/avenirlyceen.fr/
 address=/avenoel.org/
 address=/avesta.sd.se/

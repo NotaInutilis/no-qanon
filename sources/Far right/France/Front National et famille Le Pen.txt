@@ -9,7 +9,7 @@ generation-nation.fr
 droitepopulaire.fr
 thierrymariani.com
 gollnisch.com
-https://avenirfrancais.fr/
+avenirfrancais.fr
 
 # Élus
 gentilletavocat.fr
