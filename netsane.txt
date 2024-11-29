@@ -6515,6 +6515,7 @@
 "*://*.londonreal.tv/*",
 "*://*.londonwebnews.com/*",
 "*://*.loneconservative.com/*",
+"*://*.lonelygamedev.com/*",
 "*://*.lonestarstandard.com/*",
 "*://*.lonesto.it/*",
 "*://*.longevitysciencenews.com/*",

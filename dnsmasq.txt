@@ -6515,6 +6515,7 @@ address=/lomma.sd.se/
 address=/londonreal.tv/
 address=/londonwebnews.com/
 address=/loneconservative.com/
+address=/lonelygamedev.com/
 address=/lonestarstandard.com/
 address=/lonesto.it/
 address=/longevitysciencenews.com/
