@@ -6099,6 +6099,7 @@ address=/lagrif.fr/
 address=/laharbornews.com/
 address=/laharpeguide.com/
 address=/laholm.sd.se/
+address=/laicite-republique.org/
 address=/lain.com/
 address=/lainate.leganord.org/
 address=/lajkolj.info/
