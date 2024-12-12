@@ -537,6 +537,7 @@
 ||americancatholictribune.com^
 ||americanconservativemovement.com^
 ||americancontingency.com^
+||americandebunk.com^
 ||americanexperiment.org^
 ||americanfaith.com^
 ||americanfirearms.org^
@@ -1340,6 +1341,7 @@
 ||blackgenocide.org^
 ||blacklistednews.com^
 ||blacklistedradio.com^
+||blacklocks.ca^
 ||blackmetalcultrecords.com^
 ||blacknews.com^
 ||blackpigeonspeaks.com^
@@ -2903,6 +2905,7 @@
 ||dereckart.at^
 ||derfmagazine.com^
 ||derimot.no^
+||derstatus.at^
 ||desantisdaily.com^
 ||description:^
 ||deseret.com^
@@ -3456,6 +3459,7 @@
 ||emilia.leganord.org^
 ||emirates247.com^
 ||emmaboda.sd.se^
+||emol.com^
 ||emp.news^
 ||empireherald.com^
 ||empirenews.com^
@@ -3955,6 +3959,7 @@
 ||firstinfreedomdaily.com^
 ||firstpost.com^
 ||firststatetimes.com^
+||firststateupdate.com^
 ||firstthings.com^
 ||fishbonesblog.com^
 ||fitchratings.com^
@@ -5750,6 +5755,7 @@
 ||johnsoncitytimes.com^
 ||johnstonreporter.com^
 ||johnstontimes.com^
+||johnstossel.com^
 ||join.thecourtshipnetwork.com^
 ||join.ukip.org^
 ||joinfpc.org^
@@ -5826,6 +5832,7 @@
 ||justjoeradio.com^
 ||justonefocus.org^
 ||justpaste.it^
+||justredpill.me^
 ||justthenews.com^
 ||justtrumpit.us^
 ||jvarchive.com^
@@ -6002,6 +6009,7 @@
 ||komentarz.pis.org.pl^
 ||komikotragiko.wordpress.com^
 ||komitetwyborczy.pis.org.pl^
+||kommersant.ru^
 ||komonews.com^
 ||konflikten.dk^
 ||kongres.pis.org.pl^
@@ -6616,6 +6624,7 @@
 ||mac35.minds.com^
 ||macantogeljuara.com^
 ||macao.harrypotterexhibition.com^
+||macdonaldlaurier.ca^
 ||mackinac.org^
 ||macombdigest.com^
 ||macombtoday.com^
@@ -7087,6 +7096,7 @@
 ||michigancapitolconfidential.com^
 ||michiganfreedejurestate.us^
 ||michiganindependent.com^
+||michigannewssource.com^
 ||michoacanpost.com^
 ||microplastics.news^
 ||microsite.frc.org^
@@ -7118,6 +7128,7 @@
 ||mikeonline.com^
 ||mikhailapeterson.com^
 ||mikrotheos.blogspot.com^
+||mil.in.ua^
 ||milano.forzanuova.info^
 ||milehighsentinel.com^
 ||milei2023.com.ar^
@@ -8682,6 +8693,7 @@
 ||patriottv.americafirstpatriot.org^
 ||patriotupdate.com^
 ||patriotuproar.com^
+||patriotvoicenews.com^
 ||patriotvoices.com^
 ||patriotvotingcoalition.weebly.com^
 ||patriotx.com^
@@ -9005,6 +9017,7 @@
 ||powernewswire.com^
 ||powerpoliticians.com^
 ||poweshiekguide.com^
+||ppic.org^
 ||ppjg.me^
 ||ppnsource.com^
 ||pqdjs97henjmkchc.www.minds.com^
@@ -9508,6 +9521,7 @@
 ||referral.rumble.com^
 ||referring.buchanan.org^
 ||reformation.org^
+||reformcalifornia.org^
 ||reformedmedia.net^
 ||reformparty.org^
 ||reformparty.uk^
@@ -9667,6 +9681,7 @@
 ||ringgolddecaturnews.com^
 ||ringkoebing-skjern.danskfolkeparti.dk^
 ||ringsted.danskfolkeparti.dk^
+||riotimesonline.com^
 ||ripostelaique.com^
 ||ripuliamolitalia.altervista.org^
 ||riscattonazionale.it^
@@ -9823,6 +9838,7 @@
 ||russian.pacificjustice.org^
 ||russian.rt.com^
 ||russiatruth.co^
+||russiavsworld.org^
 ||rustyjames.canalblog.com^
 ||rusvesna.su^
 ||rutherfordtimes.com^
@@ -9881,6 +9897,7 @@
 ||samnytt.se^
 ||samorzad.pis.org.pl^
 ||samsoe.danskfolkeparti.dk^
+||samtiden.nu^
 ||samuel-warde.com^
 ||samuel.chick.com^
 ||samuel.frc.org^
@@ -11040,6 +11057,7 @@
 ||sv-trc-mail.adflegal.org^
 ||sv.metapedia.org^
 ||svalov.sd.se^
+||svd.se^
 ||sve.nyeborgerlige.dk^
 ||svedala.sd.se^
 ||svendborg.danskfolkeparti.dk^
@@ -11337,6 +11355,7 @@
 ||thecabin.net^
 ||thecancermagazine.blogspot.it^
 ||thecancunpost.com^
+||thecapitolist.com^
 ||thecareerbd.com^
 ||thecenterpath.weebly.com^
 ||thecentersquare.com^
@@ -11369,6 +11388,7 @@
 ||thecovidblog.com^
 ||thecovidworld.com^
 ||thecragandcanyon.ca^
+||thecritic.co.uk^
 ||thecrowhouse.com^
 ||thedailybell.com^
 ||thedailycitizen.com^
@@ -11381,6 +11401,7 @@
 ||thedailyworld.net^
 ||thedcgazette.com^
 ||thedcpatriot.com^
+||thedefensepost.com^
 ||thedesertreview.com^
 ||thedickinsonpress.com^
 ||thedigitalcourier.com^
@@ -11464,6 +11485,7 @@
 ||thehoodnz.com^
 ||thehornnews.com^
 ||thehoustonfreethinkers.com^
+||thehub.ca^
 ||thehumanityproject.club^
 ||theihs.org^
 ||theimaginativeconservative.org^
@@ -11479,6 +11501,7 @@
 ||theirishsentinel.com^
 ||theitem.com^
 ||thejaghunter.wordpress.com^
+||thejc.com^
 ||thejeffreylord.com^
 ||thejewishvoice.com^
 ||thekencarroll.blogspot.com^
@@ -11608,6 +11631,7 @@
 ||theqanonhub.weebly.com^
 ||theqanons.com^
 ||theqpatriothub.weebly.com^
+||thequartering.com^
 ||thequeretaropost.com^
 ||theracketreport.com^
 ||theradicaloutlook.wordpress.com^
@@ -12622,6 +12646,7 @@
 ||virtueonline.org^
 ||virtuowl.com^
 ||viruswar.fr^
+||visegrad24.com^
 ||visegradpost.com^
 ||visionary.minds.com^
 ||visionlaunch.com^
@@ -12650,6 +12675,7 @@
 ||voiceforscienceandsolidarity.substack.com^
 ||voicenews.icu^
 ||voiceofeurope.com^
+||voiceofruralamerica.com^
 ||voices.avoiceformen.com^
 ||voicesforfreedom.co.nz^
 ||volkisch-runes.blogspot.com^
@@ -12751,6 +12777,7 @@
 ||warriorswaycombatives.com^
 ||warroom.org^
 ||warroomisraw.com^
+||warsawvoice.pl^
 ||warszawa.pis.org.pl^
 ||warwickhughes.com^
 ||washingtoncoguide.com^
@@ -13268,6 +13295,7 @@
 ||wrapped.cryptopunks.app^
 ||wrathofeden.com^
 ||wrightcountyguide.com^
+||writerevolutionnews.com^
 ||wrongop.creator-spring.com^
 ||wrongop.gumroad.com^
 ||wrongthink.net^

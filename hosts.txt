@@ -1068,6 +1068,8 @@
 0.0.0.0 www.americanconservativemovement.com
 0.0.0.0 americancontingency.com
 0.0.0.0 www.americancontingency.com
+0.0.0.0 americandebunk.com
+0.0.0.0 www.americandebunk.com
 0.0.0.0 americanexperiment.org
 0.0.0.0 www.americanexperiment.org
 0.0.0.0 americanfaith.com
@@ -2674,6 +2676,8 @@
 0.0.0.0 www.blacklistednews.com
 0.0.0.0 blacklistedradio.com
 0.0.0.0 www.blacklistedradio.com
+0.0.0.0 blacklocks.ca
+0.0.0.0 www.blacklocks.ca
 0.0.0.0 blackmetalcultrecords.com
 0.0.0.0 www.blackmetalcultrecords.com
 0.0.0.0 blacknews.com
@@ -5800,6 +5804,8 @@
 0.0.0.0 www.derfmagazine.com
 0.0.0.0 derimot.no
 0.0.0.0 www.derimot.no
+0.0.0.0 derstatus.at
+0.0.0.0 www.derstatus.at
 0.0.0.0 desantisdaily.com
 0.0.0.0 www.desantisdaily.com
 0.0.0.0 description:
@@ -6906,6 +6912,8 @@
 0.0.0.0 www.emirates247.com
 0.0.0.0 emmaboda.sd.se
 0.0.0.0 www.emmaboda.sd.se
+0.0.0.0 emol.com
+0.0.0.0 www.emol.com
 0.0.0.0 emp.news
 0.0.0.0 www.emp.news
 0.0.0.0 empireherald.com
@@ -7904,6 +7912,8 @@
 0.0.0.0 www.firstpost.com
 0.0.0.0 firststatetimes.com
 0.0.0.0 www.firststatetimes.com
+0.0.0.0 firststateupdate.com
+0.0.0.0 www.firststateupdate.com
 0.0.0.0 firstthings.com
 0.0.0.0 www.firstthings.com
 0.0.0.0 fishbonesblog.com
@@ -11494,6 +11504,8 @@
 0.0.0.0 www.johnstonreporter.com
 0.0.0.0 johnstontimes.com
 0.0.0.0 www.johnstontimes.com
+0.0.0.0 johnstossel.com
+0.0.0.0 www.johnstossel.com
 0.0.0.0 join.thecourtshipnetwork.com
 0.0.0.0 www.join.thecourtshipnetwork.com
 0.0.0.0 join.ukip.org
@@ -11646,6 +11658,8 @@
 0.0.0.0 www.justonefocus.org
 0.0.0.0 justpaste.it
 0.0.0.0 www.justpaste.it
+0.0.0.0 justredpill.me
+0.0.0.0 www.justredpill.me
 0.0.0.0 justthenews.com
 0.0.0.0 www.justthenews.com
 0.0.0.0 justtrumpit.us
@@ -11998,6 +12012,8 @@
 0.0.0.0 www.komikotragiko.wordpress.com
 0.0.0.0 komitetwyborczy.pis.org.pl
 0.0.0.0 www.komitetwyborczy.pis.org.pl
+0.0.0.0 kommersant.ru
+0.0.0.0 www.kommersant.ru
 0.0.0.0 komonews.com
 0.0.0.0 www.komonews.com
 0.0.0.0 konflikten.dk
@@ -13226,6 +13242,8 @@
 0.0.0.0 www.macantogeljuara.com
 0.0.0.0 macao.harrypotterexhibition.com
 0.0.0.0 www.macao.harrypotterexhibition.com
+0.0.0.0 macdonaldlaurier.ca
+0.0.0.0 www.macdonaldlaurier.ca
 0.0.0.0 mackinac.org
 0.0.0.0 www.mackinac.org
 0.0.0.0 macombdigest.com
@@ -14168,6 +14186,8 @@
 0.0.0.0 www.michiganfreedejurestate.us
 0.0.0.0 michiganindependent.com
 0.0.0.0 www.michiganindependent.com
+0.0.0.0 michigannewssource.com
+0.0.0.0 www.michigannewssource.com
 0.0.0.0 michoacanpost.com
 0.0.0.0 www.michoacanpost.com
 0.0.0.0 microplastics.news
@@ -14230,6 +14250,8 @@
 0.0.0.0 www.mikhailapeterson.com
 0.0.0.0 mikrotheos.blogspot.com
 0.0.0.0 www.mikrotheos.blogspot.com
+0.0.0.0 mil.in.ua
+0.0.0.0 www.mil.in.ua
 0.0.0.0 milano.forzanuova.info
 0.0.0.0 www.milano.forzanuova.info
 0.0.0.0 milehighsentinel.com
@@ -17358,6 +17380,8 @@
 0.0.0.0 www.patriotupdate.com
 0.0.0.0 patriotuproar.com
 0.0.0.0 www.patriotuproar.com
+0.0.0.0 patriotvoicenews.com
+0.0.0.0 www.patriotvoicenews.com
 0.0.0.0 patriotvoices.com
 0.0.0.0 www.patriotvoices.com
 0.0.0.0 patriotvotingcoalition.weebly.com
@@ -18004,6 +18028,8 @@
 0.0.0.0 www.powerpoliticians.com
 0.0.0.0 poweshiekguide.com
 0.0.0.0 www.poweshiekguide.com
+0.0.0.0 ppic.org
+0.0.0.0 www.ppic.org
 0.0.0.0 ppjg.me
 0.0.0.0 www.ppjg.me
 0.0.0.0 ppnsource.com
@@ -19010,6 +19036,8 @@
 0.0.0.0 www.referring.buchanan.org
 0.0.0.0 reformation.org
 0.0.0.0 www.reformation.org
+0.0.0.0 reformcalifornia.org
+0.0.0.0 www.reformcalifornia.org
 0.0.0.0 reformedmedia.net
 0.0.0.0 www.reformedmedia.net
 0.0.0.0 reformparty.org
@@ -19328,6 +19356,8 @@
 0.0.0.0 www.ringkoebing-skjern.danskfolkeparti.dk
 0.0.0.0 ringsted.danskfolkeparti.dk
 0.0.0.0 www.ringsted.danskfolkeparti.dk
+0.0.0.0 riotimesonline.com
+0.0.0.0 www.riotimesonline.com
 0.0.0.0 ripostelaique.com
 0.0.0.0 www.ripostelaique.com
 0.0.0.0 ripuliamolitalia.altervista.org
@@ -19640,6 +19670,8 @@
 0.0.0.0 www.russian.rt.com
 0.0.0.0 russiatruth.co
 0.0.0.0 www.russiatruth.co
+0.0.0.0 russiavsworld.org
+0.0.0.0 www.russiavsworld.org
 0.0.0.0 rustyjames.canalblog.com
 0.0.0.0 www.rustyjames.canalblog.com
 0.0.0.0 rusvesna.su
@@ -19756,6 +19788,8 @@
 0.0.0.0 www.samorzad.pis.org.pl
 0.0.0.0 samsoe.danskfolkeparti.dk
 0.0.0.0 www.samsoe.danskfolkeparti.dk
+0.0.0.0 samtiden.nu
+0.0.0.0 www.samtiden.nu
 0.0.0.0 samuel-warde.com
 0.0.0.0 www.samuel-warde.com
 0.0.0.0 samuel.chick.com
@@ -22074,6 +22108,8 @@
 0.0.0.0 www.sv.metapedia.org
 0.0.0.0 svalov.sd.se
 0.0.0.0 www.svalov.sd.se
+0.0.0.0 svd.se
+0.0.0.0 www.svd.se
 0.0.0.0 sve.nyeborgerlige.dk
 0.0.0.0 www.sve.nyeborgerlige.dk
 0.0.0.0 svedala.sd.se
@@ -22668,6 +22704,8 @@
 0.0.0.0 www.thecancermagazine.blogspot.it
 0.0.0.0 thecancunpost.com
 0.0.0.0 www.thecancunpost.com
+0.0.0.0 thecapitolist.com
+0.0.0.0 www.thecapitolist.com
 0.0.0.0 thecareerbd.com
 0.0.0.0 www.thecareerbd.com
 0.0.0.0 thecenterpath.weebly.com
@@ -22732,6 +22770,8 @@
 0.0.0.0 www.thecovidworld.com
 0.0.0.0 thecragandcanyon.ca
 0.0.0.0 www.thecragandcanyon.ca
+0.0.0.0 thecritic.co.uk
+0.0.0.0 www.thecritic.co.uk
 0.0.0.0 thecrowhouse.com
 0.0.0.0 www.thecrowhouse.com
 0.0.0.0 thedailybell.com
@@ -22756,6 +22796,8 @@
 0.0.0.0 www.thedcgazette.com
 0.0.0.0 thedcpatriot.com
 0.0.0.0 www.thedcpatriot.com
+0.0.0.0 thedefensepost.com
+0.0.0.0 www.thedefensepost.com
 0.0.0.0 thedesertreview.com
 0.0.0.0 www.thedesertreview.com
 0.0.0.0 thedickinsonpress.com
@@ -22922,6 +22964,8 @@
 0.0.0.0 www.thehornnews.com
 0.0.0.0 thehoustonfreethinkers.com
 0.0.0.0 www.thehoustonfreethinkers.com
+0.0.0.0 thehub.ca
+0.0.0.0 www.thehub.ca
 0.0.0.0 thehumanityproject.club
 0.0.0.0 www.thehumanityproject.club
 0.0.0.0 theihs.org
@@ -22952,6 +22996,8 @@
 0.0.0.0 www.theitem.com
 0.0.0.0 thejaghunter.wordpress.com
 0.0.0.0 www.thejaghunter.wordpress.com
+0.0.0.0 thejc.com
+0.0.0.0 www.thejc.com
 0.0.0.0 thejeffreylord.com
 0.0.0.0 www.thejeffreylord.com
 0.0.0.0 thejewishvoice.com
@@ -23210,6 +23256,8 @@
 0.0.0.0 www.theqanons.com
 0.0.0.0 theqpatriothub.weebly.com
 0.0.0.0 www.theqpatriothub.weebly.com
+0.0.0.0 thequartering.com
+0.0.0.0 www.thequartering.com
 0.0.0.0 thequeretaropost.com
 0.0.0.0 www.thequeretaropost.com
 0.0.0.0 theracketreport.com
@@ -25238,6 +25286,8 @@
 0.0.0.0 www.virtuowl.com
 0.0.0.0 viruswar.fr
 0.0.0.0 www.viruswar.fr
+0.0.0.0 visegrad24.com
+0.0.0.0 www.visegrad24.com
 0.0.0.0 visegradpost.com
 0.0.0.0 www.visegradpost.com
 0.0.0.0 visionary.minds.com
@@ -25294,6 +25344,8 @@
 0.0.0.0 www.voicenews.icu
 0.0.0.0 voiceofeurope.com
 0.0.0.0 www.voiceofeurope.com
+0.0.0.0 voiceofruralamerica.com
+0.0.0.0 www.voiceofruralamerica.com
 0.0.0.0 voices.avoiceformen.com
 0.0.0.0 www.voices.avoiceformen.com
 0.0.0.0 voicesforfreedom.co.nz
@@ -25496,6 +25548,8 @@
 0.0.0.0 www.warroom.org
 0.0.0.0 warroomisraw.com
 0.0.0.0 www.warroomisraw.com
+0.0.0.0 warsawvoice.pl
+0.0.0.0 www.warsawvoice.pl
 0.0.0.0 warszawa.pis.org.pl
 0.0.0.0 www.warszawa.pis.org.pl
 0.0.0.0 warwickhughes.com
@@ -26530,6 +26584,8 @@
 0.0.0.0 www.wrathofeden.com
 0.0.0.0 wrightcountyguide.com
 0.0.0.0 www.wrightcountyguide.com
+0.0.0.0 writerevolutionnews.com
+0.0.0.0 www.writerevolutionnews.com
 0.0.0.0 wrongop.creator-spring.com
 0.0.0.0 www.wrongop.creator-spring.com
 0.0.0.0 wrongop.gumroad.com

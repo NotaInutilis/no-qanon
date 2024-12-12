@@ -4627,7 +4627,7 @@ zacatecaspost.com
 # Central Bucks Today (USA)
 centralbuckstoday.com
 
-# Business Daily (USA)
+# * Business Daily (USA)
 businessdailynetwork.com
 
 # Central Chester Today (USA)
@@ -4698,3 +4698,60 @@ monroeconews.com
 
 # Real Not Rare (USA)
 realnotrare.com
+
+# Reduxx (Canada)
+reduxx.info
+
+# North Allegheny News (USA)
+northalleghenynews.com
+
+# Citizen Watch Report - CWR (USA)
+citizenwatchreport.com
+
+# Voice of Rural America (USA)
+voiceofruralamerica.com
+
+# North Delco News (USA)
+northdelconews.com
+
+# Samnytt (Sweden)
+samnytt.se
+
+# Syrian Arab News Agency (Syria)
+sana.sy
+
+# Patriot Voice News (USA)
+patriotvoicenews.com
+
+# Samtiden (Sweden)
+samtiden.nu
+
+# North Chester Today (USA)
+northchestertoday.com
+
+# Russia vs. World (USA)
+russiavsworld.org
+
+# North Central PA Times (USA)
+ncpatimes.com
+
+# Swamp Monsters (USA)
+swampmonsters.news
+
+# Pennsylvania Record (USA)
+pennrecord.com
+
+# Der Status (Austria)
+derstatus.at
+
+# Northwest PA News (USA)
+nwpanews.com
+
+# The Burning Platform (USA)
+theburningplatform.com
+
+# The Quartering (USA)
+thequartering.com
+
+# Visegrad 24 (Poland)
+visegrad24.com

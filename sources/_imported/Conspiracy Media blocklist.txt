@@ -1318,3 +1318,9 @@ stopworldcontrol.com
 
 # Reasons to Believe - RTB (USA)
 reasons.org
+
+# JouWatch (Germany)
+journalistenwatch.com
+
+# Uncut-News (Switzerland)
+uncutnews.ch

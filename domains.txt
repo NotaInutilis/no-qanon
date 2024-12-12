@@ -533,6 +533,7 @@ americanborderpatrol.com
 americancatholictribune.com
 americanconservativemovement.com
 americancontingency.com
+americandebunk.com
 americanexperiment.org
 americanfaith.com
 americanfirearms.org
@@ -1336,6 +1337,7 @@ blackeyepolitics.com
 blackgenocide.org
 blacklistednews.com
 blacklistedradio.com
+blacklocks.ca
 blackmetalcultrecords.com
 blacknews.com
 blackpigeonspeaks.com
@@ -2899,6 +2901,7 @@ derdeweg.blogspot.com
 dereckart.at
 derfmagazine.com
 derimot.no
+derstatus.at
 desantisdaily.com
 description:
 deseret.com
@@ -3452,6 +3455,7 @@ emfacts.com
 emilia.leganord.org
 emirates247.com
 emmaboda.sd.se
+emol.com
 emp.news
 empireherald.com
 empirenews.com
@@ -3951,6 +3955,7 @@ first-video.net
 firstinfreedomdaily.com
 firstpost.com
 firststatetimes.com
+firststateupdate.com
 firstthings.com
 fishbonesblog.com
 fitchratings.com
@@ -5746,6 +5751,7 @@ johnplatinumgoss.com
 johnsoncitytimes.com
 johnstonreporter.com
 johnstontimes.com
+johnstossel.com
 join.thecourtshipnetwork.com
 join.ukip.org
 joinfpc.org
@@ -5822,6 +5828,7 @@ justinformednews.com
 justjoeradio.com
 justonefocus.org
 justpaste.it
+justredpill.me
 justthenews.com
 justtrumpit.us
 jvarchive.com
@@ -5998,6 +6005,7 @@ kolyma.org
 komentarz.pis.org.pl
 komikotragiko.wordpress.com
 komitetwyborczy.pis.org.pl
+kommersant.ru
 komonews.com
 konflikten.dk
 kongres.pis.org.pl
@@ -6612,6 +6620,7 @@ mabusinessdaily.com
 mac35.minds.com
 macantogeljuara.com
 macao.harrypotterexhibition.com
+macdonaldlaurier.ca
 mackinac.org
 macombdigest.com
 macombtoday.com
@@ -7083,6 +7092,7 @@ michelmaffesoli.org
 michigancapitolconfidential.com
 michiganfreedejurestate.us
 michiganindependent.com
+michigannewssource.com
 michoacanpost.com
 microplastics.news
 microsite.frc.org
@@ -7114,6 +7124,7 @@ mikehulme.org
 mikeonline.com
 mikhailapeterson.com
 mikrotheos.blogspot.com
+mil.in.ua
 milano.forzanuova.info
 milehighsentinel.com
 milei2023.com.ar
@@ -8678,6 +8689,7 @@ patriotssoapbox.com
 patriottv.americafirstpatriot.org
 patriotupdate.com
 patriotuproar.com
+patriotvoicenews.com
 patriotvoices.com
 patriotvotingcoalition.weebly.com
 patriotx.com
@@ -9001,6 +9013,7 @@ powerlineblog.com
 powernewswire.com
 powerpoliticians.com
 poweshiekguide.com
+ppic.org
 ppjg.me
 ppnsource.com
 pqdjs97henjmkchc.www.minds.com
@@ -9504,6 +9517,7 @@ referral.dlive.tv
 referral.rumble.com
 referring.buchanan.org
 reformation.org
+reformcalifornia.org
 reformedmedia.net
 reformparty.org
 reformparty.uk
@@ -9663,6 +9677,7 @@ ring.fr
 ringgolddecaturnews.com
 ringkoebing-skjern.danskfolkeparti.dk
 ringsted.danskfolkeparti.dk
+riotimesonline.com
 ripostelaique.com
 ripuliamolitalia.altervista.org
 riscattonazionale.it
@@ -9819,6 +9834,7 @@ russia.tv
 russian.pacificjustice.org
 russian.rt.com
 russiatruth.co
+russiavsworld.org
 rustyjames.canalblog.com
 rusvesna.su
 rutherfordtimes.com
@@ -9877,6 +9893,7 @@ samakki.com
 samnytt.se
 samorzad.pis.org.pl
 samsoe.danskfolkeparti.dk
+samtiden.nu
 samuel-warde.com
 samuel.chick.com
 samuel.frc.org
@@ -11036,6 +11053,7 @@ sustainablepulse.com
 sv-trc-mail.adflegal.org
 sv.metapedia.org
 svalov.sd.se
+svd.se
 sve.nyeborgerlige.dk
 svedala.sd.se
 svendborg.danskfolkeparti.dk
@@ -11333,6 +11351,7 @@ theburningplatform.com
 thecabin.net
 thecancermagazine.blogspot.it
 thecancunpost.com
+thecapitolist.com
 thecareerbd.com
 thecenterpath.weebly.com
 thecentersquare.com
@@ -11365,6 +11384,7 @@ thecourtshipnetwork.com
 thecovidblog.com
 thecovidworld.com
 thecragandcanyon.ca
+thecritic.co.uk
 thecrowhouse.com
 thedailybell.com
 thedailycitizen.com
@@ -11377,6 +11397,7 @@ thedailysheeple.com
 thedailyworld.net
 thedcgazette.com
 thedcpatriot.com
+thedefensepost.com
 thedesertreview.com
 thedickinsonpress.com
 thedigitalcourier.com
@@ -11460,6 +11481,7 @@ thehonestpatriot.net
 thehoodnz.com
 thehornnews.com
 thehoustonfreethinkers.com
+thehub.ca
 thehumanityproject.club
 theihs.org
 theimaginativeconservative.org
@@ -11475,6 +11497,7 @@ theiowastar.com
 theirishsentinel.com
 theitem.com
 thejaghunter.wordpress.com
+thejc.com
 thejeffreylord.com
 thejewishvoice.com
 thekencarroll.blogspot.com
@@ -11604,6 +11627,7 @@ thepuristonline.com
 theqanonhub.weebly.com
 theqanons.com
 theqpatriothub.weebly.com
+thequartering.com
 thequeretaropost.com
 theracketreport.com
 theradicaloutlook.wordpress.com
@@ -12618,6 +12642,7 @@ virtualshield.com
 virtueonline.org
 virtuowl.com
 viruswar.fr
+visegrad24.com
 visegradpost.com
 visionary.minds.com
 visionlaunch.com
@@ -12646,6 +12671,7 @@ voiceforscienceandsolidarity.org
 voiceforscienceandsolidarity.substack.com
 voicenews.icu
 voiceofeurope.com
+voiceofruralamerica.com
 voices.avoiceformen.com
 voicesforfreedom.co.nz
 volkisch-runes.blogspot.com
@@ -12747,6 +12773,7 @@ warriorcode.us
 warriorswaycombatives.com
 warroom.org
 warroomisraw.com
+warsawvoice.pl
 warszawa.pis.org.pl
 warwickhughes.com
 washingtoncoguide.com
@@ -13264,6 +13291,7 @@ wr.lc.org
 wrapped.cryptopunks.app
 wrathofeden.com
 wrightcountyguide.com
+writerevolutionnews.com
 wrongop.creator-spring.com
 wrongop.gumroad.com
 wrongthink.net
