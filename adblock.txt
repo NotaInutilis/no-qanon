@@ -322,14 +322,17 @@
 ||afd-bw.de^
 ||afd-dithmarschen.de^
 ||afd-flensburg-schleswig.de^
+||afd-fraktion-bw.de^
 ||afd-fraktion-hamburg.de^
 ||afd-fraktion.nrw^
 ||afd-hessen.de^
 ||afd-hzgt-lauenburg.de^
 ||afd-luebeck.de^
+||afd-muenchen.de^
 ||afd-mv.de^
 ||afd-neumuenster.de^
 ||afd-nordfriesland.de^
+||afd-oberbayern.de^
 ||afd-ostholstein.de^
 ||afd-pinneberg.de^
 ||afd-ploen.de^
@@ -344,6 +347,7 @@
 ||afdbayern.de^
 ||afdbundestag.de^
 ||afdfraktion-lsa.de^
+||afdkompakt.de^
 ||afdsachsen.de^
 ||affes.wordpress.com^
 ||affiliate.healthrangerstore.com^
@@ -356,6 +360,7 @@
 ||afpc.org^
 ||afpost.news^
 ||afpstore.americanfreepress.net^
+||afr.com^
 ||africa24.info^
 ||africanamericanconservatives.com^
 ||africancrisis.info^
@@ -1527,6 +1532,7 @@
 ||breakingnews247.net^
 ||breakingnewsdigest.com^
 ||breakingviewsnz.blogspot.com^
+||breakingwide.com^
 ||breaknotizie.com^
 ||breakpoint.org^
 ||breakthrough.news^
@@ -2810,6 +2816,7 @@
 ||de.sott.net^
 ||deadlinelive.info^
 ||deadlyclear.wordpress.com^
+||deadstate.org^
 ||deals.breitbart.com^
 ||deathondemand.com^
 ||debka.com^
@@ -3651,6 +3658,7 @@
 ||eugenics.news^
 ||eunmask.wordpress.com^
 ||eurasia.upf.org^
+||eurasiantimes.com^
 ||eurocalifat.wordpress.com^
 ||eurofolkradio.com^
 ||euronat.org^
@@ -7398,6 +7406,7 @@
 ||mytwinflamejourney.com^
 ||mywillaustralia.com^
 ||myzonetoday.com^
+||n-tv.de^
 ||n4mation.org^
 ||na246.insaf.pk^
 ||nabchelny-news.ru^
@@ -9785,6 +9794,7 @@
 ||roxytube.com^
 ||royal---rumble.com^
 ||royal--rumble.com^
+||rp-online.de^
 ||rr-bb.com^
 ||rr-conspiracy-truth.blogspot.com^
 ||rrdailyherald.com^
@@ -10008,6 +10018,7 @@
 ||scoklahomanews.com^
 ||scoperatings.com^
 ||scottadamssays.com^
+||scottishdailyexpress.co.uk^
 ||scottishnationalistsociety.com^
 ||scottishnationalistsociety.wordpress.com^
 ||scpanews.com^
@@ -10846,6 +10857,7 @@
 ||stg.dlive.tv^
 ||stg.infowars.com^
 ||stgeorgegazette.com^
+||stgeorgeutah.com^
 ||stgeorgewest.blogspot.com^
 ||stichtsevecht.pvv.nl^
 ||stickermule.com^
@@ -10917,11 +10929,14 @@
 ||stpaulreporter.com^
 ||stpetestandard.com^
 ||str.nyeborgerlige.dk^
+||str.org^
 ||strafattiquotidiani.wordpress.com^
 ||straffordnews.com^
 ||straightlinelogic.com^
 ||straightstoned.com^
 ||straitstimes.com^
+||strana.news^
+||strangesounds.org^
 ||strangnas.sd.se^
 ||strategic-culture.org^
 ||strategic-culture.su^
@@ -11038,6 +11053,7 @@
 ||surahammar.sd.se^
 ||sureitworks.minds.com^
 ||surfacestations.org^
+||surinenglish.com^
 ||surprisejournal.com^
 ||surrealscoop.com^
 ||surrey.ukip.org^
@@ -11158,6 +11174,7 @@
 ||talknetwork.com^
 ||talkradio.co.uk^
 ||talksos.com^
+||tallahasseereports.com^
 ||tallahasseesun.com^
 ||tallaiandras.fidesz.hu^
 ||tallasseetribune.com^
@@ -11171,6 +11188,7 @@
 ||tankerenemymeteo.blogspot.it^
 ||tanum.sd.se^
 ||tanveerahmed.com.au^
+||taphaps.com^
 ||tapintothetruth.com^
 ||tapnewswire.com^
 ||tapwater.news^
@@ -11692,6 +11710,7 @@
 ||thestreet.com^
 ||thesudburystar.com^
 ||thesun.co.uk^
+||thesun.ng^
 ||thesuntimes.com^
 ||thesurvivalistblog.net^
 ||thetattyjournal.org^

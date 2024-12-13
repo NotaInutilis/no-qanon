@@ -638,6 +638,8 @@
 0.0.0.0 www.afd-dithmarschen.de
 0.0.0.0 afd-flensburg-schleswig.de
 0.0.0.0 www.afd-flensburg-schleswig.de
+0.0.0.0 afd-fraktion-bw.de
+0.0.0.0 www.afd-fraktion-bw.de
 0.0.0.0 afd-fraktion-hamburg.de
 0.0.0.0 www.afd-fraktion-hamburg.de
 0.0.0.0 afd-fraktion.nrw
@@ -648,12 +650,16 @@
 0.0.0.0 www.afd-hzgt-lauenburg.de
 0.0.0.0 afd-luebeck.de
 0.0.0.0 www.afd-luebeck.de
+0.0.0.0 afd-muenchen.de
+0.0.0.0 www.afd-muenchen.de
 0.0.0.0 afd-mv.de
 0.0.0.0 www.afd-mv.de
 0.0.0.0 afd-neumuenster.de
 0.0.0.0 www.afd-neumuenster.de
 0.0.0.0 afd-nordfriesland.de
 0.0.0.0 www.afd-nordfriesland.de
+0.0.0.0 afd-oberbayern.de
+0.0.0.0 www.afd-oberbayern.de
 0.0.0.0 afd-ostholstein.de
 0.0.0.0 www.afd-ostholstein.de
 0.0.0.0 afd-pinneberg.de
@@ -682,6 +688,8 @@
 0.0.0.0 www.afdbundestag.de
 0.0.0.0 afdfraktion-lsa.de
 0.0.0.0 www.afdfraktion-lsa.de
+0.0.0.0 afdkompakt.de
+0.0.0.0 www.afdkompakt.de
 0.0.0.0 afdsachsen.de
 0.0.0.0 www.afdsachsen.de
 0.0.0.0 affes.wordpress.com
@@ -706,6 +714,8 @@
 0.0.0.0 www.afpost.news
 0.0.0.0 afpstore.americanfreepress.net
 0.0.0.0 www.afpstore.americanfreepress.net
+0.0.0.0 afr.com
+0.0.0.0 www.afr.com
 0.0.0.0 africa24.info
 0.0.0.0 www.africa24.info
 0.0.0.0 africanamericanconservatives.com
@@ -3048,6 +3058,8 @@
 0.0.0.0 www.breakingnewsdigest.com
 0.0.0.0 breakingviewsnz.blogspot.com
 0.0.0.0 www.breakingviewsnz.blogspot.com
+0.0.0.0 breakingwide.com
+0.0.0.0 www.breakingwide.com
 0.0.0.0 breaknotizie.com
 0.0.0.0 www.breaknotizie.com
 0.0.0.0 breakpoint.org
@@ -5614,6 +5626,8 @@
 0.0.0.0 www.deadlinelive.info
 0.0.0.0 deadlyclear.wordpress.com
 0.0.0.0 www.deadlyclear.wordpress.com
+0.0.0.0 deadstate.org
+0.0.0.0 www.deadstate.org
 0.0.0.0 deals.breitbart.com
 0.0.0.0 www.deals.breitbart.com
 0.0.0.0 deathondemand.com
@@ -7296,6 +7310,8 @@
 0.0.0.0 www.eunmask.wordpress.com
 0.0.0.0 eurasia.upf.org
 0.0.0.0 www.eurasia.upf.org
+0.0.0.0 eurasiantimes.com
+0.0.0.0 www.eurasiantimes.com
 0.0.0.0 eurocalifat.wordpress.com
 0.0.0.0 www.eurocalifat.wordpress.com
 0.0.0.0 eurofolkradio.com
@@ -14790,6 +14806,8 @@
 0.0.0.0 www.mywillaustralia.com
 0.0.0.0 myzonetoday.com
 0.0.0.0 www.myzonetoday.com
+0.0.0.0 n-tv.de
+0.0.0.0 www.n-tv.de
 0.0.0.0 n4mation.org
 0.0.0.0 www.n4mation.org
 0.0.0.0 na246.insaf.pk
@@ -19564,6 +19582,8 @@
 0.0.0.0 www.royal---rumble.com
 0.0.0.0 royal--rumble.com
 0.0.0.0 www.royal--rumble.com
+0.0.0.0 rp-online.de
+0.0.0.0 www.rp-online.de
 0.0.0.0 rr-bb.com
 0.0.0.0 www.rr-bb.com
 0.0.0.0 rr-conspiracy-truth.blogspot.com
@@ -20010,6 +20030,8 @@
 0.0.0.0 www.scoperatings.com
 0.0.0.0 scottadamssays.com
 0.0.0.0 www.scottadamssays.com
+0.0.0.0 scottishdailyexpress.co.uk
+0.0.0.0 www.scottishdailyexpress.co.uk
 0.0.0.0 scottishnationalistsociety.com
 0.0.0.0 www.scottishnationalistsociety.com
 0.0.0.0 scottishnationalistsociety.wordpress.com
@@ -21686,6 +21708,8 @@
 0.0.0.0 www.stg.infowars.com
 0.0.0.0 stgeorgegazette.com
 0.0.0.0 www.stgeorgegazette.com
+0.0.0.0 stgeorgeutah.com
+0.0.0.0 www.stgeorgeutah.com
 0.0.0.0 stgeorgewest.blogspot.com
 0.0.0.0 www.stgeorgewest.blogspot.com
 0.0.0.0 stichtsevecht.pvv.nl
@@ -21828,6 +21852,8 @@
 0.0.0.0 www.stpetestandard.com
 0.0.0.0 str.nyeborgerlige.dk
 0.0.0.0 www.str.nyeborgerlige.dk
+0.0.0.0 str.org
+0.0.0.0 www.str.org
 0.0.0.0 strafattiquotidiani.wordpress.com
 0.0.0.0 www.strafattiquotidiani.wordpress.com
 0.0.0.0 straffordnews.com
@@ -21838,6 +21864,10 @@
 0.0.0.0 www.straightstoned.com
 0.0.0.0 straitstimes.com
 0.0.0.0 www.straitstimes.com
+0.0.0.0 strana.news
+0.0.0.0 www.strana.news
+0.0.0.0 strangesounds.org
+0.0.0.0 www.strangesounds.org
 0.0.0.0 strangnas.sd.se
 0.0.0.0 www.strangnas.sd.se
 0.0.0.0 strategic-culture.org
@@ -22070,6 +22100,8 @@
 0.0.0.0 www.sureitworks.minds.com
 0.0.0.0 surfacestations.org
 0.0.0.0 www.surfacestations.org
+0.0.0.0 surinenglish.com
+0.0.0.0 www.surinenglish.com
 0.0.0.0 surprisejournal.com
 0.0.0.0 www.surprisejournal.com
 0.0.0.0 surrealscoop.com
@@ -22310,6 +22342,8 @@
 0.0.0.0 www.talkradio.co.uk
 0.0.0.0 talksos.com
 0.0.0.0 www.talksos.com
+0.0.0.0 tallahasseereports.com
+0.0.0.0 www.tallahasseereports.com
 0.0.0.0 tallahasseesun.com
 0.0.0.0 www.tallahasseesun.com
 0.0.0.0 tallaiandras.fidesz.hu
@@ -22336,6 +22370,8 @@
 0.0.0.0 www.tanum.sd.se
 0.0.0.0 tanveerahmed.com.au
 0.0.0.0 www.tanveerahmed.com.au
+0.0.0.0 taphaps.com
+0.0.0.0 www.taphaps.com
 0.0.0.0 tapintothetruth.com
 0.0.0.0 www.tapintothetruth.com
 0.0.0.0 tapnewswire.com
@@ -23378,6 +23414,8 @@
 0.0.0.0 www.thesudburystar.com
 0.0.0.0 thesun.co.uk
 0.0.0.0 www.thesun.co.uk
+0.0.0.0 thesun.ng
+0.0.0.0 www.thesun.ng
 0.0.0.0 thesuntimes.com
 0.0.0.0 www.thesuntimes.com
 0.0.0.0 thesurvivalistblog.net

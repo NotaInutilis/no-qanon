@@ -1324,3 +1324,12 @@ journalistenwatch.com
 
 # Uncut-News (Switzerland)
 uncutnews.ch
+
+# SarahWestall.com (USA)
+sarahwestall.com
+
+# Strange Sounds (USA)
+strangesounds.org
+
+# Steve Quayle - stevequayle.com (USA)
+stevequayle.com

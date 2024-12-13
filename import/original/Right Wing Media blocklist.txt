@@ -8410,6 +8410,10 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.afd-fraktion-hamburg.de/*
 *://*.afd-thueringen.de/*
 *://*.alternative-rlp.de/*
+*://*.afd-oberbayern.de/*
+*://*.afd-muenchen.de/*
+*://*.afdkompakt.de/*
+*://*.afd-fraktion-bw.de/*
 
 # KFGO – 790 AM – Fargo
 *://*.twitter.com/790KFGO*
@@ -8922,3 +8926,79 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Visegrad 24 (Poland)
 *://*.visegrad24.com/*
+
+# North Lancaster News (USA)
+*://*.northlancasternews.com/*
+
+# EurAsian Times (India)
+*://*.eurasiantimes.com/*
+
+# N-tv (Germany)
+*://*.n-tv.de/*
+
+# Students For Liberty - SFL (USA)
+*://*.studentsforliberty.org/*
+
+# DeadState (USA)
+*://*.facebook.com/deadstate.org*
+*://*.deadstate.org/*
+
+# Scottish Daily Express (UK)
+*://*.scottishdailyexpress.co.uk/*
+
+# Save Us Now - SUN (UK)
+*://*.saveusnow.org.uk/*
+
+# Rheinische Post (Germany)
+*://*.rp-online.de/*
+
+# Strange Sounds (USA)
+*://*.strangesounds.org/*
+
+# SarahWestall.com (USA)
+*://*.sarahwestall.com/*
+
+# Tallahassee Reports (USA)
+*://*.tallahasseereports.com/*
+
+# St. George News (USA)
+*://*.stgeorgeutah.com/*
+
+# Stand to Reason (USA)
+*://*.str.org/*
+
+# Steve Quayle - stevequayle.com (USA)
+*://*.stevequayle.com/*
+
+# The Australian Financial Review (Australia)
+*://*.afr.com/*
+
+# SUR In English (Spain)
+*://*.surinenglish.com/*
+
+# The Sun - Nigeria (Nigeria)
+*://*.thesun.ng/*
+
+# Strana (Ukraine)
+*://*.strana.news/*
+
+# Tap Haps (USA)
+*://*.taphaps.com/*
+
+# Center for Immigration Studies - CIS (USA)
+*://*.cis.org/*
+
+# Northhampton News (USA)
+*://*.northhamptonnews.com/*
+
+# Northern Tier News (USA)
+*://*.northerntiernews.com/*
+
+# North Pocono News (USA)
+*://*.northpocononews.com/*
+
+# Boulder Leader (USA)
+*://*.boulderleader.com/*
+
+# Breaking Wide (Unknown)
+*://*.breakingwide.com/*

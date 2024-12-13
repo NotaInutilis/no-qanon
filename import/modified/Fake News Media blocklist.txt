@@ -4755,3 +4755,32 @@ thequartering.com
 
 # Visegrad 24 (Poland)
 visegrad24.com
+
+# North Lancaster News (USA)
+northlancasternews.com
+
+# Save Us Now - SUN (UK)
+saveusnow.org.uk
+
+# Tap Haps (USA)
+taphaps.com
+
+# Center for Immigration Studies - CIS (USA)
+cis.org
+
+# Northhampton News (USA)
+northhamptonnews.com
+
+# Northern Tier News (USA)
+northerntiernews.com
+
+# North Pocono News (USA)
+northpocononews.com
+
+# Bossip (USA)
+
+# Boulder Leader (USA)
+boulderleader.com
+
+# Breaking Wide (Unknown)
+breakingwide.com
