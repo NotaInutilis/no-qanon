@@ -178,6 +178,8 @@
 0.0.0.0 www.440.co.il
 0.0.0.0 44vilainesfilles.weebly.com
 0.0.0.0 www.44vilainesfilles.weebly.com
+0.0.0.0 45books.com
+0.0.0.0 www.45books.com
 0.0.0.0 45office.com
 0.0.0.0 www.45office.com
 0.0.0.0 4archive.org
@@ -280,6 +282,8 @@
 0.0.0.0 www.8kun.top
 0.0.0.0 8stealth.com
 0.0.0.0 www.8stealth.com
+0.0.0.0 911babies.com
+0.0.0.0 www.911babies.com
 0.0.0.0 911freefall.com
 0.0.0.0 www.911freefall.com
 0.0.0.0 911research.wtc7.net
@@ -8950,6 +8954,8 @@
 0.0.0.0 www.getreligion.org
 0.0.0.0 gettr.com
 0.0.0.0 www.gettr.com
+0.0.0.0 gettrumpfragrances.com
+0.0.0.0 www.gettrumpfragrances.com
 0.0.0.0 gewoon-nieuws.nl
 0.0.0.0 www.gewoon-nieuws.nl
 0.0.0.0 gez.diefreiheit.org
