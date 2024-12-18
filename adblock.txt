@@ -17,12 +17,15 @@
 ||104.22.5.85^
 ||104.23.140.7^
 ||107daily.com^
+||108.160.158.67^
 ||1080science.co.nz^
 ||10news.one^
 ||12160.info^
 ||1290wlby.com^
 ||13wham.com^
+||149.248.8.133^
 ||1490wosh.com^
+||152.70.156.4^
 ||159.203.150.217^
 ||15mfinance.com^
 ||163.com^
@@ -36,6 +39,12 @@
 ||17plus.weebly.com^
 ||1819news.com^
 ||1819news.shop^
+||185.169.155.233^
+||185.214.152.172^
+||185.214.152.189^
+||185.214.152.254^
+||194.190.139.3^
+||199.85.210.82^
 ||19fortyfive.com^
 ||19vierundachtzig.com^
 ||1eclaireur.wordpress.com^
@@ -46,6 +55,7 @@
 ||1tv.com^
 ||1tv.ru^
 ||2.btfsu.d.tube^
+||2001:19f0:6000:9d4b:5400:5ff:fe14:9794^
 ||2012portal.blogspot.com^
 ||2012un-nouveau-paradigme.com^
 ||2015.cap.fidesz.hu^
@@ -80,6 +90,8 @@
 ||3.217.28.58^
 ||3.btfsu.d.tube^
 ||34.117.28.18^
+||35.196.136.19^
+||35.209.165.27^
 ||365usanews.com^
 ||369news.net^
 ||38defense.crew38.com^
@@ -92,6 +104,7 @@
 ||4.btfsu.d.tube^
 ||440.co.il^
 ||44vilainesfilles.weebly.com^
+||45.79.69.173^
 ||45books.com^
 ||45office.com^
 ||4archive.org^
@@ -144,6 +157,7 @@
 ||8kun.net^
 ||8kun.top^
 ||8stealth.com^
+||91.215.41.4^
 ||911babies.com^
 ||911freefall.com^
 ||911research.wtc7.net^
@@ -310,6 +324,7 @@
 ||advance-australia.com.au^
 ||advancedliving.com^
 ||advancedmedicine.com^
+||advancinglibertypac.com^
 ||adventskalender.danskfolkeparti.dk^
 ||advertising.minds.com^
 ||ae911truth.org^
@@ -821,6 +836,7 @@
 ||arkhaven.com^
 ||arkhavencomics.com^
 ||arktos.com^
+||armedcitizenproject.org^
 ||armedcitizensnetwork.org^
 ||armedforces.press^
 ||armee-de-terre.career-inspiration.com^
@@ -2203,6 +2219,7 @@
 ||cod.rep.de^
 ||code-reinho.myspreadshop.fr^
 ||code.gab.com^
+||coderedpolitics.com^
 ||codetoinspire.minds.com^
 ||codias.com^
 ||codoh.com^
@@ -2319,6 +2336,7 @@
 ||conservativechoicecampaign.com^
 ||conservativedailynews.com^
 ||conservativedailypost.com^
+||conservativedonations.com^
 ||conservativefighters.com^
 ||conservativefiringline.com^
 ||conservativefreepress.com^
@@ -2332,6 +2350,7 @@
 ||conservativeinstitute.org^
 ||conservativematrix.com^
 ||conservativemedia.com^
+||conservativeopinions.com^
 ||conservativeoutfitters.com^
 ||conservativepapers.com^
 ||conservativeplaylist.com^
@@ -2355,6 +2374,7 @@
 ||conspiracysynergy.com^
 ||conspiracywire.com^
 ||constative.com^
+||constitutionalcrisisnews.com^
 ||constitutionstatenews.com^
 ||consumerwellness.org^
 ||contact.ruralsurvival.info^
@@ -3212,6 +3232,7 @@
 ||droitededemain.fr^
 ||droitepopulaire.fr^
 ||droitesociale.fr^
+||dronepilotspac.com^
 ||drop.space^
 ||dropatlanticbreezeline.com^
 ||dropbreezelineohio.com^
@@ -3272,6 +3293,7 @@
 ||earlybulletins.news^
 ||earth-matters.nl^
 ||earthclinic.com^
+||earthreminder.com^
 ||eastalamedanews.com^
 ||eastarapahoenews.com^
 ||eastarizonanews.com^
@@ -3595,6 +3617,7 @@
 ||epost.vlaamsbelang.org^
 ||epp.fidesz.hu^
 ||eppc.org^
+||equalgunrights.com^
 ||equalhealth.nz^
 ||equalitystatenews.com^
 ||equip.afa.net^
@@ -3739,6 +3762,7 @@
 ||expressen.se^
 ||expresszeitung.com^
 ||extinction.news^
+||extrabiblical.com^
 ||extraclubmagazine.com^
 ||extraterrestre-ovni.blogspot.fr^
 ||extremblog.com^
@@ -3996,6 +4020,7 @@
 ||floridadaily.com^
 ||floridajolt.com^
 ||floridaparishnews.com^
+||floridaseastcoastvoice.com^
 ||floridasunpost.com^
 ||flote.app^
 ||floydvalleyguide.com^
@@ -4220,6 +4245,8 @@
 ||freedomdefense.typepad.com^
 ||freedomfirstnetwork.com^
 ||freedomforall.online^
+||freedomforallpac.org^
+||freedomforamerica.com^
 ||freedomforce.live^
 ||freedomforceinternational.com^
 ||freedomforceinternational.org^
@@ -4244,6 +4271,8 @@
 ||freenz.org^
 ||freeondarevolution.blogspot.it^
 ||freepatriot.org^
+||freepressers.org^
+||freepressfoundation.org^
 ||freeredpill.com^
 ||freerepublic.com^
 ||freesoftwareextremist.com^
@@ -4759,6 +4788,7 @@
 ||gundrymd.com^
 ||gunowners.org^
 ||guns.com^
+||gunsandgod.com^
 ||gunsternews.com^
 ||gussago.leganord.org^
 ||guthriecountyguide.com^
@@ -4873,6 +4903,7 @@
 ||hb.nyeborgerlige.dk^
 ||hbdchick.wordpress.com^
 ||hbrs.no^
+||hcconservatives.com^
 ||hde.nyeborgerlige.dk^
 ||headlineusa.com^
 ||headtopics.com^
@@ -6665,6 +6696,7 @@
 ||magainfo.tv^
 ||maganews.co^
 ||magapac.com^
+||magawomen.org^
 ||magazin2000plus.de^
 ||magazine-du-net.com^
 ||magentapixie.com^
@@ -7065,6 +7097,7 @@
 ||metododibella.org^
 ||metricmedianews.com^
 ||metrobusinessnetwork.com^
+||metrocoronaviruscleaning.com^
 ||metroeastsun.com^
 ||metroeasttoday.com^
 ||metrolexnews.com^
@@ -7150,6 +7183,7 @@
 ||miljobs.ch^
 ||millionmarch4children.squarespace.com^
 ||milliyet.com.tr^
+||millsforflorida.com^
 ||millsfremontnews.com^
 ||milo.net^
 ||miltonvaleguide.com^
@@ -8350,6 +8384,7 @@
 ||oh.childrenshealthdefense.org^
 ||ohbusinessdaily.com^
 ||ohio.nsm88.org^
+||ohiocitizenspac.org^
 ||ohioindependent.com^
 ||ohiovalleytimes.com^
 ||ohseven.8ch.net^
@@ -8665,8 +8700,11 @@
 ||patriactionary.wordpress.com^
 ||patrianossa.wordpress.com^
 ||patrickdhampton.net^
+||patriot-card.com^
 ||patriot-foundation.com^
+||patriot-sticker.com^
 ||patriot.tv^
+||patriotbadges.org^
 ||patriotchronicle.com^
 ||patriotcoalition.com^
 ||patriotcoalition.org^
@@ -8696,6 +8734,8 @@
 ||patriotpulse.net^
 ||patriotq.com^
 ||patriotrising.com^
+||patriots-courage.com^
+||patriots-victory.com^
 ||patriots.win^
 ||patriots4truth.org^
 ||patriotsarise.com^
@@ -8929,6 +8969,7 @@
 ||politicalgarbagechute.com^
 ||politicalite.com^
 ||politicalo.com^
+||politicalrefund.com^
 ||politicalreviewer.com^
 ||politicalsitenews.com^
 ||politicaltracker.com^
@@ -9441,6 +9482,7 @@
 ||readersdigest.de^
 ||readynutrition.com^
 ||reagancoalition.com^
+||real-trumpcoins.com^
 ||realchrissky.com^
 ||realcleardefense.com^
 ||realclearinvestigations.com^
@@ -9462,6 +9504,7 @@
 ||realnewsrightnow.com^
 ||realnotrare.com^
 ||realplanetnews.com^
+||realpoliticalaction.com^
 ||realprogress.online^
 ||realrawnews.com^
 ||realscience.altervista.org^
@@ -10780,10 +10823,13 @@
 ||standpointmag.co.uk^
 ||standtogether.org^
 ||standupamericanow.org^
+||standwithelon.org^
 ||standwithisrael.today^
+||standwithtucker.com^
 ||stanislausnews.com^
 ||star-telegram.com^
 ||starbuckswatch.news^
+||starcoincollection.com^
 ||staresattheworld.com^
 ||staresattheworld.commericanfreepress.net^
 ||stargard.pis.org.pl^
@@ -11400,6 +11446,7 @@
 ||theconservative411.com^
 ||theconservativebrief.com^
 ||theconservativecentral.com^
+||theconservativenewsfeed.com^
 ||theconservativetreehouse.com^
 ||thecontrail.com^
 ||thecontroversialfiles.net^
@@ -11759,6 +11806,7 @@
 ||thevaccinefreechild.com^
 ||thevaccinereaction.org^
 ||thevalleyreport.com^
+||thevictoryring.com^
 ||thevillagereporter.com^
 ||thevinnyeastwoodshow.com^
 ||thevirginiastar.com^
@@ -12064,6 +12112,7 @@
 ||trumpknows.com^
 ||trumplive.com.au^
 ||trumpmedbed.com^
+||trumpnationalevent.com^
 ||trumpq.uk^
 ||trumpsminutemen.org^
 ||trumpsol.xyz^
@@ -12072,6 +12121,8 @@
 ||trumpstudents.org^
 ||trumptaxcut.com^
 ||trumptrainnews.com^
+||trumpvictoryinva.com^
+||trumpvictorypac.com^
 ||trumpvision365.com^
 ||trumpwinery.com^
 ||trunews.com^
@@ -12231,6 +12282,7 @@
 ||ukmedfreedom.org^
 ||ukmembership.insaf.pk^
 ||ukraina.ru^
+||ukraine.ru^
 ||ukrainiancrusade.blogspot.com^
 ||ukrinform.net^
 ||ullanoertoftthomsen.blogspot.com^
@@ -12724,6 +12776,8 @@
 ||votefraud.news^
 ||votejillian.com^
 ||voteleavetakecontrol.org^
+||voterelectionpoll.com^
+||voterfraudreward.com^
 ||votesafe.org^
 ||votingforjesus.com^
 ||voxday.net^
@@ -12804,9 +12858,11 @@
 ||warwickhughes.com^
 ||washingtoncoguide.com^
 ||washingtoncotimes.com^
+||washingtonengager.com^
 ||washingtonexaminer.com^
 ||washingtonfed.com^
 ||washingtoninstitute.org^
+||washingtonintelligence.com^
 ||washingtonpost.com.co^
 ||washingtonsblog.com^
 ||washingtonsources.org^
@@ -13085,6 +13141,7 @@
 ||westvolusianews.com^
 ||westwakenews.com^
 ||wetaskiwintimes.com^
+||wethealliance.com^
 ||wetheonepeople.com^
 ||wethepatriotic.com^
 ||wethepeopleconvention.org^
@@ -13767,6 +13824,8 @@
 ||zerohedge.com^
 ||zeromacho.fr^
 ||zeromacho.wordpress.com^
+||zerotolerancepac.com^
+||zhedge.com^
 ||zhengjian.org^
 ||zhengwunet.org^
 ||zhitomir-news.ru^
