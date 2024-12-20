@@ -15730,8 +15730,6 @@
 0.0.0.0 www.nhbusinessdaily.com
 0.0.0.0 nhjournal.com
 0.0.0.0 www.nhjournal.com
-0.0.0.0 nhk.or.jp
-0.0.0.0 www.nhk.or.jp
 0.0.0.0 niagaraleader.com
 0.0.0.0 www.niagaraleader.com
 0.0.0.0 nibiru2012.it

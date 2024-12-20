@@ -2244,7 +2244,6 @@ newsweek.com
 nhjournal.com
 
 # NHK (Japan)
-nhk.or.jp
 
 # Nikkei Asian Review (Japan)
 asia.nikkei.com

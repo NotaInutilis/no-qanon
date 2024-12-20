@@ -7868,7 +7868,6 @@
 ||ngo-monitor.org^
 ||nhbusinessdaily.com^
 ||nhjournal.com^
-||nhk.or.jp^
 ||niagaraleader.com^
 ||nibiru2012.it^
 ||niburu.co^
