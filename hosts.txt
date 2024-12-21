@@ -6872,6 +6872,8 @@
 0.0.0.0 www.elections.kataeb.org
 0.0.0.0 electricity.news
 0.0.0.0 www.electricity.news
+0.0.0.0 electricsense.com
+0.0.0.0 www.electricsense.com
 0.0.0.0 electrosensei.com
 0.0.0.0 www.electrosensei.com
 0.0.0.0 electroverse.net
@@ -9208,6 +9210,8 @@
 0.0.0.0 www.goblinlove.com
 0.0.0.0 goblinnest.com
 0.0.0.0 www.goblinnest.com
+0.0.0.0 godblesstheusabible.com
+0.0.0.0 www.godblesstheusabible.com
 0.0.0.0 goderichsignalstar.com
 0.0.0.0 www.goderichsignalstar.com
 0.0.0.0 godfatherpolitics.com

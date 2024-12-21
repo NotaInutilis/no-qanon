@@ -3439,6 +3439,7 @@
 ||elections.insaf.pk^
 ||elections.kataeb.org^
 ||electricity.news^
+||electricsense.com^
 ||electrosensei.com^
 ||electroverse.net^
 ||elenafridmd.com^
@@ -4607,6 +4608,7 @@
 ||goblinfire.com^
 ||goblinlove.com^
 ||goblinnest.com^
+||godblesstheusabible.com^
 ||goderichsignalstar.com^
 ||godfatherpolitics.com^
 ||godhatesfags.com^
