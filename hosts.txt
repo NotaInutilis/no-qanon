@@ -2774,6 +2774,8 @@
 0.0.0.0 www.block1.rumble.com
 0.0.0.0 block109.blogspot.com
 0.0.0.0 www.block109.blogspot.com
+0.0.0.0 blockedandreported.org
+0.0.0.0 www.blockedandreported.org
 0.0.0.0 blog.4chan.org
 0.0.0.0 www.blog.4chan.org
 0.0.0.0 blog.8kun.top
@@ -11456,6 +11458,8 @@
 0.0.0.0 www.jessaminejournal.com
 0.0.0.0 jessekellyshow.com
 0.0.0.0 www.jessekellyshow.com
+0.0.0.0 jessesingal.com
+0.0.0.0 www.jessesingal.com
 0.0.0.0 jesuisduf.wixsite.com
 0.0.0.0 www.jesuisduf.wixsite.com
 0.0.0.0 jesuisterreau.com
