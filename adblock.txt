@@ -5733,6 +5733,7 @@
 ||jessaminejournal.com^
 ||jessekellyshow.com^
 ||jessesingal.com^
+||jessesingal.substack.com^
 ||jesuisduf.wixsite.com^
 ||jesuisterreau.com^
 ||jesus-is-savior.com^

@@ -11460,6 +11460,8 @@
 0.0.0.0 www.jessekellyshow.com
 0.0.0.0 jessesingal.com
 0.0.0.0 www.jessesingal.com
+0.0.0.0 jessesingal.substack.com
+0.0.0.0 www.jessesingal.substack.com
 0.0.0.0 jesuisduf.wixsite.com
 0.0.0.0 www.jesuisduf.wixsite.com
 0.0.0.0 jesuisterreau.com

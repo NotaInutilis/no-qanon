@@ -5729,6 +5729,7 @@ address=/jesoutienslunion.fr/
 address=/jessaminejournal.com/
 address=/jessekellyshow.com/
 address=/jessesingal.com/
+address=/jessesingal.substack.com/
 address=/jesuisduf.wixsite.com/
 address=/jesuisterreau.com/
 address=/jesus-is-savior.com/
