@@ -1,4 +1,4 @@
-# No-QAnon
+# All sQuelettes Are Blocked (AQAB)
 
 An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and hateful websites.
 
@@ -98,3 +98,5 @@ This blocklist borrows from the following projects:
 [Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): consider blocking platforms such as Twitter, YouTube and Facebook as they are riddled with fake news and fascist content.
 
 [Bypass Methods Blocklist](https://github.com/nextdns/dns-bypass-methods) can be used to block bypass methods (VPNs, proxies, DNS, etc.).
+
+[![Fight Fascism](https://cdn.glitch.com/2249eb84-18cb-406f-a492-82a272962e6f%2Ffightfascismpink-220xpx.jpg)](https://fightfascism.glitch.me/)
