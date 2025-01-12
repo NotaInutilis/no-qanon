@@ -19882,6 +19882,8 @@
 0.0.0.0 www.salembooks.com
 0.0.0.0 salemmedia.com
 0.0.0.0 www.salemmedia.com
+0.0.0.0 salemnewschannel.com
+0.0.0.0 www.salemnewschannel.com
 0.0.0.0 salemnewswire.com
 0.0.0.0 www.salemnewswire.com
 0.0.0.0 salemwebnetwork.com

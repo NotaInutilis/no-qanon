@@ -9944,6 +9944,7 @@
 ||salem.sd.se^
 ||salembooks.com^
 ||salemmedia.com^
+||salemnewschannel.com^
 ||salemnewswire.com^
 ||salemwebnetwork.com^
 ||salini.love^

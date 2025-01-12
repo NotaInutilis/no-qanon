@@ -9940,6 +9940,7 @@ address=/salem.info14.com/
 address=/salem.sd.se/
 address=/salembooks.com/
 address=/salemmedia.com/
+address=/salemnewschannel.com/
 address=/salemnewswire.com/
 address=/salemwebnetwork.com/
 address=/salini.love/
