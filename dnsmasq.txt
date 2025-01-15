@@ -12620,6 +12620,7 @@ address=/vermontindependent.net/
 address=/vernoncoleman.com/
 address=/vernoncoleman.org/
 address=/veronaovest.leganord.org/
+address=/verycloud.fr/
 address=/vesthimmerland.danskfolkeparti.dk/
 address=/vesti.ru/
 address=/veszprem.fidesz.hu/

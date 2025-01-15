@@ -25242,6 +25242,8 @@
 0.0.0.0 www.vernoncoleman.org
 0.0.0.0 veronaovest.leganord.org
 0.0.0.0 www.veronaovest.leganord.org
+0.0.0.0 verycloud.fr
+0.0.0.0 www.verycloud.fr
 0.0.0.0 vesthimmerland.danskfolkeparti.dk
 0.0.0.0 www.vesthimmerland.danskfolkeparti.dk
 0.0.0.0 vesti.ru

@@ -12624,6 +12624,7 @@
 ||vernoncoleman.com^
 ||vernoncoleman.org^
 ||veronaovest.leganord.org^
+||verycloud.fr^
 ||vesthimmerland.danskfolkeparti.dk^
 ||vesti.ru^
 ||veszprem.fidesz.hu^

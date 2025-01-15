@@ -5,4 +5,4 @@ epik.com
 campaign.company
 
 # France
-https://verycloud.fr/
+verycloud.fr
