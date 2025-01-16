@@ -9229,6 +9229,7 @@
 "*://*.protectingthesecondamendment.com/*",
 "*://*.protectionist.net/*",
 "*://*.protegeons-nos-enfants.fr/*",
+"*://*.proton.me/*",
 "*://*.protothema.gr/*",
 "*://*.protrumpnews.com/*",
 "*://*.proudboys.com.au/*",
