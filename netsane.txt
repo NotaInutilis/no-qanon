@@ -12559,6 +12559,7 @@
 "*://*.vancouversun.com/*",
 "*://*.vancouvertimes.org/*",
 "*://*.vanersborg.sd.se/*",
+"*://*.vanessa-behrendt.de/*",
 "*://*.vanguardnewsnetwork.com/*",
 "*://*.vanillaskydreamingshop.com/*",
 "*://*.vara.sd.se/*",

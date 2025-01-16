@@ -12559,6 +12559,7 @@ address=/vancouverreporter.com/
 address=/vancouversun.com/
 address=/vancouvertimes.org/
 address=/vanersborg.sd.se/
+address=/vanessa-behrendt.de/
 address=/vanguardnewsnetwork.com/
 address=/vanillaskydreamingshop.com/
 address=/vara.sd.se/
