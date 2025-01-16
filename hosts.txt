@@ -6570,6 +6570,8 @@
 0.0.0.0 www.e.breitbart.com
 0.0.0.0 ea.infogalactic.com
 0.0.0.0 www.ea.infogalactic.com
+0.0.0.0 eadaily.com
+0.0.0.0 www.eadaily.com
 0.0.0.0 eaglerising.com
 0.0.0.0 www.eaglerising.com
 0.0.0.0 eaglevalleytimes.com
@@ -15468,6 +15470,8 @@
 0.0.0.0 www.news-makeevka.ru
 0.0.0.0 news-odessa.ru
 0.0.0.0 www.news-odessa.ru
+0.0.0.0 news-pravda.com
+0.0.0.0 www.news-pravda.com
 0.0.0.0 news-surgut.ru
 0.0.0.0 www.news-surgut.ru
 0.0.0.0 news.cn

@@ -3288,6 +3288,7 @@
 ||dzen.ru^
 ||e.breitbart.com^
 ||ea.infogalactic.com^
+||eadaily.com^
 ||eaglerising.com^
 ||eaglevalleytimes.com^
 ||earl.avoiceformen.com^
@@ -7737,6 +7738,7 @@
 ||news-kiev.ru^
 ||news-makeevka.ru^
 ||news-odessa.ru^
+||news-pravda.com^
 ||news-surgut.ru^
 ||news.cn^
 ||news.com.au^
