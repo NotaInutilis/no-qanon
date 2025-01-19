@@ -9020,6 +9020,8 @@
 0.0.0.0 www.gettr.com
 0.0.0.0 gettrumpfragrances.com
 0.0.0.0 www.gettrumpfragrances.com
+0.0.0.0 gettrumpmemes.com
+0.0.0.0 www.gettrumpmemes.com
 0.0.0.0 gewoon-nieuws.nl
 0.0.0.0 www.gewoon-nieuws.nl
 0.0.0.0 gez.diefreiheit.org
@@ -18844,6 +18846,8 @@
 0.0.0.0 www.rage.lol
 0.0.0.0 raggioindaco.wordpress.com
 0.0.0.0 www.raggioindaco.wordpress.com
+0.0.0.0 ragingpatriotnews.org
+0.0.0.0 www.ragingpatriotnews.org
 0.0.0.0 ragunda.sd.se
 0.0.0.0 www.ragunda.sd.se
 0.0.0.0 raheemkassam.substack.com

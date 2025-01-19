@@ -4513,6 +4513,7 @@
 ||getreligion.org^
 ||gettr.com^
 ||gettrumpfragrances.com^
+||gettrumpmemes.com^
 ||gewoon-nieuws.nl^
 ||gez.diefreiheit.org^
 ||gf4justice.com^
@@ -9425,6 +9426,7 @@
 ||raf.mod.uk^
 ||rage.lol^
 ||raggioindaco.wordpress.com^
+||ragingpatriotnews.org^
 ||ragunda.sd.se^
 ||raheemkassam.substack.com^
 ||rails-stage-new.vdare.com^
