@@ -8931,6 +8931,7 @@
 ||pluxactu.com^
 ||plymouthreporter.com^
 ||pm-bounces.mewe.com^
+||pm.me^
 ||pmd.unitedfutureparty.kr^
 ||pmg-ky2.com^
 ||pmi.com^
@@ -9235,6 +9236,7 @@
 ||protectionist.net^
 ||protegeons-nos-enfants.fr^
 ||proton.me^
+||protonmail.com^
 ||protothema.gr^
 ||protrumpnews.com^
 ||proudboys.com.au^
