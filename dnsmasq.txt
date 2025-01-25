@@ -4051,6 +4051,7 @@ address=/followavi.com/
 address=/fonagyjanos.fidesz.hu/
 address=/fondationlejeune.org/
 address=/fondazionean.it/
+address=/fondfbr.ru/
 address=/fondulacnews.com/
 address=/fontsandor.fidesz.hu/
 address=/food.news/
