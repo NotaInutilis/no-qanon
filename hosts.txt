@@ -7578,6 +7578,8 @@
 0.0.0.0 www.factcheck.news
 0.0.0.0 factcheckingturkey.com
 0.0.0.0 www.factcheckingturkey.com
+0.0.0.0 factorio.com
+0.0.0.0 www.factorio.com
 0.0.0.0 facts.net
 0.0.0.0 www.facts.net
 0.0.0.0 facts4eu.org

@@ -3792,6 +3792,7 @@
 ||face.eu^
 ||factcheck.news^
 ||factcheckingturkey.com^
+||factorio.com^
 ||facts.net^
 ||facts4eu.org^
 ||factsandarts.com^

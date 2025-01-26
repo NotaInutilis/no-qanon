@@ -3788,6 +3788,7 @@ address=/face-nemzedek.com/
 address=/face.eu/
 address=/factcheck.news/
 address=/factcheckingturkey.com/
+address=/factorio.com/
 address=/facts.net/
 address=/facts4eu.org/
 address=/factsandarts.com/
