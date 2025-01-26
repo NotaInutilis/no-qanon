@@ -1812,6 +1812,8 @@
 0.0.0.0 www.astutenews.com
 0.0.0.0 atchisonglobenow.com
 0.0.0.0 www.atchisonglobenow.com
+0.0.0.0 ateliermissor.com
+0.0.0.0 www.ateliermissor.com
 0.0.0.0 atha4zenkf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.atha4zenkf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 athensreporter.com
