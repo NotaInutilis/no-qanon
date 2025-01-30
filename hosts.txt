@@ -9230,6 +9230,8 @@
 0.0.0.0 www.godfatherpolitics.com
 0.0.0.0 godhatesfags.com
 0.0.0.0 www.godhatesfags.com
+0.0.0.0 godisageek.com
+0.0.0.0 www.godisageek.com
 0.0.0.0 godlike.com
 0.0.0.0 www.godlike.com
 0.0.0.0 godlikeproductions.com
@@ -12520,6 +12522,8 @@
 0.0.0.0 www.lbry.tv
 0.0.0.0 lc.org
 0.0.0.0 www.lc.org
+0.0.0.0 ldn.cm
+0.0.0.0 www.ldn.cm
 0.0.0.0 le-scpn.fr
 0.0.0.0 www.le-scpn.fr
 0.0.0.0 leaderpost.com

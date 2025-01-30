@@ -4614,6 +4614,7 @@
 *://*.goderichsignalstar.com/*
 *://*.godfatherpolitics.com/*
 *://*.godhatesfags.com/*
+*://*.godisageek.com/*
 *://*.godlike.com/*
 *://*.godlikeproductions.com/*
 *://*.godreports.com/*
@@ -6259,6 +6260,7 @@
 *://*.lbc.co.uk/*
 *://*.lbry.tv/*
 *://*.lc.org/*
+*://*.ldn.cm/*
 *://*.le-scpn.fr/*
 *://*.leaderpost.com/*
 *://*.leaderpub.com/*
