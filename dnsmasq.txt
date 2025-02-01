@@ -11721,6 +11721,7 @@ address=/therapreport.com/
 address=/therapyfirst.org/
 address=/therapyrange.com/
 address=/therationalmale.com/
+address=/therealgameawards.com/
 address=/therealistreport.com/
 address=/therealnews.nz/
 address=/therealstrategy.com/
