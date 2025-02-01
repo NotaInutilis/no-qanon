@@ -9,7 +9,7 @@ gamergate-news.tumblr.com
 # Pro-GamerGate news sites
 nichegamer.com
 thegg.net
-https://www.geeksandgamers.com/
+geeksandgamers.com
 
 # The Real Game Awards https://www.thepinknews.com/2025/01/29/real-game-awards-trans/
 therealgameawards.com

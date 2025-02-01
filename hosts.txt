@@ -8896,6 +8896,8 @@
 0.0.0.0 www.gear.news
 0.0.0.0 gearlandia.haus
 0.0.0.0 www.gearlandia.haus
+0.0.0.0 geeksandgamers.com
+0.0.0.0 www.geeksandgamers.com
 0.0.0.0 geel.vlaamsbelang.org
 0.0.0.0 www.geel.vlaamsbelang.org
 0.0.0.0 geertwilders.nl

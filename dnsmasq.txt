@@ -4447,6 +4447,7 @@ address=/gci.8ch.net/
 address=/ge.news-front.info/
 address=/gear.news/
 address=/gearlandia.haus/
+address=/geeksandgamers.com/
 address=/geel.vlaamsbelang.org/
 address=/geertwilders.nl/
 address=/gegdxm4iek.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/
