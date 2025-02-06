@@ -3145,6 +3145,7 @@ address=/domokoslaszlo.fidesz.hu/
 address=/donald.win/
 address=/donaldjtrump.com/
 address=/donaldtrumpnews.co/
+address=/donaldtrumpseeds.com/
 address=/donaldwatkins.com/
 address=/donate.afa.net/
 address=/donate.clouthub.com/

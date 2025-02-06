@@ -6292,6 +6292,8 @@
 0.0.0.0 www.donaldjtrump.com
 0.0.0.0 donaldtrumpnews.co
 0.0.0.0 www.donaldtrumpnews.co
+0.0.0.0 donaldtrumpseeds.com
+0.0.0.0 www.donaldtrumpseeds.com
 0.0.0.0 donaldwatkins.com
 0.0.0.0 www.donaldwatkins.com
 0.0.0.0 donate.afa.net

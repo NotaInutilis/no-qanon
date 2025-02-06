@@ -3145,6 +3145,7 @@
 "*://*.donald.win/*",
 "*://*.donaldjtrump.com/*",
 "*://*.donaldtrumpnews.co/*",
+"*://*.donaldtrumpseeds.com/*",
 "*://*.donaldwatkins.com/*",
 "*://*.donate.afa.net/*",
 "*://*.donate.clouthub.com/*",
