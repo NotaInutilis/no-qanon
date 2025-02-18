@@ -755,7 +755,6 @@ wojtek-qa.devstage.rumble.com
 workspace.dlive.tv
 wrongthink.net
 ws.mewe.com
-ww1.minds.com
 wweroyal--rumble.com
 www1.minds.com
 www2.minds.com
