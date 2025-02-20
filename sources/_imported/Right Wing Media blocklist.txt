@@ -8439,3 +8439,10 @@ boulderleader.com
 
 # Breaking Wide (Unknown)
 breakingwide.com
+
+# Fair Play for Women - FPFW (UK)
+fairplayforwomen.com
+
+# Arizona City Independent (USA)
+pinalcentral.com
+loc.gov

@@ -9002,3 +9002,13 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Breaking Wide (Unknown)
 *://*.breakingwide.com/*
+
+# Fair Play for Women - FPFW (UK)
+*://*.fairplayforwomen.com/*
+
+# Arizona City Independent (USA)
+*://*.pinalcentral.com/arizona_city_independent/*
+*://*.pinalcentral.com/eedition/arizona_city_independent/*
+*://*.x.com/azcitynews*
+*://*.twitter.com/azcitynews*
+*://*.loc.gov/item/sn94050647/*
