@@ -4828,3 +4828,48 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # Breaking Wide (Unknown)
 *://*.breakingwide.com/*
+
+# Good Day Fort Collins (USA)
+*://*.gooddayfortcollins.com/*
+
+# South Delco News (USA)
+*://*.southdelconews.com/*
+
+# Report24 (Austria)
+*://*.report24.news/*
+
+# Courier Newsroom (USA)
+*://*.couriernewsroom.com/*
+
+# DennisPrager.com (USA)
+*://*.dennisprager.com/*
+
+# Southwest Allegheny News (USA)
+*://*.swalleghenynews.com/*
+
+# Southwest PA News (USA)
+*://*.swpanews.com/*
+
+# Restricted Republic (USA)
+*://*.restrictedrepublic.com/*
+
+# Every Legal Vote (USA)
+*://*.everylegalvote.com/*
+
+# Bend Daily News (USA)
+*://*.benddailynews.com/*
+
+# FR24 News (Unknown)
+*://*.fr24news.com/*
+
+# The Lid (USA)
+*://*.lidblog.com/*
+
+# NZ Report (Unknown)
+*://*.nzreport.com/*
+
+# Charleston Morning News (USA)
+*://*.charlestonmorning.com/*
+
+# The Liberal (Ireland)
+*://*.theliberal.ie/*

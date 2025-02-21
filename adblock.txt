@@ -1211,6 +1211,7 @@
 ||bellsouthlongdistance.minds.com^
 ||bemidjipioneer.com^
 ||bencsikjanos.fidesz.hu^
+||benddailynews.com^
 ||beneildiko.fidesz.hu^
 ||bengtsfors.sd.se^
 ||benitomussolini.altervista.org^
@@ -1957,6 +1958,7 @@
 ||cgnow.net^
 ||cgtn.com^
 ||chalcedon.edu^
+||chalkboardnews.com^
 ||chambanasun.com^
 ||change.minds.com^
 ||channel-7-news.com^
@@ -1981,6 +1983,7 @@
 ||charlescjohnson.com^
 ||charlesortel.com^
 ||charlestonleader.com^
+||charlestonmorning.com^
 ||charlestonreporter.com^
 ||charlestown.social^
 ||charliefreak.org^
@@ -2462,6 +2465,7 @@
 ||counterthink.com^
 ||couriermail.com.au^
 ||couriernews.com^
+||couriernewsroom.com^
 ||couronne.minds.com^
 ||courses.jordanbpeterson.com^
 ||covertactionmagazine.com^
@@ -2657,6 +2661,7 @@
 ||curryhobo.minds.com^
 ||customessaysservice-com.minds.com^
 ||cvdiariodelpollinho.altervista.org^
+||cwbchicago.com^
 ||cwfa.org^
 ||cybersage.net^
 ||cyberwar.news^
@@ -3718,6 +3723,7 @@
 ||everydaybreakingnews.com^
 ||everydayconcerned.net^
 ||everydayworldnews.com^
+||everylegalvote.com^
 ||everynewshere.com^
 ||everythingnewdaily.com^
 ||everytownresearch.org^
@@ -4179,6 +4185,7 @@
 ||fr.sott.net^
 ||fr.sputniknews.africa^
 ||fr.sputniknews.com^
+||fr24news.com^
 ||fra.accessconsciousness.eu^
 ||fracking.news^
 ||framix.fr^
@@ -4586,6 +4593,7 @@
 ||globalwarmingheartland.org^
 ||globalwarminghoax.com^
 ||globemagazine.com^
+||globeterminator.com^
 ||globire.info^
 ||gloria.tv^
 ||glossynews.com^
@@ -4650,6 +4658,7 @@
 ||gonzalolira.blogspot.com^
 ||gonzoglobe.com^
 ||good-music.com^
+||gooddayfortcollins.com^
 ||goodgopher.com^
 ||goodmorningliberty.us^
 ||goodnewsmag.org^
@@ -5395,6 +5404,7 @@
 ||images.noi.org^
 ||images.parler.com^
 ||images.stormfront.org^
+||imahealth.org^
 ||imap.profam.org^
 ||img.4chan.org^
 ||img.breitbart.com^
@@ -7723,6 +7733,7 @@
 ||newenergyreport.com^
 ||newenglishreview.org^
 ||newevents.evangelismexplosion.org^
+||newgeography.com^
 ||newgothicripples.wordpress.com^
 ||newideal.aynrand.org^
 ||newisconsinnews.com^
@@ -8324,6 +8335,7 @@
 ||nzcpr.com^
 ||nzdsos.com^
 ||nzpublicparty.org.nz^
+||nzreport.com^
 ||nzunite.com^
 ||nzz.ch^
 ||o.8ch.net^
@@ -8876,6 +8888,7 @@
 ||pi-news.net^
 ||pianetablunews.wordpress.com^
 ||pianetax.wordpress.com^
+||picayuneitem.com^
 ||piedmonttribune.com^
 ||piercetoday.com^
 ||pieville.net^
@@ -9028,6 +9041,7 @@
 ||pop3.minds.com^
 ||popec.net^
 ||poperinge.vlaamsbelang.org^
+||poplarvilledemocrat.com^
 ||poppm.org^
 ||populationcollapse.com^
 ||populationcontrol.news^
@@ -9289,6 +9303,7 @@
 ||pslmulher.psl.org.br^
 ||pslmulherpe.psl.org.br^
 ||pslnacional.psl.org.br^
+||psychreg.org^
 ||pt.metapedia.org^
 ||ptc.com.pk^
 ||public-jenkins.triller.co^
@@ -9659,6 +9674,7 @@
 ||rep-am.com^
 ||rep.de^
 ||report.globalreset.news^
+||report24.news^
 ||reporter.bz^
 ||reports.4chan.org^
 ||repubblica24.com^
@@ -9689,6 +9705,7 @@
 ||rest1.magento.infowars.com^
 ||restoreamericanglory.com^
 ||restoredrepublic.co^
+||restrictedrepublic.com^
 ||resultats-municipales2020.rassemblementnational.fr^
 ||resumenlatinoamericano.org^
 ||retalk.com^
@@ -9830,6 +9847,7 @@
 ||romagna.leganord.org^
 ||roman-polanski.com^
 ||roman-polanski.net^
+||romaniatv.net^
 ||romanpolanski.com^
 ||romanpolanski.online.fr^
 ||romereporter.com^
@@ -11487,6 +11505,7 @@
 ||thedailyexaminer.co.nz^
 ||thedailyflogger.com^
 ||thedailyfodder.com^
+||thedailyiberian.com^
 ||thedailymash.co.uk^
 ||thedailysheeple.com^
 ||thedailyworld.net^
@@ -11605,6 +11624,7 @@
 ||theleadingreport.com^
 ||thelegacyoflove.org^
 ||theleoterrell.com^
+||theliberal.ie^
 ||thelibertarianrepublic.com^
 ||thelibertybeacon.com^
 ||thelibertydaily.com^
@@ -12235,6 +12255,7 @@
 ||tv.poa.st^
 ||tv.us-west-1c.infowars.com^
 ||tvassets.infowars.com^
+||tvbs.com.tw^
 ||tvlibertes.com^
 ||tvnewsitalia.com^
 ||tvp.info^

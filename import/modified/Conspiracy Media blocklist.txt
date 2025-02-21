@@ -1333,3 +1333,9 @@ strangesounds.org
 
 # Steve Quayle - stevequayle.com (USA)
 stevequayle.com
+
+# Psychreg (UK)
+psychreg.org
+
+# Independent Medical Alliance - IMA (USA)
+imahealth.org

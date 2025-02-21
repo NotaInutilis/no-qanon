@@ -1880,7 +1880,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 # Fox Business (USA)
 *://*.foxbusiness.com/*
 
-# Foxillinois.com (WRSP (USA)
+# Foxillinois.com - WRSP - WCCU (USA)
 *://*.foxillinois.com/*
 
 # Frankfort State Journal (USA)
@@ -5343,7 +5343,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.youtube.com/@foxnews*
 *://*.foxnews.com/*
 
-# Frank Speech (USA)
+# Frank Speech - LindellTV (USA)
 *://*.frankspeech.com/*
 
 # Freedom First Network (USA)
@@ -9012,3 +9012,60 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 *://*.x.com/azcitynews*
 *://*.twitter.com/azcitynews*
 *://*.loc.gov/item/sn94050647/*
+
+# Globe Terminator (Unknown)
+*://*.globeterminator.com/*
+
+# South Delco News (USA)
+*://*.southdelconews.com/*
+
+# CWBChicago (USA)
+*://*.cwbchicago.com/*
+
+# Daily Iberian (USA)
+*://*.thedailyiberian.com/*
+
+# NewGeography (USA)
+*://*.newgeography.com/*
+
+# Deep State Journal (USA)
+*://*.deepstatejournal.com/*
+
+# Chalkboard News (USA)
+*://*.chalkboardnews.com/*
+
+# Report24 (Austria)
+*://*.report24.news/*
+
+# TVBS-Taiwan (Taiwan)
+*://*.tvbs.com.tw/*
+
+# Poplarville Democrat (USA)
+*://*.poplarvilledemocrat.com/*
+
+# Southwest Allegheny News (USA)
+*://*.swalleghenynews.com/*
+
+# Southwest PA News (USA)
+*://*.swpanews.com/*
+
+# Restricted Republic (USA)
+*://*.restrictedrepublic.com/*
+
+# Every Legal Vote (USA)
+*://*.everylegalvote.com/*
+
+# Picayune Item (USA)
+*://*.picayuneitem.com/*
+
+# The Lid (USA)
+*://*.lidblog.com/*
+
+# Independent Medical Alliance - IMA (USA)
+*://*.imahealth.org/*
+
+# The Liberal (Ireland)
+*://*.theliberal.ie/*
+
+# Romania TV (Romania)
+*://*.romaniatv.net/*

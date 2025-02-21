@@ -2416,6 +2416,8 @@
 0.0.0.0 www.bemidjipioneer.com
 0.0.0.0 bencsikjanos.fidesz.hu
 0.0.0.0 www.bencsikjanos.fidesz.hu
+0.0.0.0 benddailynews.com
+0.0.0.0 www.benddailynews.com
 0.0.0.0 beneildiko.fidesz.hu
 0.0.0.0 www.beneildiko.fidesz.hu
 0.0.0.0 bengtsfors.sd.se
@@ -3908,6 +3910,8 @@
 0.0.0.0 www.cgtn.com
 0.0.0.0 chalcedon.edu
 0.0.0.0 www.chalcedon.edu
+0.0.0.0 chalkboardnews.com
+0.0.0.0 www.chalkboardnews.com
 0.0.0.0 chambanasun.com
 0.0.0.0 www.chambanasun.com
 0.0.0.0 change.minds.com
@@ -3956,6 +3960,8 @@
 0.0.0.0 www.charlesortel.com
 0.0.0.0 charlestonleader.com
 0.0.0.0 www.charlestonleader.com
+0.0.0.0 charlestonmorning.com
+0.0.0.0 www.charlestonmorning.com
 0.0.0.0 charlestonreporter.com
 0.0.0.0 www.charlestonreporter.com
 0.0.0.0 charlestown.social
@@ -4918,6 +4924,8 @@
 0.0.0.0 www.couriermail.com.au
 0.0.0.0 couriernews.com
 0.0.0.0 www.couriernews.com
+0.0.0.0 couriernewsroom.com
+0.0.0.0 www.couriernewsroom.com
 0.0.0.0 couronne.minds.com
 0.0.0.0 www.couronne.minds.com
 0.0.0.0 courses.jordanbpeterson.com
@@ -5308,6 +5316,8 @@
 0.0.0.0 www.customessaysservice-com.minds.com
 0.0.0.0 cvdiariodelpollinho.altervista.org
 0.0.0.0 www.cvdiariodelpollinho.altervista.org
+0.0.0.0 cwbchicago.com
+0.0.0.0 www.cwbchicago.com
 0.0.0.0 cwfa.org
 0.0.0.0 www.cwfa.org
 0.0.0.0 cybersage.net
@@ -7430,6 +7440,8 @@
 0.0.0.0 www.everydayconcerned.net
 0.0.0.0 everydayworldnews.com
 0.0.0.0 www.everydayworldnews.com
+0.0.0.0 everylegalvote.com
+0.0.0.0 www.everylegalvote.com
 0.0.0.0 everynewshere.com
 0.0.0.0 www.everynewshere.com
 0.0.0.0 everythingnewdaily.com
@@ -8352,6 +8364,8 @@
 0.0.0.0 www.fr.sputniknews.africa
 0.0.0.0 fr.sputniknews.com
 0.0.0.0 www.fr.sputniknews.com
+0.0.0.0 fr24news.com
+0.0.0.0 www.fr24news.com
 0.0.0.0 fra.accessconsciousness.eu
 0.0.0.0 www.fra.accessconsciousness.eu
 0.0.0.0 fracking.news
@@ -9166,6 +9180,8 @@
 0.0.0.0 www.globalwarminghoax.com
 0.0.0.0 globemagazine.com
 0.0.0.0 www.globemagazine.com
+0.0.0.0 globeterminator.com
+0.0.0.0 www.globeterminator.com
 0.0.0.0 globire.info
 0.0.0.0 www.globire.info
 0.0.0.0 gloria.tv
@@ -9294,6 +9310,8 @@
 0.0.0.0 www.gonzoglobe.com
 0.0.0.0 good-music.com
 0.0.0.0 www.good-music.com
+0.0.0.0 gooddayfortcollins.com
+0.0.0.0 www.gooddayfortcollins.com
 0.0.0.0 goodgopher.com
 0.0.0.0 www.goodgopher.com
 0.0.0.0 goodmorningliberty.us
@@ -10784,6 +10802,8 @@
 0.0.0.0 www.images.parler.com
 0.0.0.0 images.stormfront.org
 0.0.0.0 www.images.stormfront.org
+0.0.0.0 imahealth.org
+0.0.0.0 www.imahealth.org
 0.0.0.0 imap.profam.org
 0.0.0.0 www.imap.profam.org
 0.0.0.0 img.4chan.org
@@ -15440,6 +15460,8 @@
 0.0.0.0 www.newenglishreview.org
 0.0.0.0 newevents.evangelismexplosion.org
 0.0.0.0 www.newevents.evangelismexplosion.org
+0.0.0.0 newgeography.com
+0.0.0.0 www.newgeography.com
 0.0.0.0 newgothicripples.wordpress.com
 0.0.0.0 www.newgothicripples.wordpress.com
 0.0.0.0 newideal.aynrand.org
@@ -16642,6 +16664,8 @@
 0.0.0.0 www.nzdsos.com
 0.0.0.0 nzpublicparty.org.nz
 0.0.0.0 www.nzpublicparty.org.nz
+0.0.0.0 nzreport.com
+0.0.0.0 www.nzreport.com
 0.0.0.0 nzunite.com
 0.0.0.0 www.nzunite.com
 0.0.0.0 nzz.ch
@@ -17746,6 +17770,8 @@
 0.0.0.0 www.pianetablunews.wordpress.com
 0.0.0.0 pianetax.wordpress.com
 0.0.0.0 www.pianetax.wordpress.com
+0.0.0.0 picayuneitem.com
+0.0.0.0 www.picayuneitem.com
 0.0.0.0 piedmonttribune.com
 0.0.0.0 www.piedmonttribune.com
 0.0.0.0 piercetoday.com
@@ -18050,6 +18076,8 @@
 0.0.0.0 www.popec.net
 0.0.0.0 poperinge.vlaamsbelang.org
 0.0.0.0 www.poperinge.vlaamsbelang.org
+0.0.0.0 poplarvilledemocrat.com
+0.0.0.0 www.poplarvilledemocrat.com
 0.0.0.0 poppm.org
 0.0.0.0 www.poppm.org
 0.0.0.0 populationcollapse.com
@@ -18572,6 +18600,8 @@
 0.0.0.0 www.pslmulherpe.psl.org.br
 0.0.0.0 pslnacional.psl.org.br
 0.0.0.0 www.pslnacional.psl.org.br
+0.0.0.0 psychreg.org
+0.0.0.0 www.psychreg.org
 0.0.0.0 pt.metapedia.org
 0.0.0.0 www.pt.metapedia.org
 0.0.0.0 ptc.com.pk
@@ -19312,6 +19342,8 @@
 0.0.0.0 www.rep.de
 0.0.0.0 report.globalreset.news
 0.0.0.0 www.report.globalreset.news
+0.0.0.0 report24.news
+0.0.0.0 www.report24.news
 0.0.0.0 reporter.bz
 0.0.0.0 www.reporter.bz
 0.0.0.0 reports.4chan.org
@@ -19372,6 +19404,8 @@
 0.0.0.0 www.restoreamericanglory.com
 0.0.0.0 restoredrepublic.co
 0.0.0.0 www.restoredrepublic.co
+0.0.0.0 restrictedrepublic.com
+0.0.0.0 www.restrictedrepublic.com
 0.0.0.0 resultats-municipales2020.rassemblementnational.fr
 0.0.0.0 www.resultats-municipales2020.rassemblementnational.fr
 0.0.0.0 resumenlatinoamericano.org
@@ -19654,6 +19688,8 @@
 0.0.0.0 www.roman-polanski.com
 0.0.0.0 roman-polanski.net
 0.0.0.0 www.roman-polanski.net
+0.0.0.0 romaniatv.net
+0.0.0.0 www.romaniatv.net
 0.0.0.0 romanpolanski.com
 0.0.0.0 www.romanpolanski.com
 0.0.0.0 romanpolanski.online.fr
@@ -22968,6 +23004,8 @@
 0.0.0.0 www.thedailyflogger.com
 0.0.0.0 thedailyfodder.com
 0.0.0.0 www.thedailyfodder.com
+0.0.0.0 thedailyiberian.com
+0.0.0.0 www.thedailyiberian.com
 0.0.0.0 thedailymash.co.uk
 0.0.0.0 www.thedailymash.co.uk
 0.0.0.0 thedailysheeple.com
@@ -23204,6 +23242,8 @@
 0.0.0.0 www.thelegacyoflove.org
 0.0.0.0 theleoterrell.com
 0.0.0.0 www.theleoterrell.com
+0.0.0.0 theliberal.ie
+0.0.0.0 www.theliberal.ie
 0.0.0.0 thelibertarianrepublic.com
 0.0.0.0 www.thelibertarianrepublic.com
 0.0.0.0 thelibertybeacon.com
@@ -24464,6 +24504,8 @@
 0.0.0.0 www.tv.us-west-1c.infowars.com
 0.0.0.0 tvassets.infowars.com
 0.0.0.0 www.tvassets.infowars.com
+0.0.0.0 tvbs.com.tw
+0.0.0.0 www.tvbs.com.tw
 0.0.0.0 tvlibertes.com
 0.0.0.0 www.tvlibertes.com
 0.0.0.0 tvnewsitalia.com
