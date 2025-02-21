@@ -1339,3 +1339,18 @@ psychreg.org
 
 # Independent Medical Alliance - IMA (USA)
 imahealth.org
+
+# Truth Theory (UK)
+truththeory.com
+
+# GMO.News (USA)
+gmo.news
+
+# GreatReject Bias (Netherlands)
+greatreject.org
+
+# ThoughtPolice.News (USA)
+thoughtpolice.news
+
+# Science, Public Health Policy & the Law (USA)
+publichealthpolicyjournal.com

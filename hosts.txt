@@ -270,6 +270,8 @@
 0.0.0.0 www.64.135.21.5
 0.0.0.0 660wxqw.com
 0.0.0.0 www.660wxqw.com
+0.0.0.0 68.64.34.61
+0.0.0.0 www.68.64.34.61
 0.0.0.0 6hwzzfs2iy.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 www.6hwzzfs2iy.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 70news.wordpress.com
@@ -858,6 +860,8 @@
 0.0.0.0 www.aktueltspania.net
 0.0.0.0 al.com
 0.0.0.0 www.al.com
+0.0.0.0 alabamapolicy.org
+0.0.0.0 www.alabamapolicy.org
 0.0.0.0 alacrity.8ch.net
 0.0.0.0 www.alacrity.8ch.net
 0.0.0.0 alaindebenoist.com
@@ -1092,6 +1096,8 @@
 0.0.0.0 www.americainsider.org
 0.0.0.0 americaismyname.org
 0.0.0.0 www.americaismyname.org
+0.0.0.0 americanaccountabilityfoundation.com
+0.0.0.0 www.americanaccountabilityfoundation.com
 0.0.0.0 americanactionforum.org
 0.0.0.0 www.americanactionforum.org
 0.0.0.0 americanactionnetwork.org
@@ -1108,6 +1114,8 @@
 0.0.0.0 www.americanborderpatrol.com
 0.0.0.0 americancatholictribune.com
 0.0.0.0 www.americancatholictribune.com
+0.0.0.0 americanconsequences.com
+0.0.0.0 www.americanconsequences.com
 0.0.0.0 americanconservativemovement.com
 0.0.0.0 www.americanconservativemovement.com
 0.0.0.0 americancontingency.com
@@ -2098,6 +2106,8 @@
 0.0.0.0 www.backtheblueny.com
 0.0.0.0 backup.d.tube
 0.0.0.0 www.backup.d.tube
+0.0.0.0 baconsrebellion.com
+0.0.0.0 www.baconsrebellion.com
 0.0.0.0 bacskaijanos.fidesz.hu
 0.0.0.0 www.bacskaijanos.fidesz.hu
 0.0.0.0 bad-boys.us
@@ -5404,6 +5414,8 @@
 0.0.0.0 www.dailyken.com
 0.0.0.0 dailykos.com
 0.0.0.0 www.dailykos.com
+0.0.0.0 dailyleader.com
+0.0.0.0 www.dailyleader.com
 0.0.0.0 dailymail.co.uk
 0.0.0.0 www.dailymail.co.uk
 0.0.0.0 dailynews.com
@@ -6948,6 +6960,8 @@
 0.0.0.0 www.eluniverso.com
 0.0.0.0 eluxemagazine.com
 0.0.0.0 www.eluxemagazine.com
+0.0.0.0 elvocero.com
+0.0.0.0 www.elvocero.com
 0.0.0.0 em.dlive.tv
 0.0.0.0 www.em.dlive.tv
 0.0.0.0 em8er.com
@@ -7020,8 +7034,6 @@
 0.0.0.0 www.en.alleanzanazionale.it
 0.0.0.0 en.bbarta24.net
 0.0.0.0 www.en.bbarta24.net
-0.0.0.0 en.granma.cu
-0.0.0.0 www.en.granma.cu
 0.0.0.0 en.hawarnews.org
 0.0.0.0 www.en.hawarnews.org
 0.0.0.0 en.irefeurope.org
@@ -9310,8 +9322,18 @@
 0.0.0.0 www.gonzoglobe.com
 0.0.0.0 good-music.com
 0.0.0.0 www.good-music.com
+0.0.0.0 gooddaycasper.com
+0.0.0.0 www.gooddaycasper.com
+0.0.0.0 gooddaycheyenne.com
+0.0.0.0 www.gooddaycheyenne.com
 0.0.0.0 gooddayfortcollins.com
 0.0.0.0 www.gooddayfortcollins.com
+0.0.0.0 gooddaygillette.com
+0.0.0.0 www.gooddaygillette.com
+0.0.0.0 gooddaylaramie.com
+0.0.0.0 www.gooddaylaramie.com
+0.0.0.0 gooddaysheridan.com
+0.0.0.0 www.gooddaysheridan.com
 0.0.0.0 goodgopher.com
 0.0.0.0 www.goodgopher.com
 0.0.0.0 goodmorningliberty.us
@@ -9418,6 +9440,8 @@
 0.0.0.0 www.granitepostnews.com
 0.0.0.0 granitestatetimes.com
 0.0.0.0 www.granitestatetimes.com
+0.0.0.0 granma.cu
+0.0.0.0 www.granma.cu
 0.0.0.0 graph.dlive.tv
 0.0.0.0 www.graph.dlive.tv
 0.0.0.0 graph.prd.dlive.tv
@@ -9932,6 +9956,8 @@
 0.0.0.0 www.heartlandernews.com
 0.0.0.0 heathenwomen.com
 0.0.0.0 www.heathenwomen.com
+0.0.0.0 heatst.com
+0.0.0.0 www.heatst.com
 0.0.0.0 heavenlystate.com
 0.0.0.0 www.heavenlystate.com
 0.0.0.0 heaviermetal.net
@@ -14046,6 +14072,8 @@
 0.0.0.0 www.media6.8ch.net
 0.0.0.0 mediabuzz.org
 0.0.0.0 www.mediabuzz.org
+0.0.0.0 mediacircus.com
+0.0.0.0 www.mediacircus.com
 0.0.0.0 mediafactwatch.com
 0.0.0.0 www.mediafactwatch.com
 0.0.0.0 mediakit.breitbart.com
@@ -14496,6 +14524,8 @@
 0.0.0.0 www.misdaadnederland.nl
 0.0.0.0 mises.org
 0.0.0.0 www.mises.org
+0.0.0.0 misionverdad.com
+0.0.0.0 www.misionverdad.com
 0.0.0.0 mission.lc.org
 0.0.0.0 www.mission.lc.org
 0.0.0.0 missionamerica.com
@@ -17676,6 +17706,8 @@
 0.0.0.0 www.peoriasun.com
 0.0.0.0 peppercave.com
 0.0.0.0 www.peppercave.com
+0.0.0.0 perc.org
+0.0.0.0 www.perc.org
 0.0.0.0 perdavvero.com
 0.0.0.0 www.perdavvero.com
 0.0.0.0 perezhilton.com
@@ -18266,6 +18298,8 @@
 0.0.0.0 www.preferhealthystuff.minds.com
 0.0.0.0 premium.remnantnewspaper.com
 0.0.0.0 www.premium.remnantnewspaper.com
+0.0.0.0 prentissheadlight.com
+0.0.0.0 www.prentissheadlight.com
 0.0.0.0 preparedness.news
 0.0.0.0 www.preparedness.news
 0.0.0.0 prepareforchange.net
@@ -18576,6 +18610,8 @@
 0.0.0.0 www.prov-varese.leganord.org
 0.0.0.0 prov-vco.leganord.org
 0.0.0.0 www.prov-vco.leganord.org
+0.0.0.0 providencemag.com
+0.0.0.0 www.providencemag.com
 0.0.0.0 providencereporter.com
 0.0.0.0 www.providencereporter.com
 0.0.0.0 provincialeverona.leganord.org
@@ -18610,6 +18646,8 @@
 0.0.0.0 www.public-jenkins.triller.co
 0.0.0.0 publicadvocateusa.org
 0.0.0.0 www.publicadvocateusa.org
+0.0.0.0 publichealthpolicyjournal.com
+0.0.0.0 www.publichealthpolicyjournal.com
 0.0.0.0 publicinterestlegal.org
 0.0.0.0 www.publicinterestlegal.org
 0.0.0.0 publicsquaremag.org
@@ -19056,6 +19094,8 @@
 0.0.0.0 www.realfunny.info
 0.0.0.0 realhistorychan.com
 0.0.0.0 www.realhistorychan.com
+0.0.0.0 realitatea.net
+0.0.0.0 www.realitatea.net
 0.0.0.0 realitycheck.radio
 0.0.0.0 www.realitycheck.radio
 0.0.0.0 realitycheck.vlaamsbelang.org
@@ -21730,6 +21770,8 @@
 0.0.0.0 www.standwithtucker.com
 0.0.0.0 stanislausnews.com
 0.0.0.0 www.stanislausnews.com
+0.0.0.0 stansberryresearch.com
+0.0.0.0 www.stansberryresearch.com
 0.0.0.0 star-telegram.com
 0.0.0.0 www.star-telegram.com
 0.0.0.0 starbuckswatch.news
@@ -22802,6 +22844,8 @@
 0.0.0.0 www.tgwturk.8ch.net
 0.0.0.0 th3inn3rlight.net
 0.0.0.0 www.th3inn3rlight.net
+0.0.0.0 thairath.co.th
+0.0.0.0 www.thairath.co.th
 0.0.0.0 thaisdescufon.com
 0.0.0.0 www.thaisdescufon.com
 0.0.0.0 tharawat-magazine.com
@@ -22912,6 +22956,8 @@
 0.0.0.0 www.thebrunswicknews.com
 0.0.0.0 thebulwark.com
 0.0.0.0 www.thebulwark.com
+0.0.0.0 theburkean.ie
+0.0.0.0 www.theburkean.ie
 0.0.0.0 theburningplatform.com
 0.0.0.0 www.theburningplatform.com
 0.0.0.0 thecabin.net
@@ -23086,6 +23132,8 @@
 0.0.0.0 www.thefiscaltimes.com
 0.0.0.0 theflatearthsociety.org
 0.0.0.0 www.theflatearthsociety.org
+0.0.0.0 theflstandard.com
+0.0.0.0 www.theflstandard.com
 0.0.0.0 theforbiddenknowledge.com
 0.0.0.0 www.theforbiddenknowledge.com
 0.0.0.0 thefp.com
@@ -23524,6 +23572,8 @@
 0.0.0.0 www.thereisnopandemic.net
 0.0.0.0 thereligionofpeace.com
 0.0.0.0 www.thereligionofpeace.com
+0.0.0.0 thereload.com
+0.0.0.0 www.thereload.com
 0.0.0.0 theremembranceproject.org
 0.0.0.0 www.theremembranceproject.org
 0.0.0.0 thereporterz.com
@@ -23808,6 +23858,8 @@
 0.0.0.0 www.thoughtfultherapists.org
 0.0.0.0 thoughtoffense.wordpress.com
 0.0.0.0 www.thoughtoffense.wordpress.com
+0.0.0.0 thoughtpolice.news
+0.0.0.0 www.thoughtpolice.news
 0.0.0.0 thread-puller.party
 0.0.0.0 www.thread-puller.party
 0.0.0.0 threepercenternation.com
@@ -23852,6 +23904,8 @@
 0.0.0.0 www.tibaistvan.fidesz.hu
 0.0.0.0 tibro.sd.se
 0.0.0.0 www.tibro.sd.se
+0.0.0.0 tichyseinblick.de
+0.0.0.0 www.tichyseinblick.de
 0.0.0.0 ticino.leganord.org
 0.0.0.0 www.ticino.leganord.org
 0.0.0.0 tidaholm.sd.se
@@ -23970,6 +24024,8 @@
 0.0.0.0 www.todayisamerica.com
 0.0.0.0 todayonline.com
 0.0.0.0 www.todayonline.com
+0.0.0.0 todayville.com
+0.0.0.0 www.todayville.com
 0.0.0.0 toddstarnes.com
 0.0.0.0 www.toddstarnes.com
 0.0.0.0 toender.danskfolkeparti.dk
@@ -24406,6 +24462,8 @@
 0.0.0.0 www.truthsocial.com
 0.0.0.0 truthstreammedia.com
 0.0.0.0 www.truthstreammedia.com
+0.0.0.0 truththeory.com
+0.0.0.0 www.truththeory.com
 0.0.0.0 truthuncensored.net
 0.0.0.0 www.truthuncensored.net
 0.0.0.0 truthundercover.com

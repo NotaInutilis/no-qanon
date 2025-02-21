@@ -4541,7 +4541,7 @@ constitutionstatenews.com
 # Cornhusker State News (USA)
 cornhuskerstatenews.com
 
-# Corona Transition (Switzerland)
+# Transition News (Switzerland)
 corona-transition.org
 transition-news.org
 
@@ -8503,3 +8503,92 @@ theliberal.ie
 
 # Romania TV (Romania)
 romaniatv.net
+
+# Upper Bucks Today (USA)
+upperbuckstoday.com
+
+# Providence Magazine (USA)
+providencemag.com
+
+# GMO.News (USA)
+gmo.news
+
+# Coolidge Examiner (USA)
+
+# El Vocero (Puerto Rico)
+elvocero.com
+
+# The Burkean (Ireland)
+theburkean.ie
+
+# Conservative Revival (USA)
+conservativerevival.com
+
+# West Central PA News (USA)
+wcpanews.com
+
+# American Consequences (USA)
+americanconsequences.com
+stansberryresearch.com
+
+# West Montgomery Times (USA)
+westmonttimes.com
+
+# Brookhaven Daily-Leader (USA)
+dailyleader.com
+
+# Tichys Einblick (Germany)
+tichyseinblick.de
+
+# Realitatea.net (Romania)
+realitatea.net
+
+# American Accountablility Foundation - AFF (USA)
+americanaccountabilityfoundation.com
+
+# Prentiss Headlight (USA)
+prentissheadlight.com
+
+# The Reload (USA)
+thereload.com
+
+# Media Circus (USA)
+mediacircus.com
+
+# Property and Environment Research Center - PERC (USA)
+perc.org
+
+# Thairath (Thailand)
+thairath.co.th
+
+# ThoughtPolice.News (USA)
+thoughtpolice.news
+
+# EurAsia Daily (Russia)
+eadaily.com
+
+# Alabama Policy Institute (USA)
+alabamapolicy.org
+
+# Westmoreland Review (USA)
+westmorelandreview.com
+
+# The Florida Standard (USA)
+theflstandard.com
+
+# Bacon's Rebellion (USA)
+baconsrebellion.com
+
+# Heat Street (USA)
+heatst.com
+
+# Todayville (Canada)
+todayville.com
+
+# Science, Public Health Policy & the Law (USA)
+publichealthpolicyjournal.com
+
+# HermanCain.com (USA)
+hermancain.com
+
+# Eloy Enterprise (USA)

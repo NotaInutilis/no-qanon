@@ -752,7 +752,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.discernreport.com/*
 
 # Conservative Politics Today (USA)
-*://*.facebook.com/*
+*://*.facebook.com/conservativepoliticstoday/*
 
 # Conservative Post (USA)
 *://*.conservativepost.com/*
@@ -778,7 +778,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 # Cornhusker State News (USA)
 *://*.cornhuskerstatenews.com/*
 
-# Corona Transition (Switzerland)
+# Transition News (Switzerland)
 *://*.corona-transition.org/*
 *://*.transition-news.org/*
 
@@ -1406,7 +1406,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.granitepostnews.com/*
 
 # Granma (Cuba)
-*://*.en.granma.cu/*
+*://*.granma.cu/*
 
 # Great American Daily (USA)
 *://*.greatamericandaily.com/*
@@ -4579,7 +4579,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 *://*.womenarehuman.com/*
 
 # Women’s Rights News (USA)
-*://*.facebook.com/*
+*://*.facebook.com/WOMENSRIGHTSNEWS/*
 
 # WorldGreyNews.Com (Serbia)
 *://*.worldgreynews.com/*
@@ -4873,3 +4873,49 @@ homepage: https://github.com/RubenKelevra/ublacklist_fakenews
 
 # The Liberal (Ireland)
 *://*.theliberal.ie/*
+
+# Upper Bucks Today (USA)
+*://*.upperbuckstoday.com/*
+
+# Good Day Gillette (USA)
+*://*.gooddaygillette.com/*
+
+# West Central PA News (USA)
+*://*.wcpanews.com/*
+
+# Good Day Casper (USA)
+*://*.gooddaycasper.com/*
+
+# West Montgomery Times (USA)
+*://*.westmonttimes.com/*
+
+# Good Day Cheyenne (USA)
+*://*.gooddaycheyenne.com/*
+
+# Realitatea.net (Romania)
+*://*.realitatea.net/*
+
+# DeadState (USA)
+*://*.facebook.com/deadstate.org*
+*://*.deadstate.org/*
+
+# Mision Verdad (Venezuela)
+*://*.misionverdad.com/*
+
+# Pants on Fire News (USA)
+*://*.pantsonfirenews.com/*
+
+# EurAsia Daily (Russia)
+*://*.eadaily.com/*
+
+# Good Day Laramie (USA)
+*://*.gooddaylaramie.com/*
+
+# Westmoreland Review (USA)
+*://*.westmorelandreview.com/*
+
+# The Florida Standard (USA)
+*://*.theflstandard.com/*
+
+# Good Day Sheridan (USA)
+*://*.gooddaysheridan.com/*

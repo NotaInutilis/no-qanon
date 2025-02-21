@@ -138,6 +138,7 @@
 ||64.135.21.3^
 ||64.135.21.5^
 ||660wxqw.com^
+||68.64.34.61^
 ||6hwzzfs2iy.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org^
 ||70news.wordpress.com^
 ||73.0.253.181^
@@ -432,6 +433,7 @@
 ||aktuelle-nachrichten.app^
 ||aktueltspania.net^
 ||al.com^
+||alabamapolicy.org^
 ||alacrity.8ch.net^
 ||alaindebenoist.com^
 ||alalumieredunouveaumonde.blogspot.fr^
@@ -549,6 +551,7 @@
 ||americafullspeed.com^
 ||americainsider.org^
 ||americaismyname.org^
+||americanaccountabilityfoundation.com^
 ||americanactionforum.org^
 ||americanactionnetwork.org^
 ||americanactionnews.com^
@@ -557,6 +560,7 @@
 ||americanblog.com^
 ||americanborderpatrol.com^
 ||americancatholictribune.com^
+||americanconsequences.com^
 ||americanconservativemovement.com^
 ||americancontingency.com^
 ||americandebunk.com^
@@ -1052,6 +1056,7 @@
 ||backthebluenc.org^
 ||backtheblueny.com^
 ||backup.d.tube^
+||baconsrebellion.com^
 ||bacskaijanos.fidesz.hu^
 ||bad-boys.us^
 ||badadventurer.minds.com^
@@ -2705,6 +2710,7 @@
 ||dailyjournal.net^
 ||dailyken.com^
 ||dailykos.com^
+||dailyleader.com^
 ||dailymail.co.uk^
 ||dailynews.com^
 ||dailynews11.com^
@@ -3477,6 +3483,7 @@
 ||elsevierweekblad.nl^
 ||eluniverso.com^
 ||eluxemagazine.com^
+||elvocero.com^
 ||em.dlive.tv^
 ||em8er.com^
 ||email.donaldjtrump.com^
@@ -3513,7 +3520,6 @@
 ||en-volve.com^
 ||en.alleanzanazionale.it^
 ||en.bbarta24.net^
-||en.granma.cu^
 ||en.hawarnews.org^
 ||en.irefeurope.org^
 ||en.kremlin.ru^
@@ -4658,7 +4664,12 @@
 ||gonzalolira.blogspot.com^
 ||gonzoglobe.com^
 ||good-music.com^
+||gooddaycasper.com^
+||gooddaycheyenne.com^
 ||gooddayfortcollins.com^
+||gooddaygillette.com^
+||gooddaylaramie.com^
+||gooddaysheridan.com^
 ||goodgopher.com^
 ||goodmorningliberty.us^
 ||goodnewsmag.org^
@@ -4712,6 +4723,7 @@
 ||granitegrok.com^
 ||granitepostnews.com^
 ||granitestatetimes.com^
+||granma.cu^
 ||graph.dlive.tv^
 ||graph.prd.dlive.tv^
 ||graphics.frc.org^
@@ -4969,6 +4981,7 @@
 ||heartland.org^
 ||heartlandernews.com^
 ||heathenwomen.com^
+||heatst.com^
 ||heavenlystate.com^
 ||heaviermetal.net^
 ||heavy.com^
@@ -7026,6 +7039,7 @@
 ||media2rise.com^
 ||media6.8ch.net^
 ||mediabuzz.org^
+||mediacircus.com^
 ||mediafactwatch.com^
 ||mediakit.breitbart.com^
 ||medialibre.eu^
@@ -7251,6 +7265,7 @@
 ||misc1.rationalwiki.org^
 ||misdaadnederland.nl^
 ||mises.org^
+||misionverdad.com^
 ||mission.lc.org^
 ||missionamerica.com^
 ||misticafascista.blogspot.com^
@@ -8841,6 +8856,7 @@
 ||peoriastandard.com^
 ||peoriasun.com^
 ||peppercave.com^
+||perc.org^
 ||perdavvero.com^
 ||perezhilton.com^
 ||perryguide.com^
@@ -9136,6 +9152,7 @@
 ||predrag.devstage.rumble.com^
 ||preferhealthystuff.minds.com^
 ||premium.remnantnewspaper.com^
+||prentissheadlight.com^
 ||preparedness.news^
 ||prepareforchange.net^
 ||preparewithredpill78.com^
@@ -9291,6 +9308,7 @@
 ||prov-vallecamonica2.leganord.org^
 ||prov-varese.leganord.org^
 ||prov-vco.leganord.org^
+||providencemag.com^
 ||providencereporter.com^
 ||provincialeverona.leganord.org^
 ||provinciave.leganord.org^
@@ -9308,6 +9326,7 @@
 ||ptc.com.pk^
 ||public-jenkins.triller.co^
 ||publicadvocateusa.org^
+||publichealthpolicyjournal.com^
 ||publicinterestlegal.org^
 ||publicsquaremag.org^
 ||publishedreporter.com^
@@ -9531,6 +9550,7 @@
 ||realfarmacy.com^
 ||realfunny.info^
 ||realhistorychan.com^
+||realitatea.net^
 ||realitycheck.radio^
 ||realitycheck.vlaamsbelang.org^
 ||realitycircuit.com^
@@ -10868,6 +10888,7 @@
 ||standwithisrael.today^
 ||standwithtucker.com^
 ||stanislausnews.com^
+||stansberryresearch.com^
 ||star-telegram.com^
 ||starbuckswatch.news^
 ||starcoincollection.com^
@@ -11404,6 +11425,7 @@
 ||tgpfactcheck.com^
 ||tgwturk.8ch.net^
 ||th3inn3rlight.net^
+||thairath.co.th^
 ||thaisdescufon.com^
 ||tharawat-magazine.com^
 ||thatparkplace.com^
@@ -11459,6 +11481,7 @@
 ||thebrexitparty.org^
 ||thebrunswicknews.com^
 ||thebulwark.com^
+||theburkean.ie^
 ||theburningplatform.com^
 ||thecabin.net^
 ||thecancermagazine.blogspot.it^
@@ -11546,6 +11569,7 @@
 ||thefirsttv.com^
 ||thefiscaltimes.com^
 ||theflatearthsociety.org^
+||theflstandard.com^
 ||theforbiddenknowledge.com^
 ||thefp.com^
 ||thefreedomlovingamigos.blogspot.com^
@@ -11765,6 +11789,7 @@
 ||theregionnews.com^
 ||thereisnopandemic.net^
 ||thereligionofpeace.com^
+||thereload.com^
 ||theremembranceproject.org^
 ||thereporterz.com^
 ||theresilientearth.com^
@@ -11907,6 +11932,7 @@
 ||thoughtcrimeradio.net^
 ||thoughtfultherapists.org^
 ||thoughtoffense.wordpress.com^
+||thoughtpolice.news^
 ||thread-puller.party^
 ||threepercenternation.com^
 ||threepercenters.org^
@@ -11929,6 +11955,7 @@
 ||tianyinmusic.com^
 ||tibaistvan.fidesz.hu^
 ||tibro.sd.se^
+||tichyseinblick.de^
 ||ticino.leganord.org^
 ||tidaholm.sd.se^
 ||tienen.vlaamsbelang.org^
@@ -11988,6 +12015,7 @@
 ||tocsin-media.fr^
 ||todayisamerica.com^
 ||todayonline.com^
+||todayville.com^
 ||toddstarnes.com^
 ||toender.danskfolkeparti.dk^
 ||together.clouthub.com^
@@ -12206,6 +12234,7 @@
 ||truthseekers.joburg^
 ||truthsocial.com^
 ||truthstreammedia.com^
+||truththeory.com^
 ||truthuncensored.net^
 ||truthundercover.com^
 ||truthwiki.org^
