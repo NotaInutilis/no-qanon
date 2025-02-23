@@ -4874,3 +4874,18 @@ theflstandard.com
 
 # Good Day Sheridan (USA)
 gooddaysheridan.com
+
+# York County News (USA)
+yorkconews.com
+
+# Hinds Today (USA)
+hindstoday.com
+
+# Good Day Billings (USA)
+gooddaybillings.com
+
+# Pittsburgh Review (USA)
+pittreview.com
+
+# Scranton Reporter (USA)
+scrantonreporter.com

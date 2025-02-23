@@ -2648,6 +2648,8 @@
 0.0.0.0 www.bilzen.vlaamsbelang.org
 0.0.0.0 binary.org.au
 0.0.0.0 www.binary.org.au
+0.0.0.0 biobiochile.cl
+0.0.0.0 www.biobiochile.cl
 0.0.0.0 biodefense.com
 0.0.0.0 www.biodefense.com
 0.0.0.0 biologos.org
@@ -3820,6 +3822,8 @@
 0.0.0.0 www.censortrack.org
 0.0.0.0 centennialstatenews.com
 0.0.0.0 www.centennialstatenews.com
+0.0.0.0 centerforindividualism.org
+0.0.0.0 www.centerforindividualism.org
 0.0.0.0 centerforsecuritypolicy.org
 0.0.0.0 www.centerforsecuritypolicy.org
 0.0.0.0 centipedenation.com
@@ -5358,6 +5362,8 @@
 0.0.0.0 www.dagelijks.nu
 0.0.0.0 dagelijksekrant.nl
 0.0.0.0 www.dagelijksekrant.nl
+0.0.0.0 dagelijksestandaard.nl
+0.0.0.0 www.dagelijksestandaard.nl
 0.0.0.0 dagelijksfilmpje.nl
 0.0.0.0 www.dagelijksfilmpje.nl
 0.0.0.0 dagospia.com
@@ -9322,6 +9328,8 @@
 0.0.0.0 www.gonzoglobe.com
 0.0.0.0 good-music.com
 0.0.0.0 www.good-music.com
+0.0.0.0 gooddaybillings.com
+0.0.0.0 www.gooddaybillings.com
 0.0.0.0 gooddaycasper.com
 0.0.0.0 www.gooddaycasper.com
 0.0.0.0 gooddaycheyenne.com
@@ -9758,6 +9766,8 @@
 0.0.0.0 www.hancockguide.com
 0.0.0.0 hancocknyguide.com
 0.0.0.0 www.hancocknyguide.com
+0.0.0.0 handelsblatt.com
+0.0.0.0 www.handelsblatt.com
 0.0.0.0 handsoffourkids.ca
 0.0.0.0 www.handsoffourkids.ca
 0.0.0.0 hangthebankers.com
@@ -10808,6 +10818,8 @@
 0.0.0.0 www.ilrisvegliodellamente.altervista.org
 0.0.0.0 ilsapereepotere.blogspot.it
 0.0.0.0 www.ilsapereepotere.blogspot.it
+0.0.0.0 ilsole24ore.com
+0.0.0.0 www.ilsole24ore.com
 0.0.0.0 image-cdn.parler.com
 0.0.0.0 www.image-cdn.parler.com
 0.0.0.0 image.8ch.net
@@ -11418,6 +11430,8 @@
 0.0.0.0 www.jamesfetzer.org
 0.0.0.0 jameslico.com
 0.0.0.0 www.jameslico.com
+0.0.0.0 jamesmadison.org
+0.0.0.0 www.jamesmadison.org
 0.0.0.0 jamesredpillsamerica.com
 0.0.0.0 www.jamesredpillsamerica.com
 0.0.0.0 jamesspann.com
@@ -14710,6 +14724,8 @@
 0.0.0.0 www.morbylanga.sd.se
 0.0.0.0 morelosdailypost.com
 0.0.0.0 www.morelosdailypost.com
+0.0.0.0 morgenpost.de
+0.0.0.0 www.morgenpost.de
 0.0.0.0 morickamegpiskota.housefmradio.eu
 0.0.0.0 www.morickamegpiskota.housefmradio.eu
 0.0.0.0 moringjozsefattila.fidesz.hu
@@ -17286,6 +17302,8 @@
 0.0.0.0 www.ownlibtards.com
 0.0.0.0 oxelosund.sd.se
 0.0.0.0 www.oxelosund.sd.se
+0.0.0.0 oxfordeagle.com
+0.0.0.0 www.oxfordeagle.com
 0.0.0.0 oxfordmetoday.com
 0.0.0.0 www.oxfordmetoday.com
 0.0.0.0 oxfordreporter.com
@@ -20164,6 +20182,8 @@
 0.0.0.0 www.say.bitchute.com
 0.0.0.0 saychinesevirus.com
 0.0.0.0 www.saychinesevirus.com
+0.0.0.0 sbaprolife.org
+0.0.0.0 www.sbaprolife.org
 0.0.0.0 sbgi.net
 0.0.0.0 www.sbgi.net
 0.0.0.0 sbsun.com
@@ -22804,6 +22824,8 @@
 0.0.0.0 www.texasgop.org
 0.0.0.0 texasnationalistparty.com
 0.0.0.0 www.texasnationalistparty.com
+0.0.0.0 texaspolicy.com
+0.0.0.0 www.texaspolicy.com
 0.0.0.0 texasscorecard.com
 0.0.0.0 www.texasscorecard.com
 0.0.0.0 texasthreepercenters.org

@@ -9162,3 +9162,48 @@ homepage: https://github.com/RubenKelevra/ublacklist_rightwing_media
 
 # Eloy Enterprise (USA)
 *://*.pinalcentral.com/eloy_enterprise/
+
+# Center for Individualism (USA)
+*://*.centerforindividualism.org/*
+
+# Dagelijkse Standaard (Netherlands)
+*://*.dagelijksestandaard.nl/*
+
+# York County News (USA)
+*://*.yorkconews.com/*
+
+# James Madison Institute (USA)
+*://*.jamesmadison.org/*
+
+# Hinds Today (USA)
+*://*.hindstoday.com/*
+
+# Berliner Morgenpost (Germany)
+*://*.morgenpost.de/*
+
+# Oxford Eagle (USA)
+*://*.oxfordeagle.com/*
+
+# Susan B. Anthony Pro-Life America (USA)
+*://*.sbaprolife.org/*
+
+# Texas Public Policy Foundation (USA)
+*://*.texaspolicy.com/*
+
+# Handelsblatt (Germany)
+*://*.handelsblatt.com/*
+
+# Pittsburgh Review (USA)
+*://*.pittreview.com/*
+
+# WCBM – 680 AM – Baltimore (USA)
+*://*.wcbm.com/*
+
+# BioBioChile (Chile)
+*://*.biobiochile.cl/*
+
+# Scranton Reporter (USA)
+*://*.scrantonreporter.com/*
+
+# Il Sole 24 Ore (Italy)
+*://*.ilsole24ore.com/*

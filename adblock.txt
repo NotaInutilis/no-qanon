@@ -1327,6 +1327,7 @@
 ||billytk.com^
 ||bilzen.vlaamsbelang.org^
 ||binary.org.au^
+||biobiochile.cl^
 ||biodefense.com^
 ||biologos.org^
 ||biomedicaltreatmentforautism.com^
@@ -1913,6 +1914,7 @@
 ||censorship.news^
 ||censortrack.org^
 ||centennialstatenews.com^
+||centerforindividualism.org^
 ||centerforsecuritypolicy.org^
 ||centipedenation.com^
 ||centralalamedanews.com^
@@ -2682,6 +2684,7 @@
 ||dafamedia.or.kr^
 ||dagelijks.nu^
 ||dagelijksekrant.nl^
+||dagelijksestandaard.nl^
 ||dagelijksfilmpje.nl^
 ||dagospia.com^
 ||daily-journal.com^
@@ -4664,6 +4667,7 @@
 ||gonzalolira.blogspot.com^
 ||gonzoglobe.com^
 ||good-music.com^
+||gooddaybillings.com^
 ||gooddaycasper.com^
 ||gooddaycheyenne.com^
 ||gooddayfortcollins.com^
@@ -4882,6 +4886,7 @@
 ||hammondstar.com^
 ||hancockguide.com^
 ||hancocknyguide.com^
+||handelsblatt.com^
 ||handsoffourkids.ca^
 ||hangthebankers.com^
 ||haninge.sd.se^
@@ -5407,6 +5412,7 @@
 ||ilradicale.altervista.org^
 ||ilrisvegliodellamente.altervista.org^
 ||ilsapereepotere.blogspot.it^
+||ilsole24ore.com^
 ||image-cdn.parler.com^
 ||image.8ch.net^
 ||image.d.tube^
@@ -5712,6 +5718,7 @@
 ||jamesfetzer.blogspot.com^
 ||jamesfetzer.org^
 ||jameslico.com^
+||jamesmadison.org^
 ||jamesredpillsamerica.com^
 ||jamesspann.com^
 ||jamestownsun.com^
@@ -7358,6 +7365,7 @@
 ||morasta.it^
 ||morbylanga.sd.se^
 ||morelosdailypost.com^
+||morgenpost.de^
 ||morickamegpiskota.housefmradio.eu^
 ||moringjozsefattila.fidesz.hu^
 ||morningnewsusa.com^
@@ -8646,6 +8654,7 @@
 ||owensoundsuntimes.com^
 ||ownlibtards.com^
 ||oxelosund.sd.se^
+||oxfordeagle.com^
 ||oxfordmetoday.com^
 ||oxfordreporter.com^
 ||oxfordshire.ukip.org^
@@ -10085,6 +10094,7 @@
 ||sawmansays.com^
 ||say.bitchute.com^
 ||saychinesevirus.com^
+||sbaprolife.org^
 ||sbgi.net^
 ||sbsun.com^
 ||scalaskanews.com^
@@ -11405,6 +11415,7 @@
 ||texasbusinesscoalition.com^
 ||texasgop.org^
 ||texasnationalistparty.com^
+||texaspolicy.com^
 ||texasscorecard.com^
 ||texasthreepercenters.org^
 ||texemarrs.com^
