@@ -2450,6 +2450,7 @@
 *://*.cosmic-gitlab-hook.devstage.rumble.com/*
 *://*.cosmic-gitlab-hooks.devstage.rumble.com/*
 *://*.cosmic.news/*
+*://*.cosmicbook.news/*
 *://*.cosmicintelligenceagency.com/*
 *://*.cosmicnews.org/*
 *://*.cosmicreich.wordpress.com/*

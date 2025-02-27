@@ -4902,6 +4902,8 @@
 0.0.0.0 www.cosmic-gitlab-hooks.devstage.rumble.com
 0.0.0.0 cosmic.news
 0.0.0.0 www.cosmic.news
+0.0.0.0 cosmicbook.news
+0.0.0.0 www.cosmicbook.news
 0.0.0.0 cosmicintelligenceagency.com
 0.0.0.0 www.cosmicintelligenceagency.com
 0.0.0.0 cosmicnews.org

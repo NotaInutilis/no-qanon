@@ -2450,6 +2450,7 @@ address=/cosmetics.news/
 address=/cosmic-gitlab-hook.devstage.rumble.com/
 address=/cosmic-gitlab-hooks.devstage.rumble.com/
 address=/cosmic.news/
+address=/cosmicbook.news/
 address=/cosmicintelligenceagency.com/
 address=/cosmicnews.org/
 address=/cosmicreich.wordpress.com/
