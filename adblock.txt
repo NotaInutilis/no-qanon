@@ -43,6 +43,7 @@
 ||185.214.152.172^
 ||185.214.152.189^
 ||185.214.152.254^
+||192.241.157.236^
 ||194.190.139.3^
 ||199.85.210.82^
 ||19fortyfive.com^
@@ -62,6 +63,7 @@
 ||2017.cap.fidesz.hu^
 ||2020conservative.com^
 ||2020electioncenter.com^
+||209.59.154.37^
 ||20minutenews.com^
 ||21cir.com^
 ||21stcenturywire.com^
@@ -165,6 +167,7 @@
 ||911truth.org^
 ||912candidates.org^
 ||941-8128www.chick.com^
+||96.125.172.62^
 ||980waav.com^
 ||980wxlm.com^
 ||997wpro.com^
@@ -250,6 +253,7 @@
 ||ace.mu.nu^
 ||aceflashman.wordpress.com^
 ||achtkarspelen.pvv.nl^
+||acio-official.org^
 ||aclj.org^
 ||acpeds.org^
 ||acrossdifficultcountry.blogspot.com^
@@ -657,6 +661,10 @@
 ||andmagazine.com^
 ||andreaskalcker.com^
 ||andrewkaufmanmd.com^
+||andronetalks.tumblr.com^
+||andronetalks5d.com^
+||andronetalksnews.com^
+||andronetalksradio.com^
 ||andweknow.com^
 ||andweknow.tv^
 ||aneby.sd.se^
@@ -2311,6 +2319,7 @@
 ||concealednation.org^
 ||concernedwomen.org^
 ||conchovalleynews.com^
+||conci.market^
 ||concisepolitics.com^
 ||concordledger.com^
 ||condividilo.org^
@@ -2859,6 +2868,7 @@
 ||deals.breitbart.com^
 ||deathondemand.com^
 ||debka.com^
+||deblala.tumblr.com^
 ||debout-la-france.fr^
 ||debunkingskeptics.com^
 ||debusinessdaily.com^
@@ -7117,6 +7127,7 @@
 ||mentor2day.com^
 ||menz.org.nz^
 ||mepnorthwest1.bnp.org.uk^
+||merandadevan.com^
 ||mercatornet.com^
 ||mercatus.org^
 ||mercedtimes.com^
@@ -7981,6 +7992,7 @@
 ||nodisinfo.com^
 ||noelfic.fr^
 ||noelshack.com^
+||noesis2017.com^
 ||nofacemask.blogspot.com^
 ||nogreaterjoy.org^
 ||noi.org^
@@ -9546,6 +9558,7 @@
 ||readersdigest.at^
 ||readersdigest.ch^
 ||readersdigest.de^
+||readingsbyarael.com^
 ||readynutrition.com^
 ||reagancoalition.com^
 ||real-trumpcoins.com^
@@ -10476,6 +10489,7 @@
 ||sigmagame.substack.com^
 ||signforhunting.com^
 ||signoraggio.it^
+||signsofthelastdays.com^
 ||signup-test.d.tube^
 ||signup.clouthub.com^
 ||signup.d.tube^
@@ -13294,6 +13308,7 @@
 ||whowhatwhy.com^
 ||whowhatwhy.org^
 ||whydontyoutrythis.com^
+||whygodreallyexists.com^
 ||wiartonecho.com^
 ||wibqam.com^
 ||wibusinessdaily.com^

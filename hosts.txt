@@ -80,6 +80,8 @@
 0.0.0.0 www.185.214.152.189
 0.0.0.0 185.214.152.254
 0.0.0.0 www.185.214.152.254
+0.0.0.0 192.241.157.236
+0.0.0.0 www.192.241.157.236
 0.0.0.0 194.190.139.3
 0.0.0.0 www.194.190.139.3
 0.0.0.0 199.85.210.82
@@ -118,6 +120,8 @@
 0.0.0.0 www.2020conservative.com
 0.0.0.0 2020electioncenter.com
 0.0.0.0 www.2020electioncenter.com
+0.0.0.0 209.59.154.37
+0.0.0.0 www.209.59.154.37
 0.0.0.0 20minutenews.com
 0.0.0.0 www.20minutenews.com
 0.0.0.0 21cir.com
@@ -324,6 +328,8 @@
 0.0.0.0 www.912candidates.org
 0.0.0.0 941-8128www.chick.com
 0.0.0.0 www.941-8128www.chick.com
+0.0.0.0 96.125.172.62
+0.0.0.0 www.96.125.172.62
 0.0.0.0 980waav.com
 0.0.0.0 www.980waav.com
 0.0.0.0 980wxlm.com
@@ -494,6 +500,8 @@
 0.0.0.0 www.aceflashman.wordpress.com
 0.0.0.0 achtkarspelen.pvv.nl
 0.0.0.0 www.achtkarspelen.pvv.nl
+0.0.0.0 acio-official.org
+0.0.0.0 www.acio-official.org
 0.0.0.0 aclj.org
 0.0.0.0 www.aclj.org
 0.0.0.0 acpeds.org
@@ -1308,6 +1316,14 @@
 0.0.0.0 www.andreaskalcker.com
 0.0.0.0 andrewkaufmanmd.com
 0.0.0.0 www.andrewkaufmanmd.com
+0.0.0.0 andronetalks.tumblr.com
+0.0.0.0 www.andronetalks.tumblr.com
+0.0.0.0 andronetalks5d.com
+0.0.0.0 www.andronetalks5d.com
+0.0.0.0 andronetalksnews.com
+0.0.0.0 www.andronetalksnews.com
+0.0.0.0 andronetalksradio.com
+0.0.0.0 www.andronetalksradio.com
 0.0.0.0 andweknow.com
 0.0.0.0 www.andweknow.com
 0.0.0.0 andweknow.tv
@@ -4616,6 +4632,8 @@
 0.0.0.0 www.concernedwomen.org
 0.0.0.0 conchovalleynews.com
 0.0.0.0 www.conchovalleynews.com
+0.0.0.0 conci.market
+0.0.0.0 www.conci.market
 0.0.0.0 concisepolitics.com
 0.0.0.0 www.concisepolitics.com
 0.0.0.0 concordledger.com
@@ -5712,6 +5730,8 @@
 0.0.0.0 www.deathondemand.com
 0.0.0.0 debka.com
 0.0.0.0 www.debka.com
+0.0.0.0 deblala.tumblr.com
+0.0.0.0 www.deblala.tumblr.com
 0.0.0.0 debout-la-france.fr
 0.0.0.0 www.debout-la-france.fr
 0.0.0.0 debunkingskeptics.com
@@ -14228,6 +14248,8 @@
 0.0.0.0 www.menz.org.nz
 0.0.0.0 mepnorthwest1.bnp.org.uk
 0.0.0.0 www.mepnorthwest1.bnp.org.uk
+0.0.0.0 merandadevan.com
+0.0.0.0 www.merandadevan.com
 0.0.0.0 mercatornet.com
 0.0.0.0 www.mercatornet.com
 0.0.0.0 mercatus.org
@@ -15956,6 +15978,8 @@
 0.0.0.0 www.noelfic.fr
 0.0.0.0 noelshack.com
 0.0.0.0 www.noelshack.com
+0.0.0.0 noesis2017.com
+0.0.0.0 www.noesis2017.com
 0.0.0.0 nofacemask.blogspot.com
 0.0.0.0 www.nofacemask.blogspot.com
 0.0.0.0 nogreaterjoy.org
@@ -19086,6 +19110,8 @@
 0.0.0.0 www.readersdigest.ch
 0.0.0.0 readersdigest.de
 0.0.0.0 www.readersdigest.de
+0.0.0.0 readingsbyarael.com
+0.0.0.0 www.readingsbyarael.com
 0.0.0.0 readynutrition.com
 0.0.0.0 www.readynutrition.com
 0.0.0.0 reagancoalition.com
@@ -20946,6 +20972,8 @@
 0.0.0.0 www.signforhunting.com
 0.0.0.0 signoraggio.it
 0.0.0.0 www.signoraggio.it
+0.0.0.0 signsofthelastdays.com
+0.0.0.0 www.signsofthelastdays.com
 0.0.0.0 signup-test.d.tube
 0.0.0.0 www.signup-test.d.tube
 0.0.0.0 signup.clouthub.com
@@ -26582,6 +26610,8 @@
 0.0.0.0 www.whowhatwhy.org
 0.0.0.0 whydontyoutrythis.com
 0.0.0.0 www.whydontyoutrythis.com
+0.0.0.0 whygodreallyexists.com
+0.0.0.0 www.whygodreallyexists.com
 0.0.0.0 wiartonecho.com
 0.0.0.0 www.wiartonecho.com
 0.0.0.0 wibqam.com
