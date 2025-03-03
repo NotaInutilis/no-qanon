@@ -544,6 +544,8 @@
 *://*.amazingpolly.net/*
 *://*.amember.davidicke.com/*
 *://*.america.win/*
+*://*.america24.news/*
+*://*.america24news.tumblr.com/*
 *://*.americafirstpatriot.org/*
 *://*.americafirstpolicy.com/*
 *://*.americafirstprospects.com/*
@@ -719,6 +721,7 @@
 *://*.anthraxvaccine.blogspot.com/*
 *://*.anti-empire.com/*
 *://*.anti-spiegel.ru/*
+*://*.anti-war.com/*
 *://*.antiantifa-usa.blogspot.com/*
 *://*.anticancer.news/*
 *://*.antifeminismaustralia.com/*
@@ -730,6 +733,7 @@
 *://*.antiprogre.com/*
 *://*.antivaxxer.icu/*
 *://*.antiwar.com/*
+*://*.antiwar.org/*
 *://*.antoinebaudino.fr/*
 *://*.antoinettejames.com/*
 *://*.antoniusaquinas.wp.com/*

@@ -1090,6 +1090,10 @@
 0.0.0.0 www.amember.davidicke.com
 0.0.0.0 america.win
 0.0.0.0 www.america.win
+0.0.0.0 america24.news
+0.0.0.0 www.america24.news
+0.0.0.0 america24news.tumblr.com
+0.0.0.0 www.america24news.tumblr.com
 0.0.0.0 americafirstpatriot.org
 0.0.0.0 www.americafirstpatriot.org
 0.0.0.0 americafirstpolicy.com
@@ -1440,6 +1444,8 @@
 0.0.0.0 www.anti-empire.com
 0.0.0.0 anti-spiegel.ru
 0.0.0.0 www.anti-spiegel.ru
+0.0.0.0 anti-war.com
+0.0.0.0 www.anti-war.com
 0.0.0.0 antiantifa-usa.blogspot.com
 0.0.0.0 www.antiantifa-usa.blogspot.com
 0.0.0.0 anticancer.news
@@ -1462,6 +1468,8 @@
 0.0.0.0 www.antivaxxer.icu
 0.0.0.0 antiwar.com
 0.0.0.0 www.antiwar.com
+0.0.0.0 antiwar.org
+0.0.0.0 www.antiwar.org
 0.0.0.0 antoinebaudino.fr
 0.0.0.0 www.antoinebaudino.fr
 0.0.0.0 antoinettejames.com
