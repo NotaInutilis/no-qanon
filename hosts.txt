@@ -1140,6 +1140,10 @@
 0.0.0.0 www.americanfaith.com
 0.0.0.0 americanfirearms.org
 0.0.0.0 www.americanfirearms.org
+0.0.0.0 americanfirstmagazine.com
+0.0.0.0 www.americanfirstmagazine.com
+0.0.0.0 americanfirstmagazine.tumblr.com
+0.0.0.0 www.americanfirstmagazine.tumblr.com
 0.0.0.0 americanfreedomradio.com
 0.0.0.0 www.americanfreedomradio.com
 0.0.0.0 americanfreepress.net
@@ -11726,6 +11730,8 @@
 0.0.0.0 www.jointoday.nsm88.org
 0.0.0.0 jokerviral.com
 0.0.0.0 www.jokerviral.com
+0.0.0.0 jonahintheheartofnineveh.blogspot.com
+0.0.0.0 www.jonahintheheartofnineveh.blogspot.com
 0.0.0.0 jonathanturley.org
 0.0.0.0 www.jonathanturley.org
 0.0.0.0 jonesborosun.com
@@ -17794,6 +17800,8 @@
 0.0.0.0 www.petergeorgiouwa-com-au.onenation.org.au
 0.0.0.0 petergeorgiouwa.onenation.org.au
 0.0.0.0 www.petergeorgiouwa.onenation.org.au
+0.0.0.0 peterhalligan.substack.com
+0.0.0.0 www.peterhalligan.substack.com
 0.0.0.0 petermcculloughmd.substack.com
 0.0.0.0 www.petermcculloughmd.substack.com
 0.0.0.0 petersantilli.com
@@ -23212,6 +23220,8 @@
 0.0.0.0 www.thefreethoughtproject.comrty.us
 0.0.0.0 thefreethoughtproject.comt.com
 0.0.0.0 www.thefreethoughtproject.comt.com
+0.0.0.0 thefreethoughtprojectcom.tumblr.com
+0.0.0.0 www.thefreethoughtprojectcom.tumblr.com
 0.0.0.0 thefringenews.com
 0.0.0.0 www.thefringenews.com
 0.0.0.0 thefrisky.com

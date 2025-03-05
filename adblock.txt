@@ -573,6 +573,8 @@
 ||americanexperiment.org^
 ||americanfaith.com^
 ||americanfirearms.org^
+||americanfirstmagazine.com^
+||americanfirstmagazine.tumblr.com^
 ||americanfreedomradio.com^
 ||americanfreepress.net^
 ||americangulag.org^
@@ -5866,6 +5868,7 @@
 ||joinrightstuff.com^
 ||jointoday.nsm88.org^
 ||jokerviral.com^
+||jonahintheheartofnineveh.blogspot.com^
 ||jonathanturley.org^
 ||jonesborosun.com^
 ||jonesborotimes.com^
@@ -8900,6 +8903,7 @@
 ||peter.frc.org^
 ||petergeorgiouwa-com-au.onenation.org.au^
 ||petergeorgiouwa.onenation.org.au^
+||peterhalligan.substack.com^
 ||petermcculloughmd.substack.com^
 ||petersantilli.com^
 ||petfoodwarning.com^
@@ -11609,6 +11613,7 @@
 ||thefreethoughtproject.comess.net^
 ||thefreethoughtproject.comrty.us^
 ||thefreethoughtproject.comt.com^
+||thefreethoughtprojectcom.tumblr.com^
 ||thefringenews.com^
 ||thefrisky.com^
 ||thefrognewsnetwork.com^
