@@ -5808,6 +5808,8 @@
 0.0.0.0 www.defiantamerica.com
 0.0.0.0 defirepublicain.fr
 0.0.0.0 www.defirepublicain.fr
+0.0.0.0 defundpbsnpr.org
+0.0.0.0 www.defundpbsnpr.org
 0.0.0.0 deidetected.com
 0.0.0.0 www.deidetected.com
 0.0.0.0 deinze-nevele.vlaamsbelang.org
@@ -17472,6 +17474,8 @@
 0.0.0.0 www.paragoulddailypress.com
 0.0.0.0 paralelnews.com
 0.0.0.0 www.paralelnews.com
+0.0.0.0 pardonderek.com
+0.0.0.0 www.pardonderek.com
 0.0.0.0 parents-vigilants.fr
 0.0.0.0 www.parents-vigilants.fr
 0.0.0.0 parentsactionleague.org
