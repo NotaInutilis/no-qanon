@@ -1854,6 +1854,8 @@
 0.0.0.0 www.atha4zenkf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 athensreporter.com
 0.0.0.0 www.athensreporter.com
+0.0.0.0 athome.lu
+0.0.0.0 www.athome.lu
 0.0.0.0 atlanteanconspiracy.com
 0.0.0.0 www.atlanteanconspiracy.com
 0.0.0.0 atlanteangardens.blogspot.com
@@ -1962,6 +1964,8 @@
 0.0.0.0 www.autismspeaks.org
 0.0.0.0 autismtruthnews.com
 0.0.0.0 www.autismtruthnews.com
+0.0.0.0 autobild.de
+0.0.0.0 www.autobild.de
 0.0.0.0 autodiscover.adflegal.org
 0.0.0.0 www.autodiscover.adflegal.org
 0.0.0.0 autodiscover.afd.de
@@ -2022,6 +2026,8 @@
 0.0.0.0 www.autodiscover.thesocialcontract.com
 0.0.0.0 autodiscover.vlaamsbelang.org
 0.0.0.0 www.autodiscover.vlaamsbelang.org
+0.0.0.0 autohaus24.de
+0.0.0.0 www.autohaus24.de
 0.0.0.0 automaticearth.com
 0.0.0.0 www.automaticearth.com
 0.0.0.0 autonom.pl
@@ -2048,6 +2054,8 @@
 0.0.0.0 www.avilagtitkai.com
 0.0.0.0 avisa-partners.com
 0.0.0.0 www.avisa-partners.com
+0.0.0.0 aviv-group.com
+0.0.0.0 www.aviv-group.com
 0.0.0.0 avn.org.au
 0.0.0.0 www.avn.org.au
 0.0.0.0 avoiceformen.com
@@ -2082,6 +2090,10 @@
 0.0.0.0 www.aweacademy.minds.com
 0.0.0.0 awesome.minds.com
 0.0.0.0 www.awesome.minds.com
+0.0.0.0 awin.com
+0.0.0.0 www.awin.com
+0.0.0.0 awinglobal.com
+0.0.0.0 www.awinglobal.com
 0.0.0.0 awm.com
 0.0.0.0 www.awm.com
 0.0.0.0 aws.donaldjtrump.com
@@ -2090,6 +2102,10 @@
 0.0.0.0 www.aws.ruqqus.com
 0.0.0.0 axedumad.com
 0.0.0.0 www.axedumad.com
+0.0.0.0 axelspringer.com
+0.0.0.0 www.axelspringer.com
+0.0.0.0 axelspringer.de
+0.0.0.0 www.axelspringer.de
 0.0.0.0 ayema-official.com
 0.0.0.0 www.ayema-official.com
 0.0.0.0 aynrand.org
@@ -2484,6 +2500,8 @@
 0.0.0.0 www.bentontimes.com
 0.0.0.0 bentspud.com
 0.0.0.0 www.bentspud.com
+0.0.0.0 beobachter.ch
+0.0.0.0 www.beobachter.ch
 0.0.0.0 berchem.vlaamsbelang.org
 0.0.0.0 www.berchem.vlaamsbelang.org
 0.0.0.0 berdyansk-news.ru
@@ -2642,10 +2660,16 @@
 0.0.0.0 www.bikersfortrumppac2020.com
 0.0.0.0 bikerspac.com
 0.0.0.0 www.bikerspac.com
+0.0.0.0 bilanz.ch
+0.0.0.0 www.bilanz.ch
 0.0.0.0 bilboquet-magazine.fr
 0.0.0.0 www.bilboquet-magazine.fr
 0.0.0.0 bild.de
 0.0.0.0 www.bild.de
+0.0.0.0 bildconnect.de
+0.0.0.0 www.bildconnect.de
+0.0.0.0 bildderfrau.de
+0.0.0.0 www.bildderfrau.de
 0.0.0.0 bill.liveprayer.com
 0.0.0.0 www.bill.liveprayer.com
 0.0.0.0 bill.minds.com
@@ -2966,6 +2990,8 @@
 0.0.0.0 www.boldogistvan.fidesz.hu
 0.0.0.0 bolenreport.com
 0.0.0.0 www.bolenreport.com
+0.0.0.0 boleromagazin.ch
+0.0.0.0 www.boleromagazin.ch
 0.0.0.0 bollebygd.sd.se
 0.0.0.0 www.bollebygd.sd.se
 0.0.0.0 bollnas.sd.se
@@ -2980,6 +3006,8 @@
 0.0.0.0 www.bongino.com
 0.0.0.0 bonginoreport.com
 0.0.0.0 www.bonginoreport.com
+0.0.0.0 bonial.com
+0.0.0.0 www.bonial.com
 0.0.0.0 bonn.pro-nrw.net
 0.0.0.0 www.bonn.pro-nrw.net
 0.0.0.0 bonnesnouvellesinfo.fr
@@ -3308,6 +3336,10 @@
 0.0.0.0 www.businessdailynetwork.com
 0.0.0.0 businessday.ng
 0.0.0.0 www.businessday.ng
+0.0.0.0 businessinsider.com
+0.0.0.0 www.businessinsider.com
+0.0.0.0 businessinsider.de
+0.0.0.0 www.businessinsider.de
 0.0.0.0 businesslive.co.za
 0.0.0.0 www.businesslive.co.za
 0.0.0.0 butik.sd.se
@@ -3330,8 +3362,6 @@
 0.0.0.0 www.buzz.naturalnews.com
 0.0.0.0 buzz4net.com
 0.0.0.0 www.buzz4net.com
-0.0.0.0 buzzard.org
-0.0.0.0 www.buzzard.org
 0.0.0.0 buzzfeed.com
 0.0.0.0 www.buzzfeed.com
 0.0.0.0 buzzfeedusa.com
@@ -4604,8 +4634,6 @@
 0.0.0.0 www.commonlawnews.com
 0.0.0.0 commonsenseevaluation.com
 0.0.0.0 www.commonsenseevaluation.com
-0.0.0.0 commonwealthpolicycenter.org
-0.0.0.0 www.commonwealthpolicycenter.org
 0.0.0.0 communistchina.news
 0.0.0.0 www.communistchina.news
 0.0.0.0 communities.win
@@ -4636,6 +4664,8 @@
 0.0.0.0 www.complottisti.com
 0.0.0.0 compressamente.blogspot.it
 0.0.0.0 www.compressamente.blogspot.it
+0.0.0.0 computerbild.de
+0.0.0.0 www.computerbild.de
 0.0.0.0 computing.news
 0.0.0.0 www.computing.news
 0.0.0.0 concealednation.org
@@ -5934,8 +5964,6 @@
 0.0.0.0 www.derstatus.at
 0.0.0.0 desantisdaily.com
 0.0.0.0 www.desantisdaily.com
-0.0.0.0 description:
-0.0.0.0 www.description:
 0.0.0.0 deseret.com
 0.0.0.0 www.deseret.com
 0.0.0.0 desertsun.com
@@ -6358,8 +6386,6 @@
 0.0.0.0 www.donaldtrumpnews.co
 0.0.0.0 donaldtrumpseeds.com
 0.0.0.0 www.donaldtrumpseeds.com
-0.0.0.0 donaldwatkins.com
-0.0.0.0 www.donaldwatkins.com
 0.0.0.0 donate.afa.net
 0.0.0.0 www.donate.afa.net
 0.0.0.0 donate.clouthub.com
@@ -7028,6 +7054,8 @@
 0.0.0.0 www.email.returnofkings.com
 0.0.0.0 emailsecurity.crpc.org
 0.0.0.0 www.emailsecurity.crpc.org
+0.0.0.0 emarketer.com
+0.0.0.0 www.emarketer.com
 0.0.0.0 emb.d.tube
 0.0.0.0 www.emb.d.tube
 0.0.0.0 embed.parler.com
@@ -8922,6 +8950,12 @@
 0.0.0.0 www.gatestoneinstitute.org
 0.0.0.0 gatewayreporter.com
 0.0.0.0 www.gatewayreporter.com
+0.0.0.0 gaultmillau.at
+0.0.0.0 www.gaultmillau.at
+0.0.0.0 gaultmillau.ch
+0.0.0.0 www.gaultmillau.ch
+0.0.0.0 gaultmillau.com
+0.0.0.0 www.gaultmillau.com
 0.0.0.0 gavinmcinnes.win
 0.0.0.0 www.gavinmcinnes.win
 0.0.0.0 gavle.sd.se
@@ -9248,6 +9282,8 @@
 0.0.0.0 www.gloucestertoday.com
 0.0.0.0 glowers.club
 0.0.0.0 www.glowers.club
+0.0.0.0 glueckspost.ch
+0.0.0.0 www.glueckspost.ch
 0.0.0.0 glx.nyeborgerlige.dk
 0.0.0.0 www.glx.nyeborgerlige.dk
 0.0.0.0 glyphocide.news
@@ -9656,6 +9692,8 @@
 0.0.0.0 www.gucmakale.com
 0.0.0.0 gudernesragnarok.blogspot.com
 0.0.0.0 www.gudernesragnarok.blogspot.com
+0.0.0.0 guider.ch
+0.0.0.0 www.guider.ch
 0.0.0.0 guidesblog.org
 0.0.0.0 www.guidesblog.org
 0.0.0.0 guildford.ukip.org
@@ -9688,6 +9726,8 @@
 0.0.0.0 www.gussago.leganord.org
 0.0.0.0 guthriecountyguide.com
 0.0.0.0 www.guthriecountyguide.com
+0.0.0.0 gutscheinsammler.de
+0.0.0.0 www.gutscheinsammler.de
 0.0.0.0 gv.minds.com
 0.0.0.0 www.gv.minds.com
 0.0.0.0 gw.cluster.d.tube
@@ -9804,6 +9844,8 @@
 0.0.0.0 www.hancocknyguide.com
 0.0.0.0 handelsblatt.com
 0.0.0.0 www.handelsblatt.com
+0.0.0.0 handelszeitung.ch
+0.0.0.0 www.handelszeitung.ch
 0.0.0.0 handsoffourkids.ca
 0.0.0.0 www.handsoffourkids.ca
 0.0.0.0 hangthebankers.com
@@ -10226,8 +10268,6 @@
 0.0.0.0 www.hirtrafik.top
 0.0.0.0 hirvilag.co
 0.0.0.0 www.hirvilag.co
-0.0.0.0 hirzel.de
-0.0.0.0 www.hirzel.de
 0.0.0.0 hispa.8ch.net
 0.0.0.0 www.hispa.8ch.net
 0.0.0.0 hispa.8kun.top
@@ -10686,6 +10726,10 @@
 0.0.0.0 www.iddqd.social
 0.0.0.0 ideacenter.org
 0.0.0.0 www.ideacenter.org
+0.0.0.0 idealo.com
+0.0.0.0 www.idealo.com
+0.0.0.0 idealo.de
+0.0.0.0 www.idealo.de
 0.0.0.0 identitaer.dk
 0.0.0.0 www.identitaer.dk
 0.0.0.0 identitydixie.com
@@ -10822,6 +10866,8 @@
 0.0.0.0 www.illuminatiwatcher.com
 0.0.0.0 illusion.news
 0.0.0.0 www.illusion.news
+0.0.0.0 illustre.ch
+0.0.0.0 www.illustre.ch
 0.0.0.0 ilmattoquotidiano.it
 0.0.0.0 www.ilmattoquotidiano.it
 0.0.0.0 ilmeglio-delweb.it
@@ -10896,6 +10942,12 @@
 0.0.0.0 www.imigliorivideo.co
 0.0.0.0 immediatesafety.org
 0.0.0.0 www.immediatesafety.org
+0.0.0.0 immoweb.be
+0.0.0.0 www.immoweb.be
+0.0.0.0 immoweb.de
+0.0.0.0 www.immoweb.de
+0.0.0.0 immowelt.de
+0.0.0.0 www.immowelt.de
 0.0.0.0 immunitywar.com
 0.0.0.0 www.immunitywar.com
 0.0.0.0 immunitywars.com
@@ -11104,6 +11156,8 @@
 0.0.0.0 www.inquisitr.com
 0.0.0.0 insaf.pk
 0.0.0.0 www.insaf.pk
+0.0.0.0 insider.com
+0.0.0.0 www.insider.com
 0.0.0.0 insiderhotline.com
 0.0.0.0 www.insiderhotline.com
 0.0.0.0 insidesources.com
@@ -11660,6 +11714,8 @@
 0.0.0.0 www.jobs.army.mod.uk
 0.0.0.0 jobs.west-midlands.police.uk
 0.0.0.0 www.jobs.west-midlands.police.uk
+0.0.0.0 jobsite.co.uk
+0.0.0.0 www.jobsite.co.uk
 0.0.0.0 jocotoday.com
 0.0.0.0 www.jocotoday.com
 0.0.0.0 joebiden.info
@@ -12394,6 +12450,8 @@
 0.0.0.0 www.ladbible.com
 0.0.0.0 ladechedumidi.com
 0.0.0.0 www.ladechedumidi.com
+0.0.0.0 ladenzeile.de
+0.0.0.0 www.ladenzeile.de
 0.0.0.0 ladroiteforte.fr
 0.0.0.0 www.ladroiteforte.fr
 0.0.0.0 ladssociety.com
@@ -12476,6 +12534,8 @@
 0.0.0.0 www.lanceur-alerte.tv
 0.0.0.0 landdestroyer.blogspot.com
 0.0.0.0 www.landdestroyer.blogspot.com
+0.0.0.0 landliebe.ch
+0.0.0.0 www.landliebe.ch
 0.0.0.0 landofhope.tv
 0.0.0.0 www.landofhope.tv
 0.0.0.0 landrypost.com
@@ -13216,8 +13276,6 @@
 0.0.0.0 www.load.live.triller.co
 0.0.0.0 lobservateur.com
 0.0.0.0 www.lobservateur.com
-0.0.0.0 loc.gov
-0.0.0.0 www.loc.gov
 0.0.0.0 local12.com
 0.0.0.0 www.local12.com
 0.0.0.0 local21news.com
@@ -13238,6 +13296,8 @@
 0.0.0.0 www.locust.us-west-2.stcf.infowars.com
 0.0.0.0 logcabin.org
 0.0.0.0 www.logcabin.org
+0.0.0.0 logic-immo.com
+0.0.0.0 www.logic-immo.com
 0.0.0.0 logicfreezone.wordpress.com
 0.0.0.0 www.logicfreezone.wordpress.com
 0.0.0.0 login.8ch.net
@@ -14204,6 +14264,12 @@
 0.0.0.0 www.megoszthato.blogspot.hu
 0.0.0.0 megynkelly.us
 0.0.0.0 www.megynkelly.us
+0.0.0.0 meilleursagents.com
+0.0.0.0 www.meilleursagents.com
+0.0.0.0 meinestadt.de
+0.0.0.0 www.meinestadt.de
+0.0.0.0 meingutscheincode.de
+0.0.0.0 www.meingutscheincode.de
 0.0.0.0 meitryx.com
 0.0.0.0 www.meitryx.com
 0.0.0.0 melaniatrump.com
@@ -15048,8 +15114,6 @@
 0.0.0.0 www.nagyonjoo.com
 0.0.0.0 nahadaily.com
 0.0.0.0 www.nahadaily.com
-0.0.0.0 name:
-0.0.0.0 www.name:
 0.0.0.0 namelyliberty.com
 0.0.0.0 www.namelyliberty.com
 0.0.0.0 nanotechnology.news
@@ -17360,6 +17424,8 @@
 0.0.0.0 www.ozma-yeudit.co.il
 0.0.0.0 ozma-yeudit.com
 0.0.0.0 www.ozma-yeudit.com
+0.0.0.0 ozy.com
+0.0.0.0 www.ozy.com
 0.0.0.0 p.4chan.org
 0.0.0.0 www.p.4chan.org
 0.0.0.0 p.8ch.net
@@ -17866,6 +17932,8 @@
 0.0.0.0 www.pianetablunews.wordpress.com
 0.0.0.0 pianetax.wordpress.com
 0.0.0.0 www.pianetax.wordpress.com
+0.0.0.0 piano.io
+0.0.0.0 www.piano.io
 0.0.0.0 picayuneitem.com
 0.0.0.0 www.picayuneitem.com
 0.0.0.0 piedmonttribune.com
@@ -17882,8 +17950,6 @@
 0.0.0.0 www.pilotsfor911truth.org
 0.0.0.0 pimatimes.com
 0.0.0.0 www.pimatimes.com
-0.0.0.0 pinalcentral.com
-0.0.0.0 www.pinalcentral.com
 0.0.0.0 pinaltoday.com
 0.0.0.0 www.pinaltoday.com
 0.0.0.0 pinchercreekecho.com
@@ -17902,8 +17968,6 @@
 0.0.0.0 www.pingfore.8kun.top
 0.0.0.0 pinnaclepeakpictures.com
 0.0.0.0 www.pinnaclepeakpictures.com
-0.0.0.0 pinterest.com
-0.0.0.0 www.pinterest.com
 0.0.0.0 pioneerlittleeurope.wordpress.com
 0.0.0.0 www.pioneerlittleeurope.wordpress.com
 0.0.0.0 piove.leganord.org
@@ -18004,6 +18068,8 @@
 0.0.0.0 www.pm.me
 0.0.0.0 pmd.unitedfutureparty.kr
 0.0.0.0 www.pmd.unitedfutureparty.kr
+0.0.0.0 pme.ch
+0.0.0.0 www.pme.ch
 0.0.0.0 pmg-ky2.com
 0.0.0.0 www.pmg-ky2.com
 0.0.0.0 pmi.com
@@ -18112,6 +18178,10 @@
 0.0.0.0 www.politichicks.com
 0.0.0.0 politickivojnik.wordpress.com
 0.0.0.0 www.politickivojnik.wordpress.com
+0.0.0.0 politico.com
+0.0.0.0 www.politico.com
+0.0.0.0 politico.eu
+0.0.0.0 www.politico.eu
 0.0.0.0 politicono.com
 0.0.0.0 www.politicono.com
 0.0.0.0 politicops.com
@@ -18942,6 +19012,8 @@
 0.0.0.0 www.quoththeravenresearch.com
 0.0.0.0 qupdates.com
 0.0.0.0 www.qupdates.com
+0.0.0.0 qwant.com
+0.0.0.0 www.qwant.com
 0.0.0.0 qwitter.com
 0.0.0.0 www.qwitter.com
 0.0.0.0 r.em.dlive.tv
@@ -19646,6 +19718,8 @@
 0.0.0.0 www.ring.fr
 0.0.0.0 ringgolddecaturnews.com
 0.0.0.0 www.ringgolddecaturnews.com
+0.0.0.0 ringieraxelspringer.pl
+0.0.0.0 www.ringieraxelspringer.pl
 0.0.0.0 ringkoebing-skjern.danskfolkeparti.dk
 0.0.0.0 www.ringkoebing-skjern.danskfolkeparti.dk
 0.0.0.0 ringsted.danskfolkeparti.dk
@@ -20066,6 +20140,8 @@
 0.0.0.0 www.salemnewswire.com
 0.0.0.0 salemwebnetwork.com
 0.0.0.0 www.salemwebnetwork.com
+0.0.0.0 salesimpact.de
+0.0.0.0 www.salesimpact.de
 0.0.0.0 salini.love
 0.0.0.0 www.salini.love
 0.0.0.0 salisbury.ukip.org
@@ -20260,6 +20336,8 @@
 0.0.0.0 www.school.saintbenedict.com
 0.0.0.0 schoten.vlaamsbelang.org
 0.0.0.0 www.schoten.vlaamsbelang.org
+0.0.0.0 schweizer-illustrierte.ch
+0.0.0.0 www.schweizer-illustrierte.ch
 0.0.0.0 schweizerzeit.ch
 0.0.0.0 www.schweizerzeit.ch
 0.0.0.0 science-sepp.blogspot.com
@@ -20646,6 +20724,8 @@
 0.0.0.0 www.selfhealbydesign.com
 0.0.0.0 selmatimesjournal.com
 0.0.0.0 www.selmatimesjournal.com
+0.0.0.0 seloger.com
+0.0.0.0 www.seloger.com
 0.0.0.0 selvstyre.no
 0.0.0.0 www.selvstyre.no
 0.0.0.0 seminnesotanews.com
@@ -21656,6 +21736,8 @@
 0.0.0.0 www.spanish.pacificjustice.org
 0.0.0.0 spanky.liveprayer.com
 0.0.0.0 www.spanky.liveprayer.com
+0.0.0.0 sparheld.de
+0.0.0.0 www.sparheld.de
 0.0.0.0 spartanburgreporter.com
 0.0.0.0 www.spartanburgreporter.com
 0.0.0.0 spartiates.gr
@@ -21720,6 +21802,8 @@
 0.0.0.0 www.spokanestandard.com
 0.0.0.0 spokesman.com
 0.0.0.0 www.spokesman.com
+0.0.0.0 sportbild.de
+0.0.0.0 www.sportbild.de
 0.0.0.0 sportspickle.com
 0.0.0.0 www.sportspickle.com
 0.0.0.0 spreely.com
@@ -21976,6 +22060,16 @@
 0.0.0.0 www.stephanebern.com
 0.0.0.0 stephenlendman.org
 0.0.0.0 www.stephenlendman.org
+0.0.0.0 stepstone.at
+0.0.0.0 www.stepstone.at
+0.0.0.0 stepstone.co.uk
+0.0.0.0 www.stepstone.co.uk
+0.0.0.0 stepstone.de
+0.0.0.0 www.stepstone.de
+0.0.0.0 stepstone.dk
+0.0.0.0 www.stepstone.dk
+0.0.0.0 stepstonegroup.com
+0.0.0.0 www.stepstonegroup.com
 0.0.0.0 stevedeace.com
 0.0.0.0 www.stevedeace.com
 0.0.0.0 stevekirsch.substack.com
@@ -22758,6 +22852,8 @@
 0.0.0.0 www.teentake.minds.com
 0.0.0.0 tehrantimes.com
 0.0.0.0 www.tehrantimes.com
+0.0.0.0 tele.ch
+0.0.0.0 www.tele.ch
 0.0.0.0 telegraaf.nl
 0.0.0.0 www.telegraaf.nl
 0.0.0.0 telegraph.co.uk
@@ -23716,6 +23812,8 @@
 0.0.0.0 www.thestatelyharold.com
 0.0.0.0 thesteelereport.com
 0.0.0.0 www.thesteelereport.com
+0.0.0.0 thestepstonegroup.com
+0.0.0.0 www.thestepstonegroup.com
 0.0.0.0 thestoriest.com
 0.0.0.0 www.thestoriest.com
 0.0.0.0 thestorm.martingeddes.com
@@ -24206,6 +24304,8 @@
 0.0.0.0 www.totalhealthmatters.co.uk
 0.0.0.0 totalityofevidence.com
 0.0.0.0 www.totalityofevidence.com
+0.0.0.0 totaljobs.com
+0.0.0.0 www.totaljobs.com
 0.0.0.0 totalrestitution.com
 0.0.0.0 www.totalrestitution.com
 0.0.0.0 totalworldnews.com
@@ -24464,8 +24564,6 @@
 0.0.0.0 www.trumpwinery.com
 0.0.0.0 trunews.com
 0.0.0.0 www.trunews.com
-0.0.0.0 trussvilletribune.com
-0.0.0.0 www.trussvilletribune.com
 0.0.0.0 trusttheq.com
 0.0.0.0 www.trusttheq.com
 0.0.0.0 truth-matters.ca
@@ -24646,6 +24744,8 @@
 0.0.0.0 www.tvp.info
 0.0.0.0 tvr.by
 0.0.0.0 www.tvr.by
+0.0.0.0 tvstar.ch
+0.0.0.0 www.tvstar.ch
 0.0.0.0 tvzvezda.ru
 0.0.0.0 www.tvzvezda.ru
 0.0.0.0 twc.health
@@ -26756,6 +26856,8 @@
 0.0.0.0 www.wisconsinoathkeepers.org
 0.0.0.0 wisevoter.com
 0.0.0.0 www.wisevoter.com
+0.0.0.0 wissen-sie-mehr.de
+0.0.0.0 www.wissen-sie-mehr.de
 0.0.0.0 witscience.org
 0.0.0.0 www.witscience.org
 0.0.0.0 witzmann.fidesz.hu
@@ -27668,6 +27770,8 @@
 0.0.0.0 www.xyz.net.au
 0.0.0.0 yabberz.com
 0.0.0.0 www.yabberz.com
+0.0.0.0 yad2.co.il
+0.0.0.0 www.yad2.co.il
 0.0.0.0 yadkinvalleynews.com
 0.0.0.0 www.yadkinvalleynews.com
 0.0.0.0 yaf.org
@@ -27828,8 +27932,6 @@
 0.0.0.0 www.zarko.devstage.rumble.com
 0.0.0.0 zaytung.com
 0.0.0.0 www.zaytung.com
-0.0.0.0 zazzle.com
-0.0.0.0 www.zazzle.com
 0.0.0.0 zb10-7gsop1v78.bitchute.com
 0.0.0.0 www.zb10-7gsop1v78.bitchute.com
 0.0.0.0 zbbb278hfll091.bitchute.com

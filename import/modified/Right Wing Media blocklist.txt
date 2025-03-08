@@ -1,24 +1,14 @@
-#---
-name: 
-description: 
-#---
-
 # 1792 Exchange (USA)
-commonwealthpolicycenter.org
 1792exchange.com
 
 # 1819 News (USA)
+1819news.com
 1819news.shop
 eighteennineteennewspodcast.podbean.com
-trussvilletribune.com
-donaldwatkins.com
-1819news.com
 
 # Abort73 (USA)
-abort73.substack.com
-pinterest.com
-zazzle.com
 abort73.com
+abort73.substack.com
 
 # Accuracy in Academia (USA)
 academia.org
@@ -76,7 +66,6 @@ atr.org
 afpc.org
 
 # American Greatness (USA)
-buzzard.org
 amgreatness.com
 
 # American Journal Daily (USA)
@@ -242,8 +231,8 @@ conservativebrief.com
 conservativehome.com
 
 # Conservative HQ (USA)
-conservativehq.org
 conservativehq.com
+conservativehq.org
 
 # Conservative Institute (USA)
 conservativeinstitute.org
@@ -529,8 +518,8 @@ qub.ca
 libertarianinstitute.org
 
 # Liberty Headlines (USA)
-libertyheadlines.com
 headlineusa.com
+libertyheadlines.com
 
 # Liberty Nation (USA)
 libertynation.com
@@ -614,8 +603,8 @@ nysun.com
 ngo-monitor.org
 
 # Not The Bee (USA)
-notthebee.com
 disrn.com
+notthebee.com
 
 # Niche Gamer (USA)
 nichegamer.com
@@ -700,12 +689,11 @@ quadrant.org.au
 
 # Reader’s Digest (USA)
 rd.com
-readersdigest.de
 readersdigest.at
 readersdigest.ch
+readersdigest.de
 
 # Real America’s Voice (USA)
-substack.com
 americasvoice.news
 
 # Reclaim The Net (Unknown)
@@ -827,8 +815,8 @@ thenationalherald.com
 thenewamerican.com
 
 # The New Revere (USA)
-thenewrevere.com
 adracinnovations.com
+thenewrevere.com
 
 # The Patriot Post (USA)
 patriotpost.us
@@ -1784,8 +1772,8 @@ ifs.org.uk
 understandingwar.org
 
 # Investor Times (Andorra)
-investortimes.com
 equityatlas.org
+investortimes.com
 
 # Irish Independent (Ireland)
 independent.ie
@@ -2437,8 +2425,8 @@ rrdailyherald.com
 rochsent.com
 
 # RTL Nieuws (Netherlands)
-rtlnieuws.nl
 rtl.nl
+rtlnieuws.nl
 
 # Russellville Courier (USA)
 couriernews.com
@@ -2451,23 +2439,23 @@ franklinfavorite.com
 # Saint John Times-Globe (Canada)
 
 # Salem Radio Network News (USA)
-srnonline.com
-salemmedia.com
-hughhewitt.com
-mikeonline.com
-dennisprager.com
-larryelder.com
-metaxastalk.com
-sebgorka.com
 biblestudytools.com
 christianity.com
-godtube.com
 christianjobs.com
 crosscards.com
+dennisprager.com
+godtube.com
+hughhewitt.com
+larryelder.com
 lightsource.com
+metaxastalk.com
+mikeonline.com
 oneplace.com
+salemmedia.com
 salemwebnetwork.com
+sebgorka.com
 srnnews.com
+srnonline.com
 
 # San Bernardino Sun (USA)
 sbsun.com
@@ -2707,8 +2695,8 @@ tribtown.com
 # The Spectator (UK)
 spectator.co.uk
 spectator.us
-thespectator.com
 the-spectator-australia.com
+thespectator.com
 
 # The Spectator World (UK)
 spectatorworld.com
@@ -2919,8 +2907,8 @@ wetaskiwintimes.com
 # Wetumpka Herald (USA)
 
 # WEYI (USA)
-nbc25news.com
 midmichigannow.com
+nbc25news.com
 
 # WFXL (USA)
 wfxl.com
@@ -3075,10 +3063,8 @@ wtov9.com
 myfox28columbus.com
 
 # WTVC (USA)
-newschannel9.com
-
-# WTVC (USA)
 foxchattanooga.com
+newschannel9.com
 
 # WTVH (USA)
 
@@ -3169,8 +3155,8 @@ amg-news.com
 americanpolicy.org
 
 # America’s Frontline Doctors (USA)
-americasfrontlinedoctors.com
 aflds.org
+americasfrontlinedoctors.com
 
 # AND Magazine (USA)
 andmagazine.com
@@ -3402,8 +3388,8 @@ food.news
 freedomadvocates.org
 
 # Freedomain (Canada)
-freedomainradio.com
 freedomain.com
+freedomainradio.com
 
 # Freedom.News (USA)
 freedom.news
@@ -3680,8 +3666,8 @@ rumormillnews.com
 scienceclowns.com
 
 # Science.News (USA)
-science.news
 censoredscience.com
+science.news
 
 # SGT Report (USA)
 sgtreport.com
@@ -3753,8 +3739,8 @@ thehealthyamerican.org
 thelibertybeacon.com
 
 # The New Nationalist (USA)
-newnationalist.net
 15mfinance.com
+newnationalist.net
 
 # The Organic Prepper (USA)
 theorganicprepper.com
@@ -3877,8 +3863,8 @@ worldcouncilforhealth.org
 worldtruth.tv
 
 # Worldview Weekend (USA)
-worldviewweekend.com
 worldviewtube.com
+worldviewweekend.com
 
 # ZeroHedge (Bulgaria)
 zerohedge.com
@@ -4322,20 +4308,10 @@ carbondalereporter.com
 
 # Catholic Tribune (USA)
 azcatholictribune.com
-
-# Catholic Tribune (USA)
 flcatholictribune.com
-
-# Catholic Tribune (USA)
 micatholictribune.com
-
-# Catholic Tribune (USA)
 mncatholictribune.com
-
-# Catholic Tribune (USA)
 pacatholictribune.com
-
-# Catholic Tribune (USA)
 wicatholictribune.com
 
 # Causeur (France)
@@ -4521,8 +4497,6 @@ conservativematrix.com
 conservativeplaylist.com
 discernreport.com
 
-# Conservative Politics Today (USA)
-
 # Conservative Post (USA)
 conservativepost.com
 
@@ -4666,8 +4640,8 @@ discoverthenetworks.org
 disntr.com
 
 # DJHJ Media (USA)
-djhjmedia.com
 davidharrisjr.store
+djhjmedia.com
 
 # DNyuz (Armenia)
 dnyuz.com
@@ -4686,8 +4660,8 @@ downloaddotnews.substack.com
 downrivertoday.com
 
 # Druthers (Canada)
-druthers.net
 druthers.ca
+druthers.net
 
 # Dubuque Times (USA)
 dubuquetimes.com
@@ -4742,9 +4716,6 @@ eastindynews.com
 
 # East Central Iowa News (USA)
 eciowanews.com
-
-# East Kentucky Times (USA)
-#*eastkentuckytimes.com/*
 
 # East Lake Norman News (USA)
 eastlakenormannews.com
@@ -5118,8 +5089,8 @@ gtrtimes.com
 gulfnews.com
 
 # The Hagmann Report (USA)
-hagmannreport.com
 hagmannpi.com
+hagmannreport.com
 
 # Hal Turner Radio Show (USA)
 halturnerradioshow.com
@@ -5706,8 +5677,8 @@ naturecoasttimes.com
 natall.com
 
 # National Enquirer (USA)
-nationalenquirer.com
 intouchweekly.com
+nationalenquirer.com
 
 # National Insiders (USA)
 nationalinsiders.com
@@ -5879,8 +5850,8 @@ newzoh.com
 thepeoplesvoice.tv
 
 # News Pushed (UK)
-newspushed.com
 hkfreezone.com
+newspushed.com
 
 # NewsReady (USA)
 newsready.com
@@ -6396,8 +6367,8 @@ prageru.com
 prairiestatewire.com
 
 # Pravda Report (Russia)
-pravdareport.com
 pravda.ru
+pravdareport.com
 
 # PravoSlavie.ru (Russia)
 pravoslavie.ru
@@ -6413,8 +6384,6 @@ presscalifornia.com
 
 # Press Corp (USA)
 presscorp.org
-
-# Press TV (Iran)
 
 # Prntly (USA)
 prntly.com
@@ -6501,8 +6470,8 @@ republicandaily.net
 gop.com
 
 # Resist The Mainstream (Macedonia)
-resistthemainstream.org
 resistthemainstream.com
+resistthemainstream.org
 
 # Restore American Glory (USA)
 restoreamericanglory.com
@@ -6980,19 +6949,11 @@ springfieldstandard.com
 # Spring Times (USA)
 springstimes.com
 
-# Sputnik News (Russia)
-
-# Sputnik News Agency (Russia)
-sputniknews.com
-sputniknews.africa
-
-# Sputnik News Agency (Russia)
-snanews.de
-
-# Sputnik News Agency (Russia)
-
 # Sputnik News Agency (Russia)
 it.sputniknews.com
+snanews.de
+sputniknews.africa
+sputniknews.com
 
 # St. Joe-Benton Harbor News (USA)
 stjoebentonharbor.com
@@ -7074,8 +7035,8 @@ sturgiscoldwaternews.com
 suffolkreporter.com
 
 # Summit News (USA)
-summit.news
 modernity.news
+summit.news
 
 # Sumter Times (USA)
 
@@ -7221,8 +7182,8 @@ thedailybell.com
 dcclothesline.com
 
 # The DC Patriot (USA)
-thedcpatriot.com
 dcpatriot.com
+thedcpatriot.com
 
 # The Desert Review (USA)
 thedesertreview.com
@@ -7867,40 +7828,40 @@ schweizerzeit.ch
 der-dritte-weg.info
 
 # AFD (Germany)
-afd.de
-afdbundestag.de
-afdsachsen.de
 afd-brandenburg.de
-afd.nrw
-afd-fraktion.nrw
-afdbayern.de
-afd-sh.de
-afd-nordfriesland.de
-afd-flensburg-schleswig.de
+afd-bw.de
 afd-dithmarschen.de
-afd-rendsburg-eckernfoerde.de
-afd-neumuenster.de
-alternative-ki.de
-afd-steinburg.de
-afd-ploen.de
-afd-segeberg.de
-afd-pinneberg.de
-afd-ostholstein.de
-afd-stormarn.de
+afd-flensburg-schleswig.de
+afd-fraktion-bw.de
+afd-fraktion-hamburg.de
+afd-fraktion.nrw
+afd-hessen.de
 afd-hzgt-lauenburg.de
 afd-luebeck.de
-xn--afd-lbeck-u9a.de
-afd-bw.de
-afd-mv.de
-afdfraktion-lsa.de
-afd-hessen.de
-afd-fraktion-hamburg.de
-afd-thueringen.de
-alternative-rlp.de
-afd-oberbayern.de
 afd-muenchen.de
+afd-mv.de
+afd-neumuenster.de
+afd-nordfriesland.de
+afd-oberbayern.de
+afd-ostholstein.de
+afd-pinneberg.de
+afd-ploen.de
+afd-rendsburg-eckernfoerde.de
+afd-segeberg.de
+afd-sh.de
+afd-steinburg.de
+afd-stormarn.de
+afd-thueringen.de
+afd.de
+afd.nrw
+afdbayern.de
+afdbundestag.de
+afdfraktion-lsa.de
 afdkompakt.de
-afd-fraktion-bw.de
+afdsachsen.de
+alternative-ki.de
+alternative-rlp.de
+xn--afd-lbeck-u9a.de
 
 # KFGO – 790 AM – Fargo
 kfgo.com
@@ -7928,16 +7889,12 @@ southernpartisan.com
 
 # Scheidewege (Germany)
 scheidewege.de
-hirzel.de
 
 # The Salisbury Review (UK)
 salisburyreview.com
 
 # Revue des Deux Mondes (France)
 revuedesdeuxmondes.fr
-
-# Die Politische Meinung (Germany)
-kas.de
 
 # Milliyet (Turkey)
 milliyet.com.tr
@@ -7946,6 +7903,7 @@ milliyet.com.tr
 centralchestertoday.com
 
 # Konrad-Adenauer-Stiftung e. V. (Germany)
+kas.de
 
 # Le Point (France)
 lepoint.fr
@@ -8041,10 +7999,6 @@ postandcourier.com
 
 # The Republican Journal (USA)
 waldo.villagesoup.com
-
-# The Resurgent
-
-# The Ripon Advance
 
 # The State (USA)
 thestate.com
@@ -8147,8 +8101,6 @@ butlerconews.com
 
 # OSV News (USA)
 osvnews.com
-
-# 100 Percent Fed Up (USA)
 
 # WKZO – 590 AM – Kalamazoo (USA)
 wkzo.com
@@ -8443,10 +8395,6 @@ breakingwide.com
 # Fair Play for Women - FPFW (UK)
 fairplayforwomen.com
 
-# Arizona City Independent (USA)
-pinalcentral.com
-loc.gov
-
 # Globe Terminator (Unknown)
 globeterminator.com
 
@@ -8512,8 +8460,6 @@ providencemag.com
 
 # GMO.News (USA)
 gmo.news
-
-# Coolidge Examiner (USA)
 
 # El Vocero (Puerto Rico)
 elvocero.com
@@ -8591,8 +8537,6 @@ publichealthpolicyjournal.com
 # HermanCain.com (USA)
 hermancain.com
 
-# Eloy Enterprise (USA)
-
 # Center for Individualism (USA)
 centerforindividualism.org
 
@@ -8637,3 +8581,4 @@ scrantonreporter.com
 
 # Il Sole 24 Ore (Italy)
 ilsole24ore.com
+

@@ -930,6 +930,7 @@
 ||ateliermissor.com^
 ||atha4zenkf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org^
 ||athensreporter.com^
+||athome.lu^
 ||atlanteanconspiracy.com^
 ||atlanteangardens.blogspot.com^
 ||atlanticcotimes.com^
@@ -984,6 +985,7 @@
 ||autismovaccini.org^
 ||autismspeaks.org^
 ||autismtruthnews.com^
+||autobild.de^
 ||autodiscover.adflegal.org^
 ||autodiscover.afd.de^
 ||autodiscover.biblebelievers.org.au^
@@ -1014,6 +1016,7 @@
 ||autodiscover.staresattheworld.com^
 ||autodiscover.thesocialcontract.com^
 ||autodiscover.vlaamsbelang.org^
+||autohaus24.de^
 ||automaticearth.com^
 ||autonom.pl^
 ||autonomousnationalistnetwork.wordpress.com^
@@ -1027,6 +1030,7 @@
 ||avesta.sd.se^
 ||avilagtitkai.com^
 ||avisa-partners.com^
+||aviv-group.com^
 ||avn.org.au^
 ||avoiceformen.com^
 ||avortement.net^
@@ -1044,10 +1048,14 @@
 ||awdnews.com^
 ||aweacademy.minds.com^
 ||awesome.minds.com^
+||awin.com^
+||awinglobal.com^
 ||awm.com^
 ||aws.donaldjtrump.com^
 ||aws.ruqqus.com^
 ||axedumad.com^
+||axelspringer.com^
+||axelspringer.de^
 ||ayema-official.com^
 ||aynrand.org^
 ||aynrandcentre.co.uk^
@@ -1245,6 +1253,7 @@
 ||bentoelgroup.com^
 ||bentontimes.com^
 ||bentspud.com^
+||beobachter.ch^
 ||berchem.vlaamsbelang.org^
 ||berdyansk-news.ru^
 ||bergamo.leganord.org^
@@ -1324,8 +1333,11 @@
 ||bikersfortrump2016.com^
 ||bikersfortrumppac2020.com^
 ||bikerspac.com^
+||bilanz.ch^
 ||bilboquet-magazine.fr^
 ||bild.de^
+||bildconnect.de^
+||bildderfrau.de^
 ||bill.liveprayer.com^
 ||bill.minds.com^
 ||billboardchris.com^
@@ -1486,6 +1498,7 @@
 ||bojia-princip.blogspot.com^
 ||boldogistvan.fidesz.hu^
 ||bolenreport.com^
+||boleromagazin.ch^
 ||bollebygd.sd.se^
 ||bollnas.sd.se^
 ||bollore.com^
@@ -1493,6 +1506,7 @@
 ||bonald.wordpress.com^
 ||bongino.com^
 ||bonginoreport.com^
+||bonial.com^
 ||bonn.pro-nrw.net^
 ||bonnesnouvellesinfo.fr^
 ||bonsens.info^
@@ -1657,6 +1671,8 @@
 ||businessbourse.com^
 ||businessdailynetwork.com^
 ||businessday.ng^
+||businessinsider.com^
+||businessinsider.de^
 ||businesslive.co.za^
 ||butik.sd.se^
 ||butlerconews.com^
@@ -1668,7 +1684,6 @@
 ||buywokefree.com^
 ||buzz.naturalnews.com^
 ||buzz4net.com^
-||buzzard.org^
 ||buzzfeed.com^
 ||buzzfeedusa.com^
 ||buzzloving.com^
@@ -2305,7 +2320,6 @@
 ||commonlawcourtaus.org^
 ||commonlawnews.com^
 ||commonsenseevaluation.com^
-||commonwealthpolicycenter.org^
 ||communistchina.news^
 ||communities.win^
 ||community-new.rumble.com^
@@ -2321,6 +2335,7 @@
 ||company.parler.com^
 ||complottisti.com^
 ||compressamente.blogspot.it^
+||computerbild.de^
 ||computing.news^
 ||concealednation.org^
 ||concernedwomen.org^
@@ -2970,7 +2985,6 @@
 ||derimot.no^
 ||derstatus.at^
 ||desantisdaily.com^
-||description:^
 ||deseret.com^
 ||desertsun.com^
 ||design.minds.com^
@@ -3182,7 +3196,6 @@
 ||donaldjtrump.com^
 ||donaldtrumpnews.co^
 ||donaldtrumpseeds.com^
-||donaldwatkins.com^
 ||donate.afa.net^
 ||donate.clouthub.com^
 ||donate.donaldjtrump.com^
@@ -3517,6 +3530,7 @@
 ||email.noi.org^
 ||email.returnofkings.com^
 ||emailsecurity.crpc.org^
+||emarketer.com^
 ||emb.d.tube^
 ||embed.parler.com^
 ||embols.com^
@@ -4464,6 +4478,9 @@
 ||gatesofvienna.net^
 ||gatestoneinstitute.org^
 ||gatewayreporter.com^
+||gaultmillau.at^
+||gaultmillau.ch^
+||gaultmillau.com^
 ||gavinmcinnes.win^
 ||gavle.sd.se^
 ||gavleborg.sd.se^
@@ -4627,6 +4644,7 @@
 ||glostrup.danskfolkeparti.dk^
 ||gloucestertoday.com^
 ||glowers.club^
+||glueckspost.ch^
 ||glx.nyeborgerlige.dk^
 ||glyphocide.news^
 ||glyphosate.news^
@@ -4831,6 +4849,7 @@
 ||guccifer2.wordpress.com^
 ||gucmakale.com^
 ||gudernesragnarok.blogspot.com^
+||guider.ch^
 ||guidesblog.org^
 ||guildford.ukip.org^
 ||guillaumefayearchive.wordpress.com^
@@ -4847,6 +4866,7 @@
 ||gunsternews.com^
 ||gussago.leganord.org^
 ||guthriecountyguide.com^
+||gutscheinsammler.de^
 ||gv.minds.com^
 ||gw.cluster.d.tube^
 ||gw.rumble.com^
@@ -4905,6 +4925,7 @@
 ||hancockguide.com^
 ||hancocknyguide.com^
 ||handelsblatt.com^
+||handelszeitung.ch^
 ||handsoffourkids.ca^
 ||hangthebankers.com^
 ||haninge.sd.se^
@@ -5116,7 +5137,6 @@
 ||hirtop.in^
 ||hirtrafik.top^
 ||hirvilag.co^
-||hirzel.de^
 ||hispa.8ch.net^
 ||hispa.8kun.top^
 ||hispolitica.com^
@@ -5346,6 +5366,8 @@
 ||idbusinessdaily.com^
 ||iddqd.social^
 ||ideacenter.org^
+||idealo.com^
+||idealo.de^
 ||identitaer.dk^
 ||identitydixie.com^
 ||identityevropa.com^
@@ -5414,6 +5436,7 @@
 ||illuminatiofficialtemple.com^
 ||illuminatiwatcher.com^
 ||illusion.news^
+||illustre.ch^
 ||ilmattoquotidiano.it^
 ||ilmeglio-delweb.it^
 ||ilmessagero.altervista.org^
@@ -5451,6 +5474,9 @@
 ||imigliori.info^
 ||imigliorivideo.co^
 ||immediatesafety.org^
+||immoweb.be^
+||immoweb.de^
+||immowelt.de^
 ||immunitywar.com^
 ||immunitywars.com^
 ||immunization.news^
@@ -5555,6 +5581,7 @@
 ||inquisitor.com^
 ||inquisitr.com^
 ||insaf.pk^
+||insider.com^
 ||insiderhotline.com^
 ||insidesources.com^
 ||insidethegames.biz^
@@ -5833,6 +5860,7 @@
 ||jobpol.be^
 ||jobs.army.mod.uk^
 ||jobs.west-midlands.police.uk^
+||jobsite.co.uk^
 ||jocotoday.com^
 ||joebiden.info^
 ||joebiden.news^
@@ -6200,6 +6228,7 @@
 ||lacucinasiciliana.altervista.org^
 ||ladbible.com^
 ||ladechedumidi.com^
+||ladenzeile.de^
 ||ladroiteforte.fr^
 ||ladssociety.com^
 ||ladylibertynews.com^
@@ -6241,6 +6270,7 @@
 ||lancastercourier.com^
 ||lanceur-alerte.tv^
 ||landdestroyer.blogspot.com^
+||landliebe.ch^
 ||landofhope.tv^
 ||landrypost.com^
 ||landskrona.sd.se^
@@ -6611,7 +6641,6 @@
 ||ln.renegadetribune.com^
 ||load.live.triller.co^
 ||lobservateur.com^
-||loc.gov^
 ||local12.com^
 ||local21news.com^
 ||local31news.com^
@@ -6622,6 +6651,7 @@
 ||locust.us-east-2.stcf.infowars.com^
 ||locust.us-west-2.stcf.infowars.com^
 ||logcabin.org^
+||logic-immo.com^
 ||logicfreezone.wordpress.com^
 ||login.8ch.net^
 ||login.breitbart.com^
@@ -7105,6 +7135,9 @@
 ||meglepo.info^
 ||megoszthato.blogspot.hu^
 ||megynkelly.us^
+||meilleursagents.com^
+||meinestadt.de^
+||meingutscheincode.de^
 ||meitryx.com^
 ||melaniatrump.com^
 ||melfortjournal.com^
@@ -7527,7 +7560,6 @@
 ||nagyaniko.fidesz.hu^
 ||nagyonjoo.com^
 ||nahadaily.com^
-||name:^
 ||namelyliberty.com^
 ||nanotechnology.news^
 ||nanr.counter-currents.com^
@@ -8683,6 +8715,7 @@
 ||ozconservative.blogspot.com.au^
 ||ozma-yeudit.co.il^
 ||ozma-yeudit.com^
+||ozy.com^
 ||p.4chan.org^
 ||p.8ch.net^
 ||p1ml-categories-uploads-production.s3.amazonaws.com^
@@ -8936,6 +8969,7 @@
 ||pi-news.net^
 ||pianetablunews.wordpress.com^
 ||pianetax.wordpress.com^
+||piano.io^
 ||picayuneitem.com^
 ||piedmonttribune.com^
 ||piercetoday.com^
@@ -8944,7 +8978,6 @@
 ||pilled.net^
 ||pilotsfor911truth.org^
 ||pimatimes.com^
-||pinalcentral.com^
 ||pinaltoday.com^
 ||pinchercreekecho.com^
 ||pind.nu^
@@ -8954,7 +8987,6 @@
 ||pinestatenews.com^
 ||pingfore.8kun.top^
 ||pinnaclepeakpictures.com^
-||pinterest.com^
 ||pioneerlittleeurope.wordpress.com^
 ||piove.leganord.org^
 ||piovegovernoladro.info^
@@ -9005,6 +9037,7 @@
 ||pm-bounces.mewe.com^
 ||pm.me^
 ||pmd.unitedfutureparty.kr^
+||pme.ch^
 ||pmg-ky2.com^
 ||pmi.com^
 ||pnr.pt^
@@ -9059,6 +9092,8 @@
 ||politicanews.altervista.org^
 ||politichicks.com^
 ||politickivojnik.wordpress.com^
+||politico.com^
+||politico.eu^
 ||politicono.com^
 ||politicops.com^
 ||politicot.com^
@@ -9474,6 +9509,7 @@
 ||quotenqueen.wordpress.com^
 ||quoththeravenresearch.com^
 ||qupdates.com^
+||qwant.com^
 ||qwitter.com^
 ||r.em.dlive.tv^
 ||r.nyeborgerlige.dk^
@@ -9826,6 +9862,7 @@
 ||rinf.com^
 ||ring.fr^
 ||ringgolddecaturnews.com^
+||ringieraxelspringer.pl^
 ||ringkoebing-skjern.danskfolkeparti.dk^
 ||ringsted.danskfolkeparti.dk^
 ||riotimesonline.com^
@@ -10036,6 +10073,7 @@
 ||salemnewschannel.com^
 ||salemnewswire.com^
 ||salemwebnetwork.com^
+||salesimpact.de^
 ||salini.love^
 ||salisbury.ukip.org^
 ||salisburyreview.com^
@@ -10133,6 +10171,7 @@
 ||schilde.vlaamsbelang.org^
 ||school.saintbenedict.com^
 ||schoten.vlaamsbelang.org^
+||schweizer-illustrierte.ch^
 ||schweizerzeit.ch^
 ||science-sepp.blogspot.com^
 ||science.larouchepac.com^
@@ -10326,6 +10365,7 @@
 ||selfauthoring.com^
 ||selfhealbydesign.com^
 ||selmatimesjournal.com^
+||seloger.com^
 ||selvstyre.no^
 ||seminnesotanews.com^
 ||semissourinews.com^
@@ -10831,6 +10871,7 @@
 ||spanish.faithfreedom.org^
 ||spanish.pacificjustice.org^
 ||spanky.liveprayer.com^
+||sparheld.de^
 ||spartanburgreporter.com^
 ||spartiates.gr^
 ||speakingaboutnews.com^
@@ -10863,6 +10904,7 @@
 ||spokanecotimes.com^
 ||spokanestandard.com^
 ||spokesman.com^
+||sportbild.de^
 ||sportspickle.com^
 ||spreely.com^
 ||springfieldcitywire.com^
@@ -10991,6 +11033,11 @@
 ||stenungsund.sd.se^
 ||stephanebern.com^
 ||stephenlendman.org^
+||stepstone.at^
+||stepstone.co.uk^
+||stepstone.de^
+||stepstone.dk^
+||stepstonegroup.com^
 ||stevedeace.com^
 ||stevekirsch.substack.com^
 ||stevengoddard.wordpress.com^
@@ -11382,6 +11429,7 @@
 ||teenchatter.minds.com^
 ||teentake.minds.com^
 ||tehrantimes.com^
+||tele.ch^
 ||telegraaf.nl^
 ||telegraph.co.uk^
 ||teleguiado.com^
@@ -11861,6 +11909,7 @@
 ||thestate.com^
 ||thestatelyharold.com^
 ||thesteelereport.com^
+||thestepstonegroup.com^
 ||thestoriest.com^
 ||thestorm.martingeddes.com^
 ||thestreet.com^
@@ -12106,6 +12155,7 @@
 ||totaldisclosure.net^
 ||totalhealthmatters.co.uk^
 ||totalityofevidence.com^
+||totaljobs.com^
 ||totalrestitution.com^
 ||totalworldnews.com^
 ||touchalife.minds.com^
@@ -12235,7 +12285,6 @@
 ||trumpvision365.com^
 ||trumpwinery.com^
 ||trunews.com^
-||trussvilletribune.com^
 ||trusttheq.com^
 ||truth-matters.ca^
 ||truth-now.net^
@@ -12326,6 +12375,7 @@
 ||tvnewsitalia.com^
 ||tvp.info^
 ||tvr.by^
+||tvstar.ch^
 ||tvzvezda.ru^
 ||twc.health^
 ||twd5x6.minds.com^
@@ -13381,6 +13431,7 @@
 ||wisconsinlaketimes.com^
 ||wisconsinoathkeepers.org^
 ||wisevoter.com^
+||wissen-sie-mehr.de^
 ||witscience.org^
 ||witzmann.fidesz.hu^
 ||wizardingworld.com^
@@ -13837,6 +13888,7 @@
 ||xyz.faithfreedom.org^
 ||xyz.net.au^
 ||yabberz.com^
+||yad2.co.il^
 ||yadkinvalleynews.com^
 ||yaf.org^
 ||yakimatimes.com^
@@ -13917,7 +13969,6 @@
 ||zarko.devalpha.rumble.com^
 ||zarko.devstage.rumble.com^
 ||zaytung.com^
-||zazzle.com^
 ||zb10-7gsop1v78.bitchute.com^
 ||zbbb278hfll091.bitchute.com^
 ||zebrafactcheck.com^

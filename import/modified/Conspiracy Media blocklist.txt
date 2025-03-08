@@ -1,7 +1,3 @@
-#---
-name: 
-description: 
-#---
 # 2020ElectionCenter.com (USA)
 2020electioncenter.com
 
@@ -96,8 +92,8 @@ amg-news.com
 americanpolicy.org
 
 # America’s Frontline Doctors (USA)
-americasfrontlinedoctors.com
 aflds.org
+americasfrontlinedoctors.com
 
 # Ancient Code (Unknown)
 ancient-code.com
@@ -473,8 +469,8 @@ thefreethoughtproject.com
 freedomadvocates.org
 
 # Freedomain (Canada)
-freedomainradio.com
 freedomain.com
+freedomainradio.com
 
 # Freedom.News (USA)
 freedom.news
@@ -519,8 +515,8 @@ gizadeathstar.com
 glitch.news
 
 # Global Healing Center (USA)
-globalhealingcenter.com
 globalhealing.com
+globalhealingcenter.com
 
 # Global Research (Canada)
 globalresearch.ca
@@ -929,8 +925,8 @@ principia-scientific.org
 pdmj.org
 
 # Prison Planet (USA)
-prisonplanet.com
 endgamethemovie.com
+prisonplanet.com
 
 # Prophecy News Watch (USA)
 prophecynewswatch.com
@@ -975,12 +971,12 @@ santeplusmag.com
 scienceclowns.com
 
 # Science.News (USA)
-science.news
 censoredscience.com
+science.news
 
 # Science Vibe (USA)
-sciencevibe.com
 macantogeljuara.com
+sciencevibe.com
 
 # SGT Report (USA)
 sgtreport.com
@@ -1055,8 +1051,8 @@ expose-news.com
 thedailysheeple.com
 
 # TheDailyWorld.NET (Unknown)
-thedailyworld.net
 caphemoingay.com
+thedailyworld.net
 
 # The European Union Times (Unknown)
 eutimes.net
@@ -1092,8 +1088,8 @@ thelibertybeacon.com
 themindunleashed.com
 
 # The New Nationalist (USA)
-newnationalist.net
 15mfinance.com
+newnationalist.net
 
 # The Organic Prepper (USA)
 theorganicprepper.com
@@ -1289,8 +1285,8 @@ worldlifestyle.com
 worldtruth.tv
 
 # Worldview Weekend (USA)
-worldviewweekend.com
 worldviewtube.com
+worldviewweekend.com
 
 # X22 Report (USA)
 x22report.com
@@ -1354,3 +1350,4 @@ thoughtpolice.news
 
 # Science, Public Health Policy & the Law (USA)
 publichealthpolicyjournal.com
+

@@ -1,7 +1,3 @@
-#---
-name: 
-description: 
-#---
 # 4Chan (USA)
 4chan.org
 
@@ -523,20 +519,10 @@ cardinalpine.com
 
 # Catholic Tribune (USA)
 azcatholictribune.com
-
-# Catholic Tribune (USA)
 flcatholictribune.com
-
-# Catholic Tribune (USA)
 micatholictribune.com
-
-# Catholic Tribune (USA)
 mncatholictribune.com
-
-# Catholic Tribune (USA)
 pacatholictribune.com
-
-# Catholic Tribune (USA)
 wicatholictribune.com
 
 # Causeur (France)
@@ -749,8 +735,6 @@ conservativematrix.com
 conservativeplaylist.com
 discernreport.com
 
-# Conservative Politics Today (USA)
-
 # Conservative Post (USA)
 conservativepost.com
 
@@ -921,8 +905,8 @@ discoverthenetworks.org
 disntr.com
 
 # DJHJ Media (USA)
-djhjmedia.com
 davidharrisjr.store
+djhjmedia.com
 
 # DNyuz (Armenia)
 dnyuz.com
@@ -941,8 +925,8 @@ downloaddotnews.substack.com
 downrivertoday.com
 
 # Druthers (Canada)
-druthers.net
 druthers.ca
+druthers.net
 
 # Dubuque Times (USA)
 dubuquetimes.com
@@ -1448,8 +1432,8 @@ gulfnews.com
 gunsternews.com
 
 # The Hagmann Report (USA)
-hagmannreport.com
 hagmannpi.com
+hagmannreport.com
 
 # Hal Turner Radio Show (USA)
 halturnerradioshow.com
@@ -2127,8 +2111,8 @@ morrisleader.com
 front.moveon.org
 
 # MTO News (USA)
-mtonews.com
 mediatakeout.com
+mtonews.com
 
 # Muncie (USA)
 munciereporter.com
@@ -2161,8 +2145,8 @@ naturecoasttimes.com
 natall.com
 
 # National Enquirer (USA)
-nationalenquirer.com
 intouchweekly.com
+nationalenquirer.com
 
 # National Insiders (USA)
 nationalinsiders.com
@@ -2349,8 +2333,8 @@ newzoh.com
 thepeoplesvoice.tv
 
 # News Pushed (UK)
-newspushed.com
 hkfreezone.com
+newspushed.com
 
 # NewsReady (USA)
 newsready.com
@@ -2380,8 +2364,8 @@ en.newsner.com
 newsview.gr
 
 # NewsWars (USA)
-newswars.com
 infowars.com
+newswars.com
 
 # Next News Network (USA)
 nextnewsnetwork.com
@@ -2615,8 +2599,8 @@ nournews.ir
 now8news.com
 
 # NowThis News (USA)
-nowthisnews.com
 nowmedianetwork.co
+nowthisnews.com
 
 # NPR.News (USA)
 npr.news
@@ -2931,8 +2915,8 @@ prageru.com
 prairiestatewire.com
 
 # Pravda Report (Russia)
-pravdareport.com
 pravda.ru
+pravdareport.com
 
 # PravoSlavie.ru (Russia)
 pravoslavie.ru
@@ -3052,8 +3036,8 @@ republicandaily.net
 gop.com
 
 # Resist The Mainstream (Macedonia)
-resistthemainstream.org
 resistthemainstream.com
+resistthemainstream.org
 
 # Restore American Glory (USA)
 restoreamericanglory.com
@@ -3592,17 +3576,11 @@ springstimes.com
 sputnikglobe.com
 
 # Sputnik News Agency (Russia)
-sputniknews.com
-sputniknews.africa
-
-# Sputnik News Agency (Russia)
-snanews.de
-
-# Sputnik News Agency (Russia)
-sputniknews.in
-
-# Sputnik News Agency (Russia)
 it.sputniknews.com
+snanews.de
+sputniknews.africa
+sputniknews.com
+sputniknews.in
 
 # St. Joe-Benton Harbor News (USA)
 stjoebentonharbor.com
@@ -3687,8 +3665,8 @@ suffolkreporter.com
 summerlinreporter.com
 
 # Summit News (USA)
-summit.news
 modernity.news
+summit.news
 
 # Sumter Times (USA)
 
@@ -3873,8 +3851,8 @@ dailyboulder.com
 dcclothesline.com
 
 # The DC Patriot (USA)
-thedcpatriot.com
 dcpatriot.com
+thedcpatriot.com
 
 # The Desert Review (USA)
 thedesertreview.com
@@ -4545,8 +4523,6 @@ wndnewscenter.org
 # Women are Human (USA)
 womenarehuman.com
 
-# Women’s Rights News (USA)
-
 # WorldGreyNews.Com (Serbia)
 worldgreynews.com
 
@@ -4644,8 +4620,6 @@ news89tv.com
 
 # Occidental Dissent (USA)
 occidentaldissent.com
-
-# 100 Percent Fed Up (USA)
 
 # Coal Region News (USA)
 coalregionnews.com
@@ -4777,8 +4751,6 @@ northerntiernews.com
 # North Pocono News (USA)
 northpocononews.com
 
-# Bossip (USA)
-
 # Boulder Leader (USA)
 boulderleader.com
 
@@ -4889,3 +4861,4 @@ pittreview.com
 
 # Scranton Reporter (USA)
 scrantonreporter.com
+

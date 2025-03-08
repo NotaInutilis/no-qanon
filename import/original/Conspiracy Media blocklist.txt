@@ -1,1358 +1,1353 @@
----
-name: Conspiracy Media (full version)
-description: Hides (most) Conspiracy Media sites
-homepage: https://github.com/RubenKelevra/ublacklist_conspiracy
----
 # 2020ElectionCenter.com (USA)
-*://*.2020electioncenter.com/*
+2020electioncenter.com
 
 # 21st Century Wire (USA)
-*://*.21stcenturywire.com/*
+21stcenturywire.com
 
 # 79Days.News (USA)
-*://*.79days.news/*
+79days.news
 
 # 369News (Unknown)
-*://*.369news.net/*
+369news.net
 
 # 911Truth.org (USA)
-*://*.911truth.org/*
+911truth.org
 
 # Above Top Secret (USA)
-*://*.abovetopsecret.com/*
-*://*.youtube.com/@thenlbs*
+abovetopsecret.com
 
 # A Call for an Uprising (USA)
-*://*.acallforanuprising.com/*
+acallforanuprising.com
 
 # ACN Latitudes (USA)
-*://*.latitudes.org/*
+latitudes.org
 
 # Activist Post (Unknown)
-*://*.activistpost.com/*
+activistpost.com
 
 # Actualized.org (USA)
-*://*.actualized.org/*
+actualized.org
 
 # Adams.News (USA)
-*://*.adams.news/*
+adams.news
 
 # Addiction.News (USA)
-*://*.addiction.news/*
+addiction.news
 
 # ADDitude Magazine (USA)
-*://*.additudemag.com/*
+additudemag.com
 
 # Age of Autism (USA)
-*://*.ageofautism.com/*
+ageofautism.com
 
 # Newsinstact.com (Romania)
-*://*.newsinstact.com/*
+newsinstact.com
 
 # Natural Health Response (USA)
-*://*.naturalhealthresponse.com/*
+naturalhealthresponse.com
 
 # Alliance for Human Research Protection (USA)
-*://*.ahrp.org/*
+ahrp.org
 
 # Alliance for Natural Health International (UK)
-*://*.anhinternational.org/*
+anhinternational.org
 
 # Alliance for Natural Health (USA)
-*://*.anh-usa.org/*
+anh-usa.org
 
 # altCensored (USA)
-*://*.altcensored.com/*
+altcensored.com
 
 # Altermed Zentrum (Unknown)
-*://*.altermedzentrum.com/*
+altermedzentrum.com
 
 # Alternative Daily (USA)
-*://*.thealternativedaily.com/*
+thealternativedaily.com
 
 # Alternative Media Television (USA)
-*://*.amtvmedia.com/*
+amtvmedia.com
 
 # AlternativeNews.com (USA)
-*://*.alternativenews.com/*
+alternativenews.com
 
 # AltHealth Works (USA)
-*://*.althealthworks.com/*
+althealthworks.com
 
 # AltLeft.news (USA)
-*://*.altleft.news/*
+altleft.news
 
 # Aluminum.News (USA)
-*://*.aluminum.news/*
+aluminum.news
 
 # American Free Press (USA)
-*://*.americanfreepress.net/*
+americanfreepress.net
 
 # American Intelligence Media (USA)
-*://*.aim4truth.org/*
+aim4truth.org
 
 # American Media Group (Romania)
-*://*.amg-news.com/*
+amg-news.com
 
 # American Policy Center (USA)
-*://*.americanpolicy.org/*
+americanpolicy.org
 
 # America’s Frontline Doctors (USA)
-*://*.americasfrontlinedoctors.com/*
-*://*.aflds.org/*
+aflds.org
+americasfrontlinedoctors.com
 
 # Ancient Code (Unknown)
-*://*.ancient-code.com/*
+ancient-code.com
 
 # Ancient Origins (Ireland)
-*://*.ancient-origins.net/*
+ancient-origins.net
 
 # AND Magazine (USA)
-*://*.andmagazine.com/*
+andmagazine.com
 
 # Anewspost.com (USA)
-*://*.anewspost.com/*
+anewspost.com
 
 # Answers in Genesis (USA)
-*://*.answersingenesis.org/*
+answersingenesis.org
 
 # Anti-Empire (Unknown)
-*://*.anti-empire.com/*
+anti-empire.com
 
 # Antioxidants.News (USA)
-*://*.antioxidants.news/*
+antioxidants.news
 
 # Anya Vien (USA)
-*://*.anyavien.com/*
+anyavien.com
 
 # Apost.com (Germany)
-*://*.apost.com/*
+apost.com
 
 # Architects & Engineers for 9/11 Truth (USA)
-*://*.ae911truth.org/*
+ae911truth.org
 
 # Asia-Pacific Research (Canada)
-*://*.asia-pacificresearch.com/*
+asia-pacificresearch.com
 
 # AskingAngels.com (Australia)
-*://*.askingangels.com/*
+askingangels.com
 
 # Assassination Science (USA)
-*://*.assassinationscience.com/*
+assassinationscience.com
 
 # Australian National Review (Australia)
-*://*.australiannationalreview.com/*
+australiannationalreview.com
 
 # Autism Speaks (USA)
-*://*.autismspeaks.org/*
+autismspeaks.org
 
 # Awake Canada (Canada)
-*://*.awakecanada.org/*
+awakecanada.org
 
 # Awakening.News (USA)
-*://*.awakening.news/*
+awakening.news
 
 # Awareness Act (USA)
-*://*.awarenessact.com/*
+awarenessact.com
 
 # Banned.News (USA)
-*://*.banned.news/*
+banned.news
 
 # Banned.Video (USA)
-*://*.banned.video/*
+banned.video
 
 # Behold Israel (Israel)
-*://*.beholdisrael.org/*
+beholdisrael.org
 
 # Best News Here (Macedonia)
-*://*.bestnewshere.com/*
+bestnewshere.com
 
 # Biased.News (USA)
-*://*.biased.news/*
+biased.news
 
 # Big Government News (USA)
-*://*.biggovernment.news/*
+biggovernment.news
 
 # BioDefense (USA)
-*://*.biodefense.com/*
+biodefense.com
 
 # Biologos Foundation (USA)
-*://*.biologos.org/*
+biologos.org
 
 # Bioscience Resource Project (USA)
-*://*.bioscienceresource.org/*
+bioscienceresource.org
 
 # Biotech Express Magazine (India)
-*://*.biotechexpressmag.com/*
+biotechexpressmag.com
 
 # Bioterrorism.News (USA)
-*://*.bioterrorism.news/*
+bioterrorism.news
 
 # Blacklisted News (USA)
-*://*.blacklistednews.com/*
+blacklistednews.com
 
 # Blckbx.tv (Netherlands)
-*://*.blckbx.tv/*
+blckbx.tv
 
 # BonSens (France)
-*://*.bonsens.info/*
+bonsens.info
 
 # Brand New Tube (UK)
-*://*.brandnewtube.com/*
-*://*.onevsp.com/*
+brandnewtube.com
+onevsp.com
 
 # Breakthrough.News (USA)
-*://*.breakthrough.news/*
+breakthrough.news
 
 # Brighteon (USA)
-*://*.brighteon.com/*
+brighteon.com
 
 # BrightSide (Cyprus)
-*://*.brightside.me/*
+brightside.me
 
 # Bugout.news (USA)
-*://*.bugout.news/*
+bugout.news
 
 # CaliforniaCollapse.News (USA)
-*://*.californiacollapse.news/*
+californiacollapse.news
 
 # CampusInsanity.com (USA)
-*://*.campusinsanity.com/*
+campusinsanity.com
 
 # Canberra Declaration (Australia)
-*://*.canberradeclaration.org.au/*
+canberradeclaration.org.au
 
 # Cancer.news (USA)
-*://*.cancer.news/*
+cancer.news
 
 # Catholic Online (USA)
-*://*.catholic.org/*
+catholic.org
 
 # CDC.News (USA)
-*://*.cdc.news/*
+cdc.news
 
 # Censorship.News (USA)
-*://*.censorship.news/*
+censorship.news
 
 # Charisma News (USA)
-*://*.charismanews.com/*
+charismanews.com
 
 # Children’s Health Defense (USA)
-*://*.childrenshealthdefense.org/*
+childrenshealthdefense.org
 
 # ChlorellaFactor.com (USA)
-*://*.chlorellafactor.com/*
+chlorellafactor.com
 
 # ChristianAnswers.net (USA)
-*://*.christiananswers.net/*
+christiananswers.net
 
 # Christian Apologetics & Research Ministry (USA)
-*://*.carm.org/*
+carm.org
 
 # Christian Broadcasting Network (USA)
-*://*.cbn.com/*
+cbn.com
 
 # Creation Ministries International (Australia)
-*://*.creation.com/*
+creation.com
 
 # Christian Science (USA)
-*://*.christianscience.com/*
+christianscience.com
 
 # Christian Truth Center (Kenya)
-*://*.christiantruthcenter.com/*
+christiantruthcenter.com
 
 # Citizens for Legitimate Government (USA)
-*://*.legitgov.org/*
+legitgov.org
 
 # Climate Change Dispatch (USA)
-*://*.climatechangedispatch.com/*
+climatechangedispatch.com
 
 # Climate Depot (USA)
-*://*.climatedepot.com/*
+climatedepot.com
 
 # Climate Etc (USA)
-*://*.judithcurry.com/*
+judithcurry.com
 
 # Climate.News (USA)
-*://*.climate.news/*
+climate.news
 
 # ClimateScienceNews (USA)
-*://*.climatesciencenews.com/*
+climatesciencenews.com
 
 # CNN So Fake News (USA)
-*://*.cnnsofake.news/*
+cnnsofake.news
 
 # Coast to Coast AM (USA)
-*://*.coasttocoastam.com/*
+coasttocoastam.com
 
 # Collapse.News (USA)
-*://*.collapse.news/*
+collapse.news
 
 # Collective-Evolution (Canada)
-*://*.collective-evolution.com/*
+collective-evolution.com
 
 # Committee For A Constructive Tomorrow (USA)
-*://*.cfact.org/*
+cfact.org
 
 # Conscious Life News (USA)
-*://*.consciouslifenews.com/*
+consciouslifenews.com
 
 # Conspiracy Daily Update (Australia)
-*://*.conspiracydailyupdate.com/*
+conspiracydailyupdate.com
 
 # Consumer Wellness Center (USA)
-*://*.consumerwellness.org/*
+consumerwellness.org
 
 # Corey’s Digs (USA)
-*://*.coreysdigs.com/*
+coreysdigs.com
 
 # Corruptico (Unknown)
-*://*.corruptico.com/*
+corruptico.com
 
 # Cosmic Intelligence Agency (Australia)
-*://*.cosmicintelligenceagency.com/*
+cosmicintelligenceagency.com
 
 # CounterThink.com (USA)
-*://*.counterthink.com/*
+counterthink.com
 
 # Covert Geopolitics (USA)
-*://*.geopolitics.co/*
+geopolitics.co
 
 # Covid Call to Humanity (Philippines)
-*://*.covidcalltohumanity.org/*
+covidcalltohumanity.org
 
 # Creation-Evolution Headlines (USA)
-*://*.crev.info/*
+crev.info
 
 # CreationWiki (USA)
-*://*.creationwiki.org/*
+creationwiki.org
 
 # CrossExamined.org (USA)
-*://*.crossexamined.org/*
+crossexamined.org
 
 # Culture Wars Magazine (USA)
-*://*.culturewars.com/*
+culturewars.com
 
 # CultureWatch (Australia)
-*://*.billmuehlenberg.com/*
+billmuehlenberg.com
 
 # Cureus Journal of Medical Science (USA)
-*://*.cureus.com/*
+cureus.com
 
 # Curious Mind Magazine (USA)
-*://*.curiousmindmagazine.com/*
+curiousmindmagazine.com
 
 # CyberWar.News (USA)
-*://*.cyberwar.news/*
+cyberwar.news
 
 # DailyClout (USA)
-*://*.dailyclout.io/*
+dailyclout.io
 
 # Daily Grail (Australia)
-*://*.dailygrail.com/*
+dailygrail.com
 
 # DailyHealthPost (Canada)
-*://*.dailyhealthpost.com/*
+dailyhealthpost.com
 
 # Daily Sceptic (UK)
-*://*.dailysceptic.org/*
+dailysceptic.org
 
 # Dark Journalist (USA)
-*://*.darkjournalist.com/*
+darkjournalist.com
 
 # David Icke (UK)
-*://*.davidicke.com/*
+davidicke.com
 
 # David Wolfe (USA)
-*://*.davidwolfe.com/*
+davidwolfe.com
 
 # DiedSuddenly.info (USA)
-*://*.diedsuddenly.info/*
+diedsuddenly.info
 
 # Discoveries.News (USA)
-*://*.discoveries.news/*
+discoveries.news
 
 # Discovery Institute (USA)
-*://*.discovery.org/*
+discovery.org
 
 # Dissident Voice (USA)
-*://*.dissidentvoice.org/*
+dissidentvoice.org
 
 # DoctorOz.com (USA)
-*://*.doctoroz.com/*
+doctoroz.com
 
 # Doctors for Covid Ethics (Switzerland)
-*://*.doctors4covidethics.org/*
+doctors4covidethics.org
 
 # The Dollar Vigilante (Unknown)
-*://*.dollarvigilante.com/*
+dollarvigilante.com
 
 # Dr. Axe (USA)
-*://*.draxe.com/*
+draxe.com
 
 # Dr. Morse TV (USA)
-*://*.drmorse.tv/*
+drmorse.tv
 
 # DrNorthrup.com (USA)
-*://*.drnorthrup.com/*
+drnorthrup.com
 
 # DrTrozzi.org (Canada)
-*://*.drtrozzi.org/*
+drtrozzi.org
 
 # DrugCartels.News (USA)
-*://*.drugcartels.news/*
+drugcartels.news
 
 # Ecology News (USA)
-*://*.ecology.news/*
+ecology.news
 
 # Educate Yourself (USA)
-*://*.educate-yourself.org/*
+educate-yourself.org
 
 # Electroverse (Unknown)
-*://*.electroverse.net/*
+electroverse.net
 
 # Eluxe Magazine (UK)
-*://*.eluxemagazine.com/*
+eluxemagazine.com
 
 # Environmental Working Group (USA)
-*://*.ewg.org/*
+ewg.org
 
 # Escape All These Things (USA)
-*://*.escapeallthesethings.com/*
+escapeallthesethings.com
 
 # Eugenics.News (USA)
-*://*.eugenics.news/*
+eugenics.news
 
 # Europe Reloaded (USA)
-*://*.europereloaded.com/*
+europereloaded.com
 
 # Evolution News and Science Today (USA)
-*://*.evolutionnews.org/*
+evolutionnews.org
 
 # Exopolitics (USA)
-*://*.exopolitics.org/*
+exopolitics.org
 
 # Extinction.News (USA)
-*://*.extinction.news/*
+extinction.news
 
 # Fabiosa (Ukraine)
-*://*.fabiosa.com/*
+fabiosa.com
 
 # FactCheck.News (USA)
-*://*.factcheck.news/*
+factcheck.news
 
 # FaithIt (USA)
-*://*.faithit.com/*
+faithit.com
 
 # Faith Panda (Kenya)
-*://*.faithpanda.com/*
+faithpanda.com
 
 # FDA.News (USA)
-*://*.fda.news/*
+fda.news
 
 # Flat Earth Society (Unknown)
-*://*.tfes.org/*
+tfes.org
 
 # Fleming-Method (USA)
-*://*.flemingmethod.com/*
+flemingmethod.com
 
 # Food Babe (USA)
-*://*.foodbabe.com/*
+foodbabe.com
 
 # Food Matters (Australia)
-*://*.foodmatters.com/*
+foodmatters.com
 
 # Food.News (USA)
-*://*.food.news/*
+food.news
 
 # Forever Conscious (USA)
-*://*.foreverconscious.com/*
+foreverconscious.com
 
 # Free Thought Project (USA)
-*://*.thefreethoughtproject.com/*
+thefreethoughtproject.com
 
 # Freedom Advocates: Agenda 21 (USA)
-*://*.freedomadvocates.org/*
+freedomadvocates.org
 
 # Freedomain (Canada)
-*://*.freedomainradio.com/*
-*://*.freedomain.com/*
+freedomain.com
+freedomainradio.com
 
 # Freedom.News (USA)
-*://*.freedom.news/*
+freedom.news
 
 # Freeworldnews.TV (USA)
-*://*.freeworldnews.tv/*
+freeworldnews.tv
 
 # Friends of Science (Canada)
-*://*.friendsofscience.org/*
+friendsofscience.org
 
 # Front Line Covid-19 Critical Care Alliance (USA)
-*://*.covid19criticalcare.com/*
+covid19criticalcare.com
 
 # Fully Human (Unknown)
-*://*.fully-human.org/*
+fully-human.org
 
 # Gaia (USA)
-*://*.gaia.com/*
+gaia.com
 
 # Gear.News (USA)
-*://*.gear.news/*
+gear.news
 
 # Gender.news (USA)
-*://*.gender.news/*
+gender.news
 
 # Geoengineering.News (USA)
-*://*.geoengineering.news/*
+geoengineering.news
 
 # GeoEngineering Watch (USA)
-*://*.geoengineeringwatch.org/*
+geoengineeringwatch.org
 
 # Geopolitical Economy Report (USA)
-*://*.geopoliticaleconomy.com/*
+geopoliticaleconomy.com
 
 # Get Holistic Health (Unknown)
-*://*.getholistichealth.com/*
+getholistichealth.com
 
 # Giza Death Star (USA)
-*://*.gizadeathstar.com/*
+gizadeathstar.com
 
 # Glitch.News (USA)
-*://*.glitch.news/*
+glitch.news
 
 # Global Healing Center (USA)
-*://*.globalhealingcenter.com/*
-*://*.globalhealing.com/*
+globalhealing.com
+globalhealingcenter.com
 
 # Global Research (Canada)
-*://*.globalresearch.ca/*
+globalresearch.ca
 
 # Global Skywatch (USA)
-*://*.globalskywatch.com/*
+globalskywatch.com
 
 # GMO Watch Bias (USA)
-*://*.gmowatch.com/*
+gmowatch.com
 
 # GMWatch (UK)
-*://*.gmwatch.org/*
+gmwatch.org
 
 # Godlike Productions (Unknown)
-*://*.godlikeproductions.com/*
+godlikeproductions.com
 
 # Goop (USA)
-*://*.goop.com/*
+goop.com
 
 # Got Questions (USA)
-*://*.gotquestions.org/*
+gotquestions.org
 
 # Government Slaves (USA)
-*://*.govtslaves.com/*
+govtslaves.com
 
 # Great Awakening (Unknown)
-*://*.greatawakening.win/*
+greatawakening.win
 
 # GreenMedInfo (USA)
-*://*.greenmedinfo.com/*
+greenmedinfo.com
 
 # Greenpeace (Netherlands)
-*://*.greenpeace.org/*
+greenpeace.org
 
 # Ground Zero Media (USA)
-*://*.groundzeromedia.org/*
+groundzeromedia.org
 
 # Gundry MD (USA)
-*://*.gundrymd.com/*
+gundrymd.com
 
 # Health and Money News (USA)
-*://*.healthandmoneynews.wordpress.com/*
+healthandmoneynews.wordpress.com
 
 # Healing Food Reference (USA)
-*://*.healingfoodreference.com/*
+healingfoodreference.com
 
 # Healing Oracle (Unknown)
-*://*.healingoracle.ch/*
+healingoracle.ch
 
 # Health Helpline (New Zealand)
-*://*.health-helpline.co.nz/*
+health-helpline.co.nz
 
 # Health Impact News (USA)
-*://*.healthimpactnews.com/*
+healthimpactnews.com
 
 # Health.News (USA)
-*://*.health.news/*
+health.news
 
 # Health Nut News (USA)
-*://*.healthnutnews.com/*
+healthnutnews.com
 
 # HealthRangerInventions.com (USA)
-*://*.healthrangerinventions.com/*
+healthrangerinventions.com
 
 # Health Ranger Report (USA)
-*://*.healthrangerreport.com/*
+healthrangerreport.com
 
 # Health Sciences Institute (USA)
-*://*.hsionline.com/*
+hsionline.com
 
 # Healthy Holistic Living (USA)
-*://*.healthy-holistic-living.com/*
+healthy-holistic-living.com
 
 # Henry Makow (Canada)
-*://*.savethemales.ca/*
+savethemales.ca
 
 # Herb (Canada)
-*://*.herb.co/*
+herb.co
 
 # Herbreference.com (USA)
-*://*.herbreference.com/*
+herbreference.com
 
 # Higher Perspective (Unknown)
-*://*.higherperspectives.com/*
+higherperspectives.com
 
 # Homeopathy Journal (Germany)
-*://*.facultyofhomeopathy.org/*
+facultyofhomeopathy.org
 
 # Home Vaccine Education Network (USA)
-*://*.homevaccineeducationnetwork.com/*
+homevaccineeducationnetwork.com
 
 # Humans Are Free (USA)
-*://*.humansarefree.com/*
+humansarefree.com
 
 # ICAN (USA)
-*://*.icandecide.org/*
+icandecide.org
 
 # iHealthtube (USA)
-*://*.ihealthtube.com/*
+ihealthtube.com
 
 # I Heart Intelligence (Bulgaria)
-*://*.iheartintelligence.com/*
+iheartintelligence.com
 
 # Illuminati Watcher (USA)
-*://*.illuminatiwatcher.com/*
+illuminatiwatcher.com
 
 # Independent Science News (USA)
-*://*.independentsciencenews.org/*
+independentsciencenews.org
 
 # Infinite Unknown (Unknown)
-*://*.infiniteunknown.net/*
+infiniteunknown.net
 
 # Information Clearing House (USA)
-*://*.informationclearinghouse.info/*
+informationclearinghouse.info
 
 # Infowars-Alex Jones (USA)
-*://*.infowars.com/*
+infowars.com
 
 # Ingredients.News (USA)
-*://*.ingredients.news/*
+ingredients.news
 
 # Institute for Creation Research (USA)
-*://*.icr.org/*
+icr.org
 
 # Institute for Responsible Technology (USA)
-*://*.responsibletechnology.org/*
+responsibletechnology.org
 
 # International Climate Science Coalition (Canada)
-*://*.climatescienceinternational.org/*
+climatescienceinternational.org
 
 # ICIC.Law (Bulgaria)
-*://*.icic.law/*
+icic.law
 
 # Investment Watch Blog (USA)
-*://*.investmentwatchblog.com/*
+investmentwatchblog.com
 
 # Iowa Climate Science Education (USA)
-*://*.iowaclimate.org/*
+iowaclimate.org
 
 # Irish Sentinel (Ireland)
-*://*.theirishsentinel.com/*
+theirishsentinel.com
 
 # Israel365 News (Israel)
-*://*.israel365news.com/*
+israel365news.com
 
 # Jeda News (Italy)
-*://*.jedanews.com/*
+jedanews.com
 
 # Jehovah’s Witnesses (USA)
-*://*.jw.org/*
+jw.org
 
 # Jesus is Savior (USA)
-*://*.jesus-is-savior.com/*
+jesus-is-savior.com
 
 # JoeBiden.News (USA)
-*://*.joebiden.news/*
+joebiden.news
 
 # JunkScience.com (USA)
-*://*.junkscience.com/*
+junkscience.com
 
 # Just One Focus (Australia)
-*://*.justonefocus.org/*
+justonefocus.org
 
 # Kla.TV (Switzerland)
-*://*.kla.tv/*
+kla.tv
 
 # LaRouche PAC (USA)
-*://*.larouchepac.com/*
-*://*.prometheanpac.com/*
+larouchepac.com
+prometheanpac.com
 
 # LearnTheRisk.org (USA)
-*://*.learntherisk.org/*
+learntherisk.org
 
 # LeftCult (USA)
-*://*.leftcult.com/*
+leftcult.com
 
 # Les Moutons Rebelles (France)
-*://*.lesmoutonsrebelles.com/*
+lesmoutonsrebelles.com
 
 # Liberty.News (USA)
-*://*.liberty.news/*
+liberty.news
 
 # Liberty Planet (USA)
-*://*.libertyplanets.com/*
+libertyplanets.com
 
 # Libtards.News (USA)
-*://*.libtards.news/*
+libtards.news
 
 # Life Advancer (USA)
-*://*.lifeadvancer.com/*
+lifeadvancer.com
 
 # LifeSpa (USA)
-*://*.lifespa.com/*
+lifespa.com
 
 # LittleThings (USA)
-*://*.littlethings.com/*
+littlethings.com
 
 # Live Action (USA)
-*://*.liveaction.org/*
+liveaction.org
 
 # LiveStrong.com (USA)
-*://*.livestrong.com/*
+livestrong.com
 
 # Living Whole (Canada)
-*://*.livingwhole.org/*
+livingwhole.org
 
 # Lockdown Resistance (USA)
-*://*.endlockdowns.org/*
+endlockdowns.org
 
 # London Real (UK)
-*://*.londonreal.tv/*
+londonreal.tv
 
 # Macroevolution.net (USA)
-*://*.macroevolution.net/*
+macroevolution.net
 
 # MadMaxWorld.tv (USA)
-*://*.madmaxworld.tv/*
+madmaxworld.tv
 
 # Malone Institute (USA)
-*://*.maloneinstitute.org/*
+maloneinstitute.org
 
 # Media Fact Watch (USA)
-*://*.mediafactwatch.com/*
+mediafactwatch.com
 
 # Media Roots (USA)
-*://*.mediaroots.org/*
+mediaroots.org
 
 # Medical Censorship News (USA)
-*://*.medicalcensorship.com/*
+medicalcensorship.com
 
 # Medical Daily (USA)
-*://*.medicaldaily.com/*
+medicaldaily.com
 
 # Medical Kidnap (USA)
-*://*.medicalkidnap.com/*
+medicalkidnap.com
 
 # Medical Medium (USA)
-*://*.medicalmedium.com/*
+medicalmedium.com
 
 # MedicalTyranny (USA)
-*://*.medicaltyranny.com/*
+medicaltyranny.com
 
 # Medicine News (USA)
-*://*.medicine.news/*
+medicine.news
 
 # Mercola (USA)
-*://*.mercola.com/*
+mercola.com
 
 # MichaelSalla.com (USA)
-*://*.michaelsalla.com/*
+michaelsalla.com
 
 # MindBodyGreen (USA)
-*://*.mindbodygreen.com/*
+mindbodygreen.com
 
 # Mind Matters (USA)
-*://*.mindmatters.ai/*
+mindmatters.ai
 
 # Modern Alternative Mama (USA)
-*://*.modernalternativemama.com/*
+modernalternativemama.com
 
 # National File (USA)
-*://*.nationalfile.com/*
+nationalfile.com
 
 # NationalSecurity.News (USA)
-*://*.nationalsecurity.news/*
+nationalsecurity.news
 
 # National Vaccine Information Center (USA)
-*://*.nvic.org/*
+nvic.org
 
 # Nation of Islam (USA)
-*://*.noi.org/*
+noi.org
 
 # Natural Blaze (Unknown)
-*://*.naturalblaze.com/*
+naturalblaze.com
 
 # NaturalCures.com (UK)
-*://*.naturalcures.com/*
+naturalcures.com
 
 # Natural Health 365 (USA)
-*://*.naturalhealth365.com/*
+naturalhealth365.com
 
 # NaturalMedicine.News (USA)
-*://*.naturalmedicine.news/*
+naturalmedicine.news
 
 # Natural News (USA)
-*://*.naturalnews.com/*
+naturalnews.com
 
 # NaturalNewsBlogs (USA)
-*://*.naturalnewsblogs.com/*
+naturalnewsblogs.com
 
 # Natural News Radio (USA)
-*://*.naturalnewsradio.com/*
+naturalnewsradio.com
 
 # NaturalPedia.com (USA)
-*://*.naturalpedia.com/*
+naturalpedia.com
 
 # Natural Society (USA)
-*://*.naturalsociety.com/*
+naturalsociety.com
 
 # Naturally Savvy (Canada)
-*://*.naturallysavvy.com/*
+naturallysavvy.com
 
 # Need to Know (USA)
-*://*.needtoknow.news/*
+needtoknow.news
 
 # Neuronation (Germany)
-*://*.neuronation.com/*
+neuronation.com
 
 # NewsInsideOut.com (USA)
-*://*.newsinsideout.com/*
+newsinsideout.com
 
 # News Target (USA)
-*://*.newstarget.com/*
+newstarget.com
 
 # New Zealand Doctors Speaking Out With Science (New Zealand)
-*://*.nzdsos.com/*
+nzdsos.com
 
 # NoMoreFakeNews.com (USA)
-*://*.nomorefakenews.com/*
+nomorefakenews.com
 
 # NoTricksZone (Germany)
-*://*.notrickszone.com/*
+notrickszone.com
 
 # Now the End Begins (USA)
-*://*.nowtheendbegins.com/*
+nowtheendbegins.com
 
 # NutrientReference.com (USA)
-*://*.nutrientreference.com/*
+nutrientreference.com
 
 # NutritionFacts.org (USA)
-*://*.nutritionfacts.org/*
+nutritionfacts.org
 
 # NWO Report (USA)
-*://*.nworeport.me/*
+nworeport.me
 
 # Occupy Yourself (USA)
-*://*.occupyyourself.org/*
+occupyyourself.org
 
 # Odysee (USA)
-*://*.odysee.com/*
+odysee.com
 
 # OffGuardian (Unknown)
-*://*.off-guardian.org/*
+off-guardian.org
 
 # Off the Grid News (USA)
-*://*.offthegridnews.com/*
+offthegridnews.com
 
 # Online Updates (Unknown)
-*://*.online-updates.net/*
+online-updates.net
 
 # Organic Consumers Association (USA)
-*://*.organicconsumers.org/*
+organicconsumers.org
 
 # Organic Facts (India)
-*://*.organicfacts.net/*
+organicfacts.net
 
 # Our Health Guides (Unknown)
-*://*.ourhealthguides.com/*
+ourhealthguides.com
 
 # Pandemic News (USA)
-*://*.pandemic.news/*
+pandemic.news
 
 # Patriots For Truth (USA)
-*://*.patriots4truth.org/*
+patriots4truth.org
 
 # PaulCraigRoberts.org (USA)
-*://*.paulcraigroberts.org/*
+paulcraigroberts.org
 
 # PETA (USA)
-*://*.peta.org/*
+peta.org
 
 # Philosophers Stone (UK)
-*://*.philosophers-stone.info/*
+philosophers-stone.info
 
 # Physicians for Informed Consent (USA)
-*://*.physiciansforinformedconsent.org/*
+physiciansforinformedconsent.org
 
 # Planeta Prisão (Brazil)
-*://*.planetaprisao.com.br/*
+planetaprisao.com.br
 
 # Pollution.News (USA)
-*://*.pollution.news/*
+pollution.news
 
 # Positive Health Wellness (USA)
-*://*.positivehealthwellness.com/*
+positivehealthwellness.com
 
 # Praying Medic (USA)
-*://*.prayingmedic.com/*
+prayingmedic.com
 
 # Prepare for Change (Unknown)
-*://*.prepareforchange.net/*
+prepareforchange.net
 
 # Press for Truth (Canada)
-*://*.pressfortruth.ca/*
+pressfortruth.ca
 
 # Prevent Genocide 2030 (USA)
-*://*.preventgenocide2030.org/*
+preventgenocide2030.org
 
 # Prevention Magazine (USA)
-*://*.prevention.com/*
+prevention.com
 
 # Principia Scientific International (UK)
-*://*.principia-scientific.org/*
+principia-scientific.org
 
 # Primary Doctor Medical Journal (USA)
-*://*.pdmj.org/*
+pdmj.org
 
 # Prison Planet (USA)
-*://*.prisonplanet.com/*
-*://*.endgamethemovie.com/*
+endgamethemovie.com
+prisonplanet.com
 
 # Prophecy News Watch (USA)
-*://*.prophecynewswatch.com/*
+prophecynewswatch.com
 
 # Prophecy Today (USA)
-*://*.jimmydeyoungjr.org/*
+jimmydeyoungjr.org
 
 # RandPaul.News (USA)
-*://*.randpaul.news/*
+randpaul.news
 
 # Real Climate Science (USA)
-*://*.realclimatescience.com/*
+realclimatescience.com
 
 # Real Jew News (USA)
-*://*.realjewnews.com/*
+realjewnews.com
 
 # Redoubt News (USA)
-*://*.redoubtnews.com/*
+redoubtnews.com
 
 # RedPill Project (USA)
-*://*.redpillpodcasts.com/*
+redpillpodcasts.com
 
 # Renegade Tribune (USA)
-*://*.renegadetribune.com/*
+renegadetribune.com
 
 # Rense (USA)
-*://*.rense.com/*
+rense.com
 
 # Return to Now (USA)
-*://*.returntonow.net/*
+returntonow.net
 
 # Rumor Mill News (USA)
-*://*.rumormillnews.com/*
+rumormillnews.com
 
 # SaneVax (USA)
-*://*.sanevax.org/*
+sanevax.org
 
 # Sante Plus Magazine (Morocco)
-*://*.santeplusmag.com/*
+santeplusmag.com
 
 # ScienceClowns (USA)
-*://*.scienceclowns.com/*
+scienceclowns.com
 
 # Science.News (USA)
-*://*.science.news/*
-*://*.CensoredScience.com/*
+CensoredScience.com
+science.news
 
 # Science Vibe (USA)
-*://*.sciencevibe.com/*
-*://*.macantogeljuara.com/*
+macantogeljuara.com
+sciencevibe.com
 
 # SGT Report (USA)
-*://*.sgtreport.com/*
+sgtreport.com
 
 # Sheep Killers (Unknown)
-*://*.sheepkillers.com/*
+sheepkillers.com
 
 # Shoebat (USA)
-*://*.shoebat.com/*
+shoebat.com
 
 # Signs of the Times (USA)
-*://*.sott.net/*
+sott.net
 
 # Skeptiko (USA)
-*://*.skeptiko.com/*
+skeptiko.com
 
 # Snopes.News (USA)
-*://*.snopes.news/*
+snopes.news
 
 # South Front (Russia)
-*://*.southfront.org/*
+southfront.org
 
 # Space.News (USA)
-*://*.space.news/*
+space.news
 
 # Stillness in the Storm (USA)
-*://*.stillnessinthestorm.com/*
+stillnessinthestorm.com
 
 # Stormfront (USA)
-*://*.stormfront.org/*
+stormfront.org
 
 # SupplementReference.com (USA)
-*://*.supplementreference.com/*
+supplementreference.com
 
 # Survival.News (USA)
-*://*.survival.news/*
+survival.news
 
 # Sustainable Pulse (USA)
-*://*.sustainablepulse.com/*
+sustainablepulse.com
 
 # Swiss Policy Research (Unknown)
-*://*.swprs.org/*
+swprs.org
 
 # Talknetwork.com (USA)
-*://*.talknetwork.com/*
+talknetwork.com
 
 # TechGiants.News (USA)
-*://*.techgiants.news/*
+techgiants.news
 
 # Technocracy News (USA)
-*://*.technocracy.news/*
+technocracy.news
 
 # Technocrats.News (USA)
-*://*.technocrats.news/*
+technocrats.news
 
 # The Annunaki (Unknown)
-*://*.annunaki.org/*
+annunaki.org
 
 # The Automatic Earth (USA)
-*://*.theautomaticearth.com/*
+theautomaticearth.com
 
 # The Common Sense Show (USA)
-*://*.thecommonsenseshow.com/*
+thecommonsenseshow.com
 
 # The Corbett Report (Japan)
-*://*.corbettreport.com/*
+corbettreport.com
 
 # The Daily Expose (UK)
-*://*.expose-news.com/*
+expose-news.com
 
 # The Daily Sheeple (Unknown)
-*://*.thedailysheeple.com/*
+thedailysheeple.com
 
 # TheDailyWorld.NET (Unknown)
-*://*.thedailyworld.net/*
-*://*.caphemoingay.com/*
+caphemoingay.com
+thedailyworld.net
 
 # The European Union Times (Unknown)
-*://*.eutimes.net/*
+eutimes.net
 
 # The Event Chronicle (Unknown)
-*://*.theeventchronicle.com/*
+theeventchronicle.com
 
 # The Final Call (USA)
-*://*.new.finalcall.com/*
+new.finalcall.com
 
 # The Fullerton Informer (USA)
-*://*.thefullertoninformer.com/*
+thefullertoninformer.com
 
 # The Greanville Post (USA)
-*://*.greanvillepost.com/*
+greanvillepost.com
 
 # The Health Ranger (USA)
-*://*.healthranger.com/*
+healthranger.com
 
 # The Healthy American (USA)
-*://*.thehealthyamerican.org/*
+thehealthyamerican.org
 
 # The Hearty Soul (Canada)
-*://*.theheartysoul.com/*
+theheartysoul.com
 
 # The Highwire (USA)
-*://*.thehighwire.com/*
+thehighwire.com
 
 # The Liberty Beacon (USA)
-*://*.thelibertybeacon.com/*
+thelibertybeacon.com
 
 # The Mind Unleashed (USA)
-*://*.themindunleashed.com/*
+themindunleashed.com
 
 # The New Nationalist (USA)
-*://*.newnationalist.net/*
-*://*.15mfinance.com/*
+15mfinance.com
+newnationalist.net
 
 # The Organic Prepper (USA)
-*://*.theorganicprepper.com/*
+theorganicprepper.com
 
 # The Phaser (USA)
-*://*.thephaser.com/*
+thephaser.com
 
 # The Pulse (Canada)
-*://*.thepulse.one/*
+thepulse.one
 
 # The Purist Magazine (USA)
-*://*.thepuristonline.com/*
+thepuristonline.com
 
 # TheQAnons.com (USA)
-*://*.theqanons.com/*
+theqanons.com
 
 # The Rundown Live (USA)
-*://*.therundownlive.com/*
+therundownlive.com
 
 # The Stream (USA)
-*://*.stream.org/*
+stream.org
 
 # The Trumpet (USA)
-*://*.thetrumpet.com/*
+thetrumpet.com
 
 # The Truth About Cancer (USA)
-*://*.thetruthaboutcancer.com/*
+thetruthaboutcancer.com
 
 # The Truth Seeker (UK)
-*://*.thetruthseeker.co.uk/*
+thetruthseeker.co.uk
 
 # The Vaccine Reaction (USA)
-*://*.thevaccinereaction.org/*
+thevaccinereaction.org
 
 # Vermont Independent (USA)
-*://*.vermontindependent.net/*
+vermontindependent.net
 
 # Waking Times (USA)
-*://*.wakingtimes.com/*
+wakingtimes.com
 
 # The Wellness Company (USA)
-*://*.twc.health/*
+twc.health
 
 # Thinking Humanity (Unknown)
-*://*.thinkinghumanity.com/*
+thinkinghumanity.com
 
 # Thought Catalog (USA)
-*://*.thoughtcatalog.com/*
+thoughtcatalog.com
 
 # Thought Crime Radio (USA)
-*://*.thoughtcrimeradio.net/*
+thoughtcrimeradio.net
 
 # Thrive Global (USA)
-*://*.thriveglobal.com/*
+thriveglobal.com
 
 # Thrive Movement (USA)
-*://*.thrivemovement.com/*
+thrivemovement.com
 
 # Totality of Evidence (Australia)
-*://*.totalityofevidence.com/*
+totalityofevidence.com
 
 # Treason.News (USA)
-*://*.treason.news/*
+treason.news
 
 # TrialSite News (USA)
-*://*.trialsitenews.com/*
+trialsitenews.com
 
 # TruNews (USA)
-*://*.trunews.com/*
+trunews.com
 
 # Truth11.com (Unknown)
-*://*.truth11.com/*
+truth11.com
 
 # Truth for Health Foundation (USA)
-*://*.truthforhealth.org/*
+truthforhealth.org
 
 # Twisted.News (USA)
-*://*.twisted.news/*
+twisted.news
 
 # Tyranny.News (USA)
-*://*.tyranny.news/*
+tyranny.news
 
 # Unlimited Hangout (USA)
-*://*.unlimitedhangout.com/*
+unlimitedhangout.com
 
 # UK Column (UK)
-*://*.ukcolumn.org/*
+ukcolumn.org
 
 # USA Hitman (Unknown)
-*://*.usahitman.com/*
+usahitman.com
 
 # USAWatchdog.com (USA)
-*://*.usawatchdog.com/*
+usawatchdog.com
 
 # VaccineDamage.News (USA)
-*://*.vaccinedamage.news/*
+vaccinedamage.news
 
 # Vaccine Impact (USA)
-*://*.vaccineimpact.com/*
+vaccineimpact.com
 
 # VaccineInjuryNews (USA)
-*://*.vaccineinjurynews.com/*
+vaccineinjurynews.com
 
 # Vaccines News (USA)
-*://*.vaccines.news/*
+vaccines.news
 
 # Vaccine Papers (Unknown)
-*://*.vaccinepapers.org/*
+vaccinepapers.org
 
 # Vaccines and Christianity (USA)
-*://*.vaccinesandchristianity.org/*
+vaccinesandchristianity.org
 
 # Vaccines Revealed (USA)
-*://*.vrevealed.com/*
+vrevealed.com
 
 # Vaccine Safety Info (USA)
-*://*.vaccinesafety.info/*
+vaccinesafety.info
 
 # Vaccine Safety Research Foundation (USA)
-*://*.vacsafety.org/*
+vacsafety.org
 
 # VacTruth.com (USA)
-*://*.vactruth.com/*
+vactruth.com
 
 # Vaxxter (USA)
-*://*.vaxxter.com/*
+vaxxter.com
 
 # Veterans Today (USA)
-*://*.veteranstoday.com/*
-*://*.vtforeignpolicy.com/*
+veteranstoday.com
+vtforeignpolicy.com
 
 # Vigilant Citizen (USA)
-*://*.vigilantcitizen.com/*
+vigilantcitizen.com
 
 # Vigilante.tv (Unknown)
-*://*.vigilante.tv/*
+vigilante.tv
 
 # VoteFraud.News (USA)
-*://*.votefraud.news/*
+votefraud.news
 
 # Watts Up with That (USA)
-*://*.wattsupwiththat.com/*
+wattsupwiththat.com
 
 # We Are Anonymous/AnonHQ (Unknown)
-*://*.anonhq.com/*
+anonhq.com
 
 # We Are Change (USA)
-*://*.wearechange.org/*
+wearechange.org
 
 # Weston A. Price Foundation (USA)
-*://*.westonaprice.org/*
+westonaprice.org
 
 # What Really Happened (USA)
-*://*.whatreallyhappened.com/*
+whatreallyhappened.com
 
 # WhatDoesItMean (Unknown)
-*://*.whatdoesitmean.com/*
+whatdoesitmean.com
 
 # WhiteHouse.News (USA)
-*://*.whitehouse.news/*
+whitehouse.news
 
 # Wide Awake Media (USA)
-*://*.wide-awake-media.com/*
+wide-awake-media.com
 
 # Wikispooks (Unknown)
-*://*.wikispooks.com/*
+wikispooks.com
 
 # Wine Press News (USA)
-*://*.winepressnews.com/*
+winepressnews.com
 
 # Winter Watch (USA)
-*://*.winterwatch.net/*
+winterwatch.net
 
 # World Affairs Blog (USA)
-*://*.worldaffairs.blog/*
+worldaffairs.blog
 
 # World Affairs Brief (USA)
-*://*.worldaffairsbrief.com/*
+worldaffairsbrief.com
 
 # World Council for Health (UK)
-*://*.worldcouncilforhealth.org/*
+worldcouncilforhealth.org
 
 # World Doctors Alliance (Unknown)
-*://*.worlddoctorsalliance.com/*
+worlddoctorsalliance.com
 
 # WorldHealth.net (USA)
-*://*.worldhealth.net/*
+worldhealth.net
 
 # World Lifestyle (USA)
-*://*.worldlifestyle.com/*
+worldlifestyle.com
 
 # World Truth TV (USA)
-*://*.worldtruth.tv/*
+worldtruth.tv
 
 # Worldview Weekend (USA)
-*://*.worldviewweekend.com/*
-*://*.worldviewtube.com/*
+worldviewtube.com
+worldviewweekend.com
 
 # X22 Report (USA)
-*://*.x22report.com/*
+x22report.com
 
 # YourTango (USA)
-*://*.yourtango.com/*
+yourtango.com
 
 # ZeroHedge (Bulgaria)
-*://*.zerohedge.com/*
+zerohedge.com
 
 # Occidental Dissent (USA)
-*://*.occidentaldissent.com/*
+occidentaldissent.com
 
 # Peak Prosperity (USA)
-*://*.peakprosperity.com/*
+peakprosperity.com
 
 # Vital Force (UK)
-*://*.vitalforce.me/*
+vitalforce.me
 
 # Compact Magazine (Germany)
-*://*.compact-online.de/*
+compact-online.de
 
 # Stop World Control (USA)
-*://*.stopworldcontrol.com/*
+stopworldcontrol.com
 
 # Reasons to Believe - RTB (USA)
-*://*.reasons.org/*
+reasons.org
 
 # JouWatch (Germany)
-*://*.journalistenwatch.com/*
+journalistenwatch.com
 
 # Uncut-News (Switzerland)
-*://*.uncutnews.ch/*
+uncutnews.ch
 
 # SarahWestall.com (USA)
-*://*.sarahwestall.com/*
+sarahwestall.com
 
 # Strange Sounds (USA)
-*://*.strangesounds.org/*
+strangesounds.org
 
 # Steve Quayle - stevequayle.com (USA)
-*://*.stevequayle.com/*
+stevequayle.com
 
 # Psychreg (UK)
-*://*.psychreg.org/*
+psychreg.org
 
 # Independent Medical Alliance - IMA (USA)
-*://*.imahealth.org/*
+imahealth.org
 
 # Truth Theory (UK)
-*://*.truththeory.com/*
+truththeory.com
 
 # GMO.News (USA)
-*://*.gmo.news/*
+gmo.news
 
 # GreatReject Bias (Netherlands)
-*://*.greatreject.org/*
+greatreject.org
 
 # ThoughtPolice.News (USA)
-*://*.thoughtpolice.news/*
+thoughtpolice.news
 
 # Science, Public Health Policy & the Law (USA)
-*://*.publichealthpolicyjournal.com/*
+publichealthpolicyjournal.com
+

@@ -1,4936 +1,4884 @@
----
-name: Fake News Media (full version)
-description: Hides (most) Fake News Media sites
-homepage: https://github.com/RubenKelevra/ublacklist_fakenews
----
 # 4Chan (USA)
-*://*.4chan.org/*
+4chan.org
 
 # 9GAG (Hong Kong)
-*://*.9gag.com/*
+9gag.com
 
 # 100 Percent Fed Up (USA)
-*://*.100percentfedup.com/*
+100percentfedup.com
 
 # 24Jours.com (Cameroon)
-*://*.24jours.com/*
+24jours.com
 
 # 2020 Conservative (Unknown)
-*://*.2020conservative.com/*
+2020conservative.com
 
 # A Voice for Men (USA)
-*://*.avoiceformen.com/*
+avoiceformen.com
 
 # ABQ Times (USA)
-*://*.abqtimes.com/*
+abqtimes.com
 
 # Action News 3 (Unknown)
-*://*.actionnews3.com/*
+actionnews3.com
 
 # Activist Mommy/Elizabeth Johnston (USA)
-*://*.elizabethjohnston.org/*
+elizabethjohnston.org
 
 # Ada Reporter (USA)
-*://*.adareporter.com/*
+adareporter.com
 
 # Adams County Times (USA)
-*://*.adamscountytimes.com/*
+adamscountytimes.com
 
 # Aguascalientes Daily Post (Unknown)
-*://*.aguascalientesdailypost.com/*
+aguascalientesdailypost.com
 
 # Akron Reporter (USA)
-*://*.akronreporter.com/*
+akronreporter.com
 
 # Al Arabiya (Saudi Arabia)
-*://*.english.alarabiya.net/*
+english.alarabiya.net
 
 # Albany Standard (USA)
-*://*.albanystandard.com/*
+albanystandard.com
 
 # Al Bawaba (Jordan)
-*://*.albawaba.com/*
+albawaba.com
 
 # All News Pipeline (USA)
-*://*.allnewspipeline.com/*
+allnewspipeline.com
 
 # Alliance Defending Freedom (USA)
-*://*.adflegal.org/*
+adflegal.org
 
 # Al Manar (Lebanon)
-*://*.english.almanar.com.lb/*
+english.almanar.com.lb
 
 # Al Mayadeen (Lebanon)
-*://*.english.almayadeen.net/*
+english.almayadeen.net
 
 # Aloha State News (USA)
-*://*.alohastatenews.com/*
+alohastatenews.com
 
 # Alpha News (USA)
-*://*.alphanews.org/*
+alphanews.org
 
 # Altoona Times (USA)
-*://*.altoonatimes.com/*
+altoonatimes.com
 
 # Alt-Right TV (USA)
-*://*.altrighttv.com/*
+altrighttv.com
 
 # Al Youm Al Sabea (Egypt)
-*://*.youm7.com/*
+youm7.com
 
 # America First Legal (USA)
-*://*.aflegal.org/*
+aflegal.org
 
 # America First Report (USA)
-*://*.americafirstreport.com/*
+americafirstreport.com
 
 # America Out Loud (USA)
-*://*.americaoutloud.news/*
+americaoutloud.news
 
 # American Action News (USA)
-*://*.americanactionnews.com/*
+americanactionnews.com
 
 # American Catholic Tribune (USA)
-*://*.americancatholictribune.com/*
+americancatholictribune.com
 
 # American College of Pediatricians (USA)
-*://*.acpeds.org/*
+acpeds.org
 
 # American Conservative Movement (USA)
-*://*.americanconservativemovement.com/*
+americanconservativemovement.com
 
 # American Family Association (USA)
-*://*.afa.net/*
+afa.net
 
 # American Family News (USA)
-*://*.afn.net/*
+afn.net
 
 # Americas Freedom Fighters (USA)
-*://*.americasfreedomfighters.com/*
+americasfreedomfighters.com
 
 # American Gulag (USA)
-*://*.americangulag.org/*
+americangulag.org
 
 # American Liberty Report (USA)
-*://*.americanlibertyemail.com/*
+americanlibertyemail.com
 
 # American Lookout (USA)
-*://*.americanlookout.com/*
+americanlookout.com
 
 # American Media Periscope (USA)
-*://*.americanmediaperiscope.com/*
-*://*.patriot.tv/*
+americanmediaperiscope.com
+patriot.tv
 
 # American Partisan (USA)
-*://*.americanpartisan.org/*
+americanpartisan.org
 
 # American Patriot Daily (USA)
-*://*.americanpatriotdaily.com/*
+americanpatriotdaily.com
 
 # American People Daily (USA)
-*://*.americanpeopledaily.com/*
+americanpeopledaily.com
 
 # American Pharmacy News (USA)
-*://*.americanpharmacynews.com/*
+americanpharmacynews.com
 
 # American Principles Project (USA)
-*://*.americanprinciplesproject.org/*
+americanprinciplesproject.org
 
 # American Renaissance Magazine (USA)
-*://*.amren.com/*
+amren.com
 
 # American Security News (USA)
-*://*.americansecuritynews.com/*
+americansecuritynews.com
 
 # American Society for the Defense of Tradition, Family, and Property (USA)
-*://*.tfp.org/*
+tfp.org
 
 # American Thinker (USA)
-*://*.americanthinker.com/*
+americanthinker.com
 
 # American Web Media (USA)
-*://*.awm.com/*
+awm.com
 
 # Americans Are Pissed (Unknown)
-*://*.americansarepissed.com/*
+americansarepissed.com
 
 # Amerika (USA)
-*://*.amerika.org/*
+amerika.org
 
 # Ames Today (USA)
-*://*.amestoday.com/*
+amestoday.com
 
 # Amic.ru (Russia)
-*://*.amic.ru/*
+amic.ru
 
 # Amoskeag Times (USA)
-*://*.amoskeagtimes.com/*
+amoskeagtimes.com
 
 # Analyzing America (USA)
-*://*.analyzingamerica.org/*
+analyzingamerica.org
 
 # Anderson Reporter (USA)
-*://*.andersonreporter.com/*
+andersonreporter.com
 
 # Ann Arbor Times (USA)
-*://*.annarbortimes.com/*
+annarbortimes.com
 
 # Anne Arundel Today (USA)
-*://*.annearundeltoday.com/*
+annearundeltoday.com
 
 # Anoka Times (USA)
-*://*.anokatimes.com/*
+anokatimes.com
 
 # Anonymous Wire (Unknown)
-*://*.anonymouswire.com/*
+anonymouswire.com
 
 # Antelope Valley Today (USA)
-*://*.antelopevalleytoday.com/*
+antelopevalleytoday.com
 
 # Anti-War (USA)
-*://*.antiwar.com/*
+antiwar.com
 
 # Arab News (Saudi Arabia)
-*://*.arabnews.com/*
+arabnews.com
 
 # Archaeology World (Unknown)
-*://*.archaeology-world.com/*
+archaeology-world.com
 
 # The Arizona Independent (USA)
-*://*.arizonaindependent.com/*
-*://*.tainews.com/*
+arizonaindependent.com
+tainews.com
 
 # Arizona Sun Times (USA)
-*://*.arizonasuntimes.com/*
+arizonasuntimes.com
 
 # Armed Forces Press (USA)
-*://*.armedforces.press/*
+armedforces.press
 
 # Aroostook News (USA)
-*://*.aroostooknews.com/*
+aroostooknews.com
 
 # Агрегатор 24СМИ (Russia)
-*://*.ex.24smi.info/*
+ex.24smi.info
 
 # Asheville Reporter (USA)
-*://*.ashevillereporter.com/*
+ashevillereporter.com
 
 # Association of American Physicians and Surgeons (USA)
-*://*.aapsonline.org/*
+aapsonline.org
 
 # Athens Reporter (USA)
-*://*.athensreporter.com/*
+athensreporter.com
 
 # Atlantic County Times (USA)
-*://*.atlanticcotimes.com/*
+atlanticcotimes.com
 
 # ATL Standard (USA)
-*://*.atlstandard.com/*
+atlstandard.com
 
 # Auburn Times (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # Augusta-Richmond Herald (USA)
-*://*.augustarichmondherald.com/*
+augustarichmondherald.com
 
 # AustraliaOne (Australia)
-*://*.australiaoneparty.com/*
+australiaoneparty.com
 
 # Baja California Post (Unknown)
-*://*.bajacaliforniapost.com/*
+bajacaliforniapost.com
 
 # Baldwin Times (USA)
-*://*.baldwintimes.com/*
+baldwintimes.com
 
 # Baltimore City Wire (USA)
-*://*.baltimorecitywire.com/*
+baltimorecitywire.com
 
 # Bare Naked Islam (USA)
-*://*.barenakedislam.com/*
+barenakedislam.com
 
 # Basnews Agency (Iraq)
-*://*.basnews.com/*
+basnews.com
 
 # Baton Rouge Reporter (USA)
-*://*.batonrougereporter.com/*
+batonrougereporter.com
 
 # Battle Creek Times (USA)
-*://*.battlecreektimes.com/*
+battlecreektimes.com
 
 # Bay State News (USA)
-*://*.baystatenews.com/*
+baystatenews.com
 
 # Bbarta24 (Bangladesh)
-*://*.en.bbarta24.net/*
+en.bbarta24.net
 
 # BDNews24 (Bangladesh)
-*://*.bdnews24.com/*
+bdnews24.com
 
 # Beach Broadcast News (USA)
-*://*.beachbroadcastnews.com/*
+beachbroadcastnews.com
 
 # Bean Town Times (USA)
-*://*.beantowntimes.com/*
+beantowntimes.com
 
 # Beaver State News (USA)
-*://*.beaverstatenews.com/*
+beaverstatenews.com
 
 # Becker News (USA)
-*://*.beckernews.com/*
+beckernews.com
 
 # Before it’s News (USA)
-*://*.beforeitsnews.com/*
+beforeitsnews.com
 
 # Beijing Review (China)
-*://*.bjreview.com/*
+bjreview.com
 
 # Benton Times (USA)
-*://*.bentontimes.com/*
+bentontimes.com
 
 # Big Island Times (USA)
-*://*.bigislandtimes.com/*
+bigislandtimes.com
 
 # Big League Politics (USA)
-*://*.bigleaguepolitics.com/*
-*://*.bigleaguepolitics.substack.com/*
+bigleaguepolitics.com
+bigleaguepolitics.substack.com
 
 # Big Sky Times (USA)
-*://*.bigskytimes.com/*
+bigskytimes.com
 
 # BillionBibles.org (USA)
-*://*.billionbibles.org/*
+billionbibles.org
 
 # Bipartisan Report (USA)
-*://*.bipartisanreport.com/*
+bipartisanreport.com
 
 # BitChute (UK)
-*://*.bitchute.com/*
+bitchute.com
 
 # Black Eye Politics (USA)
-*://*.blackeyepolitics.com/*
+blackeyepolitics.com
 
 # Black Genocide (USA)
-*://*.blackgenocide.org/*
+blackgenocide.org
 
 # BlackNews.com (USA)
-*://*.blacknews.com/*
+blacknews.com
 
 # Bloomington Leader (USA)
-*://*.bloomingtonleader.com/*
+bloomingtonleader.com
 
 # Bluegrass Times (USA)
-*://*.bluegrasstimes.com/*
+bluegrasstimes.com
 
 # Blue State Blues News (USA)
-*://*.bluestatebluesnews.com/*
+bluestatebluesnews.com
 
 # Blunt Force Truth (USA)
-*://*.bluntforcetruth.com/*
+bluntforcetruth.com
 
 # Boise City Wire (USA)
-*://*.boisecitywire.com/*
+boisecitywire.com
 
 # Bongino.com (USA)
-*://*.bongino.com/*
+bongino.com
 
 # Boston Broadside (USA)
-*://*.bostonbroadside.com/*
+bostonbroadside.com
 
 # Bowling Green Today (USA)
-*://*.bowlinggreentoday.com/*
+bowlinggreentoday.com
 
 # Bossip (USA)
-*://*.bossip.com/*
+bossip.com
 
 # Branson Times (USA)
-*://*.bransontimes.com/*
+bransontimes.com
 
 # Breaking911 (USA)
-*://*.breaking911.com/*
+breaking911.com
 
 # Breaking Christian News (USA)
-*://*.breakingchristiannews.com/*
+breakingchristiannews.com
 
 # Breaking First (Unknown)
-*://*.breakingfirst.com/*
+breakingfirst.com
 
 # Breakingnews247.net (Unknown)
-*://*.breakingnews247.net/*
+breakingnews247.net
 
 # Breitbart (USA)
-*://*.breitbart.com/*
+breitbart.com
 
 # Brevard Sun (USA)
-*://*.brevardsun.com/*
+brevardsun.com
 
 # Bridgeport Times (USA)
-*://*.bridgeporttimes.com/*
+bridgeporttimes.com
 
 # Bristol Reporter (USA)
-*://*.bristolreporter.com/*
+bristolreporter.com
 
 # Britain First (UK)
-*://*.britainfirst.org/*
+britainfirst.org
 
 # Buckeye Reporter (USA)
-*://*.buckeyereporter.com/*
+buckeyereporter.com
 
 # Bucks County Standard (USA)
-*://*.buckscountystandard.com/*
+buckscountystandard.com
 
 # Buffalo Ledger (USA)
-*://*.buffaloledger.com/*
+buffaloledger.com
 
 # Burlington Reporter (USA)
-*://*.burlingtonreporter.com/*
+burlingtonreporter.com
 
 # Burlington Review (USA)
-*://*.burlingtonreview.com/*
+burlingtonreview.com
 
 # Business Day Nigeria (Nigeria)
-*://*.businessday.ng/*
+businessday.ng
 
 # Butler County Today (USA)
-*://*.butlercountytoday.com/*
+butlercountytoday.com
 
 # BuzzLoving (USA)
-*://*.buzzloving.com/*
+buzzloving.com
 
 # ByoBlu (Italy)
-*://*.byoblu.com/*
+byoblu.com
 
 # c19aspirin.com (Unknown)
-*://*.c19aspirin.com/*
+c19aspirin.com
 
 # c19bromhexine.com (Unknown)
-*://*.c19bromhexine.com/*
-*://*.c19early.org/*
+c19bromhexine.com
+c19early.org
 
 # C19Budesonide.com (Unknown)
-*://*.c19budesonide.com/*
+c19budesonide.com
 
 # C19colchicine.com (Unknown)
-*://*.c19colchicine.com/*
+c19colchicine.com
 
 # C19curcumin.com (Unknown)
-*://*.c19curcumin.com/*
+c19curcumin.com
 
 # c19ly.com (Unknown)
-*://*.c19ly.com/*
+c19ly.com
 
 # C19favipiravir.com (Unknown)
-*://*.c19favipiravir.com/*
+c19favipiravir.com
 
 # C19fluvoxamine.com (Unknown)
-*://*.c19fluvoxamine.com/*
+c19fluvoxamine.com
 
 # C19hcq.com (Unknown)
-*://*.c19hcq.com/*
-*://*.c19hcq.org/*
+c19hcq.com
+c19hcq.org
 
 # C19ic.com (Unknown)
-*://*.c19ic.com/*
+c19ic.com
 
 # C19ivermectin.com (Unknown)
-*://*.c19ivermectin.com/*
-*://*.c19ivm.org/*
+c19ivermectin.com
+c19ivm.org
 
 # C19melatonin.com (Unknown)
-*://*.c19melatonin.com/*
+c19melatonin.com
 
 # C19mp.com (Unknown)
-*://*.c19mp.com/*
+c19mp.com
 
 # C19nitazoxanide.com (Unknown)
-*://*.c19nitazoxanide.com/*
+c19nitazoxanide.com
 
 # C19ns.com (Unknown)
-*://*.c19ns.com/*
-*://*.c19early.org/*
+c19early.org
+c19ns.com
 
 # C19proxalutamide.com (Unknown)
-*://*.c19proxalutamide.com/*
+c19proxalutamide.com
 
 # C19pvpi.com (Unknown)
-*://*.c19pvpi.com/*
+c19pvpi.com
 
 # C19Quercetin.com (Unknown)
-*://*.c19quercetin.com/*
+c19quercetin.com
 
 # C19regn.com (Unknown)
-*://*.c19regn.com/*
+c19regn.com
 
 # C19rmd.com (Unknown)
-*://*.c19rmd.com/*
+c19rmd.com
 
 # C19sv.com (Unknown)
-*://*.c19sv.com/*
+c19sv.com
 
 # C19VitaminC.com (Unknown)
-*://*.c19vitaminc.com/*
+c19vitaminc.com
 
 # C19VitaminD.com (Unknown)
-*://*.c19vitamind.com/*
+c19vitamind.com
 
 # C19Zinc.com (Unknown)
-*://*.c19zinc.com/*
+c19zinc.com
 
 # Cabarrus Today (USA)
-*://*.cabarrustoday.com/*
+cabarrustoday.com
 
 # Caixin Global (China)
-*://*.caixinglobal.com/*
+caixinglobal.com
 
 # Caldron Pool (Australia)
-*://*.caldronpool.com/*
+caldronpool.com
 
 # Campeche Post (Unknown)
-*://*.campechepost.com/*
+campechepost.com
 
 # Canada Free Press (Canada)
-*://*.canadafreepress.com/*
+canadafreepress.com
 
 # Canary Mission (USA)
-*://*.canarymission.org/*
+canarymission.org
 
 # Cancun Post (Unknown)
-*://*.thecancunpost.com/*
+thecancunpost.com
 
 # Canton Reporter (USA)
-*://*.cantonreporter.com/*
+cantonreporter.com
 
 # Cap News (Unknown)
-*://*.cap-news.com/*
+cap-news.com
 
 # Cape Cod Ledger (USA)
-*://*.capecodledger.com/*
+capecodledger.com
 
 # Capital District Times (USA)
-*://*.capitaldistricttimes.com/*
+capitaldistricttimes.com
 
 # Capitol News (USA)
-*://*.micapitolnews.com/*
+micapitolnews.com
 
 # Cape News (USA)
-*://*.capemonews.com/*
+capemonews.com
 
 # Capstone Report (USA)
-*://*.capstonereport.com/*
+capstonereport.com
 
 # Carbondale Reporter (USA)
-*://*.carbondalereporter.com/*
+carbondalereporter.com
 
 # Cardinal & Pine (USA)
-*://*.cardinalpine.com/*
+cardinalpine.com
 
 # Catholic Tribune (USA)
-*://*.azcatholictribune.com/*
-
-# Catholic Tribune (USA)
-*://*.flcatholictribune.com/*
-
-# Catholic Tribune (USA)
-*://*.micatholictribune.com/*
-
-# Catholic Tribune (USA)
-*://*.mncatholictribune.com/*
-
-# Catholic Tribune (USA)
-*://*.pacatholictribune.com/*
-
-# Catholic Tribune (USA)
-*://*.wicatholictribune.com/*
+azcatholictribune.com
+flcatholictribune.com
+micatholictribune.com
+mncatholictribune.com
+pacatholictribune.com
+wicatholictribune.com
 
 # Causeur (France)
-*://*.causeur.fr/*
+causeur.fr
 
 # CCTV International (China)
-*://*.english.cctv.com/*
+english.cctv.com
 
 # CDA Reporter (USA)
-*://*.cdareporter.com/*
+cdareporter.com
 
 # Cedar Rapids Today (USA)
-*://*.cedarrapidstoday.com/*
+cedarrapidstoday.com
 
 # Centennial State News (USA)
-*://*.centennialstatenews.com/*
+centennialstatenews.com
 
 # True Activist (Germany)
-*://*.trueactivist.com/*
+trueactivist.com
 
 # Center for Security Policy (USA)
-*://*.centerforsecuritypolicy.org/*
+centerforsecuritypolicy.org
 
 # Central Broward News (USA)
-*://*.centralbrowardnews.com/*
+centralbrowardnews.com
 
 # Central Colorado News (USA)
-*://*.centralcoloradonews.com/*
+centralcoloradonews.com
 
 # Central Florida Post (USA)
-*://*.centralfloridapost.com/*
+centralfloridapost.com
 
 # Central Georgia News (USA)
-*://*.centralgeorgianews.com/*
+centralgeorgianews.com
 
 # Central Idaho Times (USA)
-*://*.centralidahotimes.com/*
+centralidahotimes.com
 
 # Central Iowa Times (USA)
-*://*.centraliowatimes.com/*
+centraliowatimes.com
 
 # Central Louisiana News (USA)
-*://*.centrallouisiananews.com/*
+centrallouisiananews.com
 
 # Central Missouri News (USA)
-*://*.centralmissourinews.com/*
+centralmissourinews.com
 
 # Central Montana Times (USA)
-*://*.centralmontanatimes.com/*
+centralmontanatimes.com
 
 # Central ND News (USA)
-*://*.centralndnews.com/*
+centralndnews.com
 
 # Central OC Times (USA)
-*://*.centraloctimes.com/*
+centraloctimes.com
 
 # Central Ohio Today (USA)
-*://*.centralohiotoday.com/*
+centralohiotoday.com
 
 # Central Oregon Times (USA)
-*://*.centraloregontimes.com/*
+centraloregontimes.com
 
 # Central Pennsylvania Times (USA)
-*://*.centralpatimes.com/*
+centralpatimes.com
 
 # Central STL News (USA)
-*://*.centralstlnews.com/*
+centralstlnews.com
 
 # Chambana Sun (USA)
-*://*.chambanasun.com/*
+chambanasun.com
 
 # Channel One Russia (Russia)
-*://*.1tv.ru/*
+1tv.ru
 
 # Chapel Hill Review (USA)
-*://*.chapelhillreview.com/*
+chapelhillreview.com
 
 # Chicago City Wire (USA)
-*://*.chicagocitywire.com/*
+chicagocitywire.com
 
 # Chico Times (USA)
-*://*.chicotimes.com/*
+chicotimes.com
 
 # Chihuahua Post (Unknown)
-*://*.thechihuahuapost.com/*
+thechihuahuapost.com
 
 # China Daily (China)
-*://*.chinadaily.com.cn/*
+chinadaily.com.cn
 
 # China Global Television Network (China)
-*://*.cgtn.com/*
+cgtn.com
 
 # Christian Action Network (USA)
-*://*.christianaction.org/*
+christianaction.org
 
 # Christians for Truth (Unknown)
-*://*.christiansfortruth.com/*
+christiansfortruth.com
 
 # Church Militant (USA)
-*://*.churchmilitant.com/*
+churchmilitant.com
 
 # Cincy Reporter (USA)
-*://*.cincyreporter.com/*
+cincyreporter.com
 
 # CitizenGO (Spain)
-*://*.citizengo.org/*
+citizengo.org
 
 # Citizens Journal (USA)
-*://*.citizensjournal.us/*
+citizensjournal.us
 
 # Clarion Project (USA)
-*://*.clarionproject.org/*
+clarionproject.org
 
 # Clash Daily (USA)
-*://*.clashdaily.com/*
+clashdaily.com
 
 # ClayandBuck.com (USA)
-*://*.clayandbuck.com/*
+clayandbuck.com
 
 # Clay County Times (USA)
-*://*.claycotimes.com/*
+claycotimes.com
 
 # Clay Reporter (USA)
-*://*.clayreporter.com/*
+clayreporter.com
 
 # Clermont Times (USA)
-*://*.clermonttimes.com/*
+clermonttimes.com
 
 # Cleveland Reporter (USA)
-*://*.clevelandreporter.com/*
+clevelandreporter.com
 
 # CNS News (USA)
-*://*.mrctv.org/*
+mrctv.org
 
 # Coachella Today (USA)
-*://*.coachellatoday.com/*
+coachellatoday.com
 
 # Coastal GA News (USA)
-*://*.coastalganews.com/*
+coastalganews.com
 
 # Cobb News (USA)
-*://*.cobbnewsga.com/*
+cobbnewsga.com
 
 # Cobb Reporter (USA)
-*://*.cobbreporter.com/*
+cobbreporter.com
 
 # Coconino News (USA)
-*://*.coconinonews.com/*
+coconinonews.com
 
 # Colorado Free Press (USA)
-*://*.coloradofreepress.com/*
+coloradofreepress.com
 
 # Columbia News (USA)
-*://*.columbiamonews.com/*
+columbiamonews.com
 
 # Columbus News (USA)
-*://*.colonews.org/*
+colonews.org
 
 # Columbus Standard (USA)
-*://*.columbusstandard.com/*
+columbusstandard.com
 
 # Competitive Enterprise Institute (USA)
-*://*.cei.org/*
+cei.org
 
 # Concerned Women for America (USA)
-*://*.concernedwomen.org/*
-*://*.cwfa.org/*
+concernedwomen.org
+cwfa.org
 
 # Concord Ledger (USA)
-*://*.concordledger.com/*
+concordledger.com
 
 # Congressional Agenda (USA)
-*://*.congressionalagenda.com/*
+congressionalagenda.com
 
 # Connecticut Centinal (USA)
-*://*.connecticutcentinal.com/*
+connecticutcentinal.com
 
 # Connecticut Star (USA)
-*://*.theconnecticutstar.com/*
+theconnecticutstar.com
 
 # Conservapedia (USA)
-*://*.conservapedia.com/*
+conservapedia.com
 
 # Conservative Ammo (USA)
-*://*.conservativeammo.com/*
+conservativeammo.com
 
 # Conservative Beaver (Canada)
-*://*.conservativebeaver.com/*
-*://*.ice-energy.com/*
+conservativebeaver.com
+ice-energy.com
 
 # Conservative Choice Campaign (USA)
-*://*.conservativechoicecampaign.com/*
+conservativechoicecampaign.com
 
 # Conservative Daily News (USA)
-*://*.conservativedailynews.com/*
+conservativedailynews.com
 
 # Conservative Firing Line (USA)
-*://*.conservativefiringline.com/*
+conservativefiringline.com
 
 # Conservative Fighters (USA)
-*://*.cf.org/*
+cf.org
 
 # Conservative Free Press (USA)
-*://*.conservativefreepress.com/*
+conservativefreepress.com
 
 # Conservative Matrix (USA)
-*://*.conservativematrix.com/*
+conservativematrix.com
 
 # Conservative Playlist (USA)
-*://*.conservativeplaylist.com/*
-*://*.discernreport.com/*
-
-# Conservative Politics Today (USA)
-*://*.facebook.com/conservativepoliticstoday/*
+conservativeplaylist.com
+discernreport.com
 
 # Conservative Post (USA)
-*://*.conservativepost.com/*
+conservativepost.com
 
 # Conservative Revival (USA)
-*://*.conservativerevival.com/*
+conservativerevival.com
 
 # Conservative Tribune (USA)
-*://*.westernjournal.com/*
+westernjournal.com
 
 # Conservative Underground News (USA)
-*://*.conservativeundergroundnews.com/*
+conservativeundergroundnews.com
 
 # Constative (Unknown)
-*://*.constative.com/*
+constative.com
 
 # Constitution State News (USA)
-*://*.constitutionstatenews.com/*
+constitutionstatenews.com
 
 # Copper Courier (USA)
-*://*.coppercourier.com/*
+coppercourier.com
 
 # Cornhusker State News (USA)
-*://*.cornhuskerstatenews.com/*
+cornhuskerstatenews.com
 
 # Transition News (Switzerland)
-*://*.corona-transition.org/*
-*://*.transition-news.org/*
+corona-transition.org
+transition-news.org
 
 # Council on American-Islamic Relations (USA)
-*://*.cair.com/*
+cair.com
 
 # Council for the National Interest (USA)
-*://*.councilforthenationalinterest.org/*
+councilforthenationalinterest.org
 
 # Council of Conservative Citizens (USA)
-*://*.conservative-headlines.org/*
+conservative-headlines.org
 
 # CovertAction Magazine (USA)
-*://*.covertactionmagazine.com/*
+covertactionmagazine.com
 
 # CovidAnalysis Network (Unknown)
-*://*.c19early.com/*
-*://*.c19early.org/*
+c19early.com
+c19early.org
 
 # Cowards of Canada (Canada)
-*://*.cowards.ca/*
+cowards.ca
 
 # Creative Destruction Media (USA)
-*://*.creativedestructionmedia.com/*
+creativedestructionmedia.com
 
 # Cultural Action Party of Canada (Canada)
-*://*.capforcanada.com/*
+capforcanada.com
 
 # Culture Watch News (USA)
-*://*.culturewatchnews.com/*
+culturewatchnews.com
 
 # Current Science Daily (USA)
-*://*.currentsciencedaily.com/*
+currentsciencedaily.com
 
 # Dagospia (Italy)
-*://*.dagospia.com/*
+dagospia.com
 
 # Daily Buzz Live (USA)
-*://*.dailybuzzlive.com/*
+dailybuzzlive.com
 
 # Daily Citizen (USA)
-*://*.dailycitizen.focusonthefamily.com/*
-*://*.focusonthefamily.com/*
+dailycitizen.focusonthefamily.com
+focusonthefamily.com
 
 # Daily Headlines (Unknown)
-*://*.dailyheadlines.net/*
+dailyheadlines.net
 
 # Daily Honker (USA)
-*://*.dailyhonker.com/*
+dailyhonker.com
 
 # Daily Mail (UK)
-*://*.dailymail.co.uk/*
+dailymail.co.uk
 
 # Daily Presser (USA)
-*://*.dailypresser.com/*
+dailypresser.com
 
 # Daily Star UK (UK)
-*://*.dailystar.co.uk/*
+dailystar.co.uk
 
 # Daily Stormer (USA)
-*://*.dailystormer.in/*
+dailystormer.in
 
 # Dakota Times (USA)
-*://*.dakotatimes.com/*
+dakotatimes.com
 
 # Daily Veracity (USA)
-*://*.dailyveracity.com/*
+dailyveracity.com
 
 # Darntons (USA)
-*://*.darntons.com/*
+darntons.com
 
 # DavidHarrisJr.com (USA)
-*://*.davidharrisjr.com/*
+davidharrisjr.com
 
 # Dayton Reporter (USA)
-*://*.daytonreporter.com/*
+daytonreporter.com
 
 # DC Dirty Laundry (USA)
-*://*.dcdirtylaundry.com/*
+dcdirtylaundry.com
 
 # DC Weekly (Russia)
-*://*.dcweekly.org/*
+dcweekly.org
 
 # DEBKAfile (Israel)
-*://*.debka.com/*
+debka.com
 
 # Decatur Times (USA)
-*://*.decaturtimes.com/*
+decaturtimes.com
 
 # Deep Left Field (USA)
-*://*.new.deepleftfield.info/*
+new.deepleftfield.info
 
 # Deep State Journal (USA)
-*://*.deepstatejournal.com/*
+deepstatejournal.com
 
 # Def-Con News (USA)
-*://*.defconnews.com/*
+defconnews.com
 
 # Defending the Republic (USA)
-*://*.defendingtherepublic.org/*
+defendingtherepublic.org
 
 # Defiant America (USA)
-*://*.defiantamerica.com/*
+defiantamerica.com
 
 # DeKalb GA News (USA)
-*://*.dekalbganews.com/*
+dekalbganews.com
 
 # DeKalb Times (USA)
-*://*.dekalbtimes.com/*
+dekalbtimes.com
 
 # Delaware County Review (USA)
-*://*.delcoreview.com/*
+delcoreview.com
 
 # Delaware Valley Sun (USA)
-*://*.delawarevalleysun.com/*
+delawarevalleysun.com
 
 # Democratic National Committee (USA)
-*://*.democrats.org/*
+democrats.org
 
 # Denver City Wire (USA)
-*://*.denvercitywire.com/*
+denvercitywire.com
 
 # Des Moines Sun (USA)
-*://*.desmoinessun.com/*
+desmoinessun.com
 
 # DeSantis Daily (USA)
-*://*.desantisdaily.com/*
+desantisdaily.com
 
 # Detroit City Wire (USA)
-*://*.detroitcitywire.com/*
+detroitcitywire.com
 
 # DiamondandSilkinc.com (USA)
-*://*.diamondandsilkinc.com/*
+diamondandsilkinc.com
 
 # Discern Report (USA)
-*://*.discernreport.com/*
+discernreport.com
 
 # Disclose TV (Germany)
-*://*.disclose.tv/*
+disclose.tv
 
 # Discover the Networks (USA)
-*://*.discoverthenetworks.org/*
+discoverthenetworks.org
 
 # Disntr (USA)
-*://*.disntr.com/*
+disntr.com
 
 # DJHJ Media (USA)
-*://*.djhjmedia.com/*
-*://*.davidharrisjr.store/*
+davidharrisjr.store
+djhjmedia.com
 
 # DNyuz (Armenia)
-*://*.dnyuz.com/*
+dnyuz.com
 
 # Doug Casey’s International Man (USA)
-*://*.internationalman.com/*
+internationalman.com
 
 # Down East Times (USA)
-*://*.downeasttimes.com/*
+downeasttimes.com
 
 # Download.News (USA)
-*://*.download.news/*
-*://*.downloaddotnews.substack.com/*
+download.news
+downloaddotnews.substack.com
 
 # Down River Today (USA)
-*://*.downrivertoday.com/*
+downrivertoday.com
 
 # Druthers (Canada)
-*://*.druthers.net/*
-*://*.druthers.ca/*
+druthers.ca
+druthers.net
 
 # Dubuque Times (USA)
-*://*.dubuquetimes.com/*
+dubuquetimes.com
 
 # Dupage Policy Journal (USA)
-*://*.dupagepolicyjournal.com/*
+dupagepolicyjournal.com
 
 # Durango Post (Unknown)
-*://*.thedurangopost.com/*
+thedurangopost.com
 
 # Durham Reporter (USA)
-*://*.durhamreporter.com/*
+durhamreporter.com
 
 # Duval Times (USA)
-*://*.duvaltimes.com/*
+duvaltimes.com
 
 # Dzen.ru (Russia)
-*://*.dzen.ru/*
+dzen.ru
 
 # Eagle Rising (Unknown)
-*://*.eaglerising.com/*
+eaglerising.com
 
 # Eagle Valley Times (USA)
-*://*.eaglevalleytimes.com/*
+eaglevalleytimes.com
 
 # East Alameda News (USA)
-*://*.eastalamedanews.com/*
+eastalamedanews.com
 
 # East Arapahoe News (USA)
-*://*.eastarapahoenews.com/*
+eastarapahoenews.com
 
 # East Arizona News (USA)
-*://*.eastarizonanews.com/*
+eastarizonanews.com
 
 # East Central Alabama News (USA)
-*://*.ecalabamanews.com/*
+ecalabamanews.com
 
 # East Central Reporter (USA)
-*://*.eastcentralreporter.com/*
+eastcentralreporter.com
 
 # East Cleveland News (USA)
-*://*.eastclevelandnews.com/*
+eastclevelandnews.com
 
 # East Contra Costa News (USA)
-*://*.eastcontracostanews.com/*
+eastcontracostanews.com
 
 # East Hillsborough News (USA)
-*://*.easthillsboroughnews.com/*
+easthillsboroughnews.com
 
 # East Hudson Valley News (USA)
-*://*.easthudvalleynews.com/*
+easthudvalleynews.com
 
 # East Idaho Times (USA)
-*://*.eastidahotimes.com/*
+eastidahotimes.com
 
 # East Indy News (USA)
-*://*.eastindynews.com/*
+eastindynews.com
 
 # East Central Iowa News (USA)
-*://*.eciowanews.com/*
+eciowanews.com
 
 # East Kentucky Times (USA)
-*://*.eastkentuckytimes.com/*
+eastkentuckytimes.com
 
 # East Lake Norman News (USA)
-*://*.eastlakenormannews.com/*
+eastlakenormannews.com
 
 # East Little Rock Times (USA)
-*://*.eastlittlerocktimes.com/*
+eastlittlerocktimes.com
 
 # East Louisville News (USA)
-*://*.eastlouisvillenews.com/*
+eastlouisvillenews.com
 
 # East Michigan News (USA)
-*://*.eastmichigannews.com/*
+eastmichigannews.com
 
 # East New Mexico News (USA)
-*://*.eastnewmexiconews.com/*
+eastnewmexiconews.com
 
 # East OKC News (USA)
-*://*.eastokcnews.com/*
+eastokcnews.com
 
 # East Oregon News (USA)
-*://*.eastoregonnews.com/*
+eastoregonnews.com
 
 # East Panhandle News (USA)
-*://*.eastpanhandlenews.com/*
+eastpanhandlenews.com
 
 # East PDX Today (USA)
-*://*.eastpdxtoday.com/*
+eastpdxtoday.com
 
 # East Pennyroyal News (USA)
-*://*.eastpennyroyalnews.com/*
+eastpennyroyalnews.com
 
 # East San Diego News (USA)
-*://*.eastsandiegonews.com/*
+eastsandiegonews.com
 
 # East SBV Times (USA)
-*://*.eastsbvtimes.com/*
+eastsbvtimes.com
 
 # East SFV Today (USA)
-*://*.eastsfvtoday.com/*
+eastsfvtoday.com
 
 # East Sierra News (USA)
-*://*.eastsierranews.com/*
+eastsierranews.com
 
 # East Stark News (USA)
-*://*.eaststarknews.com/*
+eaststarknews.com
 
 # Easton Gazette (USA)
-*://*.eastongazette.com/*
+eastongazette.com
 
 # East Twin Cities (USA)
-*://*.easttwincities.com/*
+easttwincities.com
 
 # East Ventura News (USA)
-*://*.eastventuranews.com/*
+eastventuranews.com
 
 # East Volusia News (USA)
-*://*.eastvolusianews.com/*
+eastvolusianews.com
 
 # East Wake Times (USA)
-*://*.eastwaketimes.com/*
+eastwaketimes.com
 
 # East Witchita Times (USA)
-*://*.eastwichitatimes.com/*
+eastwichitatimes.com
 
 # Eastern Wayne Today (USA)
-*://*.easternwaynetoday.com/*
+easternwaynetoday.com
 
 # eBaum’s World (USA)
-*://*.ebaumsworld.com/*
+ebaumsworld.com
 
 # Echo Check (USA)
-*://*.echocheck.org/*
+echocheck.org
 
 # EC Georgia News (USA)
-*://*.ecgeorgianews.com/*
+ecgeorgianews.com
 
 # EC Indiana News (USA)
-*://*.ecindiananews.com/*
+ecindiananews.com
 
 # EC Kansas News (USA)
-*://*.eckansasnews.com/*
+eckansasnews.com
 
 # EC Mississippi News (USA)
-*://*.ecmissnews.com/*
+ecmissnews.com
 
 # EC Nebraska News (USA)
-*://*.ecnebraskanews.com/*
+ecnebraskanews.com
 
 # EC North Carolina News (USA)
-*://*.ecnorthcarolinanews.com/*
+ecnorthcarolinanews.com
 
 # EC Ohio News (USA)
-*://*.ecohionews.com/*
+ecohionews.com
 
 # EC Oklahoma News (USA)
-*://*.ecoklahomanews.com/*
+ecoklahomanews.com
 
 # Education Daily Wire (USA)
-*://*.educationdailywire.com/*
+educationdailywire.com
 
 # Elizabethtown Times (USA)
-*://*.elizabethtowntimes.com/*
+elizabethtowntimes.com
 
 # Elkhart Times (USA)
-*://*.elkharttimes.com/*
+elkharttimes.com
 
 # Emerald Coast Times (USA)
-*://*.emeraldcoasttimes.com/*
+emeraldcoasttimes.com
 
 # Emirates 24/7 (United Arab Emirates)
-*://*.emirates247.com/*
+emirates247.com
 
 # Empire State Today (USA)
-*://*.empirestatetoday.com/*
+empirestatetoday.com
 
 # En Volve (USA)
-*://*.en-volve.com/*
+en-volve.com
 
 # Enchantment State News (USA)
-*://*.enchantmentstatenews.com/*
+enchantmentstatenews.com
 
 # End the Fed (USA)
-*://*.endthefed.org/*
+endthefed.org
 
 # Europe-Israel News (Israel)
-*://*.europe-israel.org/*
+europe-israel.org
 
 # Everett Times (USA)
-*://*.everetttimes.com/*
+everetttimes.com
 
 # Everytown for Gun Safety (USA)
-*://*.everytownresearch.org/*
+everytownresearch.org
 
 # Evie Magazine (USA)
-*://*.eviemagazine.com/*
+eviemagazine.com
 
 # Evil.News (USA)
-*://*.evil.news/*
+evil.news
 
 # Fact-Checking Turkey (Turkey)
-*://*.factcheckingturkey.com/*
+factcheckingturkey.com
 
 # Facts.Net (Unknown)
-*://*.facts.net/*
+facts.net
 
 # Fairfield Reporter (USA)
-*://*.fairfieldreporter.com/*
+fairfieldreporter.com
 
 # Fairport Educational Alliance (USA)
-*://*.fairporteducationalalliance.org/*
+fairporteducationalalliance.org
 
 # Family Research Council (USA)
-*://*.frc.org/*
+frc.org
 
 # Family Survival Headlines (USA)
-*://*.familysurvivalheadlines.com/*
+familysurvivalheadlines.com
 
 # Fargo Standard (USA)
-*://*.fargostandard.com/*
+fargostandard.com
 
 # Farm Insurance News (USA)
-*://*.farminsurancenews.com/*
+farminsurancenews.com
 
 # Fars News (Iran)
-*://*.farsnews.ir/*
+farsnews.ir
 
 # Dissident Mag (USA)
-*://*.dissident-mag.com/*
+dissident-mag.com
 
 # Fayetteville Standard (USA)
-*://*.fayettevillestandard.com/*
+fayettevillestandard.com
 
 # Fayetteville Today (USA)
-*://*.fayettevilletoday.com/*
+fayettevilletoday.com
 
 # FDA Health News (USA)
-*://*.fdahealthnews.com/*
+fdahealthnews.com
 
 # FDA Reporter (USA)
-*://*.fdareporter.com/*
+fdareporter.com
 
 # Federalist Press (USA)
-*://*.federalistpress.com/*
+federalistpress.com
 
 # Felix Rex (Canada)
-*://*.felixrex.net/*
+felixrex.net
 
 # Femalista (USA)
-*://*.femalista.com/*
+femalista.com
 
 # Filming Cops (USA)
-*://*.filmingcops.com/*
+filmingcops.com
 
 # Findlay Times (USA)
-*://*.findlaytimes.com/*
+findlaytimes.com
 
 # Finger Lakes Today (USA)
-*://*.fingerlakestoday.com/*
+fingerlakestoday.com
 
 # First in Freedom Daily (USA)
-*://*.firstinfreedomdaily.com/*
+firstinfreedomdaily.com
 
 # First State Times (USA)
-*://*.firststatetimes.com/*
+firststatetimes.com
 
 # Flashout (Unknown)
-*://*.thecareerbd.com/*
+thecareerbd.com
 
 # Flex Mag (Macedonia)
-*://*.usafortrumponline.com/*
+usafortrumponline.com
 
 # Floricua (USA)
-*://*.floricuanews.com/*
+floricuanews.com
 
 # Florida Capital Star (USA)
-*://*.floridacapitalstar.com/*
+floridacapitalstar.com
 
 # Florida Parish News (USA)
-*://*.floridaparishnews.com/*
+floridaparishnews.com
 
 # Focus on the Family (USA)
-*://*.focusonthefamily.com/*
+focusonthefamily.com
 
 # Foothills Review (USA)
-*://*.foothillsreview.com/*
+foothillsreview.com
 
 # Forbidden News Network (Unknown)
-*://*.bannedbook.org/*
+bannedbook.org
 
 # Foreign Policy Initiative (USA)
-*://*.foreignpolicyi.org/*
+foreignpolicyi.org
 
 # For the Right News (USA)
-*://*.conservativeglobe.com/*
+conservativeglobe.com
 
 # Fort Smith Times (USA)
-*://*.fortsmithtimes.com/*
+fortsmithtimes.com
 
 # Fox News (USA)
-*://*.twitter.com/FoxNews*
-*://*.x.com/FoxNews*
-*://*.facebook.com/FoxNews*
-*://*.foxnews.com/*
+foxnews.com
 
 # Frank Speech (USA)
-*://*.frankspeech.com/*
+frankspeech.com
 
 # Freedom First Network (USA)
-*://*.freedomfirstnetwork.com/*
+freedomfirstnetwork.com
 
 # Freedom News Report (USA)
-*://*.freedomnewsreport.com/*
+freedomnewsreport.com
 
 # FreedomProject Media (USA)
-*://*.freedomproject.com/*
+freedomproject.com
 
 # Free-Speech Front (Unknown)
-*://*.free-speechfront.info/*
+free-speechfront.info
 
 # Free West Media (Sweden)
-*://*.freewestmedia.com/*
+freewestmedia.com
 
 # Fresh Off The Press (USA)
-*://*.freshoffthepress.org/*
+freshoffthepress.org
 
 # Fresno Leader (USA)
-*://*.fresnoleader.com/*
+fresnoleader.com
 
 # Fria Tider (Sweden)
-*://*.friatider.se/*
+friatider.se
 
 # Frontpage Magazine (USA)
-*://*.frontpagemag.com/*
+frontpagemag.com
 
 # FrontPage NewsPaper (USA)
-*://*.frontpagenewspaper.com/*
+frontpagenewspaper.com
 
 # FT Wayne Times (USA)
-*://*.ftwaynetimes.com/*
+ftwaynetimes.com
 
 # GAB News (USA)
-*://*.news.gab.com/*
+news.gab.com
 
 # Gadsden Today (USA)
-*://*.gadsdentoday.com/*
+gadsdentoday.com
 
 # Galesburg Reporter (USA)
-*://*.galesburgreporter.com/*
+galesburgreporter.com
 
 # Garden State Times (USA)
-*://*.gardenstatetimes.com/*
+gardenstatetimes.com
 
 # Gastonia Times (USA)
-*://*.gastoniatimes.com/*
+gastoniatimes.com
 
 # Gatestone Institute (USA)
-*://*.gatestoneinstitute.org/*
+gatestoneinstitute.org
 
 # Gays Against Groomers (USA)
-*://*.gaysagainstgroomers.com/*
+gaysagainstgroomers.com
 
 # Gazeta.ru (Russia)
-*://*.gazeta.ru/*
+gazeta.ru
 
 # GB News UK (UK)
-*://*.gbnews.com/*
+gbnews.com
 
 # Geller Report (USA)
-*://*.gellerreport.com/*
+gellerreport.com
 
 # Gem State Wire (USA)
-*://*.gemstatewire.com/*
+gemstatewire.com
 
 # Genesee News (USA)
-*://*.geneseenews.com/*
+geneseenews.com
 
 # Gen Z Conservative (USA)
-*://*.genzconservative.com/*
+genzconservative.com
 
 # Geology In (USA)
-*://*.geologyin.com/*
+geologyin.com
 
 # Georgia Mountain News (USA)
-*://*.georgiamountainnews.com/*
+georgiamountainnews.com
 
 # Georgia Record (USA)
-*://*.georgiarecord.com/*
+georgiarecord.com
 
 # Georgia Star News (USA)
-*://*.georgiastarnews.com/*
+georgiastarnews.com
 
 # Gephardt Daily (USA)
-*://*.gephardtdaily.com/*
+gephardtdaily.com
 
 # GETTR (USA)
-*://*.gettr.com/*
+gettr.com
 
 # Ghost.Report (USA)
-*://*.ghost.report/*
+ghost.report
 
 # Gingrich 360 (USA)
-*://*.gingrich360.com/*
+gingrich360.com
 
 # GiveSendGo (USA)
-*://*.givesendgo.com/*
+givesendgo.com
 
 # Glacier Country News (USA)
-*://*.glaciercountrynews.com/*
+glaciercountrynews.com
 
 # Globe Magazine (USA)
-*://*.globemagazine.com/*
+globemagazine.com
 
 # Gloucester Today (USA)
-*://*.gloucestertoday.com/*
+gloucestertoday.com
 
 # Gnews (USA)
-*://*.gnews.org/*
+gnews.org
 
 # Gold Country Today (USA)
-*://*.goldcountrytoday.com/*
+goldcountrytoday.com
 
 # Golden State Today (USA)
-*://*.goldenstatetoday.com/*
+goldenstatetoday.com
 
 # GoodGopher (USA)
-*://*.goodgopher.com/*
+goodgopher.com
 
 # GOP Daily Brief (USA)
-*://*.gopdailybrief.com/*
+gopdailybrief.com
 
 # GOP.gov (USA)
-*://*.gop.gov/*
+gop.gov
 
 # GOPUSA (USA)
-*://*.gopusa.com/*
+gopusa.com
 
 # Grand Canyon Times (USA)
-*://*.grandcanyontimes.com/*
+grandcanyontimes.com
 
 # Grand Junction Times (USA)
-*://*.grandjunctiontimes.com/*
+grandjunctiontimes.com
 
 # Grand Rapids News (USA)
-*://*.grandrapidsminews.com/*
+grandrapidsminews.com
 
 # Grand Rapids Reporter (USA)
-*://*.grandrapidsreporter.com/*
+grandrapidsreporter.com
 
 # Granite Grok (USA)
-*://*.granitegrok.com/*
+granitegrok.com
 
 # Granite Post (USA)
-*://*.granitepostnews.com/*
+granitepostnews.com
 
 # Granma (Cuba)
-*://*.granma.cu/*
+granma.cu
 
 # Great American Daily (USA)
-*://*.greatamericandaily.com/*
+greatamericandaily.com
 
 # Great Lakes Wire (USA)
-*://*.greatlakeswire.com/*
+greatlakeswire.com
 
 # GreatReject Bias (Netherlands)
-*://*.greatreject.org/*
+greatreject.org
 
 # Greene County Times (USA)
-*://*.greenecotimes.com/*
+greenecotimes.com
 
 # Greensboro Reporter (USA)
-*://*.greensbororeporter.com/*
+greensbororeporter.com
 
 # Greenville Reporter (USA)
-*://*.greenvillereporter.com/*
+greenvillereporter.com
 
 # Gript.ie (Unknown)
-*://*.gript.ie/*
+gript.ie
 
 # Grundy Reporter (USA)
-*://*.grundyreporter.com/*
+grundyreporter.com
 
 # Grunge (USA)
-*://*.grunge.com/*
+grunge.com
 
 # GTR Times (USA)
-*://*.gtrtimes.com/*
+gtrtimes.com
 
 # Guadalajara Post (Unknown)
-*://*.theguadalajarapost.com/*
+theguadalajarapost.com
 
 # Guardian Nigeria (Nigeria)
-*://*.guardian.ng/*
+guardian.ng
 
 # Gucmakale.com (USA)
-*://*.gucmakale.com/*
+gucmakale.com
 
 # Guerrero Post (Unknown)
-*://*.theguerreropost.com/*
+theguerreropost.com
 
 # Gulf News (United Arab Emirates)
-*://*.gulfnews.com/*
+gulfnews.com
 
 # Gunster News (Unknown)
-*://*.gunsternews.com/*
+gunsternews.com
 
 # The Hagmann Report (USA)
-*://*.hagmannreport.com/*
-*://*.hagmannpi.com/*
+hagmannpi.com
+hagmannreport.com
 
 # Hal Turner Radio Show (USA)
-*://*.halturnerradioshow.com/*
+halturnerradioshow.com
 
 # Hannity.com (USA)
-*://*.hannity.com/*
+hannity.com
 
 # Harford News (USA)
-*://*.harfordnews.com/*
+harfordnews.com
 
 # Hartford Reporter (USA)
-*://*.hartfordreporter.com/*
+hartfordreporter.com
 
 # Hawar News Agency (Syria)
-*://*.en.hawarnews.org/*
+en.hawarnews.org
 
 # Hawkeye Reporter (USA)
-*://*.hawkeyereporter.com/*
+hawkeyereporter.com
 
 # Headline USA (USA)
-*://*.headlineusa.com/*
+headlineusa.com
 
 # Head Topics (Unknown)
-*://*.headtopics.com/*
+headtopics.com
 
 # Henderson Times (USA)
-*://*.hendersontimes.org/*
+hendersontimes.org
 
 # Here Is The Evidence (UK)
-*://*.hereistheevidence.com/*
+hereistheevidence.com
 
 # Hernando Reporter (USA)
-*://*.hernandoreporter.com/*
+hernandoreporter.com
 
 # Heartland Institute (USA)
-*://*.heartland.org/*
+heartland.org
 
 # Hickory Sun (USA)
-*://*.hickorysun.com/*
+hickorysun.com
 
 # Hidalgo Daily Post (Unknown)
-*://*.hidalgodailypost.com/*
+hidalgodailypost.com
 
 # High Country Times (USA)
-*://*.highcountrytimes.com/*
+highcountrytimes.com
 
 # Higher Education Tribune (USA)
-*://*.highereducationtribune.com/*
+highereducationtribune.com
 
 # Hillsborough Sun (USA)
-*://*.hillsboroughsun.com/*
+hillsboroughsun.com
 
 # Hindustan Times (India)
-*://*.hindustantimes.com/*
+hindustantimes.com
 
 # Hogg Watch (USA)
-*://*.hoggwatch.com/*
+hoggwatch.com
 
 # Honolulu Reporter (USA)
-*://*.honolulureporter.com/*
+honolulureporter.com
 
 # Holland Reporter (USA)
-*://*.hollandreporter.com/*
+hollandreporter.com
 
 # Hoodsite-USA Crime (USA)
-*://*.usacrime.com/*
+usacrime.com
 
 # Hoosier State Today (USA)
-*://*.hoosierstatetoday.com/*
+hoosierstatetoday.com
 
 # Hopkinsville Times (USA)
-*://*.hopkinsvilletimes.com/*
+hopkinsvilletimes.com
 
 # Hot Springs Times (USA)
-*://*.hotspringstimes.com/*
+hotspringstimes.com
 
 # Houma Thibodaux News (USA)
-*://*.houmathibodauxnews.com/*
+houmathibodauxnews.com
 
 # Housatonic Valley News (USA)
-*://*.housatonicvalleynews.com/*
+housatonicvalleynews.com
 
 # Howard County News (USA)
-*://*.howardconews.com/*
+howardconews.com
 
 # HR Daily Wire (USA)
-*://*.hrdailywire.com/*
+hrdailywire.com
 
 # Hudson Today (USA)
-*://*.hudsontoday.com/*
+hudsontoday.com
 
 # Human Life International (USA)
-*://*.hli.org/*
+hli.org
 
 # Huntsville Leader (USA)
-*://*.huntsvilleleader.com/*
+huntsvilleleader.com
 
 # Hutch Today (USA)
-*://*.hutchtoday.com/*
+hutchtoday.com
 
 # IBX News (USA)
-*://*.ibxnews.com/*
+ibxnews.com
 
 # Idaho Freedom Foundation (USA)
-*://*.idahofreedom.org/*
+idahofreedom.org
 
 # Idaho Tribune (USA)
-*://*.idahotribune.org/*
+idahotribune.org
 
 # iHarare (Zimbabwe)
-*://*.iharare.com/*
+iharare.com
 
 # I Hate the Media (USA)
-*://*.ihatethemedia.com/*
+ihatethemedia.com
 
 # I, Hypocrite (USA)
-*://*.ihypocrite.net/*
+ihypocrite.net
 
 # Illegal Alien Crime Report (USA)
-*://*.illegalaliencrimereport.com/*
+illegalaliencrimereport.com
 
 # Illicit Info (USA)
-*://*.illicitinfo.com/*
+illicitinfo.com
 
 # Illinois Valley Times (USA)
-*://*.illinoisvalleytimes.com/*
+illinoisvalleytimes.com
 
 # Il Primato Nazionale (Italy)
-*://*.ilprimatonazionale.it/*
+ilprimatonazionale.it
 
 # Imperial CA News (USA)
-*://*.imperialcanews.com/*
+imperialcanews.com
 
 # InfoGalactic (Switzerland)
-*://*.infogalactic.com/*
+infogalactic.com
 
 # Independent Sentinel (USA)
-*://*.independentsentinel.com/*
+independentsentinel.com
 
 # Indy Standard (USA)
-*://*.indystandard.com/*
+indystandard.com
 
 # Information Liberation (USA)
-*://*.informationliberation.com/*
+informationliberation.com
 
 # Informer (Serbia)
-*://*.informer.rs/*
+informer.rs
 
 # InfoScum (Canada)
-*://*.infoscum.com/*
+infoscum.com
 
 # Inner Strength Zone (Canada)
-*://*.innerstrength.zone/*
+innerstrength.zone
 
 # Inside the Magic (USA)
-*://*.insidethemagic.net/*
+insidethemagic.net
 
 # InstaPundit (USA)
-*://*.instapundit.com/*
+instapundit.com
 
 # Institute for Historical Review (USA)
-*://*.ihr.org/*
+ihr.org
 
 # Institute for the Study of Globalization and Covert Politics (Netherlands)
-*://*.isgp-studies.com/*
+isgp-studies.com
 
 # Insurance Rate Reporter (USA)
-*://*.insuranceratereporter.com/*
+insuranceratereporter.com
 
 # Interior Alaska News (USA)
-*://*.interioralaskanews.com/*
+interioralaskanews.com
 
 # International Organization for the Family (USA)
-*://*.profam.org/*
+profam.org
 
 # Iowa City Today (USA)
-*://*.iowacitytoday.com/*
+iowacitytoday.com
 
 # Iowa Star (USA)
-*://*.theiowastar.com/*
-*://*.thestarnewsnetwork.com/*
+theiowastar.com
+thestarnewsnetwork.com
 
 # iPatriot (USA)
-*://*.ipatriot.com/*
+ipatriot.com
 
 # Israel Unwired – Bias and Credibility (USA)
-*://*.israelunwired.com/*
+israelunwired.com
 
 # Israel War Room (USA)
-*://*.israelwarroom.com/*
+israelwarroom.com
 
 # Ivermectin for Covid-19 (Unknown)
-*://*.ivmmeta.com/*
+ivmmeta.com
 
 # Izvestia (Russia)
-*://*.iz.ru/*
+iz.ru
 
 # Jackson Purchase News (USA)
-*://*.jacksonpurchasenews.com/*
+jacksonpurchasenews.com
 
 # Jefferson City News (USA)
-*://*.jeffcitynews.com/*
+jeffcitynews.com
 
 # Jefferson County Times (USA)
-*://*.jeffcotimes.com/*
+jeffcotimes.com
 
 # Jefferson Reporter (USA)
-*://*.jeffersonreporter.com/*
+jeffersonreporter.com
 
 # Joco Today (USA)
-*://*.jocotoday.com/*
+jocotoday.com
 
 # John Birch Society (USA)
-*://*.jbs.org/*
+jbs.org
 
 # Johnston Reporter (USA)
-*://*.johnstonreporter.com/*
+johnstonreporter.com
 
 # Jonesboro Times (USA)
-*://*.jonesborotimes.com/*
+jonesborotimes.com
 
 # JordanBPeterson.com (USA)
-*://*.jordanbpeterson.com/*
+jordanbpeterson.com
 
 # Judicial Watch (USA)
-*://*.judicialwatch.org/*
+judicialwatch.org
 
 # Just The News (USA)
-*://*.justthenews.com/*
+justthenews.com
 
 # Kalamazoo Times (USA)
-*://*.kalamazootimes.com/*
+kalamazootimes.com
 
 # Kane County Reporter (USA)
-*://*.kanecountyreporter.com/*
+kanecountyreporter.com
 
 # Kankakee Times (USA)
-*://*.kankakeetimes.com/*
+kankakeetimes.com
 
 # Katehon (Russia)
-*://*.katehon.com/*
+katehon.com
 
 # Kauai Sun (USA)
-*://*.kauaisun.com/*
+kauaisun.com
 
 # KC Reporter (USA)
-*://*.kcreporter.com/*
+kcreporter.com
 
 # Kendall County Times (USA)
-*://*.kendallcountytimes.com/*
+kendallcountytimes.com
 
 # Kent County Today (USA)
-*://*.kentcountytoday.com/*
+kentcountytoday.com
 
 # Kentuckiana Times (USA)
-*://*.kentuckianatimes.com/*
+kentuckianatimes.com
 
 # Kern County Times (USA)
-*://*.kerncountytimes.com/*
+kerncountytimes.com
 
 # Key West Reporter (USA)
-*://*.keywestreporter.com/*
+keywestreporter.com
 
 # Kings County Times (USA)
-*://*.kingscountytimes.com/*
+kingscountytimes.com
 
 # Knights Templar International (USA)
-*://*.knightstemplarorder.com/*
+knightstemplarorder.com
 
 # Kokomo Standard (USA)
-*://*.kokomostandard.com/*
+kokomostandard.com
 
 # Komsomolskaya Pravda (Russia)
-*://*.kp.ru/*
+kp.ru
 
 # Korean Central News Agency (North Korea)
-*://*.kcna.kp/*
+kcna.kp
 
 # Kremlin.ru (Russia)
-*://*.en.kremlin.ru/*
+en.kremlin.ru
 
 # Kunstler.com (USA)
-*://*.kunstler.com/*
+kunstler.com
 
 # La Crosse Leader (USA)
-*://*.lacrosseleader.org/*
+lacrosseleader.org
 
 # LADbible (UK)
-*://*.ladbible.com/*
+ladbible.com
 
 # Lafayette Reporter (USA)
-*://*.lafayettereporter.com/*
+lafayettereporter.com
 
 # Lafayette Times (USA)
-*://*.lafayettetimes.com/*
+lafayettetimes.com
 
 # LA Harbor News (USA)
-*://*.laharbornews.com/*
+laharbornews.com
 
 # Lake County Gazette (USA)
-*://*.lakecountygazette.com/*
+lakecountygazette.com
 
 # Lake County Times (USA)
-*://*.lakecountytimes.com/*
+lakecountytimes.com
 
 # Lake Region News (USA)
-*://*.lakeregionnews.com/*
+lakeregionnews.com
 
 # Lake Tahoe Sun (USA)
-*://*.laketahoesun.com/*
+laketahoesun.com
 
 # Lancaster Courier (USA)
-*://*.lancastercourier.com/*
+lancastercourier.com
 
 # Lane County News (USA)
-*://*.laneconews.com/*
+laneconews.com
 
 # Lansing Sun (USA)
-*://*.lansingsun.com/*
+lansingsun.com
 
 # Larimer News (USA)
-*://*.larimernews.com/*
+larimernews.com
 
 # Last Frontier News (USA)
-*://*.lastfrontiernews.com/*
+lastfrontiernews.com
 
 # Las Vegas City Wire (USA)
-*://*.lasvegascitywire.com/*
+lasvegascitywire.com
 
 # La Verità (Italy)
-*://*.laverita.info/*
+laverita.info
 
 # Lawrence Reporter (USA)
-*://*.lawrencereporter.com/*
+lawrencereporter.com
 
 # LAX Leader (USA)
-*://*.laxleader.com/*
+laxleader.com
 
 # Leading Report (USA)
-*://*.theleadingreport.com/*
+theleadingreport.com
 
 # Left Action (USA)
-*://*.leftaction.com/*
+leftaction.com
 
 # Legal Newsline (USA)
-*://*.legalnewsline.com/*
+legalnewsline.com
 
 # Lehigh Valley News (USA)
-*://*.lehighnews.org/*
+lehighnews.org
 
 # Lenta.ru (Russia)
-*://*.lenta.ru/*
+lenta.ru
 
 # Lewiston Times (USA)
-*://*.lewistontimes.com/*
+lewistontimes.com
 
 # Lew Rockwell (USA)
-*://*.lewrockwell.com/*
+lewrockwell.com
 
 # Liberty Bell (USA)
-*://*.libertybell.com/*
+libertybell.com
 
 # Liberty Counsel (USA)
-*://*.lc.org/*
+lc.org
 
 # Liberty Hangout (USA)
-*://*.libertyhangout.org/*
+libertyhangout.org
 
 # Liberty News (USA)
-*://*.libertynews.com/*
+libertynews.com
 
 # LibertyTalk.FM (USA)
-*://*.libertytalk.fm/*
+libertytalk.fm
 
 # Liberty Unyielding (USA)
-*://*.libertyunyielding.com/*
+libertyunyielding.com
 
 # Liberty Wire (USA)
-*://*.libertywire.net/*
+libertywire.net
 
 # Libs of TikTok (USA)
-*://*.libsoftiktok.com/*
+libsoftiktok.com
 
 # Licking Today (USA)
-*://*.lickingtoday.com/*
+lickingtoday.com
 
 # Life News (USA)
-*://*.lifenews.com/*
+lifenews.com
 
 # LifeSiteNews (Canada)
-*://*.lifesitenews.com/*
+lifesitenews.com
 
 # LifeZette (USA)
-*://*.lifezette.com/*
+lifezette.com
 
 # Lima Reporter (USA)
-*://*.limareporter.com/*
+limareporter.com
 
 # Lindell TV (USA)
-*://*.lindelltv.com/*
-*://*.FrankSpeech.com/*
+FrankSpeech.com
+lindelltv.com
 
 # Litchfield Hills Today (USA)
-*://*.litchfieldhillstoday.com/*
+litchfieldhillstoday.com
 
 # Little Apple Times (USA)
-*://*.littleappletimes.com/*
+littleappletimes.com
 
 # Livingston Today (USA)
-*://*.livingstontoday.com/*
+livingstontoday.com
 
 # LiveLeak (UK)
-*://*.itemfix.com/*
+itemfix.com
 
 # London Web News (UK)
-*://*.londonwebnews.com/*
+londonwebnews.com
 
 # Lorain Times (USA)
-*://*.loraintimes.com/*
+loraintimes.com
 
 # Louder With Crowder (USA)
-*://*.louderwithcrowder.com/*
+louderwithcrowder.com
 
 # Louisville City Wire (USA)
-*://*.louisvillecitywire.com/*
+louisvillecitywire.com
 
 # Lowe Delta News (USA)
-*://*.lowedeltanews.com/*
+lowedeltanews.com
 
 # Lucianne.com (USA)
-*://*.lucianne.com/*
+lucianne.com
 
 # Macomb Digest (USA)
-*://*.macombdigest.com/*
+macombdigest.com
 
 # Macomb Today (USA)
-*://*.macombtoday.com/*
+macombtoday.com
 
 # Macon Reporter (USA)
-*://*.maconreporter.com/*
+maconreporter.com
 
 # Macon Times (USA)
-*://*.macontimes.com/*
+macontimes.com
 
 # Magic Valley Times (USA)
-*://*.magicvalleytimes.com/*
+magicvalleytimes.com
 
 # Magnolia State News (USA)
-*://*.magnoliastatenews.com/*
+magnoliastatenews.com
 
 # Maine Highlands News (USA)
-*://*.mainehighlandsnews.com/*
+mainehighlandsnews.com
 
 # Maine Lakes News (USA)
-*://*.mainelakesnews.com/*
+mainelakesnews.com
 
 # Mainstream Fake Media (USA)
-*://*.mainstreamfakemedia.com/*
+mainstreamfakemedia.com
 
 # Make America Great Again Inc (USA)
-*://*.magapac.com/*
+magapac.com
 
 # Manatee Review (USA)
-*://*.manateereview.com/*
+manateereview.com
 
 # Manila Business Daily (USA)
-*://*.manilabusinessdaily.com/*
+manilabusinessdaily.com
 
 # Mansfield Times (USA)
-*://*.mansfieldtimes.com/*
+mansfieldtimes.com
 
 # Marin Leader (USA)
-*://*.marinleader.com/*
+marinleader.com
 
 # Marion-Morrow Times (USA)
-*://*.marionmorrowtimes.com/*
+marionmorrowtimes.com
 
 # Maryland State Wire (USA)
-*://*.mdstatewire.com/*
+mdstatewire.com
 
 # Mat-Su Times (USA)
-*://*.matsutimes.com/*
+matsutimes.com
 
 # Maui Reporter (USA)
-*://*.mauireporter.com/*
+mauireporter.com
 
 # Mazatlan Post (Unknown)
-*://*.themazatlanpost.com/*
+themazatlanpost.com
 
 # McHenry Times (USA)
-*://*.mchenrytimes.com/*
+mchenrytimes.com
 
 # McLean County Times (USA)
-*://*.mcleancountytimes.com/*
+mcleancountytimes.com
 
 # Mecklenburg Herald (USA)
-*://*.mecklenburgherald.com/*
+mecklenburgherald.com
 
 # MediaBuzz.org (Singapore)
-*://*.mediabuzz.org/*
+mediabuzz.org
 
 # Medina Today (USA)
-*://*.medinatoday.com/*
+medinatoday.com
 
 # Mehr News Agency (Iran)
-*://*.en.mehrnews.com/*
+en.mehrnews.com
 
 # Men Going Their Own Way (USA)
-*://*.mgtow.tv/*
+mgtow.tv
 
 # Merced Times (USA)
-*://*.mercedtimes.com/*
+mercedtimes.com
 
 # Mercer Times (USA)
-*://*.mercertimes.com/*
+mercertimes.com
 
 # MercoPress (Uruguay)
-*://*.en.mercopress.com/*
+en.mercopress.com
 
 # Merrimack Valley News (USA)
-*://*.merrimackvalleynews.com/*
+merrimackvalleynews.com
 
 # Mesa Times (USA)
-*://*.mesatimes.org/*
+mesatimes.org
 
 # Metapedia (Sweden)
-*://*.en.metapedia.org/*
+en.metapedia.org
 
 # Metric Media (USA)
-*://*.metricmedianews.com/*
+metricmedianews.com
 
 # Metro East Sun (USA)
-*://*.metroeastsun.com/*
+metroeastsun.com
 
 # Metro Lex News (USA)
-*://*.metrolexnews.com/*
+metrolexnews.com
 
 # Metro West Times (USA)
-*://*.metrowesttimes.com/*
+metrowesttimes.com
 
 # Mexico City Post (Unknown)
-*://*.themexicocitypost.com/*
+themexicocitypost.com
 
 # Mexico Daily Post (Unknown)
-*://*.mexicodailypost.com/*
+mexicodailypost.com
 
 # Miami Courant (USA)
-*://*.miamicourant.com/*
+miamicourant.com
 
 # Miami Independent (USA)
-*://*.miamiindependent.com/*
+miamiindependent.com
 
 # Miami Standard (USA)
-*://*.miamistandard.news/*
+miamistandard.news
 
 # Mic Drop Politics (USA)
-*://*.micdroppolitics.com/*
+micdroppolitics.com
 
 # Michigan Business Daily (USA)
-*://*.mibusinessdaily.com/*
+mibusinessdaily.com
 
 # Michigan Catholic Tribune (USA)
-*://*.micatholictribune.com/*
+micatholictribune.com
 
 # Michigan Gander (USA)
-*://*.gandernewsroom.com/*
+gandernewsroom.com
 
 # Michigan Star (USA)
-*://*.themichiganstar.com/*
+themichiganstar.com
 
 # Michoacan Post (Unknown)
-*://*.michoacanpost.com/*
+michoacanpost.com
 
 # Mid Coast Times (USA)
-*://*.midcoasttimes.com/*
+midcoasttimes.com
 
 # Mid Coast Today (USA)
-*://*.midcoasttoday.com/*
+midcoasttoday.com
 
 # Middle East Forum (USA)
-*://*.meforum.org/*
+meforum.org
 
 # Middle East News Agency (Egypt)
-*://*.mena.org.eg/*
+mena.org.eg
 
 # Middle East Media Research Institute (USA)
-*://*.memri.org/*
+memri.org
 
 # Mid Massachusetts News (USA)
-*://*.midmassnews.com/*
+midmassnews.com
 
 # Mid Michigan Standard (USA)
-*://*.midmichiganstd.com/*
+midmichiganstd.com
 
 # Mid Valley Reporter (USA)
-*://*.midvalleyreporter.com/*
+midvalleyreporter.com
 
 # Mile High Sentinel (USA)
-*://*.milehighsentinel.com/*
+milehighsentinel.com
 
 # Military Review (Russia)
-*://*.topwar.ru/*
+topwar.ru
 
 # Military Watch Magazine (Unknown)
-*://*.militarywatchmagazine.com/*
+militarywatchmagazine.com
 
 # Milwaukee Metro Times (USA)
-*://*.milwaukeemetrotimes.com/*
+milwaukeemetrotimes.com
 
 # Minneapolis Review (USA)
-*://*.minneapolisreview.com/*
+minneapolisreview.com
 
 # Minnesota State Wire (USA)
-*://*.minnesotastatewire.com/*
+minnesotastatewire.com
 
 # Minnesota Sun (USA)
-*://*.theminnesotasun.com/*
+theminnesotasun.com
 
 # Mint Press News (USA)
-*://*.mintpressnews.com/*
+mintpressnews.com
 
 # Mississippi Gulf News (USA)
-*://*.msgulfnews.com/*
+msgulfnews.com
 
 # Mixi.Media (USA)
-*://*.mixi.media/*
+mixi.media
 
 # Mobile Courant (USA)
-*://*.mobilecourant.com/*
+mobilecourant.com
 
 # Mohave Today (USA)
-*://*.mohavetoday.com/*
+mohavetoday.com
 
 # Mohawk Valley Times (USA)
-*://*.mohawkvalleytimes.com/*
+mohawkvalleytimes.com
 
 # Moms for Liberty (USA)
-*://*.momsforliberty.org/*
+momsforliberty.org
 
 # Mondoweiss (USA)
-*://*.mondoweiss.net/*
+mondoweiss.net
 
 # Monmouth Times (USA)
-*://*.monmouthtimes.com/*
+monmouthtimes.com
 
 # Monroe NY News (USA)
-*://*.monroenynews.com/*
+monroenynews.com
 
 # Monroe Review (USA)
-*://*.monroereview.com/*
+monroereview.com
 
 # Monterey Times (USA)
-*://*.montereytimes.com/*
+montereytimes.com
 
 # Monterrey Daily Post (Unknown)
-*://*.monterreydailypost.com/*
+monterreydailypost.com
 
 # Montgomery News (USA)
-*://*.montgomerymdnews.com/*
+montgomerymdnews.com
 
 # MoonBattery (USA)
-*://*.moonbattery.com/*
+moonbattery.com
 
 # Moon of Alabama (USA)
-*://*.moonofalabama.org/*
+moonofalabama.org
 
 # Morelos Daily Post (Unknown)
-*://*.morelosdailypost.com/*
+morelosdailypost.com
 
 # Morning Poll (USA)
-*://*.morningpoll.com/*
+morningpoll.com
 
 # Morris Leader (USA)
-*://*.morrisleader.com/*
+morrisleader.com
 
 # MoveOn (USA)
-*://*.front.moveon.org/*
+front.moveon.org
 
 # MTO News (USA)
-*://*.mtonews.com/*
-*://*.mediatakeout.com/*
+mediatakeout.com
+mtonews.com
 
 # Muncie (USA)
-*://*.munciereporter.com/*
+munciereporter.com
 
 # Muskegon Sun (USA)
-*://*.muskegonsun.com/*
+muskegonsun.com
 
 # Muslim Skeptic (USA)
-*://*.muslimskeptic.com/*
+muslimskeptic.com
 
 # Mutembei TV (Kenya)
-*://*.mutembeitv.com/*
+mutembeitv.com
 
 # NW Iowa News (USA)
-*://*.nwiowanews.com/*
+nwiowanews.com
 
 # Nantahala News (USA)
-*://*.nantahalanews.com/*
+nantahalanews.com
 
 # Naples Standard (USA)
-*://*.naplesstandard.com/*
+naplesstandard.com
 
 # Nassau Standard (USA)
-*://*.nassaustandard.com/*
+nassaustandard.com
 
 # Nature Coast Times (USA)
-*://*.naturecoasttimes.com/*
+naturecoasttimes.com
 
 # National Alliance (USA)
-*://*.natall.com/*
+natall.com
 
 # National Enquirer (USA)
-*://*.nationalenquirer.com/*
-*://*.intouchweekly.com/*
+intouchweekly.com
+nationalenquirer.com
 
 # National Insiders (USA)
-*://*.nationalinsiders.com/*
+nationalinsiders.com
 
 # National Rifle Association (USA)
-*://*.home.nra.org/*
+home.nra.org
 
 # National Right to Life Committee (USA)
-*://*.nrlc.org/*
+nrlc.org
 
 # National Vanguard (USA)
-*://*.nationalvanguard.org/*
+nationalvanguard.org
 
 # National Zero (USA)
-*://*.nationalzero.com/*
+nationalzero.com
 
 # Nation and State (USA)
-*://*.nationandstate.com/*
+nationandstate.com
 
 # Natural State News (USA)
-*://*.naturalstatenews.com/*
+naturalstatenews.com
 
 # Naugatuck Times (USA)
-*://*.naugatucktimes.com/*
+naugatucktimes.com
 
 # Nayarit Post (Unknown)
-*://*.thenayaritpost.com/*
+thenayaritpost.com
 
 # NC Florida News (USA)
-*://*.ncfloridanews.com/*
+ncfloridanews.com
 
 # NC Georgia News (USA)
-*://*.ncgeorgianews.com/*
+ncgeorgianews.com
 
 # NC Kansas News (USA)
-*://*.nckansasnews.com/*
+nckansasnews.com
 
 # NC Indiana News (USA)
-*://*.ncindiananews.com/*
+ncindiananews.com
 
 # NC Kentucky News (USA)
-*://*.nckentuckynews.com/*
+nckentuckynews.com
 
 # NC Massachusetts News (USA)
-*://*.ncmassnews.com/*
+ncmassnews.com
 
 # NC Minnesota News (USA)
-*://*.ncminnesotanews.com/*
+ncminnesotanews.com
 
 # NC Mississippi News (USA)
-*://*.ncmissnews.com/*
+ncmissnews.com
 
 # NC North Carolina News (USA)
-*://*.ncncnews.com/*
+ncncnews.com
 
 # NC Oklahoma News (USA)
-*://*.ncoklahomanews.com/*
+ncoklahomanews.com
 
 # NC Union News (USA)
-*://*.ncunionnews.com/*
+ncunionnews.com
 
 # ND North News (USA)
-*://*.ndnorthnews.com/*
+ndnorthnews.com
 
 # NE Alabama News (USA)
-*://*.nealabamanews.com/*
+nealabamanews.com
 
 # NE Atlanta News (USA)
-*://*.neatlantanews.com/*
+neatlantanews.com
 
 # NE Bergen News (USA)
-*://*.nebergennews.com/*
+nebergennews.com
 
 # Nebraska Panhandle News (USA)
-*://*.nepanhandlenews.com/*
+nepanhandlenews.com
 
 # NE Cali News (USA)
-*://*.necalinews.com/*
+necalinews.com
 
 # NE Colorado News (USA)
-*://*.necoloradonews.com/*
+necoloradonews.com
 
 # NE Connecticut News (USA)
-*://*.neconnnews.com/*
+neconnnews.com
 
 # NE Florida News (USA)
-*://*.nefloridanews.com/*
+nefloridanews.com
 
 # NE Franklin News (USA)
-*://*.nefranklinnews.com/*
+nefranklinnews.com
 
 # NE Indiana News (USA)
-*://*.neindiananews.com/*
+neindiananews.com
 
 # NE Iowa News (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # NE Kansas City News (USA)
-*://*.nekansascitynews.com/*
+nekansascitynews.com
 
 # NE Kansas News (USA)
-*://*.nekansasnews.com/*
+nekansasnews.com
 
 # NE Kentucky News (USA)
-*://*.nekentuckynews.com/*
+nekentuckynews.com
 
 # NE Louisiana News (USA)
-*://*.nelouisiananews.com/*
+nelouisiananews.com
 
 # NE Mississippi News (USA)
-*://*.nemissnews.com/*
+nemissnews.com
 
 # NE Missouri News (USA)
-*://*.nemissourinews.com/*
+nemissourinews.com
 
 # NE Nebraska News (USA)
-*://*.nenebraskanews.com/*
+nenebraskanews.com
 
 # NE New Mexico News (USA)
-*://*.nenewmexiconews.com/*
+nenewmexiconews.com
 
 # NE New York Today (USA)
-*://*.nenewyorktoday.com/*
+nenewyorktoday.com
 
 # NE North Dakota News (USA)
-*://*.nenorthdakotanews.com/*
+nenorthdakotanews.com
 
 # NE Ohio Times (USA)
-*://*.neohiotimes.com/*
+neohiotimes.com
 
 # NE Piedmont News (USA)
-*://*.nepiedmontnews.com/*
+nepiedmontnews.com
 
 # NE Sacramento News (USA)
-*://*.nesacramentonews.com/*
+nesacramentonews.com
 
 # NE Valley Times (USA)
-*://*.nevalleytimes.com/*
+nevalleytimes.com
 
 # NEO (Russia)
-*://*.journal-neo.org/*
+journal-neo.org
 
 # NetEase (China)
-*://*.163.com/*
+163.com
 
 # Newark Reporter (USA)
-*://*.newarkreporter.com/*
+newarkreporter.com
 
 # New Discourses (USA)
-*://*.newdiscourses.com/*
+newdiscourses.com
 
 # New Mexico Business Daily (USA)
-*://*.nmbusinessdaily.com/*
+nmbusinessdaily.com
 
 # New Mexico Sun (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # New Nation News (USA)
-*://*.newnation.org/*
+newnation.org
 
 # News18 (India)
-*://*.news18.com/*
+news18.com
 
 # News Addicts (USA)
-*://*.newsaddicts.com/*
+newsaddicts.com
 
 # News Blaze (Australia)
-*://*.newsblaze.com/*
+newsblaze.com
 
 # News Break (USA)
-*://*.newsbreak.com/*
+newsbreak.com
 
 # News Global (USA)
-*://*.newsglobal.com/*
+newsglobal.com
 
 # News Heist (USA)
-*://*.newsheist.com/*
+newsheist.com
 
 # News Hour First (USA)
-*://*.newshourfirst.com/*
+newshourfirst.com
 
 # Newzoh (USA)
-*://*.newzoh.com/*
+newzoh.com
 
 # The People’s Voice (USA)
-*://*.thepeoplesvoice.tv/*
+thepeoplesvoice.tv
 
 # News Pushed (UK)
-*://*.newspushed.com/*
-*://*.hkfreezone.com/*
+hkfreezone.com
+newspushed.com
 
 # NewsReady (USA)
-*://*.newsready.com/*
+newsready.com
 
 # Newsrael (Israel)
-*://*.newsrael.com/*
+newsrael.com
 
 # News Rescue (Nigeria)
-*://*.newsrescue.com/*
+newsrescue.com
 
 # News Sloth (USA)
-*://*.newssloth.com/*
+newssloth.com
 
 # News With Views (USA)
-*://*.newswithviews.com/*
+newswithviews.com
 
 # NewsAmmo (USA)
-*://*.newsammo.com/*
+newsammo.com
 
 # Newsmax (USA)
-*://*.newsmax.com/*
+newsmax.com
 
 # Newsner (Sweden)
-*://*.en.newsner.com/*
+en.newsner.com
 
 # Newsview (Greece)
-*://*.newsview.gr/*
+newsview.gr
 
 # NewsWars (USA)
-*://*.newswars.com/*
-*://*.infowars.com/*
+infowars.com
+newswars.com
 
 # Next News Network (USA)
-*://*.nextnewsnetwork.com/*
+nextnewsnetwork.com
 
 # Niagara Leader (USA)
-*://*.niagaraleader.com/*
+niagaraleader.com
 
 # Nine for News (Netherlands)
-*://*.ninefornews.nl/*
+ninefornews.nl
 
 # Nola Reporter (USA)
-*://*.nolareporter.com/*
+nolareporter.com
 
 # No Left Turn in Education (USA)
-*://*.noleftturn.us/*
+noleftturn.us
 
 # Nordic Monitor (Sweden)
-*://*.nordicmonitor.com/*
+nordicmonitor.com
 
 # Norfolk Reporter (USA)
-*://*.norfolkreporter.com/*
+norfolkreporter.com
 
 # North Acadiana News (USA)
-*://*.northacadiananews.com/*
+northacadiananews.com
 
 # North Alaska News (USA)
-*://*.northalaskanews.com/*
+northalaskanews.com
 
 # North Baltimore Journal (USA)
-*://*.northbaltimorejournal.com/*
+northbaltimorejournal.com
 
 # North Birmingham Times (USA)
-*://*.northbirminghamtimes.com/*
+northbirminghamtimes.com
 
 # North Bluegrass News (USA)
-*://*.northbluegrassnews.com/*
+northbluegrassnews.com
 
 # North Boston News (USA)
-*://*.northbostonnews.com/*
+northbostonnews.com
 
 # North Broward News (USA)
-*://*.northbrowardnews.com/*
+northbrowardnews.com
 
 # North Central Arkansas News (USA)
-*://*.ncarkansasnews.com/*
+ncarkansasnews.com
 
 # North Charlotte Today (USA)
-*://*.northcharlottetoday.com/*
+northcharlottetoday.com
 
 # North Coast California News (USA)
-*://*.northcoastcanews.com/*
+northcoastcanews.com
 
 # North Coast Today (USA)
-*://*.northcoasttoday.com/*
+northcoasttoday.com
 
 # North Columbus News (USA)
-*://*.northcolumbusnews.com/*
+northcolumbusnews.com
 
 # North Cook News (USA)
-*://*.northcooknews.com/*
+northcooknews.com
 
 # North Country Reporter (USA)
-*://*.northcountryreporter.com/*
+northcountryreporter.com
 
 # North DSM News (USA)
-*://*.northdsmnews.com/*
+northdsmnews.com
 
 # Northeast Herald (USA)
-*://*.northeastherald.org/*
+northeastherald.org
 
 # Northeast Montana News (USA)
-*://*.nemontananews.com/*
+nemontananews.com
 
 # North Cincy News (USA)
-*://*.northcincynews.com/*
+northcincynews.com
 
 # Northern Clark County Herald (USA)
-*://*.northernclarkcountyherald.com/*
+northernclarkcountyherald.com
 
 # North Country Leader (USA)
-*://*.northcountryleader.com/*
+northcountryleader.com
 
 # North Dayton News (USA)
-*://*.northdaytonnews.com/*
+northdaytonnews.com
 
 # Northern Wisconsin Times (USA)
-*://*.northernwitimes.com/*
+northernwitimes.com
 
 # North Egypt News (USA)
-*://*.northegyptnews.com/*
+northegyptnews.com
 
 # North Essex News (USA)
-*://*.northessexnews.com/*
+northessexnews.com
 
 # North Fulton Today (USA)
-*://*.northfultontoday.com/*
+northfultontoday.com
 
 # North Guilford News (USA)
-*://*.northguilfordnews.com/*
+northguilfordnews.com
 
 # North Gwinnett News (USA)
-*://*.northgwinnettnews.com/*
+northgwinnettnews.com
 
 # North Hennepin News (USA)
-*://*.northhennepinnews.com/*
+northhennepinnews.com
 
 # North Michigan News (USA)
-*://*.northmichigannews.com/*
+northmichigannews.com
 
 # North Idaho Times (USA)
-*://*.northidahotimes.com/*
+northidahotimes.com
 
 # North Indy News (USA)
-*://*.northindynews.com/*
+northindynews.com
 
 # North Inland News (USA)
-*://*.northinlandnews.com/*
+northinlandnews.com
 
 # North Iowa Reporter (USA)
-*://*.northiowareporter.com/*
+northiowareporter.com
 
 # North Iredell News (USA)
-*://*.northiredellnews.com/*
+northiredellnews.com
 
 # North Jefferson Country News (USA)
-*://*.northjeffconews.com/*
+northjeffconews.com
 
 # North Kent News (USA)
-*://*.northkentnews.com/*
+northkentnews.com
 
 # North Kentucky News (USA)
-*://*.northkentuckynews.com/*
+northkentuckynews.com
 
 # North Lake Times (USA)
-*://*.northlaketimes.com/*
+northlaketimes.com
 
 # North Little Rock Times (USA)
-*://*.northlittlerocktimes.com/*
+northlittlerocktimes.com
 
 # North Mecklenburg News (USA)
-*://*.northmecklenburgnews.com/*
+northmecklenburgnews.com
 
 # North Miami-Dade News (USA)
-*://*.northmianews.com/*
+northmianews.com
 
 # North Middlesex Times (USA)
-*://*.northmiddlesextimes.com/*
+northmiddlesextimes.com
 
 # North Nevada News (USA)
-*://*.northnevadanews.com/*
+northnevadanews.com
 
 # North OC Times (USA)
-*://*.northoctimes.com/*
+northoctimes.com
 
 # North OKC News (USA)
-*://*.northokcnews.com/*
+northokcnews.com
 
 # North Omaha Times (USA)
-*://*.northomahatimes.com/*
+northomahatimes.com
 
 # North Orlando News (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # North Palm Beach Today (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # North Panhandle News (USA)
-*://*.northpanhandlenews.com/*
+northpanhandlenews.com
 
 # North Pima News (USA)
-*://*.northpimanews.com/*
+northpimanews.com
 
 # North Pinellas News (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # North Raleigh Today (USA)
-*://*.northraleightoday.com/*
+northraleightoday.com
 
 # North Ramsey News (USA)
-*://*.northramseynews.com/*
+northramseynews.com
 
 # North Sacramento Today (USA)
-*://*.northsactoday.com/*
+northsactoday.com
 
 # North New Castle News (USA)
-*://*.northnewcastlenews.com/*
+northnewcastlenews.com
 
 # North SFV Today (USA)
-*://*.northsfvtoday.com/*
+northsfvtoday.com
 
 # North SGV News (USA)
-*://*.northsgvnews.com/*
+northsgvnews.com
 
 # North Shore Louisiana News (USA)
-*://*.northshorelanews.com/*
+northshorelanews.com
 
 # North STL News (USA)
-*://*.northstlnews.com/*
+northstlnews.com
 
 # North Summit News (USA)
-*://*.northsummitnews.com/*
+northsummitnews.com
 
 # North Triangle News (USA)
-*://*.northtrianglenews.com/*
+northtrianglenews.com
 
 # North Tulsa Today (USA)
-*://*.northtulsatoday.com/*
+northtulsatoday.com
 
 # North Vegas Times (USA)
-*://*.northvegastimes.com/*
+northvegastimes.com
 
 # Northwest Montana News (USA)
-*://*.nwmontananews.com/*
+nwmontananews.com
 
 # Northwest Wayne News (USA)
-*://*.nwwaynenews.com/*
+nwwaynenews.com
 
 # Northwest Lake Times (USA)
-*://*.nwlaketimes.com/*
+nwlaketimes.com
 
 # North Wake News (USA)
-*://*.northwakenews.com/*
+northwakenews.com
 
 # North Wichita News (USA)
-*://*.northwichitanews.com/*
+northwichitanews.com
 
 # Novi Times (USA)
-*://*.novitimes.com/*
+novitimes.com
 
 # Nour News (Iran)
-*://*.nournews.ir/*
+nournews.ir
 
 # Now8News (USA)
-*://*.now8news.com/*
+now8news.com
 
 # NowThis News (USA)
-*://*.nowthisnews.com/*
-*://*.nowmedianetwork.co/*
+nowmedianetwork.co
+nowthisnews.com
 
 # NPR.News (USA)
-*://*.npr.news/*
+npr.news
 
 # NRL News Today (USA)
-*://*.nationalrighttolifenews.org/*
+nationalrighttolifenews.org
 
 # NTD TV (USA)
-*://*.ntd.com/*
+ntd.com
 
 # NW Alabama News (USA)
-*://*.nwalabamanews.com/*
+nwalabamanews.com
 
 # NW Arkansas News (USA)
-*://*.nwarkansasnews.com/*
+nwarkansasnews.com
 
 # NW Atlanta News (USA)
-*://*.nwatlantanews.com/*
+nwatlantanews.com
 
 # NW Bergen News (USA)
-*://*.nwbergennews.com/*
+nwbergennews.com
 
 # NW Connecticut News (USA)
-*://*.nwconnnews.com/*
+nwconnnews.com
 
 # NW Clark News (USA)
-*://*.nwclarknews.com/*
+nwclarknews.com
 
 # NW Franklin News (USA)
-*://*.nwfranklinnews.com/*
+nwfranklinnews.com
 
 # NW Georgia News (USA)
-*://*.nwgeorgianews.com/*
+nwgeorgianews.com
 
 # NW Illinois News (USA)
-*://*.nwillinoisnews.com/*
+nwillinoisnews.com
 
 # NW Jersey News (USA)
-*://*.nwjerseynews.com/*
+nwjerseynews.com
 
 # NW Kansas News (USA)
-*://*.nwkansasnews.com/*
+nwkansasnews.com
 
 # NW Kentucky News (USA)
-*://*.nwkentuckynews.com/*
+nwkentuckynews.com
 
 # NW LA Times (USA)
-*://*.nwlatimes.com/*
+nwlatimes.com
 
 # NW Louisiana News (USA)
-*://*.nwlouisiananews.com/*
+nwlouisiananews.com
 
 # NW Minnesota News (USA)
-*://*.nwminnesotanews.com/*
+nwminnesotanews.com
 
 # NW Mississippi News (USA)
-*://*.nwmissnews.com/*
+nwmissnews.com
 
 # NW Missouri Times (USA)
-*://*.nwmissouritimes.com/*
+nwmissouritimes.com
 
 # NW New Mexico News (USA)
-*://*.nwnewmexiconews.com/*
+nwnewmexiconews.com
 
 # NW Ohio Times (USA)
-*://*.nwohiotimes.com/*
+nwohiotimes.com
 
 # NW Oklahoma News (USA)
-*://*.nwoklahomanews.com/*
+nwoklahomanews.com
 
 # NW Riverside News (USA)
-*://*.nwriversidenews.com/*
+nwriversidenews.com
 
 # NW Valley Times (USA)
-*://*.nwvalleytimes.com/*
+nwvalleytimes.com
 
 # NYC Gazette (USA)
-*://*.nycgazette.com/*
+nycgazette.com
 
 # Trending Politics (USA)
-*://*.trendingpolitics.com/*
+trendingpolitics.com
 
 # Oakland City Wire (USA)
-*://*.oaklandcitywire.com/*
+oaklandcitywire.com
 
 # Oakland Times (USA)
-*://*.oaklandtimes.org/*
+oaklandtimes.org
 
 # Oaxaca Post (Unknown)
-*://*.theoaxacapost.com/*
+theoaxacapost.com
 
 # Objectivist (USA)
-*://*.objectivist.co/*
+objectivist.co
 
 # Ocala Standard (USA)
-*://*.ocalastandard.com/*
+ocalastandard.com
 
 # Occupy Democrats (USA)
-*://*.occupydemocrats.com/*
+occupydemocrats.com
 
 # Ocean County Leader (USA)
-*://*.oceancountyleader.com/*
+oceancountyleader.com
 
 # OKC Standard (USA)
-*://*.okcstandard.com/*
+okcstandard.com
 
 # Okeechobee Times (USA)
-*://*.okeechobeetimes.com/*
+okeechobeetimes.com
 
 # O’Keefe Media Group (USA)
-*://*.okeefemediagroup.com/*
+okeefemediagroup.com
 
 # Old North News (USA)
-*://*.oldnorthnews.com/*
+oldnorthnews.com
 
 # Oneida Times (USA)
-*://*.oneidatimes.com/*
+oneidatimes.com
 
 # Onslow News (USA)
-*://*.onslownews.com/*
+onslownews.com
 
 # Origo (Hungary)
-*://*.origo.hu/*
+origo.hu
 
 # Orinoco Tribune (Venezuela)
-*://*.orinocotribune.com/*
+orinocotribune.com
 
 # Orlando Standard (USA)
-*://*.orlandostandard.com/*
+orlandostandard.com
 
 # OTP Tribune (USA)
-*://*.otptribune.com/*
+otptribune.com
 
 # Outraged Patriot (Unknown)
-*://*.outragedpatriot.com/*
+outragedpatriot.com
 
 # Overpasses for America (UK)
-*://*.overpassesforamerica.com/*
+overpassesforamerica.com
 
 # Outer Banks Times (USA)
-*://*.outerbankstimes.com/*
+outerbankstimes.com
 
 # Oxford Reporter (USA)
-*://*.oxfordreporter.com/*
+oxfordreporter.com
 
 # Pacific Pundit (USA)
-*://*.pacificpundit.com/*
+pacificpundit.com
 
 # Palm Coast Times (USA)
-*://*.palmcoasttimes.com/*
+palmcoasttimes.com
 
 # Panama City Reporter (USA)
-*://*.panamacityreporter.com/*
+panamacityreporter.com
 
 # Parler (USA)
-*://*.parler.com/*
+parler.com
 
 # Pasco Reporter (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # Passaic Today (USA)
-*://*.passaictoday.com/*
+passaictoday.com
 
 # Patient Daily (USA)
-*://*.patientdaily.com/*
+patientdaily.com
 
 # Patriot Fetch (USA)
-*://*.patriotfetch.com/*
+patriotfetch.com
 
 # Patriot Journal (USA)
-*://*.thepatriotjournal.com/*
+thepatriotjournal.com
 
 # Patriotic Post (USA)
-*://*.patrioticpost.com/*
+patrioticpost.com
 
 # Patriot NewsFeed (USA)
-*://*.patriotnewsfeed.com/*
+patriotnewsfeed.com
 
 # Patriot Pulse (USA)
-*://*.patriotpulse.net/*
+patriotpulse.net
 
 # Patriot Uproar (USA)
-*://*.patriotuproar.com/*
+patriotuproar.com
 
 # Patriots.Win (USA)
-*://*.patriots.win/*
+patriots.win
 
 # Patriotic Viral News (USA)
-*://*.patrioticviralnews.com/*
+patrioticviralnews.com
 
 # Peace Garden News (USA)
-*://*.peacegardennews.com/*
+peacegardennews.com
 
 # Peachtree Gazette (USA)
-*://*.peachtreegazette.com/*
+peachtreegazette.com
 
 # Peach Tree Times (USA)
-*://*.peachtreetimes.com/*
+peachtreetimes.com
 
 # Pelican State News (USA)
-*://*.pelicanstatenews.com/*
+pelicanstatenews.com
 
 # Pennsylvania Daily Star (USA)
-*://*.pennsylvaniadailystar.com/*
+pennsylvaniadailystar.com
 
 # Pennsylvania Independent (USA)
-*://*.pennsylvaniaindependent.com/*
+pennsylvaniaindependent.com
 
 # Pensacola Times (USA)
-*://*.pensacolatimes.com/*
+pensacolatimes.com
 
 # Peoria Standard (USA)
-*://*.peoriastandard.com/*
+peoriastandard.com
 
 # Perez Hilton (USA)
-*://*.perezhilton.com/*
+perezhilton.com
 
 # Personal Interpretation (Unknown)
-*://*.personalinterpretation.com/*
+personalinterpretation.com
 
 # Personal Liberty (USA)
-*://*.personalliberty.com/*
+personalliberty.com
 
 # PHX Reporter (USA)
-*://*.phxreporter.com/*
+phxreporter.com
 
 # Piedmont Tribune (USA)
-*://*.piedmonttribune.com/*
+piedmonttribune.com
 
 # Pima Times (USA)
-*://*.pimatimes.com/*
+pimatimes.com
 
 # Pinal Today (USA)
-*://*.pinaltoday.com/*
+pinaltoday.com
 
 # Pine Belt Times (USA)
-*://*.pinebelttimes.com/*
+pinebelttimes.com
 
 # Pinehurst Today (USA)
-*://*.pinehursttoday.com/*
+pinehursttoday.com
 
 # Pinellas Times (USA)
-*://*.pinellastimes.com/*
+pinellastimes.com
 
 # Pine State News (USA)
-*://*.pinestatenews.com/*
+pinestatenews.com
 
 # PJ Media (USA)
-*://*.pjmedia.com/*
+pjmedia.com
 
 # Platte News (USA)
-*://*.plattenews.com/*
+plattenews.com
 
 # Plymouth Reporter (USA)
-*://*.plymouthreporter.com/*
+plymouthreporter.com
 
 # Pocatello Times (USA)
-*://*.pocatellotimes.com/*
+pocatellotimes.com
 
 # Point Report (USA)
-*://*.pointreport.org/*
+pointreport.org
 
 # Political Animal News (USA)
-*://*.politicalanimalnews.com/*
+politicalanimalnews.com
 
 # PoliticalDiscussion (Unknown)
-*://*.political-discussion.com/*
+political-discussion.com
 
 # Political Flare (USA)
-*://*.politicalflare.com/*
+politicalflare.com
 
 # Political Insider (USA)
-*://*.thepoliticalinsider.com/*
+thepoliticalinsider.com
 
 # Politifact News (Unkown)
-*://*.politifact.news/*
+politifact.news
 
 # PolitNavigator (Ukraine)
-*://*.politnavigator.net/*
+politnavigator.net
 
 # PolitRussia (Russia)
-*://*.politros.com/*
+politros.com
 
 # Polk Times (USA)
-*://*.polktimes.com/*
+polktimes.com
 
 # Pomona Valley News (USA)
-*://*.pomonavalleynews.com/*
+pomonavalleynews.com
 
 # Pontiac Times (USA)
-*://*.pontiactimes.com/*
+pontiactimes.com
 
 # Population Research Institute (USA)
-*://*.pop.org/*
+pop.org
 
 # Populist Press (USA)
-*://*.populistpress.com/*
-*://*.thepoliticalsignal.com/*
+populistpress.com
+thepoliticalsignal.com
 
 # Portage Times (USA)
-*://*.portagetimes.com/*
+portagetimes.com
 
 # Portland Courant (USA)
-*://*.portlandcourant.com/*
+portlandcourant.com
 
 # Portland Maine News (USA)
-*://*.portlandmainenews.com/*
+portlandmainenews.com
 
 # PragerU (USA)
-*://*.prageru.com/*
+prageru.com
 
 # Prairie State Wire (USA)
-*://*.prairiestatewire.com/*
+prairiestatewire.com
 
 # Pravda Report (Russia)
-*://*.pravdareport.com/*
-*://*.pravda.ru/*
+pravda.ru
+pravdareport.com
 
 # PravoSlavie.ru (Russia)
-*://*.pravoslavie.ru/*
+pravoslavie.ru
 
 # Preppers Daily News (USA)
-*://*.preppersdailynews.com/*
+preppersdailynews.com
 
 # Presidential Hill (USA)
-*://*.presidentialhill.com/*
+presidentialhill.com
 
 # Press California (USA)
-*://*.presscalifornia.com/*
+presscalifornia.com
 
 # Press Corp (USA)
-*://*.presscorp.org/*
+presscorp.org
 
 # Press TV (Iran)
-*://*.presstv.ir/*
+presstv.ir
 
 # Prntly (USA)
-*://*.prntly.com/*
+prntly.com
 
 # Profile.ru (Russia)
-*://*.profile.ru/*
+profile.ru
 
 # Project Veritas (USA)
-*://*.projectveritas.com/*
+projectveritas.com
 
 # Proto Thema (GREECE)
-*://*.en.protothema.gr/*
+en.protothema.gr
 
 # Pro Trump News (Unknown)
-*://*.protrumpnews.com/*
+protrumpnews.com
 
 # Puebla Post (Unknown)
-*://*.pueblapost.com/*
+pueblapost.com
 
 # Pulaski Times (USA)
-*://*.pulaskitimes.com/*
+pulaskitimes.com
 
 # Queretaro Post (Unknown)
-*://*.thequeretaropost.com/*
+thequeretaropost.com
 
 # Quillette (Australia)
-*://*.quillette.com/*
+quillette.com
 
 # Quincy Reporter (USA)
-*://*.quincyreporter.com/*
+quincyreporter.com
 
 # Quds News Network (Palestine)
-*://*.qudsnen.co/*
+qudsnen.co
 
 # RadarOnline (USA)
-*://*.radaronline.com/*
+radaronline.com
 
 # RAIR Foundation USA (USA)
-*://*.rairfoundation.com/*
+rairfoundation.com
 
 # Randolph County News (USA)
-*://*.randolphcountynews.com/*
+randolphcountynews.com
 
 # Rational Ground (USA)
-*://*.rationalground.com/*
+rationalground.com
 
 # Real News Now (USA)
-*://*.realnewsnow.com/*
+realnewsnow.com
 
 # Real Science (Unknown)
-*://*.goodsciencing.com/*
+goodsciencing.com
 
 # Redacted (Portugal)
-*://*.redacted.inc/*
+redacted.inc
 
 # Redding Today (USA)
-*://*.reddingtoday.com/*
+reddingtoday.com
 
 # Red Ice TV (Sweden)
-*://*.redice.tv/*
+redice.tv
 
 # RedOrbit (USA)
-*://*.redorbit.com/*
+redorbit.com
 
 # Red Right Daily (USA)
-*://*.redrightdaily.com/*
+redrightdaily.com
 
 # Red Right Patriot (USA)
-*://*.redrightdaily.com/*
+redrightdaily.com
 
 # Red State Nation (USA)
-*://*.redstatenation.com/*
+redstatenation.com
 
 # Red State Watcher (USA)
-*://*.redstatewatcher.com/*
+redstatewatcher.com
 
 # Red Voice Media (USA)
-*://*.redvoicemedia.com/*
-*://*.rvmnews.com/*
+redvoicemedia.com
+rvmnews.com
 
 # Redwood Empire News (USA)
-*://*.redwoodempirenews.com/*
+redwoodempirenews.com
 
 # Reformed Media (USA)
-*://*.reformedmedia.net/*
+reformedmedia.net
 
 # Renew America (USA)
-*://*.renewamerica.com/*
+renewamerica.com
 
 # RenewedRight.com (USA)
-*://*.renewedright.com/*
+renewedright.com
 
 # Reno Reporter (USA)
-*://*.renoreporter.com/*
+renoreporter.com
 
 # Republican Daily (USA)
-*://*.republicandaily.net/*
+republicandaily.net
 
 # Republican National Committee (USA)
-*://*.gop.com/*
+gop.com
 
 # Resist The Mainstream (Macedonia)
-*://*.resistthemainstream.org/*
-*://*.resistthemainstream.com/*
+resistthemainstream.com
+resistthemainstream.org
 
 # Restore American Glory (USA)
-*://*.restoreamericanglory.com/*
+restoreamericanglory.com
 
 # Revolver.News (Unknown)
-*://*.revolver.news/*
+revolver.news
 
 # RIA Novosti (Russia)
-*://*.ria.ru/*
+ria.ru
 
 # Righter Way (Unknown)
-*://*.righterway.com/*
+righterway.com
 
 # Right News Wire (USA)
-*://*.rightnewswire.com/*
+rightnewswire.com
 
 # Right Side Broadcasting Network (USA)
-*://*.rsbnetwork.com/*
+rsbnetwork.com
 
 # Riposte Laique (France)
-*://*.ripostelaique.com/*
+ripostelaique.com
 
 # River Bend Times (USA)
-*://*.riverbendtimes.com/*
+riverbendtimes.com
 
 # River Parish News (USA)
-*://*.riverparishnews.com/*
+riverparishnews.com
 
 # River Region Times (USA)
-*://*.riverregiontimes.com/*
+riverregiontimes.com
 
 # River Valley Today (USA)
-*://*.rivervalleytoday.com/*
+rivervalleytoday.com
 
 # Rochester Reporter (USA)
-*://*.rochesterreporter.com/*
+rochesterreporter.com
 
 # Rockford Sun (USA)
-*://*.rockfordsun.com/*
+rockfordsun.com
 
 # Rockingham Journal (USA)
-*://*.rockinghamjournal.com/*
+rockinghamjournal.com
 
 # Rockingham Times (USA)
-*://*.rockinghamtimes.com/*
+rockinghamtimes.com
 
 # Rock Island Today (USA)
-*://*.rockislandtoday.com/*
+rockislandtoday.com
 
 # Rockland Reporter (USA)
-*://*.rocklandreporter.com/*
+rocklandreporter.com
 
 # Rock Valley Times (USA)
-*://*.rockvalleytimes.com/*
+rockvalleytimes.com
 
 # Rocky Mount Today (USA)
-*://*.rockymounttoday.com/*
+rockymounttoday.com
 
 # Rodong Sinmun (North Korea)
-*://*.rodong.rep.kp/*
+rodong.rep.kp
 
 # Rogue Review (USA)
-*://*.roguereview.net/*
+roguereview.net
 
 # Rome Reporter (USA)
-*://*.romereporter.com/*
+romereporter.com
 
 # Rossiya Segodnya (Russia)
-*://*.rossiyasegodnya.com/*
+rossiyasegodnya.com
 
 # Rowan News (USA)
-*://*.rowannews.com/*
+rowannews.com
 
 # RT DE (Russia)
-*://*.de.rt.com/*
+de.rt.com
 
 # RT News (Russia)
-*://*.rt.com/*
+rt.com
 
 # Rudaw (Iraq)
-*://*.rudaw.net/*
+rudaw.net
 
 # Rumble (Canada)
-*://*.rumble.com/*
+rumble.com
 
 # Ruptly (Russia)
-*://*.ruptly.tv/*
+ruptly.tv
 
 # RushLimbaugh.com (USA)
-*://*.rushlimbaugh.com/*
+rushlimbaugh.com
 
 # Russia Insider (Russia)
-*://*.russia-insider.com/*
+russia-insider.com
 
 # Russian News Agency-TASS (Russia)
-*://*.tass.com/*
+tass.com
 
 # Ruth Institute (USA)
-*://*.ruthinstitute.org/*
+ruthinstitute.org
 
 # Sacramento Standard (USA)
-*://*.sacramentostandard.com/*
+sacramentostandard.com
 
 # Salem News Wire (USA)
-*://*.salemnewswire.com/*
+salemnewswire.com
 
 # San Cristobal Post (Unknown)
-*://*.sancristobalpost.com/*
+sancristobalpost.com
 
 # Sandhills Today (USA)
-*://*.sandhillstoday.com/*
+sandhillstoday.com
 
 # San Diego City Wire (USA)
-*://*.sandiegocitywire.com/*
+sandiegocitywire.com
 
 # Sandoval News (USA)
-*://*.sandovalnews.com/*
+sandovalnews.com
 
 # San Francisco Sun (USA)
-*://*.sanfransun.com/*
+sanfransun.com
 
 # Sangamon Sun (USA)
-*://*.sangamonsun.com/*
+sangamonsun.com
 
 # San Joaquin Times (USA)
-*://*.sanjoaquintimes.com/*
+sanjoaquintimes.com
 
 # San Jose Standard (USA)
-*://*.sanjosestandard.com/*
+sanjosestandard.com
 
 # San Luis Potosi Post (Unknown)
-*://*.sanluispotosipost.com/*
+sanluispotosipost.com
 
 # San Miguel Post (Unknown)
-*://*.sanmiguelpost.com/*
+sanmiguelpost.com
 
 # Santa Clara Today (USA)
-*://*.santaclaratoday.com/*
+santaclaratoday.com
 
 # Santa Cruz Standard (USA)
-*://*.santacruzstandard.com/*
+santacruzstandard.com
 
 # San Mateo Sun (USA)
-*://*.sanmateosun.com/*
+sanmateosun.com
 
 # Santa Fe Standard (USA)
-*://*.santafestandard.com/*
+santafestandard.com
 
 # Santa Monica Observer (USA)
-*://*.smobserved.com/*
+smobserved.com
 
 # Sarasota Review- Bias and Credibility (USA)
-*://*.sarasotareview.com/*
+sarasotareview.com
 
 # Saratoga Standard (USA)
-*://*.saratogastandard.com/*
+saratogastandard.com
 
 # Savannah Standard (USA)
-*://*.savannahstandard.com/*
+savannahstandard.com
 
 # Savannah Sun Times (USA)
-*://*.savannahsuntimes.com/*
+savannahsuntimes.com
 
 # SC Alaska News (USA)
-*://*.scalaskanews.com/*
+scalaskanews.com
 
 # SC Oklahoma News (USA)
-*://*.scoklahomanews.com/*
+scoklahomanews.com
 
 # SE Atlanta News (USA)
-*://*.seatlantanews.com/*
+seatlantanews.com
 
 # SC Connecticut News (USA)
-*://*.scconnnews.com/*
+scconnnews.com
 
 # SC Kansas News (USA)
-*://*.sckansasnews.com/*
+sckansasnews.com
 
 # SC Minnesota News (USA)
-*://*.scminnesotanews.com/*
+scminnesotanews.com
 
 # SC Mississippi News (USA)
-*://*.scmissnews.com/*
+scmissnews.com
 
 # SC Missouri News (USA)
-*://*.scmissourinews.com/*
+scmissourinews.com
 
 # SC Nebraska News (USA)
-*://*.scnebraskanews.com/*
+scnebraskanews.com
 
 # SC New York News (USA)
-*://*.scnewyorknews.com/*
+scnewyorknews.com
 
 # Seacoast Standard (USA)
-*://*.seacoaststandard.org/*
+seacoaststandard.org
 
 # SE Alaska News (USA)
-*://*.sealaskanews.com/*
+sealaskanews.com
 
 # SE Arizona News (USA)
-*://*.searizonanews.com/*
+searizonanews.com
 
 # Secure America Now (USA)
-*://*.secureamericanow.org/*
+secureamericanow.org
 
 # SE Bluegrass News (USA)
-*://*.sebluegrassnews.com/*
+sebluegrassnews.com
 
 # SE Colorado News (USA)
-*://*.secoloradonews.com/*
+secoloradonews.com
 
 # SE Connecticut News (USA)
-*://*.seconnnews.com/*
+seconnnews.com
 
 # SE Denver News (USA)
-*://*.sedenvernews.com/*
+sedenvernews.com
 
 # Seekr (USA)
-*://*.seekr.com/*
+seekr.com
 
 # SE Georgia News (USA)
-*://*.segeorgianews.com/*
+segeorgianews.com
 
 # SE Grand Rapids News (USA)
-*://*.segrandrapids.com/*
+segrandrapids.com
 
 # SE Illinois News (USA)
-*://*.seillinoisnews.com/*
+seillinoisnews.com
 
 # SE Indiana News (USA)
-*://*.seindiananews.com/*
+seindiananews.com
 
 # SE Iowa News (USA)
-*://*.seiowanews.com/*
+seiowanews.com
 
 # SE Kansas News (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # SE Kansas City News (USA)
-*://*.sekansascitynews.com/*
+sekansascitynews.com
 
 # SE Kentucky News (USA)
-*://*.sekentuckynews.com/*
+sekentuckynews.com
 
 # SE LA Times (USA)
-*://*.selatimes.com/*
+selatimes.com
 
 # SE Minnesota News (USA)
-*://*.seminnesotanews.com/*
+seminnesotanews.com
 
 # SE Missouri News (USA)
-*://*.semissourinews.com/*
+semissourinews.com
 
 # SE Nebraska News (USA)
-*://*.senebraskanews.com/*
+senebraskanews.com
 
 # SE North Carolina News (USA)
-*://*.senorthcarolinanews.com/*
+senorthcarolinanews.com
 
 # SE Oakland News (USA)
-*://*.seoaklandnews.com/*
+seoaklandnews.com
 
 # SE Ohio Times (USA)
-*://*.seohiotimes.com/*
+seohiotimes.com
 
 # SE Oklahoma News (USA)
-*://*.seoklahomanews.com/*
+seoklahomanews.com
 
 # SE Twin Cities (USA)
-*://*.setwincities.com/*
+setwincities.com
 
 # SE Vegas News (USA)
-*://*.sevegasnews.com/*
+sevegasnews.com
 
 # SFV Today (USA)
-*://*.sfvtoday.com/*
+sfvtoday.com
 
 # SGV Standard (USA)
-*://*.sgvstandard.com/*
+sgvstandard.com
 
 # Shafaq News (Iraq)
-*://*.shafaq.com/*
+shafaq.com
 
 # Shelby Review (USA)
-*://*.shelbyreview.com/*
+shelbyreview.com
 
 # Shiawassee Times (USA)
-*://*.shiawasseetimes.com/*
+shiawasseetimes.com
 
 # Shoals Today (USA)
-*://*.shoalstoday.com/*
+shoalstoday.com
 
 # Show-Me State Times (USA)
-*://*.showmestatetimes.com/*
+showmestatetimes.com
 
 # Shreveport Reporter (USA)
-*://*.shreveportreporter.com/*
+shreveportreporter.com
 
 # SHTFplan.com (USA)
-*://*.shtfplan.com/*
+shtfplan.com
 
 # Sick Chirpse (UK)
-*://*.sickchirpse.com/*
+sickchirpse.com
 
 # Silver State Times (USA)
-*://*.silverstatetimes.com/*
+silverstatetimes.com
 
 # Sioux City Times (USA)
-*://*.siouxcitytimes.com/*
+siouxcitytimes.com
 
 # Skeptic Ink (Unknown)
-*://*.skepticink.com/*
+skepticink.com
 
 # Slay News (USA)
-*://*.slaynews.com/*
+slaynews.com
 
 # SLO Reporter (USA)
-*://*.sloreporter.com/*
+sloreporter.com
 
 # Sohu.com (China)
-*://*.sohu.com/*
+sohu.com
 
 # Solano Sun (USA)
-*://*.solanosun.com/*
+solanosun.com
 
 # Somerset Times (USA)
-*://*.somersettimes.com/*
+somersettimes.com
 
 # Sonora Post (Unknown)
-*://*.thesonorapost.com/*
+thesonorapost.com
 
 # Sooner State News (USA)
-*://*.soonerstatenews.com/*
+soonerstatenews.com
 
 # South ABQ News (USA)
-*://*.southabqnews.com/*
+southabqnews.com
 
 # South Africa Today (USA)
-*://*.southafricatoday.net/*
+southafricatoday.net
 
 # South Alameda News (USA)
-*://*.southalamedanews.com/*
+southalamedanews.com
 
 # South Asheville News (USA)
-*://*.southashevillenews.com/*
+southashevillenews.com
 
 # South Atlanta News (USA)
-*://*.southatlantanews.com/*
+southatlantanews.com
 
 # South Bay Leader (USA)
-*://*.southbayleader.com/*
+southbayleader.com
 
 # South Bay SD News (USA)
-*://*.southbaysdnews.com/*
+southbaysdnews.com
 
 # South Bend Times (USA)
-*://*.southbendtimes.com/*
+southbendtimes.com
 
 # South Alabama Times (USA)
-*://*.southalabamatimes.com/*
+southalabamatimes.com
 
 # South Bergen News (USA)
-*://*.southbergennews.com/*
+southbergennews.com
 
 # South Broward News (USA)
-*://*.southbrowardnews.com/*
+southbrowardnews.com
 
 # South Central Reporter (USA)
-*://*.southcentralreporter.com/*
+southcentralreporter.com
 
 # South Charlotte Today (USA)
-*://*.southcharlottetoday.com/*
+southcharlottetoday.com
 
 # South Coast Times (USA)
-*://*.southcoasttimes.com/*
+southcoasttimes.com
 
 # South Columbus News (USA)
-*://*.southcolumbusnews.com/*
+southcolumbusnews.com
 
 # South Cook News (USA)
-*://*.southcooknews.com/*
+southcooknews.com
 
 # Southern Colorado Times (USA)
-*://*.southerncoloradotimes.com/*
+southerncoloradotimes.com
 
 # South Cuyahoga News (USA)
-*://*.southcuyahoganews.com/*
+southcuyahoganews.com
 
 # South Dayton News (USA)
-*://*.southdaytonnews.com/*
+southdaytonnews.com
 
 # Southern Illinois News (USA)
-*://*.silnews.com/*
+silnews.com
 
 # Southern Indiana Today (USA)
-*://*.southernindianatoday.com/*
+southernindianatoday.com
 
 # South DSM News (USA)
-*://*.southdsmnews.com/*
+southdsmnews.com
 
 # Southeast Montana News (USA)
-*://*.semontananews.com/*
+semontananews.com
 
 # Southeastern Times (USA)
-*://*.southeasterntimes.org/*
+southeasterntimes.org
 
 # South Franklin News (USA)
-*://*.southfranklinnews.com/*
+southfranklinnews.com
 
 # South Georgia Times (USA)
-*://*.southgeorgiatimes.com/*
+southgeorgiatimes.com
 
 # South Guilford News (USA)
-*://*.southguilfordnews.com/*
+southguilfordnews.com
 
 # South Gwinnett News (USA)
-*://*.southgwinnettnews.com/*
+southgwinnettnews.com
 
 # South Hennepin News (USA)
-*://*.southhennepinnews.com/*
+southhennepinnews.com
 
 # South Indy News (USA)
-*://*.southindynews.com/*
+southindynews.com
 
 # South Iowa News (USA)
-*://*.southiowanews.com/*
+southiowanews.com
 
 # South Jefferson County News (USA)
-*://*.southjeffconews.com/*
+southjeffconews.com
 
 # South Jersey Sun (USA)
-*://*.southjerseysun.com/*
+southjerseysun.com
 
 # South KC News (USA)
-*://*.southkcnews.com/*
+southkcnews.com
 
 # South Kent News (USA)
-*://*.southkentnews.com/*
+southkentnews.com
 
 # South Lake Today (USA)
-*://*.southlaketoday.com/*
+southlaketoday.com
 
 # South Louisiana News (USA)
-*://*.southlouisiananews.com/*
+southlouisiananews.com
 
 # South Maine News (USA)
-*://*.southmainenews.com/*
+southmainenews.com
 
 # South Mecklenburg News (USA)
-*://*.southmecklenburgnews.com/*
+southmecklenburgnews.com
 
 # South Miami-Dade News (USA)
-*://*.southmianews.com/*
+southmianews.com
 
 # South Michigan News (USA)
-*://*.southmichigannews.com/*
+southmichigannews.com
 
 # South Middlesex Times (USA)
-*://*.southmiddlesextimes.com/*
+southmiddlesextimes.com
 
 # South New Castle News (USA)
-*://*.southnewcastlenews.com/*
+southnewcastlenews.com
 
 # South North Carolina News (USA)
-*://*.southncnews.com/*
+southncnews.com
 
 # South Ohio News (USA)
-*://*.southohionews.com/*
+southohionews.com
 
 # South OKC News (USA)
-*://*.southokcnews.com/*
+southokcnews.com
 
 # South Omaha Times (USA)
-*://*.southomahatimes.com/*
+southomahatimes.com
 
 # South Oregon News (USA)
-*://*.southoregonnews.com/*
+southoregonnews.com
 
 # South Orlando News (USA)
-*://*.southorlandonews.com/*
+southorlandonews.com
 
 # South Palm Beach Today (USA)
-*://*.southpalmbeachtoday.com/*
+southpalmbeachtoday.com
 
 # South Pinellas Times (USA)
-*://*.southpinellastimes.com/*
+southpinellastimes.com
 
 # South Raleigh News (USA)
-*://*.southraleighnews.com/*
+southraleighnews.com
 
 # South Sacramento Today (USA)
-*://*.southsactoday.com/*
+southsactoday.com
 
 # South SF Bay News (USA)
-*://*.southsfbaynews.com/*
+southsfbaynews.com
 
 # South SGV News (USA)
-*://*.southsgvnews.com/*
+southsgvnews.com
 
 # South STL News (USA)
-*://*.southstlnews.com/*
+southstlnews.com
 
 # South Summit News (USA)
-*://*.southsummitnews.com/*
+southsummitnews.com
 
 # South Triangle News (USA)
-*://*.southtrianglenews.com/*
+southtrianglenews.com
 
 # South Tulsa Today (USA)
-*://*.southtulsatoday.com/*
+southtulsatoday.com
 
 # South West Illinois News (USA)
-*://*.swillinoisnews.com/*
+swillinoisnews.com
 
 # Southwest Montana News (USA)
-*://*.swmontanatimes.com/*
+swmontanatimes.com
 
 # South Wichita News (USA)
-*://*.southwichitanews.com/*
+southwichitanews.com
 
 # South Winston-Salem News (USA)
-*://*.southwinstonsalemnews.com/*
+southwinstonsalemnews.com
 
 # Sovren Media (USA)
-*://*.sovren.media/*
+sovren.media
 
 # Springfield City Wire (USA)
-*://*.springfieldcitywire.com/*
+springfieldcitywire.com
 
 # Springfield Standard (USA)
-*://*.springfieldstandard.com/*
+springfieldstandard.com
 
 # Spring Times (USA)
-*://*.springstimes.com/*
+springstimes.com
 
 # Sputnik News (Russia)
-*://*.sputnikglobe.com/*
+sputnikglobe.com
 
 # Sputnik News Agency (Russia)
-*://*.sputniknews.com/*
-*://*.sputniknews.africa/*
-
-# Sputnik News Agency (Russia)
-*://*.snanews.de/*
-
-# Sputnik News Agency (Russia)
-*://*.sputniknews.in/*
-
-# Sputnik News Agency (Russia)
-*://*.it.sputniknews.com/*
+it.sputniknews.com
+snanews.de
+sputniknews.africa
+sputniknews.com
+sputniknews.in
 
 # St. Joe-Benton Harbor News (USA)
-*://*.stjoebentonharbor.com/*
+stjoebentonharbor.com
 
 # St. Pete Standard (USA)
-*://*.stpetestandard.com/*
+stpetestandard.com
 
 # Stanislaus News (USA)
-*://*.stanislausnews.com/*
+stanislausnews.com
 
 # Stares at the World (Canada)
-*://*.staresattheworld.com/*
+staresattheworld.com
 
 # Star News Network (USA)
-*://*.thestarnewsnetwork.com/*
+thestarnewsnetwork.com
 
 # State of the Nation (USA)
-*://*.stateofthenation.co/*
+stateofthenation.co
 
 # Staten Island Reporter (USA)
-*://*.statenislandreporter.com/*
+statenislandreporter.com
 
 # St. Charles Times (USA)
-*://*.stcharlestimes.com/*
+stcharlestimes.com
 
 # St. Cloud Sun (USA)
-*://*.stcloudsun.com/*
+stcloudsun.com
 
 # Steadfast and Loyal (USA)
-*://*.steadfastandloyal.com/*
+steadfastandloyal.com
 
 # Steadfast Clash (USA)
-*://*.steadfastclash.com/*
+steadfastclash.com
 
 # Steadfast Daily (USA)
-*://*.steadfastdaily.com/*
+steadfastdaily.com
 
 # Stopping Socialism (USA)
-*://*.stoppingsocialism.com/*
+stoppingsocialism.com
 
 # St. Paul Reporter (USA)
-*://*.stpaulreporter.com/*
+stpaulreporter.com
 
 # South Birmingham Times (USA)
-*://*.southbirminghamtimes.com/*
+southbirminghamtimes.com
 
 # South Fulton Today (USA)
-*://*.southfultontoday.com/*
+southfultontoday.com
 
 # South OC Times (USA)
-*://*.southoctimes.com/*
+southoctimes.com
 
 # South Pima News (USA)
-*://*.southpimanews.com/*
+southpimanews.com
 
 # South SFV Today (USA)
-*://*.southsfvtoday.com/*
+southsfvtoday.com
 
 # Speech Point (Unknown)
-*://*.speech-point.com/*
+speech-point.com
 
 # St. Claire Today (USA)
-*://*.stclairtoday.com/*
+stclairtoday.com
 
 # St. Louis Record (USA)
-*://*.stlrecord.com/*
+stlrecord.com
 
 # Strafford News (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # Strategic Culture Foundation (Russia)
-*://*.strategic-culture.org/*
+strategic-culture.org
 
 # Students for Trump (USA)
-*://*.trumpstudents.org/*
+trumpstudents.org
 
 # Sturgis-Coldwater News (USA)
-*://*.sturgiscoldwaternews.com/*
+sturgiscoldwaternews.com
 
 # Suffolk Reporter (USA)
-*://*.suffolkreporter.com/*
+suffolkreporter.com
 
 # Summerlin Reporter (USA)
-*://*.summerlinreporter.com/*
+summerlinreporter.com
 
 # Summit News (USA)
-*://*.summit.news/*
-*://*.modernity.news/*
+modernity.news
+summit.news
 
 # Sumter Times (USA)
-*://*.auburntimes.com/*
+auburntimes.com
 
 # Sunflower State News (USA)
-*://*.sunflowerstatenews.com/*
+sunflowerstatenews.com
 
 # Sunshine Sentinel (USA)
-*://*.sunshinesentinel.com/*
+sunshinesentinel.com
 
 # SurvivalBlog.com (USA)
-*://*.survivalblog.com/*
+survivalblog.com
 
 # Survive The News (USA)
-*://*.survivethenews.com/*
+survivethenews.com
 
 # Sussex Review (USA)
-*://*.sussexreview.com/*
+sussexreview.com
 
 # SwampDrain.com (Unknown)
-*://*.swampdrain.com/*
+swampdrain.com
 
 # Swarajya (India)
-*://*.swarajyamag.com/*
+swarajyamag.com
 
 # SW Alaska News (USA)
-*://*.swalaskanews.com/*
+swalaskanews.com
 
 # SW Arizona News (USA)
-*://*.swarizonanews.com/*
+swarizonanews.com
 
 # SW Arkansas Times (USA)
-*://*.swarkansastimes.com/*
+swarkansastimes.com
 
 # SW Bluegrass News (USA)
-*://*.swbluegrassnews.com/*
+swbluegrassnews.com
 
 # SW Colorado News (USA)
-*://*.swcoloradonews.com/*
+swcoloradonews.com
 
 # SW Connecticut News (USA)
-*://*.swconnnews.com/*
+swconnnews.com
 
 # SW Georgia News (USA)
-*://*.swgeorgianews.com/*
+swgeorgianews.com
 
 # SW Indiana News (USA)
-*://*.swindiananews.com/*
+swindiananews.com
 
 # SW Iowa Times (USA)
-*://*.swiowatimes.com/*
+swiowatimes.com
 
 # SW Kansas News (USA)
-*://*.swkansasnews.com/*
+swkansasnews.com
 
 # SW Louisiana News (USA)
-*://*.swlouisiananews.com/*
+swlouisiananews.com
 
 # SW Minnesota Today (USA)
-*://*.swminnesotatoday.com/*
+swminnesotatoday.com
 
 # SW Mississippi News (USA)
-*://*.swmissnews.com/*
+swmissnews.com
 
 # SW New Hampshire News (USA)
-*://*.swnewhampshirenews.com/*
+swnewhampshirenews.com
 
 # SW New Mexico News (USA)
-*://*.swnewmexiconews.com/*
+swnewmexiconews.com
 
 # SW Oklahoma News (USA)
-*://*.swoklahomanews.com/*
+swoklahomanews.com
 
 # SW Riverside News (USA)
-*://*.swriversidenews.com/*
+swriversidenews.com
 
 # SW Valley Times (USA)
-*://*.swvalleytimes.com/*
+swvalleytimes.com
 
 # SW Vegas News (USA)
-*://*.swvegasnews.com/*
+swvegasnews.com
 
 # Syracuse Sun (USA)
-*://*.syracusesun.com/*
+syracusesun.com
 
 # Syriana Analysis (Germany)
-*://*.syriana-analysis.com/*
+syriana-analysis.com
 
 # Tabasco Post (Unknown)
-*://*.tabascopost.com/*
+tabascopost.com
 
 # Taki’s Magazine (USA)
-*://*.takimag.com/*
+takimag.com
 
 # Tallahassee Sun (USA)
-*://*.tallahasseesun.com/*
+tallahasseesun.com
 
 # Tamaulipas Post (Unknown)
-*://*.tamaulipaspost.com/*
+tamaulipaspost.com
 
 # Tampa Republic (USA)
-*://*.tamparepublic.com/*
+tamparepublic.com
 
 # Tasnim News Agency (Iran)
-*://*.tasnimnews.com/*
+tasnimnews.com
 
 # TB Daily News (USA)
-*://*.tbdailynews.com/*
+tbdailynews.com
 
 # Tea Party Inc (USA)
-*://*.teaparty.org/*
+teaparty.org
 
 # Tea Party Patriots (USA)
-*://*.teapartypatriots.org/*
+teapartypatriots.org
 
 # TechStartups (USA)
-*://*.techstartups.com/*
+techstartups.com
 
 # Teddy Stick (Unknown)
-*://*.teddystick.com/*
+teddystick.com
 
 # TeleSUR (Venezuela)
-*://*.telesurenglish.net/*
+telesurenglish.net
 
 # Teller Report (Unknown)
-*://*.tellerreport.com/*
+tellerreport.com
 
 # The African Exponent (Tanzania)
-*://*.africanexponent.com/*
+africanexponent.com
 
 # The American Mirror (USA)
-*://*.theamericanmirror.com/*
+theamericanmirror.com
 
 # The Angry Patriot (Unknown)
-*://*.angrypatriotmovement.com/*
+angrypatriotmovement.com
 
 # The Bearded Patriot (USA)
-*://*.thebeardedpatriot.com/*
+thebeardedpatriot.com
 
 # The Beltway Report (USA)
-*://*.thebeltwayreport.com/*
+thebeltwayreport.com
 
 # The Blacksphere (USA)
-*://*.theblacksphere.net/*
+theblacksphere.net
 
 # The Blaze (USA)
-*://*.theblaze.com/*
+theblaze.com
 
 # The Blue State Conservative (USA)
-*://*.thebluestateconservative.com/*
+thebluestateconservative.com
 
 # The Boston Tribune (Unknown)
-*://*.thebostontribune.com/*
+thebostontribune.com
 
 # The Buffalo Chronicle (USA)
-*://*.buffalochronicle.com/*
+buffalochronicle.com
 
 # The Colorado Herald (Unknown)
-*://*.thecoloradoherald.com/*
+thecoloradoherald.com
 
 # The Conservative Brief (USA)
-*://*.theconservativebrief.com/*
+theconservativebrief.com
 
 # The Conservative Central (Unknown)
-*://*.theconservativecentral.com/*
+theconservativecentral.com
 
 # The Conservative Papers (USA)
-*://*.conservativepapers.com/*
+conservativepapers.com
 
 # The Covid World (USA)
-*://*.thecovidworld.com/*
+thecovidworld.com
 
 # The Counter Signal (Canada)
-*://*.thecountersignal.com/*
+thecountersignal.com
 
 # The Daily Bell (USA)
-*://*.thedailybell.com/*
+thedailybell.com
 
 # The Daily Boulder (USA)
-*://*.dailyboulder.com/*
+dailyboulder.com
 
 # The D.C. Clothesline (USA)
-*://*.dcclothesline.com/*
+dcclothesline.com
 
 # The DC Patriot (USA)
-*://*.thedcpatriot.com/*
-*://*.dcpatriot.com/*
+dcpatriot.com
+thedcpatriot.com
 
 # The Desert Review (USA)
-*://*.thedesertreview.com/*
+thedesertreview.com
 
 # The Duran (Cyprus)
-*://*.theduran.com/*
+theduran.com
 
 # The Economic Times (India)
-*://*.economictimes.indiatimes.com/*
+economictimes.indiatimes.com
 
 # The Epoch Times (USA)
-*://*.theepochtimes.com/*
+theepochtimes.com
 
 # The Federalist (USA)
-*://*.thefederalist.com/*
+thefederalist.com
 
 # The Federation for American Immigration Reform (USA)
-*://*.fairus.org/*
+fairus.org
 
 # The Freedom Times (USA)
-*://*.thefreedomtimes.com/*
+thefreedomtimes.com
 
 # The Free Telegraph (USA)
-*://*.freetelegraph.com/*
+freetelegraph.com
 
 # The Frisky (Serbia)
-*://*.thefrisky.com/*
+thefrisky.com
 
 # The Gateway Pundit (USA)
-*://*.thegatewaypundit.com/*
+thegatewaypundit.com
 
 # The Grayzone (USA)
-*://*.thegrayzone.com/*
+thegrayzone.com
 
 # The Hayride (USA)
-*://*.thehayride.com/*
+thehayride.com
 
 # The Horn News (USA)
-*://*.thehornnews.com/*
+thehornnews.com
 
 # Thejeffreylord.com (USA)
-*://*.thejeffreylord.com/*
+thejeffreylord.com
 
 # The Jewish Voice (USA)
-*://*.thejewishvoice.com/*
-*://*.tjvnews.com/*
+thejewishvoice.com
+tjvnews.com
 
 # The Joe Rogan Experience (USA)
-*://*.joerogan.com/*
+joerogan.com
 
 # The Keystone (USA)
-*://*.keystonenewsroom.com/*
+keystonenewsroom.com
 
 # The Last American Vagabond (USA)
-*://*.thelastamericanvagabond.com/*
+thelastamericanvagabond.com
 
 # The Last Refuge (USA)
-*://*.theconservativetreehouse.com/*
+theconservativetreehouse.com
 
 # The Last Resistance (USA)
-*://*.lastresistance.com/*
+lastresistance.com
 
 # The Laugh Club (Sweden)
-*://*.thelaughclub.net/*
+thelaughclub.net
 
 # The Liberty Daily (USA)
-*://*.thelibertydaily.com/*
+thelibertydaily.com
 
 # The Liberty Loft (USA)
-*://*.thelibertyloft.com/*
+thelibertyloft.com
 
 # The Liberty Revolution (USA)
-*://*.thelibertyrevolution.com/*
+thelibertyrevolution.com
 
 # The Limited Times (Unknown)
-*://*.newsrnd.com/*
+newsrnd.com
 
 # The Majalla (Saudi Arabia)
-*://*.majalla.com/*
+majalla.com
 
 # The Manhattan (USA)
-*://*.themanhattan.press/*
+themanhattan.press
 
 # The Michigan Independent (USA)
-*://*.michiganindependent.com/*
+michiganindependent.com
 
 # The Millennium Report (USA)
-*://*.themillenniumreport.com/*
+themillenniumreport.com
 
 # The Most Important News (USA)
-*://*.themostimportantnews.com/*
+themostimportantnews.com
 
 # The National Patriot (USA)
-*://*.thenationalpatriot.com/*
+thenationalpatriot.com
 
 # The National Pulse (USA)
-*://*.twitter.com/TheNatPulse*
-*://*.x.com/TheNatPulse*
-*://*.facebook.com/thenationalpulse*
-*://*.thenationalpulse.com/*
+thenationalpulse.com
 
 # The National (United Arab Emirates)
-*://*.thenationalnews.com/*
+thenationalnews.com
 
 # The Nevadan (USA)
-*://*.thenevadannews.com/*
+thenevadannews.com
 
 # The Ohio Independent (USA)
-*://*.ohioindependent.com/*
-*://*.tainews.com/*
+ohioindependent.com
+tainews.com
 
 # The Ohio Star (USA)
-*://*.theohiostar.com/*
+theohiostar.com
 
 # The Other 98% (USA)
-*://*.other98.com/*
+other98.com
 
 # The Patriotic Times (USA)
-*://*.thepatriotictimes.com/*
+thepatriotictimes.com
 
 # The Patriot Light (USA)
-*://*.thepatriotlight.com/*
+thepatriotlight.com
 
 # The Patriot Nation (USA)
-*://*.thepatriotnation.net/*
+thepatriotnation.net
 
 # The Patriot Nurse (USA)
-*://*.thepatriotnurse.com/*
+thepatriotnurse.com
 
 # The Politics Brief (USA)
-*://*.thepoliticsbrief.com/*
+thepoliticsbrief.com
 
 # The Politics Online (Unknown)
-*://*.thepolitics.online/*
+thepolitics.online
 
 # The Post & Email (USA)
-*://*.thepostemail.com/*
+thepostemail.com
 
 # The Proud Liberal (USA)
-*://*.theproudliberal.org/*
+theproudliberal.org
 
 # The Published Reporter (USA)
-*://*.publishedreporter.com/*
+publishedreporter.com
 
 # The Raging Patriot (USA)
-*://*.theragingpatriot.org/*
+theragingpatriot.org
 
 # Rebel News (Canada)
-*://*.rebelnews.com/*
+rebelnews.com
 
 # The Religion of Peace (USA)
-*://*.thereligionofpeace.com/*
+thereligionofpeace.com
 
 # The Remnant Newspaper (USA)
-*://*.remnantnewspaper.com/*
+remnantnewspaper.com
 
 # The RFAngle (USA)
-*://*.rfangle.com/*
+rfangle.com
 
 # The Region News (USA)
-*://*.theregionnews.com/*
+theregionnews.com
 
 # The Right Scoop (Canada)
-*://*.therightscoop.com/*
+therightscoop.com
 
 # The Right Stuff (USA)
-*://*.therightstuff.biz/*
+therightstuff.biz
 
 # The Ron Paul Institute (USA)
-*://*.ronpaulinstitute.org/*
+ronpaulinstitute.org
 
 # The Science News Reporter (Pakistan)
-*://*.thescinewsreporter.com/*
+thescinewsreporter.com
 
 # The Science Times (USA)
-*://*.sciencetimes.com/*
+sciencetimes.com
 
 # The Scoop (USA)
-*://*.thescoop.us/*
+thescoop.us
 
 # The Sons of Liberty Media (USA)
-*://*.sonsoflibertymedia.com/*
+sonsoflibertymedia.com
 
 # TheSpectator.info (USA)
-*://*.thespectator.info/*
+thespectator.info
 
 # The Tennessee Star (USA)
-*://*.tennesseestar.com/*
+tennesseestar.com
 
 # Tehran Times (Iran)
-*://*.tehrantimes.com/*
+tehrantimes.com
 
 # Thinking Conservative (USA)
-*://*.thethinkingconservative.com/*
+thethinkingconservative.com
 
 # The Times of America (Unknown)
-*://*.digifection.com/*
+digifection.com
 
 # The True Defender (USA)
-*://*.thetruedefender.com/*
+thetruedefender.com
 
 # The True Reporter (USA)
-*://*.thetruereporter.com/*
+thetruereporter.com
 
 # The Truth Voice (Unknown)
-*://*.thetruthvoice.net/*
+thetruthvoice.net
 
 # The Union Journal (Unknown)
-*://*.theunionjournal.com/*
+theunionjournal.com
 
 # The Unz Review (USA)
-*://*.unz.com/*
+unz.com
 
 # The Warren Sun (USA)
-*://*.warrensun.com/*
+warrensun.com
 
 # The Washington Standard
-*://*.thewashingtonstandard.com/*
+thewashingtonstandard.com
 
 # The Wisconsin Independent (USA)
-*://*.wisconsinindependent.com/*
+wisconsinindependent.com
 
 # Three Percent Nation (USA)
-*://*.threepercenternation.com/*
+threepercenternation.com
 
 # Three Rivers Gazette (USA)
-*://*.threeriversgazette.com/*
+threeriversgazette.com
 
 # Thumb Reporter (USA)
-*://*.thumbreporter.com/*
+thumbreporter.com
 
 # Tobacco News Wire (USA)
-*://*.tobacconewswire.com/*
+tobacconewswire.com
 
 # ToddStarnes.com (USA)
-*://*.toddstarnes.com/*
+toddstarnes.com
 
 # Toledo Reporter (USA)
-*://*.toledoreporter.com/*
+toledoreporter.com
 
 # TooFab (USA)
-*://*.toofab.com/*
+toofab.com
 
 # Topeka Sun (USA)
-*://*.topekasun.com/*
+topekasun.com
 
 # Torreon Post (Unknown)
-*://*.thetorreonpost.com/*
+thetorreonpost.com
 
 # Toutiao (China)
-*://*.toutiao.com/*
+toutiao.com
 
 # Townhall (USA)
-*://*.twitter.com/townhallcom*
-*://*.x.com/townhallcom*
-*://*.facebook.com/townhallcom*
-*://*.townhall.com/*
+townhall.com
 
 # Treasure Coast Sun (USA)
-*://*.treasurecoastsun.com/*
+treasurecoastsun.com
 
 # Treasure Valley Times (USA)
-*://*.treasurevalleytimes.com/*
+treasurevalleytimes.com
 
 # TrendingPoliticsNews.com (USA)
-*://*.trendingpoliticsnews.com/*
+trendingpoliticsnews.com
 
 # Triangle News (USA)
-*://*.trianglenews.org/*
+trianglenews.org
 
 # Tri-City Record (USA)
-*://*.tri-cityrecord.org/*
+tri-cityrecord.org
 
 # Tri-City Sun (USA)
-*://*.tricitysun.com/*
+tricitysun.com
 
 # Tri County News (USA)
-*://*.triconews.com/*
+triconews.com
 
 # Truth Examiner (Unknown)
-*://*.truthexam.com/*
+truthexam.com
 
 # True Viral News (Russia)
-*://*.trueviralnews.com/*
+trueviralnews.com
 
 # Tulsa Standard (USA)
-*://*.tulsastandard.com/*
+tulsastandard.com
 
 # Trumball News (USA)
-*://*.trumballnews.com/*
+trumballnews.com
 
 # Trump.News (USA)
-*://*.trump.news/*
+trump.news
 
 # Trump Train News (USA)
-*://*.trumptrainnews.com/*
+trumptrainnews.com
 
 # Truth and Action (USA)
-*://*.truthandaction.org/*
+truthandaction.org
 
 # Truth Based Media (Unknown)
-*://*.truthbasedmedia.com/*
+truthbasedmedia.com
 
 # Truth in Media (USA)
-*://*.truthinmedia.com/*
+truthinmedia.com
 
 # Truth Press (USA)
-*://*.truthpress.com/*
+truthpress.com
 
 # Tsargrad TV (Russia)
-*://*.tsargrad.tv/*
+tsargrad.tv
 
 # Tsarizm (USA)
-*://*.tsarizm.com/*
+tsarizm.com
 
 # Tsionizm (USA)
-*://*.tsionizm.com/*
+tsionizm.com
 
 # Tucker Carlson Network (USA)
-*://*.tuckercarlson.com/*
+tuckercarlson.com
 
 # Tucson Standard (USA)
-*://*.tucsonstandard.com/*
+tucsonstandard.com
 
 # Tulare Times (USA)
-*://*.tularetimes.com/*
+tularetimes.com
 
 # Turley Talks (USA)
-*://*.turleytalks.com/*
+turleytalks.com
 
 # Turning Point USA (USA)
-*://*.tpusa.com/*
+tpusa.com
 
 # Tuscaloosa Leader (USA)
-*://*.tuscaloosaleader.com/*
+tuscaloosaleader.com
 
 # Tuscarawas News (USA)
-*://*.tuscarawasnews.com/*
+tuscarawasnews.com
 
 # Two Rivers News (USA)
-*://*.tworiversnews.org/*
+tworiversnews.org
 
 # Ukraina.ru (Russia)
-*://*.ukraina.ru/*
+ukraina.ru
 
 # UncoverDC (USA)
-*://*.uncoverdc.com/*
+uncoverdc.com
 
 # Understanding The Threat (USA)
-*://*.understandingthethreat.com/*
+understandingthethreat.com
 
 # Union County Review (USA)
-*://*.unioncountyreview.com/*
+unioncountyreview.com
 
 # Unite America First (USA)
-*://*.uniteamericafirst.com/*
+uniteamericafirst.com
 
 # United Voice (USA)
-*://*.unitedvoice.com/*
+unitedvoice.com
 
 # Unity News Network (UK)
-*://*.unitynewsnetwork.co.uk/*
+unitynewsnetwork.co.uk
 
 # Unmuzzled News (USA)
-*://*.unmuzzlednews.com/*
+unmuzzlednews.com
 
 # UP Gazette (USA)
-*://*.upgazette.com/*
+upgazette.com
 
 # Up North News (USA)
-*://*.upnorthnewswi.com/*
+upnorthnewswi.com
 
 # Upper Delta News (USA)
-*://*.upperdeltanews.com/*
+upperdeltanews.com
 
 # Upper Peninsula Times (USA)
-*://*.upperpeninsulatimes.com/*
+upperpeninsulatimes.com
 
 # UrduPoint (Pakistan)
-*://*.urdupoint.com/*
+urdupoint.com
 
 # US Backlash (USA)
-*://*.usbacklash.org/*
+usbacklash.org
 
 # USA Really (Russia)
-*://*.usareally.com/*
+usareally.com
 
 # USA Supreme (Unknown)
-*://*.usasupreme.com/*
+usasupreme.com
 
 # USAnetwork.info (Unknown)
-*://*.usanetwork.info/*
+usanetwork.info
 
 # USSA News (USA)
-*://*.ussanews.com/*
+ussanews.com
 
 # Vacationland Times (USA)
-*://*.vacationlandtimes.com/*
+vacationlandtimes.com
 
 # Valeurs Actuelles (France)
-*://*.valeursactuelles.com/*
+valeursactuelles.com
 
 # Valley Gazette (USA)
-*://*.valleygazette.org/*
+valleygazette.org
 
 # Vancouver Times (Canada)
-*://*.vancouvertimes.org/*
+vancouvertimes.org
 
 # Patriot Front (USA)
-*://*.patriotfront.us/*
+patriotfront.us
 
 # VDARE (USA)
-*://*.vdare.com/*
+vdare.com
 
 # Veracruz Daily Post (Unknown)
-*://*.veracruzdailypost.com/*
+veracruzdailypost.com
 
 # Verdugos News (USA)
-*://*.verdugosnews.com/*
+verdugosnews.com
 
 # Victor Valley Times (USA)
-*://*.victorvalleytimes.com/*
+victorvalleytimes.com
 
 # Vidmax (Cyprus)
-*://*.vidmax.com/*
+vidmax.com
 
 # Vigilant News (USA)
-*://*.vigilantnews.com/*
+vigilantnews.com
 
 # Viral Cocaine (Unknown)
-*://*.viralcocaine.com/*
+viralcocaine.com
 
 # Virginia Dogwood (USA)
-*://*.vadogwood.com/*
+vadogwood.com
 
 # Virginia Star (USA)
-*://*.thevirginiastar.com/*
+thevirginiastar.com
 
 # Vision Times (USA)
-*://*.visiontimes.com/*
+visiontimes.com
 
 # VZ.ru (Russia)
-*://*.vz.ru/*
+vz.ru
 
 # WallBuilders (USA)
-*://*.wallbuilders.com/*
+wallbuilders.com
 
 # War On Fakes (Russia)
-*://*.waronfakes.com/*
+waronfakes.com
 
 # Warner Robins Today (USA)
-*://*.warnerrobinstoday.com/*
+warnerrobinstoday.com
 
 # Warren-Clinton News (USA)
-*://*.warrenclintonnews.com/*
+warrenclintonnews.com
 
 # War Room (USA)
-*://*.warroom.org/*
+warroom.org
 
 # Washington Sources (USA)
-*://*.washingtonsources.org/*
+washingtonsources.org
 
 # Washington Stand (USA)
-*://*.washingtonstand.com/*
+washingtonstand.com
 
 # Washington Times (USA)
-*://*.twitter.com/WashTimes*
-*://*.x.com/WashTimes*
-*://*.facebook.com/TheWashingtonTimes*
-*://*.washingtontimes.com/*
+washingtontimes.com
 
 # Washoe Gazette (USA)
-*://*.washoegazette.com/*
+washoegazette.com
 
 # Washoe News (USA)
-*://*.washoenews.com/*
+washoenews.com
 
 # Waterford Today (USA)
-*://*.waterfordtoday.com/*
+waterfordtoday.com
 
 # Waterloo Times (USA)
-*://*.waterlootimes.com/*
+waterlootimes.com
 
 # Wayne County Today (USA)
-*://*.waynecountytoday.com/*
+waynecountytoday.com
 
 # WayneDupree.com (USA)
-*://*.waynedupree.com/*
+waynedupree.com
 
 # Wayne Herald (USA)
-*://*.wayneherald.org/*
+wayneherald.org
 
 # WC Georgia News (USA)
-*://*.wcgeorgianews.com/*
+wcgeorgianews.com
 
 # WC Indiana News (USA)
-*://*.wcindiananews.com/*
+wcindiananews.com
 
 # WC Iowa News (USA)
-*://*.wciowanews.com/*
+wciowanews.com
 
 # WC Minnesota News (USA)
-*://*.wcminnesotanews.com/*
+wcminnesotanews.com
 
 # WC Mississippi News (USA)
-*://*.wcmissnews.com/*
+wcmissnews.com
 
 # WC Missouri News (USA)
-*://*.wcmissourinews.com/*
+wcmissourinews.com
 
 # WC New Mexico News (USA)
-*://*.wcnewmexiconews.com/*
+wcnewmexiconews.com
 
 # Wealth Management Wire (USA)
-*://*.wealthmanagementwire.com/*
+wealthmanagementwire.com
 
 # Weibo (China)
-*://*.weibo.com/*
+weibo.com
 
 # We Love Trump (USA)
-*://*.welovetrump.com/*
+welovetrump.com
 
 # West Atlanta News (USA)
-*://*.westatlantanews.com/*
+westatlantanews.com
 
 # We The People Daily (USA)
-*://*.wethepeopledaily.com/*
+wethepeopledaily.com
 
 # Westbank Louisiana News (USA)
-*://*.westbanklanews.com/*
+westbanklanews.com
 
 # West Central Alabama News (USA)
-*://*.wcalabamanews.com/*
+wcalabamanews.com
 
 # West Central Michigan News (USA)
-*://*.wcmichigannews.com/*
+wcmichigannews.com
 
 # West Central Reporter (USA)
-*://*.westcentralreporter.com/*
+westcentralreporter.com
 
 # Westchester Reporter (USA)
-*://*.westchesterreporter.com/*
+westchesterreporter.com
 
 # West Cleveland News (USA)
-*://*.westclevelandnews.com/*
+westclevelandnews.com
 
 # West Contra Costa News (USA)
-*://*.westcontracostanews.com/*
+westcontracostanews.com
 
 # West Cook News (USA)
-*://*.westcooknews.com/*
+westcooknews.com
 
 # West DSM News (USA)
-*://*.westdsmnews.com/*
+westdsmnews.com
 
 # West El Dorado News (USA)
-*://*.westeldoradonews.com/*
+westeldoradonews.com
 
 # West Essex News (USA)
-*://*.westessexnews.com/*
+westessexnews.com
 
 # West Hamilton News (USA)
-*://*.westhamiltonnews.com/*
+westhamiltonnews.com
 
 # West Hudson Valley News (USA)
-*://*.westhudvalleynews.com/*
+westhudvalleynews.com
 
 # West Lucas News (USA)
-*://*.westlucasnews.com/*
+westlucasnews.com
 
 # Western Wayne Today (USA)
-*://*.westernwaynetoday.com/*
+westernwaynetoday.com
 
 # West Florida News (USA)
-*://*.westflnews.com/*
+westflnews.com
 
 # West Hillsborough News (USA)
-*://*.westhillsboroughnews.com/*
+westhillsboroughnews.com
 
 # West Indy News (USA)
-*://*.westindynews.com/*
+westindynews.com
 
 # Western Journal (USA)
-*://*.westernjournal.com/*
+westernjournal.com
 
 # West LA Times (USA)
-*://*.westlatimes.com/*
+westlatimes.com
 
 # West Lake Norman News (USA)
-*://*.westlakenormannews.com/*
+westlakenormannews.com
 
 # West Massachusetts News (USA)
-*://*.westmassnews.com/*
+westmassnews.com
 
 # Western ND News (USA)
-*://*.westernndnews.com/*
+westernndnews.com
 
 # West NY News (USA)
-*://*.westnynews.com/*
+westnynews.com
 
 # West OC Times (USA)
-*://*.westoctimes.com/*
+westoctimes.com
 
 # West PDX Today (USA)
-*://*.westpdxtoday.com/*
+westpdxtoday.com
 
 # West Pennyroyal News (USA)
-*://*.westpennyroyalnews.com/*
+westpennyroyalnews.com
 
 # West SBV Times (USA)
-*://*.westsbvtimes.com/*
+westsbvtimes.com
 
 # West SFV Today (USA)
-*://*.westsfvtoday.com/*
+westsfvtoday.com
 
 # West SGV News (USA)
-*://*.westsgvnews.com/*
+westsgvnews.com
 
 # West Stark News (USA)
-*://*.weststarknews.com/*
+weststarknews.com
 
 # West STL News (USA)
-*://*.stlwestnews.com/*
+stlwestnews.com
 
 # West Twin Cities (USA)
-*://*.westtwincities.com/*
+westtwincities.com
 
 # West Ventura News (USA)
-*://*.westventuranews.com/*
+westventuranews.com
 
 # West Volusia News (USA)
-*://*.westvolusianews.com/*
+westvolusianews.com
 
 # West Wake News (USA)
-*://*.westwakenews.com/*
+westwakenews.com
 
 # Whatfinger (USA)
-*://*.whatfinger.com/*
+whatfinger.com
 
 # WhatRegistrater.com (Unknown)
-*://*.whatregistrater.com/*
+whatregistrater.com
 
 # What’s the Harm (Unknown)
-*://*.whatstheharm.net/*
+whatstheharm.net
 
 # Wichita Standard (USA)
-*://*.wichitastandard.com/*
+wichitastandard.com
 
 # Will County Gazette (USA)
-*://*.willcountygazette.com/*
+willcountygazette.com
 
 # Wine Country Times (USA)
-*://*.winecountrytimes.com/*
+winecountrytimes.com
 
 # Winston Salem Times (USA)
-*://*.winstonsalemtimes.com/*
+winstonsalemtimes.com
 
 # Wiregrass Times (USA)
-*://*.wiregrasstimes.com/*
+wiregrasstimes.com
 
 # Wisconsin Daily Star (USA)
-*://*.wisconsindailystar.com/*
+wisconsindailystar.com
 
 # Wisconsin Lake Times (USA)
-*://*.wisconsinlaketimes.com/*
+wisconsinlaketimes.com
 
 # Wisevoter (USA)
-*://*.wisevoter.com/*
+wisevoter.com
 
 # Witherspoon Institute (USA)
-*://*.thepublicdiscourse.com/*
+thepublicdiscourse.com
 
 # WLT Report (USA)
-*://*.wltreport.com/*
+wltreport.com
 
 # WND News Center (USA)
-*://*.wndnewscenter.org/*
+wndnewscenter.org
 
 # Women are Human (USA)
-*://*.womenarehuman.com/*
-
-# Women’s Rights News (USA)
-*://*.facebook.com/WOMENSRIGHTSNEWS/*
+womenarehuman.com
 
 # WorldGreyNews.Com (Serbia)
-*://*.worldgreynews.com/*
+worldgreynews.com
 
 # World Net Daily (USA)
-*://*.twitter.com/worldnetdaily*
-*://*.x.com/worldnetdaily*
-*://*.facebook.com/WNDNews*
-*://*.wnd.com/*
+wnd.com
 
 # World News (USA)
-*://*.wn.com/*
+wn.com
 
 # WorldNewsERA (Unknown)
-*://*.worldnewsera.com/*
+worldnewsera.com
 
 # World of Buzz (Malaysia)
-*://*.worldofbuzz.com/*
+worldofbuzz.com
 
 # WorldStarHipHop (USA)
-*://*.worldstarhiphop.com/*
+worldstarhiphop.com
 
 # WorldTimeTodays (USA)
-*://*.worldtimetodays.com/*
+worldtimetodays.com
 
 # World Tribune (USA)
-*://*.worldtribune.com/*
+worldtribune.com
 
 # Wyandotte Times (USA)
-*://*.wyandottetimes.com/*
+wyandottetimes.com
 
 # Xinhua English (China)
-*://*.news.cn/*
+news.cn
 
 # Xinhua News Agency (China)
-*://*.xinhuanet.com/*
+xinhuanet.com
 
 # X Strategies (USA)
-*://*.xstrategies.com/*
+xstrategies.com
 
 # XYZ.net.au (Australia)
-*://*.xyz.net.au/*
+xyz.net.au
 
 # Yadkin Valley News (USA)
-*://*.yadkinvalleynews.com/*
+yadkinvalleynews.com
 
 # Yavapai News (USA)
-*://*.yavapainews.com/*
+yavapainews.com
 
 # Yellowhammer Times (USA)
-*://*.yellowhammertimes.com/*
+yellowhammertimes.com
 
 # Yellowstone Times (USA)
-*://*.yellowstonetimes.com/*
+yellowstonetimes.com
 
 # Young Americans for Liberty (USA)
-*://*.yaliberty.org/*
+yaliberty.org
 
 # Young Conservatives (USA)
-*://*.analyzingamerica.org/*
+analyzingamerica.org
 
 # Youngstown Times (USA)
-*://*.youngstowntimes.com/*
+youngstowntimes.com
 
 # YourNews (USA)
-*://*.yournews.com/*
+yournews.com
 
 # Yuba-Sutter Times (USA)
-*://*.yubasuttertimes.com/*
+yubasuttertimes.com
 
 # Yucatan Post (Unknown)
-*://*.theyucatanpost.com/*
+theyucatanpost.com
 
 # Yuma Standard (USA)
-*://*.yumastandard.com/*
+yumastandard.com
 
 # Z3 News (USA)
-*://*.z3news.com/*
+z3news.com
 
 # Zacatecas Post (Unknown)
-*://*.zacatecaspost.com/*
+zacatecaspost.com
 
 # Central Bucks Today (USA)
-*://*.centralbuckstoday.com/*
+centralbuckstoday.com
 
 # * Business Daily (USA)
-*://*.businessdailynetwork.com/*
+businessdailynetwork.com
 
 # Central Chester Today (USA)
-*://*.centralchestertoday.com/*
+centralchestertoday.com
 
 # Kamala Border Bloodbath (USA)
-*://*.kamalaborderbloodbath.com/*
+kamalaborderbloodbath.com
 
 # Cambria Times (USA)
-*://*.cambriatimes.com/*
+cambriatimes.com
 
 # News89TV.com (USA)
-*://*.news89tv.com/*
+news89tv.com
 
 # Occidental Dissent (USA)
-*://*.occidentaldissent.com/*
-
-# 100 Percent Fed Up (USA)
-*://*.100percentfedup.com/*
+occidentaldissent.com
 
 # Coal Region News (USA)
-*://*.coalregionnews.com/*
+coalregionnews.com
 
 # Crawford Times (USA)
-*://*.crawfordtimes.com/*
+crawfordtimes.com
 
 # Cumberland Valley News (USA)
-*://*.cumberlandvalleynews.com/*
+cumberlandvalleynews.com
 
 # Today is America (USA)
-*://*.todayisamerica.com/*
+todayisamerica.com
 
 # Shockya News (USA)
-*://*.shockya.com/*
+shockya.com
 
 # Erie County Times (USA)
-*://*.eriecotimes.com/*
+eriecotimes.com
 
 # East Montgomery Times (USA)
-*://*.eastmonttimes.com/*
+eastmonttimes.com
 
 # Loomered.com (USA)
-*://*.loomered.com/*
+loomered.com
 
 # Utah Standard News (USA)
-*://*.utahstandardnews.com/*
+utahstandardnews.com
 
 # COMPACT-Magazin (Germany)
-*://*.twitter.com/COMPACTMagazin*
-*://*.twitter.com/compactmagazin*
-*://*.x.com/COMPACTMagazin*
-*://*.x.com/compactmagazin*
-*://*.compact-online.de/*
+compact-online.de
 
 # American Conservative Union / CPAC (Conservative Political Action Conference) (USA)
-*://*.conservative.org/*
-*://*.cpac.org/*
+conservative.org
+cpac.org
 
 # Dauphin News (USA)
-*://*.dauphinnews.com/*
+dauphinnews.com
 
 # Lycoming News (USA)
-*://*.lycomingnews.com/*
+lycomingnews.com
 
 # RBC.ru (Russia)
-*://*.rbc.ru/*
+rbc.ru
 
 # SebGorka.com (USA)
-*://*.sebgorka.com/*
+sebgorka.com
 
 # Monroe County News (USA)
-*://*.monroeconews.com/*
+monroeconews.com
 
 # Real Not Rare (USA)
-*://*.realnotrare.com/*
+realnotrare.com
 
 # Reduxx (Canada)
-*://*.reduxx.info/*
+reduxx.info
 
 # North Allegheny News (USA)
-*://*.northalleghenynews.com/*
+northalleghenynews.com
 
 # Citizen Watch Report - CWR (USA)
-*://*.citizenwatchreport.com/*
+citizenwatchreport.com
 
 # Voice of Rural America (USA)
-*://*.voiceofruralamerica.com/*
+voiceofruralamerica.com
 
 # North Delco News (USA)
-*://*.northdelconews.com/*
+northdelconews.com
 
 # Samnytt (Sweden)
-*://*.samnytt.se/*
+samnytt.se
 
 # Syrian Arab News Agency (Syria)
-*://*.sana.sy/*
+sana.sy
 
 # Patriot Voice News (USA)
-*://*.patriotvoicenews.com/*
+patriotvoicenews.com
 
 # Samtiden (Sweden)
-*://*.samtiden.nu/*
+samtiden.nu
 
 # North Chester Today (USA)
-*://*.northchestertoday.com/*
+northchestertoday.com
 
 # Russia vs. World (USA)
-*://*.russiavsworld.org/*
+russiavsworld.org
 
 # North Central PA Times (USA)
-*://*.ncpatimes.com/*
+ncpatimes.com
 
 # Swamp Monsters (USA)
-*://*.swampmonsters.news/*
+swampmonsters.news
 
 # Pennsylvania Record (USA)
-*://*.pennrecord.com/*
+pennrecord.com
 
 # Der Status (Austria)
-*://*.derstatus.at/*
+derstatus.at
 
 # Northwest PA News (USA)
-*://*.nwpanews.com/*
+nwpanews.com
 
 # The Burning Platform (USA)
-*://*.theburningplatform.com/*
+theburningplatform.com
 
 # The Quartering (USA)
-*://*.thequartering.com/*
+thequartering.com
 
 # Visegrad 24 (Poland)
-*://*.visegrad24.com/*
+visegrad24.com
 
 # North Lancaster News (USA)
-*://*.northlancasternews.com/*
+northlancasternews.com
 
 # Save Us Now - SUN (UK)
-*://*.saveusnow.org.uk/*
+saveusnow.org.uk
 
 # Tap Haps (USA)
-*://*.taphaps.com/*
+taphaps.com
 
 # Center for Immigration Studies - CIS (USA)
-*://*.cis.org/*
+cis.org
 
 # Northhampton News (USA)
-*://*.northhamptonnews.com/*
+northhamptonnews.com
 
 # Northern Tier News (USA)
-*://*.northerntiernews.com/*
+northerntiernews.com
 
 # North Pocono News (USA)
-*://*.northpocononews.com/*
-
-# Bossip (USA)
-*://*.bossip.com/*
+northpocononews.com
 
 # Boulder Leader (USA)
-*://*.boulderleader.com/*
+boulderleader.com
 
 # Breaking Wide (Unknown)
-*://*.breakingwide.com/*
+breakingwide.com
 
 # Good Day Fort Collins (USA)
-*://*.gooddayfortcollins.com/*
+gooddayfortcollins.com
 
 # South Delco News (USA)
-*://*.southdelconews.com/*
+southdelconews.com
 
 # Report24 (Austria)
-*://*.report24.news/*
+report24.news
 
 # Courier Newsroom (USA)
-*://*.couriernewsroom.com/*
+couriernewsroom.com
 
 # DennisPrager.com (USA)
-*://*.dennisprager.com/*
+dennisprager.com
 
 # Southwest Allegheny News (USA)
-*://*.swalleghenynews.com/*
+swalleghenynews.com
 
 # Southwest PA News (USA)
-*://*.swpanews.com/*
+swpanews.com
 
 # Restricted Republic (USA)
-*://*.restrictedrepublic.com/*
+restrictedrepublic.com
 
 # Every Legal Vote (USA)
-*://*.everylegalvote.com/*
+everylegalvote.com
 
 # Bend Daily News (USA)
-*://*.benddailynews.com/*
+benddailynews.com
 
 # FR24 News (Unknown)
-*://*.fr24news.com/*
+fr24news.com
 
 # The Lid (USA)
-*://*.lidblog.com/*
+lidblog.com
 
 # NZ Report (Unknown)
-*://*.nzreport.com/*
+nzreport.com
 
 # Charleston Morning News (USA)
-*://*.charlestonmorning.com/*
+charlestonmorning.com
 
 # The Liberal (Ireland)
-*://*.theliberal.ie/*
+theliberal.ie
 
 # Upper Bucks Today (USA)
-*://*.upperbuckstoday.com/*
+upperbuckstoday.com
 
 # Good Day Gillette (USA)
-*://*.gooddaygillette.com/*
+gooddaygillette.com
 
 # West Central PA News (USA)
-*://*.wcpanews.com/*
+wcpanews.com
 
 # Good Day Casper (USA)
-*://*.gooddaycasper.com/*
+gooddaycasper.com
 
 # West Montgomery Times (USA)
-*://*.westmonttimes.com/*
+westmonttimes.com
 
 # Good Day Cheyenne (USA)
-*://*.gooddaycheyenne.com/*
+gooddaycheyenne.com
 
 # Realitatea.net (Romania)
-*://*.realitatea.net/*
+realitatea.net
 
 # DeadState (USA)
-*://*.facebook.com/deadstate.org*
-*://*.deadstate.org/*
+deadstate.org
 
 # Mision Verdad (Venezuela)
-*://*.misionverdad.com/*
+misionverdad.com
 
 # Pants on Fire News (USA)
-*://*.pantsonfirenews.com/*
+pantsonfirenews.com
 
 # EurAsia Daily (Russia)
-*://*.eadaily.com/*
+eadaily.com
 
 # Good Day Laramie (USA)
-*://*.gooddaylaramie.com/*
+gooddaylaramie.com
 
 # Westmoreland Review (USA)
-*://*.westmorelandreview.com/*
+westmorelandreview.com
 
 # The Florida Standard (USA)
-*://*.theflstandard.com/*
+theflstandard.com
 
 # Good Day Sheridan (USA)
-*://*.gooddaysheridan.com/*
+gooddaysheridan.com
 
 # York County News (USA)
-*://*.yorkconews.com/*
+yorkconews.com
 
 # Hinds Today (USA)
-*://*.hindstoday.com/*
+hindstoday.com
 
 # Good Day Billings (USA)
-*://*.gooddaybillings.com/*
+gooddaybillings.com
 
 # Pittsburgh Review (USA)
-*://*.pittreview.com/*
+pittreview.com
 
 # Scranton Reporter (USA)
-*://*.scrantonreporter.com/*
+scrantonreporter.com
+
