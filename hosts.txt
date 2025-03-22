@@ -2264,6 +2264,8 @@
 0.0.0.0 www.barrons.com
 0.0.0.0 bartforillinois.com
 0.0.0.0 www.bartforillinois.com
+0.0.0.0 bartoll.se
+0.0.0.0 www.bartoll.se
 0.0.0.0 bartonbrosstudios.com
 0.0.0.0 www.bartonbrosstudios.com
 0.0.0.0 basedjak.party
@@ -9018,6 +9020,8 @@
 0.0.0.0 www.gellerreport.com
 0.0.0.0 gelsenkirchen.pro-nrw.net
 0.0.0.0 www.gelsenkirchen.pro-nrw.net
+0.0.0.0 gematriaeffect.news
+0.0.0.0 www.gematriaeffect.news
 0.0.0.0 gemstatewire.com
 0.0.0.0 www.gemstatewire.com
 0.0.0.0 gen.nyeborgerlige.dk
