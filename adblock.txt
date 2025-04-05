@@ -5281,6 +5281,7 @@
 ||howardconews.com^
 ||howardschultz.news^
 ||howbadismybatch.com^
+||howdovaccinescauseautism.org^
 ||howiecarrshow.com^
 ||hpenews.com^
 ||hpforbiddenforestexperience.com^
@@ -8943,6 +8944,7 @@
 ||peterhalligan.substack.com^
 ||petermcculloughmd.substack.com^
 ||petersantilli.com^
+||peteryoungdk.blog^
 ||petfoodwarning.com^
 ||pethealthdaily.com^
 ||peticio.fidesz.hu^
@@ -10172,6 +10174,7 @@
 ||scherpenheuvel-zichem.vlaamsbelang.org^
 ||schilde.vlaamsbelang.org^
 ||school.saintbenedict.com^
+||schooltimes.eu^
 ||schoten.vlaamsbelang.org^
 ||schweizer-illustrierte.ch^
 ||schweizerzeit.ch^

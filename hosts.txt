@@ -10556,6 +10556,8 @@
 0.0.0.0 www.howardschultz.news
 0.0.0.0 howbadismybatch.com
 0.0.0.0 www.howbadismybatch.com
+0.0.0.0 howdovaccinescauseautism.org
+0.0.0.0 www.howdovaccinescauseautism.org
 0.0.0.0 howiecarrshow.com
 0.0.0.0 www.howiecarrshow.com
 0.0.0.0 hpenews.com
@@ -17880,6 +17882,8 @@
 0.0.0.0 www.petermcculloughmd.substack.com
 0.0.0.0 petersantilli.com
 0.0.0.0 www.petersantilli.com
+0.0.0.0 peteryoungdk.blog
+0.0.0.0 www.peteryoungdk.blog
 0.0.0.0 petfoodwarning.com
 0.0.0.0 www.petfoodwarning.com
 0.0.0.0 pethealthdaily.com
@@ -20338,6 +20342,8 @@
 0.0.0.0 www.schilde.vlaamsbelang.org
 0.0.0.0 school.saintbenedict.com
 0.0.0.0 www.school.saintbenedict.com
+0.0.0.0 schooltimes.eu
+0.0.0.0 www.schooltimes.eu
 0.0.0.0 schoten.vlaamsbelang.org
 0.0.0.0 www.schoten.vlaamsbelang.org
 0.0.0.0 schweizer-illustrierte.ch
