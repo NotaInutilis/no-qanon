@@ -22774,6 +22774,8 @@
 0.0.0.0 www.taphaps.com
 0.0.0.0 tapintothetruth.com
 0.0.0.0 www.tapintothetruth.com
+0.0.0.0 tapisrougepourlefascisme.com
+0.0.0.0 www.tapisrougepourlefascisme.com
 0.0.0.0 tapnewswire.com
 0.0.0.0 www.tapnewswire.com
 0.0.0.0 tapwater.news

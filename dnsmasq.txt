@@ -11386,6 +11386,7 @@ address=/tanum.sd.se/
 address=/tanveerahmed.com.au/
 address=/taphaps.com/
 address=/tapintothetruth.com/
+address=/tapisrougepourlefascisme.com/
 address=/tapnewswire.com/
 address=/tapwater.news/
 address=/tarbaby.wordpress.com/
