@@ -204,6 +204,7 @@
 ||aao25.com^
 ||aapsonline.org^
 ||aar.nyeborgerlige.dk^
+||aargau-zuerich.ch^
 ||aarhus.danskfolkeparti.dk^
 ||aaron.frc.org^
 ||aarondoughty.com^
@@ -238,6 +239,7 @@
 ||abqtimes.com^
 ||abraham.hol.frc.org^
 ||abriluno.com^
+||abrogationloicovid.ch^
 ||absurd.news^
 ||academia.org^
 ||academiacatavencu.info^
@@ -270,6 +272,7 @@
 ||action.larouchepac.com^
 ||actionfrancaise.net^
 ||actionnews3.com^
+||actions-suisse.ch^
 ||activate.afa.net^
 ||activenews.ro^
 ||activesouth.wordpress.com^
@@ -341,31 +344,50 @@
 ||afapledge.afa.net^
 ||afastore.afa.net^
 ||afd-brandenburg.de^
+||afd-bremen.de^
 ||afd-bw.de^
 ||afd-dithmarschen.de^
+||afd-fanshop.de^
 ||afd-flensburg-schleswig.de^
+||afd-fraktion-brandenburg.de^
 ||afd-fraktion-bw.de^
 ||afd-fraktion-hamburg.de^
+||afd-fraktion-hessen.de^
+||afd-fraktion-mv.de^
+||afd-fraktion-sachsen.de^
+||afd-fraktion.berlin^
 ||afd-fraktion.nrw^
+||afd-fraktion.saarland^
+||afd-gruppe-sh.de^
+||afd-hamburg.de^
 ||afd-hessen.de^
 ||afd-hzgt-lauenburg.de^
+||afd-landtag.bayern^
+||afd-landtagsfraktion-niedersachsen.de^
+||afd-lsa.de^
 ||afd-luebeck.de^
 ||afd-muenchen.de^
 ||afd-mv.de^
 ||afd-neumuenster.de^
+||afd-niedersachsen.de^
 ||afd-nordfriesland.de^
 ||afd-oberbayern.de^
 ||afd-ostholstein.de^
 ||afd-pinneberg.de^
 ||afd-ploen.de^
 ||afd-rendsburg-eckernfoerde.de^
+||afd-rlp-fraktion.de^
 ||afd-segeberg.de^
 ||afd-sh.de^
 ||afd-steinburg.de^
 ||afd-stormarn.de^
+||afd-thl.de^
 ||afd-thueringen.de^
+||afd.berlin^
 ||afd.de^
 ||afd.nrw^
+||afd.saarland^
+||afd.tv^
 ||afdbayern.de^
 ||afdbundestag.de^
 ||afdfraktion-lsa.de^
@@ -431,6 +453,7 @@
 ||akg923.minds.com^
 ||akroma.no^
 ||akronreporter.com^
+||aktionsbuendnis-ostschweiz.ch^
 ||aktiv-blog.com^
 ||aktiv-hirek.net^
 ||aktuell.fpoe.at^
@@ -463,6 +486,7 @@
 ||alertchild.com^
 ||alerts.rumble.com^
 ||aleteia.org^
+||aletheia-scimed.ch^
 ||alethonews.com^
 ||alexbloodfire.com^
 ||alexcityoutlook.com^
@@ -961,6 +985,7 @@
 ||aucklandnews.tk^
 ||audio.fpoe.at^
 ||auf1.eu^
+||aufrecht-schweiz.ch^
 ||augustarichmondherald.com^
 ||aulis.com^
 ||aum-internet.org^
@@ -1652,6 +1677,7 @@
 ||buckscountystandard.com^
 ||budesonideworks.com^
 ||buerger-in-wut.de^
+||buergerforum-schweiz.com^
 ||buffalochronicle.com^
 ||buffaloledger.com^
 ||bugetul.ro^
@@ -3441,6 +3467,18 @@
 ||edmontonexaminer.com^
 ||edmontonjournal.com^
 ||edmontonsun.com^
+||edu-ag.ch^
+||edu-ar.ch^
+||edu-baselland.ch^
+||edu-be.ch^
+||edu-bs.ch^
+||edu-fr.ch^
+||edu-gr.ch^
+||edu-schweiz.ch^
+||edu-sg.ch^
+||edu-sh.ch^
+||edu-tg.ch^
+||edu-zh.ch^
 ||educate-yourself.org^
 ||educateinspirechange.org^
 ||educationdailywire.com^
@@ -3707,6 +3745,7 @@
 ||escilacorona.minds.com^
 ||eskilstuna.sd.se^
 ||eslov.sd.se^
+||esn-party.eu^
 ||espanol.remnantnewspaper.com^
 ||esprits-libres.fr^
 ||espritsciencemetaphysiques.com^
@@ -3774,6 +3813,7 @@
 ||evil.news^
 ||evilnewsom.com^
 ||evoandproud.blogspot.com^
+||evol.news^
 ||evolutionaryeconomics.wordpress.com^
 ||evolutionaryleaps.com^
 ||evolutionistx.wordpress.com^
@@ -4085,6 +4125,7 @@
 ||fluorideexposed.org^
 ||fluoridefreeaustin.com^
 ||flvoicenews.com^
+||flyer-ueberall.ch^
 ||flyheight.com^
 ||flyingcars.news^
 ||flyoverconservatives.com^
@@ -4356,6 +4397,7 @@
 ||freeworldnews.tv^
 ||freeyourmindaz.com^
 ||freezepeach.xyz^
+||freiekmu.ch^
 ||freiewelt.net^
 ||french.faithfreedom.org^
 ||frenchdissidents.wordpress.com^
@@ -4389,6 +4431,7 @@
 ||froth.zone^
 ||frounch.blogspot.com^
 ||frs.nyeborgerlige.dk^
+||fruehling2020.com^
 ||fruits.news^
 ||fs.minds.com^
 ||fs.parler.com^
@@ -4407,6 +4450,7 @@
 ||ftp2.oneplace.com^
 ||ftwaynetimes.com^
 ||ftworthtimes.com^
+||fuer-gerechtigkeit.ch^
 ||fuhrerious88blog.wordpress.com^
 ||fukushima.news^
 ||fukushimawatch.com^
@@ -4428,6 +4472,7 @@
 ||fusionliebe.com^
 ||futurenews.news^
 ||futuresciencenews.com^
+||fvd.nl^
 ||fw.davidicke.com^
 ||fwu.nl^
 ||fxbellamy.fr^
@@ -4772,6 +4817,7 @@
 ||graphigo.prd.dlive.tv^
 ||graphigostream.prd.dlive.tv^
 ||grassrootsliberty.com^
+||graswurzle.ch^
 ||grayguide.com^
 ||graysontimes.com^
 ||gre.nyeborgerlige.dk^
@@ -4830,6 +4876,7 @@
 ||grrrgraphics.com^
 ||grrrgraphics.wordpress.com^
 ||grums.sd.se^
+||grundrechte-ja.ch^
 ||grundyguide.com^
 ||grundyreporter.com^
 ||grunge.com^
@@ -5055,6 +5102,7 @@
 ||helsingborg.sd.se^
 ||helsingoer.danskfolkeparti.dk^
 ||helsinkitimes.fi^
+||helvethica-ticino.ch^
 ||hemali.no^
 ||hemiksem.vlaamsbelang.org^
 ||hempscience.news^
@@ -5156,6 +5204,7 @@
 ||hli.org^
 ||hln.be^
 ||hnp.org.za^
+||hnutie-republika.sk^
 ||ho1.us^
 ||hoax.news^
 ||hoboken.vlaamsbelang.org^
@@ -5490,6 +5539,7 @@
 ||imperialcanews.com^
 ||imperialklansofamerica.com^
 ||imperialtobaccocanada.com^
+||impfentscheid.ch^
 ||impiousdigest.com^
 ||implicante.org^
 ||importer.bitchute.com^
@@ -5805,6 +5855,7 @@
 ||jedanews.com^
 ||jedanews.it^
 ||jedasupport.altervista.org^
+||jedu.ch^
 ||jeffbezoswatch.com^
 ||jeffcitynews.com^
 ||jeffcotimes.com^
@@ -6082,6 +6133,7 @@
 ||kimiversen.com^
 ||kincardinenews.com^
 ||kinda.sd.se^
+||kinderschutzinitiative.ch^
 ||kindlywakethehellup.wordpress.com^
 ||kindredapostolicministries.wordpress.com^
 ||kingidentity.com^
@@ -6153,6 +6205,7 @@
 ||konservativkrabask.wordpress.com^
 ||konservativreaktion.blogspot.com^
 ||kontich.vlaamsbelang.org^
+||kontrafunk.radio^
 ||kontratkaroly.fidesz.hu^
 ||koping.sd.se^
 ||kopp-verlag.de^
@@ -6377,6 +6430,7 @@
 ||lecourrierdesstrateges.fr^
 ||lecrayongroupe.fr^
 ||lecrayonmedia.fr^
+||lectronslibres.ch^
 ||ledailyberet.fr^
 ||lede.vlaamsbelang.org^
 ||leducrep.com^
@@ -6407,6 +6461,7 @@
 ||legrosdijon.fr^
 ||lehighnews.org^
 ||lehightimes.com^
+||lehrernetzwerk-schweiz.ch^
 ||leicestermercury.co.uk^
 ||lejdd.fr^
 ||lejeune-academie.com^
@@ -7027,10 +7082,12 @@
 ||marypatriotnews.com^
 ||maskoffmn.org^
 ||masksoffusa.com^
+||mass-voll.ch^
 ||massacarrara.leganord.org^
 ||massadayoobgroup.com^
 ||massawakening.org^
 ||massimointrovigne.com^
+||massnahmen-nein.ch^
 ||massresistance.massresistance.org^
 ||massresistance.org^
 ||master.centerforsecuritypolicy.org^
@@ -7269,6 +7326,7 @@
 ||migrants.news^
 ||migrator-ns1.jewwatch.com^
 ||migrator-ns2.jewwatch.com^
+||mihazank.hu^
 ||mike.news^
 ||mikeadams.news^
 ||mikehulme.org^
@@ -7445,6 +7503,7 @@
 ||moundridgeguide.com^
 ||mountainstatetimes.com^
 ||mouthfrog.com^
+||mouvement-federatif-romand.ch^
 ||mouvementchouan.fr^
 ||movar.fidesz.hu^
 ||movcivitas.pt^
@@ -7496,6 +7555,7 @@
 ||munkedal.sd.se^
 ||munkfors.sd.se^
 ||murderbydecree.com^
+||murielbagnoud.com^
 ||music.cdn.triller.co^
 ||musicians4freedom.com^
 ||muskegonsun.com^
@@ -9569,6 +9629,7 @@
 ||rapefugees.net^
 ||rapsodia.fi^
 ||raptorcoaching.pro^
+||raptornews.com^
 ||raptornutrition.fr^
 ||raptureforums.com^
 ||raptureready.com^
@@ -9612,6 +9673,7 @@
 ||readingsbyarael.com^
 ||readynutrition.com^
 ||reagancoalition.com^
+||reaktion.org^
 ||real-trumpcoins.com^
 ||realchrissky.com^
 ||realcleardefense.com^
@@ -9976,6 +10038,7 @@
 ||royal---rumble.com^
 ||royal--rumble.com^
 ||rp-online.de^
+||rphlr.ch^
 ||rr-bb.com^
 ||rr-conspiracy-truth.blogspot.com^
 ||rrdailyherald.com^
@@ -10880,6 +10943,7 @@
 ||sparheld.de^
 ||spartanburgreporter.com^
 ||spartiates.gr^
+||spd.cz^
 ||speakingaboutnews.com^
 ||speakyourmindhere.com^
 ||spearhead.co.uk^
@@ -11061,6 +11125,7 @@
 ||stgeorgewest.blogspot.com^
 ||stichtsevecht.pvv.nl^
 ||stickermule.com^
+||stillerprotest.ch^
 ||stillnessinthestorm.com^
 ||stimme.afd.de^
 ||stj911.org^
@@ -11404,6 +11469,7 @@
 ||tathasta.com^
 ||tatumreport.com^
 ||tauranganews.tk^
+||tautateisingumas.lt^
 ||taxfoundation.org^
 ||taxpayer.com^
 ||taxpayers.org.nz^
@@ -12428,6 +12494,12 @@
 ||ucg.org^
 ||uconservative.com^
 ||uddevalla.sd.se^
+||udf-be.ch^
+||udf-fr.ch^
+||udf-ge.ch^
+||udf-suisse.ch^
+||udf-ticino.ch^
+||udf-vd.ch^
 ||udk.fidesz.hu^
 ||udn.hautetfort.com^
 ||udongein.xyz^
@@ -12579,6 +12651,7 @@
 ||uptime.afa.net^
 ||upward.news^
 ||ur-fascism.blogspot.com^
+||ur-kantone.ch^
 ||urantia.org^
 ||urbandaletimes.com^
 ||urbandictionary.com^
@@ -12760,6 +12833,7 @@
 ||vaxxed2.com^
 ||vaxxedthemovie.com^
 ||vaxxter.com^
+||vazrazhdane.bg^
 ||vdare-old.vdare.com^
 ||vdare.com^
 ||vdv1.minds.com^
@@ -12779,6 +12853,7 @@
 ||verdugosnews.com^
 ||vereinigungskirche.at^
 ||verenigingsbeweging.nl^
+||verfassungsfreunde.ch^
 ||vergereport.com^
 ||veritanwo.altervista.org^
 ||veritecachee.fr^
@@ -13430,6 +13505,7 @@
 ||winteroak.org.uk^
 ||winterwatch.net^
 ||winteryknight.com^
+||wir-lieben-deutschland.de^
 ||wir-selbst.com^
 ||wire.minds.com^
 ||wired.minds.com^
@@ -13472,6 +13548,7 @@
 ||wokesocieties.tv^
 ||wolfstreet.com^
 ||wolke.fpoe.at^
+||wolnosc.pl^
 ||wolvesofvinland.net^
 ||womansplaceuk.org^
 ||women.donaldjtrump.com^
@@ -13995,6 +14072,7 @@
 ||zeromacho.fr^
 ||zeromacho.wordpress.com^
 ||zerotolerancepac.com^
+||zertifikatsfreie-bildung.ch^
 ||zhedge.com^
 ||zhengjian.org^
 ||zhengwunet.org^
