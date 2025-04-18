@@ -1758,6 +1758,7 @@ address=/c4.cap.fidesz.hu/
 address=/c4id.org.uk/
 address=/ca.ntdtv.com/
 address=/cabarrustoday.com/
+address=/cabinet-louis-reynaud.eu/
 address=/cabusinessdaily.com/
 address=/cacao.news/
 address=/cache-a.infowars.com/

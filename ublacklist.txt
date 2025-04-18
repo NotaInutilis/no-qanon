@@ -1758,6 +1758,7 @@
 *://*.c4id.org.uk/*
 *://*.ca.ntdtv.com/*
 *://*.cabarrustoday.com/*
+*://*.cabinet-louis-reynaud.eu/*
 *://*.cabusinessdaily.com/*
 *://*.cacao.news/*
 *://*.cache-a.infowars.com/*
