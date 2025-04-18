@@ -6152,6 +6152,8 @@
 0.0.0.0 www.devenir-aviateur.fr
 0.0.0.0 devenirpolicier.fr
 0.0.0.0 www.devenirpolicier.fr
+0.0.0.0 deviantart.com
+0.0.0.0 www.deviantart.com
 0.0.0.0 devolution.link
 0.0.0.0 www.devolution.link
 0.0.0.0 devondispatch.ca
@@ -27034,6 +27036,8 @@
 0.0.0.0 www.witscience.org
 0.0.0.0 witzmann.fidesz.hu
 0.0.0.0 www.witzmann.fidesz.hu
+0.0.0.0 wix.com
+0.0.0.0 www.wix.com
 0.0.0.0 wizardingworld.com
 0.0.0.0 www.wizardingworld.com
 0.0.0.0 wizardingworld.warnerbros.fr
