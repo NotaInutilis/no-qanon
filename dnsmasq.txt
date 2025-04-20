@@ -6375,6 +6375,7 @@ address=/latinos.donaldjtrump.com/
 address=/latitudes.org/
 address=/lattadmar.eu/
 address=/latterdaysaintmag.com/
+address=/lauraingraham.com/
 address=/lauraloomerforcongress.com/
 address=/lauramatsue.com/
 address=/laurelhighlandstoday.com/

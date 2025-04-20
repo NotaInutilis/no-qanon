@@ -12752,6 +12752,8 @@
 0.0.0.0 www.lattadmar.eu
 0.0.0.0 latterdaysaintmag.com
 0.0.0.0 www.latterdaysaintmag.com
+0.0.0.0 lauraingraham.com
+0.0.0.0 www.lauraingraham.com
 0.0.0.0 lauraloomerforcongress.com
 0.0.0.0 www.lauraloomerforcongress.com
 0.0.0.0 lauramatsue.com
