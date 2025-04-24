@@ -9010,6 +9010,8 @@
 0.0.0.0 www.gameliberty.club
 0.0.0.0 gamergate-news.tumblr.com
 0.0.0.0 www.gamergate-news.tumblr.com
+0.0.0.0 gamersupps.gg
+0.0.0.0 www.gamersupps.gg
 0.0.0.0 gameruprising.to
 0.0.0.0 www.gameruprising.to
 0.0.0.0 gamma.avoiceformen.com

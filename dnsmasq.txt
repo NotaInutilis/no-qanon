@@ -4504,6 +4504,7 @@ address=/galvnews.com/
 address=/gamefair.fr/
 address=/gameliberty.club/
 address=/gamergate-news.tumblr.com/
+address=/gamersupps.gg/
 address=/gameruprising.to/
 address=/gamma.avoiceformen.com/
 address=/gananoquereporter.com/
