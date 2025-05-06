@@ -202,6 +202,8 @@
 0.0.0.0 www.3xv4cobvbf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 4.btfsu.d.tube
 0.0.0.0 www.4.btfsu.d.tube
+0.0.0.0 420blaze.it
+0.0.0.0 www.420blaze.it
 0.0.0.0 440.co.il
 0.0.0.0 www.440.co.il
 0.0.0.0 44vilainesfilles.weebly.com
@@ -378,6 +380,8 @@
 0.0.0.0 www.aa.com.tr
 0.0.0.0 aaargh.codoh.com
 0.0.0.0 www.aaargh.codoh.com
+0.0.0.0 aaathats3as.com
+0.0.0.0 www.aaathats3as.com
 0.0.0.0 aab.nyeborgerlige.dk
 0.0.0.0 www.aab.nyeborgerlige.dk
 0.0.0.0 aabenraa.danskfolkeparti.dk
@@ -880,6 +884,8 @@
 0.0.0.0 www.air-photo.com
 0.0.0.0 airdrieecho.com
 0.0.0.0 www.airdrieecho.com
+0.0.0.0 airmail.cc
+0.0.0.0 www.airmail.cc
 0.0.0.0 airnet.net
 0.0.0.0 www.airnet.net
 0.0.0.0 airtreeswateranimals.blogspot.com
@@ -4556,12 +4562,20 @@
 0.0.0.0 www.cobratate.com
 0.0.0.0 cobusinessdaily.com
 0.0.0.0 www.cobusinessdaily.com
+0.0.0.0 cocaine.ninja
+0.0.0.0 www.cocaine.ninja
 0.0.0.0 cocardeetudiante.com
 0.0.0.0 www.cocardeetudiante.com
 0.0.0.0 cochranetimes.com
 0.0.0.0 www.cochranetimes.com
 0.0.0.0 cochranetimespost.ca
 0.0.0.0 www.cochranetimespost.ca
+0.0.0.0 cock.email
+0.0.0.0 www.cock.email
+0.0.0.0 cock.li
+0.0.0.0 www.cock.li
+0.0.0.0 cock.lu
+0.0.0.0 www.cock.lu
 0.0.0.0 coconinonews.com
 0.0.0.0 www.coconinonews.com
 0.0.0.0 cod.rep.de
@@ -5422,6 +5436,8 @@
 0.0.0.0 www.culturewars.com
 0.0.0.0 culturewatchnews.com
 0.0.0.0 www.culturewatchnews.com
+0.0.0.0 cumallover.me
+0.0.0.0 www.cumallover.me
 0.0.0.0 cumberlandvalleynews.com
 0.0.0.0 www.cumberlandvalleynews.com
 0.0.0.0 cumulusmedia.com
@@ -8162,6 +8178,8 @@
 0.0.0.0 www.firearmspolicy.org
 0.0.0.0 firebrandleft.com
 0.0.0.0 www.firebrandleft.com
+0.0.0.0 firemail.cc
+0.0.0.0 www.firemail.cc
 0.0.0.0 firerescue1.com
 0.0.0.0 www.firerescue1.com
 0.0.0.0 firmecongresso2017.leganord.org
@@ -10526,6 +10544,8 @@
 0.0.0.0 www.horowitzfreedomcenter.org
 0.0.0.0 horsdevospenses0833.blogspot.fr
 0.0.0.0 www.horsdevospenses0833.blogspot.fr
+0.0.0.0 horsefucker.org
+0.0.0.0 www.horsefucker.org
 0.0.0.0 horsens.danskfolkeparti.dk
 0.0.0.0 www.horsens.danskfolkeparti.dk
 0.0.0.0 horvathlaszlo.fidesz.hu
@@ -14430,6 +14450,8 @@
 0.0.0.0 www.memekitchin.com
 0.0.0.0 memetrunk.com
 0.0.0.0 www.memetrunk.com
+0.0.0.0 memeware.net
+0.0.0.0 www.memeware.net
 0.0.0.0 memeworld.com
 0.0.0.0 www.memeworld.com
 0.0.0.0 memoryholeblog.com
@@ -15304,6 +15326,8 @@
 0.0.0.0 www.national-revolutionary.blogspot.com
 0.0.0.0 national-socialist-worldview.blogspot.com
 0.0.0.0 www.national-socialist-worldview.blogspot.com
+0.0.0.0 national.shitposting.agency
+0.0.0.0 www.national.shitposting.agency
 0.0.0.0 nationalactionscotland.wordpress.com
 0.0.0.0 www.nationalactionscotland.wordpress.com
 0.0.0.0 nationalaffairs.com
@@ -16106,6 +16130,8 @@
 0.0.0.0 www.niflson.blogspot.com
 0.0.0.0 nigelfaragemep.co.uk
 0.0.0.0 www.nigelfaragemep.co.uk
+0.0.0.0 nigge.rs
+0.0.0.0 www.nigge.rs
 0.0.0.0 nijlen.vlaamsbelang.org
 0.0.0.0 www.nijlen.vlaamsbelang.org
 0.0.0.0 nikh.gr
@@ -16804,6 +16830,8 @@
 0.0.0.0 www.nugget.ca
 0.0.0.0 nuke-lies.org
 0.0.0.0 www.nuke-lies.org
+0.0.0.0 nuke.africa
+0.0.0.0 www.nuke.africa
 0.0.0.0 nuke.ctkpaarr.org
 0.0.0.0 www.nuke.ctkpaarr.org
 0.0.0.0 number1victimofcrime.com
@@ -19254,6 +19282,8 @@
 0.0.0.0 www.rantingly.com
 0.0.0.0 rapallo.leganord.org
 0.0.0.0 www.rapallo.leganord.org
+0.0.0.0 rape.lol
+0.0.0.0 www.rape.lol
 0.0.0.0 rapefugees.net
 0.0.0.0 www.rapefugees.net
 0.0.0.0 rapsodia.fi
@@ -21122,6 +21152,8 @@
 0.0.0.0 www.shit-and-other-unpleasant-things.blogspot.com
 0.0.0.0 shitposter.club
 0.0.0.0 www.shitposter.club
+0.0.0.0 shitposter.world
+0.0.0.0 www.shitposter.world
 0.0.0.0 shiva4senate.com
 0.0.0.0 www.shiva4senate.com
 0.0.0.0 shoabloger.wordpress.com
@@ -23148,6 +23180,8 @@
 0.0.0.0 www.tfppwire.com
 0.0.0.0 tfrc.org.nz
 0.0.0.0 www.tfrc.org.nz
+0.0.0.0 tfwno.gf
+0.0.0.0 www.tfwno.gf
 0.0.0.0 tg-news.com
 0.0.0.0 www.tg-news.com
 0.0.0.0 tg24h.altervista.org
@@ -25670,6 +25704,8 @@
 0.0.0.0 www.vaxxter.com
 0.0.0.0 vazrazhdane.bg
 0.0.0.0 www.vazrazhdane.bg
+0.0.0.0 vc.gg
+0.0.0.0 www.vc.gg
 0.0.0.0 vdare-old.vdare.com
 0.0.0.0 www.vdare-old.vdare.com
 0.0.0.0 vdare.com
@@ -26122,6 +26158,8 @@
 0.0.0.0 www.wadeviewparknews.com
 0.0.0.0 wahrheiten.org
 0.0.0.0 www.wahrheiten.org
+0.0.0.0 waifu.club
+0.0.0.0 www.waifu.club
 0.0.0.0 waikanaewatch.org
 0.0.0.0 www.waikanaewatch.org
 0.0.0.0 waislenews.com

@@ -100,6 +100,7 @@
 *://*.3wiresports.com/*
 *://*.3xv4cobvbf.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/*
 *://*.4.btfsu.d.tube/*
+*://*.420blaze.it/*
 *://*.440.co.il/*
 *://*.44vilainesfilles.weebly.com/*
 *://*.45.79.69.173/*
@@ -188,6 +189,7 @@
 *://*.a4justice.org/*
 *://*.aa.com.tr/*
 *://*.aaargh.codoh.com/*
+*://*.aaathats3as.com/*
 *://*.aab.nyeborgerlige.dk/*
 *://*.aabenraa.danskfolkeparti.dk/*
 *://*.aachen.pro-nrw.net/*
@@ -439,6 +441,7 @@
 *://*.aipac.org/*
 *://*.air-photo.com/*
 *://*.airdrieecho.com/*
+*://*.airmail.cc/*
 *://*.airnet.net/*
 *://*.airtreeswateranimals.blogspot.com/*
 *://*.aish.com/*
@@ -2277,9 +2280,13 @@
 *://*.cobbreporter.com/*
 *://*.cobratate.com/*
 *://*.cobusinessdaily.com/*
+*://*.cocaine.ninja/*
 *://*.cocardeetudiante.com/*
 *://*.cochranetimes.com/*
 *://*.cochranetimespost.ca/*
+*://*.cock.email/*
+*://*.cock.li/*
+*://*.cock.lu/*
 *://*.coconinonews.com/*
 *://*.cod.rep.de/*
 *://*.code-reinho.myspreadshop.fr/*
@@ -2710,6 +2717,7 @@
 *://*.cultureimpact.org/*
 *://*.culturewars.com/*
 *://*.culturewatchnews.com/*
+*://*.cumallover.me/*
 *://*.cumberlandvalleynews.com/*
 *://*.cumulusmedia.com/*
 *://*.cures.news/*
@@ -4080,6 +4088,7 @@
 *://*.firearmsnews.com/*
 *://*.firearmspolicy.org/*
 *://*.firebrandleft.com/*
+*://*.firemail.cc/*
 *://*.firerescue1.com/*
 *://*.firmecongresso2017.leganord.org/*
 *://*.first-video.net/*
@@ -5262,6 +5271,7 @@
 *://*.horizont.blog/*
 *://*.horowitzfreedomcenter.org/*
 *://*.horsdevospenses0833.blogspot.fr/*
+*://*.horsefucker.org/*
 *://*.horsens.danskfolkeparti.dk/*
 *://*.horvathlaszlo.fidesz.hu/*
 *://*.host-090.rumble.com/*
@@ -7214,6 +7224,7 @@
 *://*.memedroid.com/*
 *://*.memekitchin.com/*
 *://*.memetrunk.com/*
+*://*.memeware.net/*
 *://*.memeworld.com/*
 *://*.memoryholeblog.com/*
 *://*.memphisstandard.com/*
@@ -7651,6 +7662,7 @@
 *://*.national-justice.com/*
 *://*.national-revolutionary.blogspot.com/*
 *://*.national-socialist-worldview.blogspot.com/*
+*://*.national.shitposting.agency/*
 *://*.nationalactionscotland.wordpress.com/*
 *://*.nationalaffairs.com/*
 *://*.nationalbolshevism.blogspot.com/*
@@ -8052,6 +8064,7 @@
 *://*.nieuwstool.nl/*
 *://*.niflson.blogspot.com/*
 *://*.nigelfaragemep.co.uk/*
+*://*.nigge.rs/*
 *://*.nijlen.vlaamsbelang.org/*
 *://*.nikh.gr/*
 *://*.nikolaev-news.ru/*
@@ -8401,6 +8414,7 @@
 *://*.nucleusfiles.com/*
 *://*.nugget.ca/*
 *://*.nuke-lies.org/*
+*://*.nuke.africa/*
 *://*.nuke.ctkpaarr.org/*
 *://*.number1victimofcrime.com/*
 *://*.numbersusa.com/*
@@ -9626,6 +9640,7 @@
 *://*.ranst.vlaamsbelang.org/*
 *://*.rantingly.com/*
 *://*.rapallo.leganord.org/*
+*://*.rape.lol/*
 *://*.rapefugees.net/*
 *://*.rapsodia.fi/*
 *://*.raptorcoaching.pro/*
@@ -10560,6 +10575,7 @@
 *://*.shing.tv/*
 *://*.shit-and-other-unpleasant-things.blogspot.com/*
 *://*.shitposter.club/*
+*://*.shitposter.world/*
 *://*.shiva4senate.com/*
 *://*.shoabloger.wordpress.com/*
 *://*.shoalstoday.com/*
@@ -11573,6 +11589,7 @@
 *://*.tfp.org.br/*
 *://*.tfppwire.com/*
 *://*.tfrc.org.nz/*
+*://*.tfwno.gf/*
 *://*.tg-news.com/*
 *://*.tg24h.altervista.org/*
 *://*.tg24italia.com/*
@@ -12834,6 +12851,7 @@
 *://*.vaxxedthemovie.com/*
 *://*.vaxxter.com/*
 *://*.vazrazhdane.bg/*
+*://*.vc.gg/*
 *://*.vdare-old.vdare.com/*
 *://*.vdare.com/*
 *://*.vdv1.minds.com/*
@@ -13060,6 +13078,7 @@
 *://*.wacoreporter.com/*
 *://*.wadeviewparknews.com/*
 *://*.wahrheiten.org/*
+*://*.waifu.club/*
 *://*.waikanaewatch.org/*
 *://*.waislenews.com/*
 *://*.wakefielddocumentary.us12.list-manage1.com/*

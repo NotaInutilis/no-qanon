@@ -104,6 +104,7 @@ serv1.wiki-tube.de
 serv2.wiki-tube.de
 serv3.wiki-tube.de
 shitposter.club
+shitposter.world
 soap.sect.sunbutt.faith
 social.adamasnemesis.com
 social.ancreport.com
