@@ -6801,6 +6801,7 @@ address=/lynchburgreporter.com/
 address=/lyngby-taarbaek.danskfolkeparti.dk/
 address=/lynwoodtimes.com/
 address=/lyonpopulaire.fr/
+address=/lysroyaldefrancelouisxx.fr/
 address=/lztnimbq.lc.org/
 address=/m-n-r.fr/
 address=/m.8ch.net/

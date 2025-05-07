@@ -6801,6 +6801,7 @@
 *://*.lyngby-taarbaek.danskfolkeparti.dk/*
 *://*.lynwoodtimes.com/*
 *://*.lyonpopulaire.fr/*
+*://*.lysroyaldefrancelouisxx.fr/*
 *://*.lztnimbq.lc.org/*
 *://*.m-n-r.fr/*
 *://*.m.8ch.net/*
