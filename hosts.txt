@@ -10842,6 +10842,8 @@
 0.0.0.0 www.icrichild.org
 0.0.0.0 id-party.eu
 0.0.0.0 www.id-party.eu
+0.0.0.0 idag.no
+0.0.0.0 www.idag.no
 0.0.0.0 idahofreedom.org
 0.0.0.0 www.idahofreedom.org
 0.0.0.0 idahostatejournal.com
@@ -25742,6 +25744,8 @@
 0.0.0.0 www.venlo.pvv.nl
 0.0.0.0 veracruzdailypost.com
 0.0.0.0 www.veracruzdailypost.com
+0.0.0.0 verdinytt.no
+0.0.0.0 www.verdinytt.no
 0.0.0.0 verdugosnews.com
 0.0.0.0 www.verdugosnews.com
 0.0.0.0 vereinigungskirche.at
