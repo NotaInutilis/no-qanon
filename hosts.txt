@@ -12434,6 +12434,8 @@
 0.0.0.0 www.kontich.vlaamsbelang.org
 0.0.0.0 kontrafunk.radio
 0.0.0.0 www.kontrafunk.radio
+0.0.0.0 kontrast.dk
+0.0.0.0 www.kontrast.dk
 0.0.0.0 kontratkaroly.fidesz.hu
 0.0.0.0 www.kontratkaroly.fidesz.hu
 0.0.0.0 koping.sd.se
