@@ -7022,6 +7022,7 @@ address=/majorthoughts.com/
 address=/makeamericabasedagain.com/
 address=/makeamericagreattoday.com/
 address=/makeamericansfreeagain.com/
+address=/makefesgreatagain.fr/
 address=/maketexasgreat.com/
 address=/makeyourainbow.com/
 address=/makismd.substack.com/

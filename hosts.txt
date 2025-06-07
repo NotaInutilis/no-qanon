@@ -14046,6 +14046,8 @@
 0.0.0.0 www.makeamericagreattoday.com
 0.0.0.0 makeamericansfreeagain.com
 0.0.0.0 www.makeamericansfreeagain.com
+0.0.0.0 makefesgreatagain.fr
+0.0.0.0 www.makefesgreatagain.fr
 0.0.0.0 maketexasgreat.com
 0.0.0.0 www.maketexasgreat.com
 0.0.0.0 makeyourainbow.com
