@@ -12,6 +12,7 @@
 *://*.104.19.244.62/*
 *://*.104.22.5.85/*
 *://*.104.23.140.7/*
+*://*.1047games.com/*
 *://*.107daily.com/*
 *://*.108.160.158.67/*
 *://*.1080science.co.nz/*
@@ -10990,6 +10991,7 @@
 *://*.spirituallyraw.tv/*
 *://*.spiritualmecahnicsandteachings.blogspot.com/*
 *://*.splc.news/*
+*://*.splitgate.com/*
 *://*.spokanecotimes.com/*
 *://*.spokanestandard.com/*
 *://*.spokesman.com/*

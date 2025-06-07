@@ -26,6 +26,8 @@
 0.0.0.0 www.104.22.5.85
 0.0.0.0 104.23.140.7
 0.0.0.0 www.104.23.140.7
+0.0.0.0 1047games.com
+0.0.0.0 www.1047games.com
 0.0.0.0 107daily.com
 0.0.0.0 www.107daily.com
 0.0.0.0 108.160.158.67
@@ -21982,6 +21984,8 @@
 0.0.0.0 www.spiritualmecahnicsandteachings.blogspot.com
 0.0.0.0 splc.news
 0.0.0.0 www.splc.news
+0.0.0.0 splitgate.com
+0.0.0.0 www.splitgate.com
 0.0.0.0 spokanecotimes.com
 0.0.0.0 www.spokanecotimes.com
 0.0.0.0 spokanestandard.com
