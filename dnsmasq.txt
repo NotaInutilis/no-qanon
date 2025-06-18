@@ -11528,6 +11528,7 @@ address=/teentake.minds.com/
 address=/tehrantimes.com/
 address=/tele.ch/
 address=/telegraaf.nl/
+address=/telegram.org/
 address=/telegraph.co.uk/
 address=/teleguiado.com/
 address=/telepolis.de/
