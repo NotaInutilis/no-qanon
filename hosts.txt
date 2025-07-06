@@ -548,6 +548,8 @@
 0.0.0.0 www.actions-suisse.ch
 0.0.0.0 activate.afa.net
 0.0.0.0 www.activate.afa.net
+0.0.0.0 activelyunwoke.com
+0.0.0.0 www.activelyunwoke.com
 0.0.0.0 activenews.ro
 0.0.0.0 www.activenews.ro
 0.0.0.0 activesouth.wordpress.com
@@ -5862,6 +5864,8 @@
 0.0.0.0 www.deccanchronicle.com
 0.0.0.0 decentralizeverything.com
 0.0.0.0 www.decentralizeverything.com
+0.0.0.0 decodetheleft.com
+0.0.0.0 www.decodetheleft.com
 0.0.0.0 dedicated.resist.com
 0.0.0.0 www.dedicated.resist.com
 0.0.0.0 deepfreeze.it
@@ -12140,6 +12144,10 @@
 0.0.0.0 www.karlskrona.sd.se
 0.0.0.0 karlstad.sd.se
 0.0.0.0 www.karlstad.sd.se
+0.0.0.0 karlyn.creator-spring.com
+0.0.0.0 www.karlyn.creator-spring.com
+0.0.0.0 karlyn.substack.com
+0.0.0.0 www.karlyn.substack.com
 0.0.0.0 karlzero.tv
 0.0.0.0 www.karlzero.tv
 0.0.0.0 karlzerobalance.com
@@ -12176,6 +12184,8 @@
 0.0.0.0 www.kauaisun.com
 0.0.0.0 kavlinge.sd.se
 0.0.0.0 www.kavlinge.sd.se
+0.0.0.0 kb.locals.com
+0.0.0.0 www.kb.locals.com
 0.0.0.0 kboi.com
 0.0.0.0 www.kboi.com
 0.0.0.0 kbsi23.com
@@ -19512,6 +19522,8 @@
 0.0.0.0 www.redis.ruqqus.com
 0.0.0.0 redmaryland.com
 0.0.0.0 www.redmaryland.com
+0.0.0.0 redmenacecollective.substack.com
+0.0.0.0 www.redmenacecollective.substack.com
 0.0.0.0 redorbit.com
 0.0.0.0 www.redorbit.com
 0.0.0.0 redoubtnews.com
@@ -23412,6 +23424,8 @@
 0.0.0.0 www.thecritic.co.uk
 0.0.0.0 thecrowhouse.com
 0.0.0.0 www.thecrowhouse.com
+0.0.0.0 thecult.substack.com
+0.0.0.0 www.thecult.substack.com
 0.0.0.0 thedailybell.com
 0.0.0.0 www.thedailybell.com
 0.0.0.0 thedailycitizen.com
@@ -28194,6 +28208,10 @@
 0.0.0.0 www.zenith.news
 0.0.0.0 zentrum-der-gesundheit.de
 0.0.0.0 www.zentrum-der-gesundheit.de
+0.0.0.0 zenworkplace.com
+0.0.0.0 www.zenworkplace.com
+0.0.0.0 zenyourwork.com
+0.0.0.0 www.zenyourwork.com
 0.0.0.0 zeppfeed.com
 0.0.0.0 www.zeppfeed.com
 0.0.0.0 zerohedge.com

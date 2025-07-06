@@ -277,6 +277,7 @@
 ||actionnews3.com^
 ||actions-suisse.ch^
 ||activate.afa.net^
+||activelyunwoke.com^
 ||activenews.ro^
 ||activesouth.wordpress.com^
 ||activism.openworlds.info^
@@ -2934,6 +2935,7 @@
 ||decaturtimes.com^
 ||deccanchronicle.com^
 ||decentralizeverything.com^
+||decodetheleft.com^
 ||dedicated.resist.com^
 ||deepfreeze.it^
 ||deepinsidetherabbithole.com^
@@ -6073,6 +6075,8 @@
 ||karlskoga.sd.se^
 ||karlskrona.sd.se^
 ||karlstad.sd.se^
+||karlyn.creator-spring.com^
+||karlyn.substack.com^
 ||karlzero.tv^
 ||karlzerobalance.com^
 ||karpati.fidesz.hu^
@@ -6091,6 +6095,7 @@
 ||katv.com^
 ||kauaisun.com^
 ||kavlinge.sd.se^
+||kb.locals.com^
 ||kboi.com^
 ||kbsi23.com^
 ||kcby.com^
@@ -9759,6 +9764,7 @@
 ||redicecreations.com^
 ||redis.ruqqus.com^
 ||redmaryland.com^
+||redmenacecollective.substack.com^
 ||redorbit.com^
 ||redoubtnews.com^
 ||redpanels.com^
@@ -11709,6 +11715,7 @@
 ||thecragandcanyon.ca^
 ||thecritic.co.uk^
 ||thecrowhouse.com^
+||thecult.substack.com^
 ||thedailybell.com^
 ||thedailycitizen.com^
 ||thedailycoin.org^
@@ -14100,6 +14107,8 @@
 ||zengardner.com^
 ||zenith.news^
 ||zentrum-der-gesundheit.de^
+||zenworkplace.com^
+||zenyourwork.com^
 ||zeppfeed.com^
 ||zerohedge.com^
 ||zeromacho.fr^
