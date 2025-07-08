@@ -8864,6 +8864,12 @@
 0.0.0.0 www.frontieresmedia.fr
 0.0.0.0 frontiersman.com
 0.0.0.0 www.frontiersman.com
+0.0.0.0 frontlineamerica.com
+0.0.0.0 www.frontlineamerica.com
+0.0.0.0 frontlineamerica.substack.com
+0.0.0.0 www.frontlineamerica.substack.com
+0.0.0.0 frontlineamericafoundation.org
+0.0.0.0 www.frontlineamericafoundation.org
 0.0.0.0 frontlineflags.com
 0.0.0.0 www.frontlineflags.com
 0.0.0.0 frontlinemds.com
