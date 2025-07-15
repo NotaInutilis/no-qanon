@@ -1020,6 +1020,8 @@
 0.0.0.0 www.alleanzanazionale.it
 0.0.0.0 alleghenyhighlandstoday.com
 0.0.0.0 www.alleghenyhighlandstoday.com
+0.0.0.0 allegiancegold.com
+0.0.0.0 www.allegiancegold.com
 0.0.0.0 alleinklang.tv
 0.0.0.0 www.alleinklang.tv
 0.0.0.0 alleroed.danskfolkeparti.dk
@@ -7454,6 +7456,8 @@
 0.0.0.0 www.erdekesvilag.eu
 0.0.0.0 eric-ciotti.com
 0.0.0.0 www.eric-ciotti.com
+0.0.0.0 ericbolling.com
+0.0.0.0 www.ericbolling.com
 0.0.0.0 ericdubay.wordpress.com
 0.0.0.0 www.ericdubay.wordpress.com
 0.0.0.0 ericholder.news
@@ -11664,6 +11668,10 @@
 0.0.0.0 www.jamesfetzer.blogspot.com
 0.0.0.0 jamesfetzer.org
 0.0.0.0 www.jamesfetzer.org
+0.0.0.0 jamesklug.com
+0.0.0.0 www.jamesklug.com
+0.0.0.0 jamesklug.locals.com
+0.0.0.0 www.jamesklug.locals.com
 0.0.0.0 jameslico.com
 0.0.0.0 www.jameslico.com
 0.0.0.0 jamesmadison.org
@@ -19778,6 +19786,8 @@
 0.0.0.0 www.responsibletechnology.org
 0.0.0.0 rest1.magento.infowars.com
 0.0.0.0 www.rest1.magento.infowars.com
+0.0.0.0 restoration-news.com
+0.0.0.0 www.restoration-news.com
 0.0.0.0 restoreamericanglory.com
 0.0.0.0 www.restoreamericanglory.com
 0.0.0.0 restoredrepublic.co
