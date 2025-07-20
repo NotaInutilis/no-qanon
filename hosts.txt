@@ -9008,6 +9008,8 @@
 0.0.0.0 www.gabusinessdaily.com
 0.0.0.0 gacmedia.com
 0.0.0.0 www.gacmedia.com
+0.0.0.0 gaconstitutionparty.org
+0.0.0.0 www.gaconstitutionparty.org
 0.0.0.0 gadsdentoday.com
 0.0.0.0 www.gadsdentoday.com
 0.0.0.0 gael-giraud.fr
