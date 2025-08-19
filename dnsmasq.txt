@@ -1383,6 +1383,7 @@ address=/bilzen.vlaamsbelang.org/
 address=/binary.org.au/
 address=/biobiochile.cl/
 address=/biodefense.com/
+address=/biodigcon.com/
 address=/biologos.org/
 address=/biomedicaltreatmentforautism.com/
 address=/bioscienceresource.org/

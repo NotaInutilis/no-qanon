@@ -1387,6 +1387,7 @@
 ||binary.org.au^
 ||biobiochile.cl^
 ||biodefense.com^
+||biodigcon.com^
 ||biologos.org^
 ||biomedicaltreatmentforautism.com^
 ||bioscienceresource.org^
