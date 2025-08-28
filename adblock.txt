@@ -761,6 +761,7 @@
 ||antiantifa-usa.blogspot.com^
 ||anticancer.news^
 ||antifeminismaustralia.com^
+||antiglobalisten.no^
 ||antigreen.blogspot.com^
 ||antimedianews.com^
 ||antioxidants.news^
@@ -3024,6 +3025,7 @@
 ||dereckart.at^
 ||derfmagazine.com^
 ||derimot.no^
+||derimot.substack.com^
 ||derstatus.at^
 ||desantisdaily.com^
 ||deseret.com^
@@ -5710,6 +5712,7 @@
 ||investwithinsiders.com^
 ||investyrefy.com^
 ||invite.gab.com^
+||inyheter.no^
 ||inzoomat.se^
 ||ioco.altervista.org^
 ||ioneglobalgrind.wordpress.com^
@@ -6262,6 +6265,7 @@
 ||kreuz.net^
 ||kristianstad.sd.se^
 ||kristinehamn.sd.se^
+||kritikken.no^
 ||krivoy-rog-news.ru^
 ||krokom.sd.se^
 ||krone.at^

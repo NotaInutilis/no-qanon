@@ -1516,6 +1516,8 @@
 0.0.0.0 www.anticancer.news
 0.0.0.0 antifeminismaustralia.com
 0.0.0.0 www.antifeminismaustralia.com
+0.0.0.0 antiglobalisten.no
+0.0.0.0 www.antiglobalisten.no
 0.0.0.0 antigreen.blogspot.com
 0.0.0.0 www.antigreen.blogspot.com
 0.0.0.0 antimedianews.com
@@ -6042,6 +6044,8 @@
 0.0.0.0 www.derfmagazine.com
 0.0.0.0 derimot.no
 0.0.0.0 www.derimot.no
+0.0.0.0 derimot.substack.com
+0.0.0.0 www.derimot.substack.com
 0.0.0.0 derstatus.at
 0.0.0.0 www.derstatus.at
 0.0.0.0 desantisdaily.com
@@ -11414,6 +11418,8 @@
 0.0.0.0 www.investyrefy.com
 0.0.0.0 invite.gab.com
 0.0.0.0 www.invite.gab.com
+0.0.0.0 inyheter.no
+0.0.0.0 www.inyheter.no
 0.0.0.0 inzoomat.se
 0.0.0.0 www.inzoomat.se
 0.0.0.0 ioco.altervista.org
@@ -12518,6 +12524,8 @@
 0.0.0.0 www.kristianstad.sd.se
 0.0.0.0 kristinehamn.sd.se
 0.0.0.0 www.kristinehamn.sd.se
+0.0.0.0 kritikken.no
+0.0.0.0 www.kritikken.no
 0.0.0.0 krivoy-rog-news.ru
 0.0.0.0 www.krivoy-rog-news.ru
 0.0.0.0 krokom.sd.se
