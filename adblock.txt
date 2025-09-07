@@ -12779,6 +12779,7 @@
 ||utahstandardnews.com^
 ||utahvalleytimes.com^
 ||utbusinessdaily.com^
+||utenfilter.no^
 ||utm.centerforsecuritypolicy.org^
 ||utopia.minds.com^
 ||utrecht.pvv.nl^

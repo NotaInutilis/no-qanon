@@ -25552,6 +25552,8 @@
 0.0.0.0 www.utahvalleytimes.com
 0.0.0.0 utbusinessdaily.com
 0.0.0.0 www.utbusinessdaily.com
+0.0.0.0 utenfilter.no
+0.0.0.0 www.utenfilter.no
 0.0.0.0 utm.centerforsecuritypolicy.org
 0.0.0.0 www.utm.centerforsecuritypolicy.org
 0.0.0.0 utopia.minds.com
