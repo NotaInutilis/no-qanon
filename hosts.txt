@@ -950,6 +950,8 @@
 0.0.0.0 www.albert.churchmilitant.com
 0.0.0.0 albertapressleader.ca
 0.0.0.0 www.albertapressleader.ca
+0.0.0.0 albertaseparatist.com
+0.0.0.0 www.albertaseparatist.com
 0.0.0.0 albertleatribune.com
 0.0.0.0 www.albertleatribune.com
 0.0.0.0 albertslund.danskfolkeparti.dk
@@ -1038,6 +1040,8 @@
 0.0.0.0 www.allnewspipeline.com
 0.0.0.0 allosante.eu
 0.0.0.0 www.allosante.eu
+0.0.0.0 allstatesnews.us
+0.0.0.0 www.allstatesnews.us
 0.0.0.0 allunreal.com
 0.0.0.0 www.allunreal.com
 0.0.0.0 almastandard.com
@@ -3692,6 +3696,8 @@
 0.0.0.0 www.caphemoingay.com
 0.0.0.0 capital.fr
 0.0.0.0 www.capital.fr
+0.0.0.0 capitalcitydaily.com
+0.0.0.0 www.capitalcitydaily.com
 0.0.0.0 capitalcityproudboys.com
 0.0.0.0 www.capitalcityproudboys.com
 0.0.0.0 capitaldistricttimes.com
@@ -4438,6 +4444,8 @@
 0.0.0.0 www.cleanwater.news
 0.0.0.0 clearnewswire.com
 0.0.0.0 www.clearnewswire.com
+0.0.0.0 clearstory.news
+0.0.0.0 www.clearstory.news
 0.0.0.0 clementfreze.fr
 0.0.0.0 www.clementfreze.fr
 0.0.0.0 clermonttimes.com
@@ -4644,6 +4652,8 @@
 0.0.0.0 www.collegehumor.com
 0.0.0.0 collegeparktoday.com
 0.0.0.0 www.collegeparktoday.com
+0.0.0.0 collegestationtoday.com
+0.0.0.0 www.collegestationtoday.com
 0.0.0.0 collintimes.com
 0.0.0.0 www.collintimes.com
 0.0.0.0 colonews.org
@@ -8242,6 +8252,8 @@
 0.0.0.0 www.flcatholictribune.com
 0.0.0.0 flccc.net
 0.0.0.0 www.flccc.net
+0.0.0.0 fldaily.news
+0.0.0.0 www.fldaily.news
 0.0.0.0 flds.org
 0.0.0.0 www.flds.org
 0.0.0.0 flemingmethod.com
@@ -8328,6 +8340,8 @@
 0.0.0.0 www.fondationlejeune.org
 0.0.0.0 fondazionean.it
 0.0.0.0 www.fondazionean.it
+0.0.0.0 fonddulactimes.com
+0.0.0.0 www.fonddulactimes.com
 0.0.0.0 fondfbr.ru
 0.0.0.0 www.fondfbr.ru
 0.0.0.0 fondulacnews.com
@@ -21334,6 +21348,8 @@
 0.0.0.0 www.silver-coin-investor.com
 0.0.0.0 silverbearcafe.com
 0.0.0.0 www.silverbearcafe.com
+0.0.0.0 silvercity.news
+0.0.0.0 www.silvercity.news
 0.0.0.0 silverdoctors.com
 0.0.0.0 www.silverdoctors.com
 0.0.0.0 silverstatetimes.com
@@ -24536,6 +24552,8 @@
 0.0.0.0 www.toronto99.com
 0.0.0.0 torontobusinessdaily.com
 0.0.0.0 www.torontobusinessdaily.com
+0.0.0.0 torontojournal.ca
+0.0.0.0 www.torontojournal.ca
 0.0.0.0 torontosun.com
 0.0.0.0 www.torontosun.com
 0.0.0.0 torrent01.bitchute.com
@@ -25496,6 +25514,8 @@
 0.0.0.0 www.usasnich.com
 0.0.0.0 usasupreme.com
 0.0.0.0 www.usasupreme.com
+0.0.0.0 usatimes.news
+0.0.0.0 www.usatimes.news
 0.0.0.0 usatoday.com.co
 0.0.0.0 www.usatoday.com.co
 0.0.0.0 usatodaynews.me
@@ -25976,6 +25996,8 @@
 0.0.0.0 www.vimmerby.sd.se
 0.0.0.0 vin-news.ru
 0.0.0.0 www.vin-news.ru
+0.0.0.0 vincennestoday.com
+0.0.0.0 www.vincennestoday.com
 0.0.0.0 vincentflibustier.com
 0.0.0.0 www.vincentflibustier.com
 0.0.0.0 vindoegat.se
@@ -27402,6 +27424,8 @@
 0.0.0.0 www.wuwox.com
 0.0.0.0 wvah.com
 0.0.0.0 www.wvah.com
+0.0.0.0 wval.news.
+0.0.0.0 www.wval.news.
 0.0.0.0 wvbusinessdaily.com
 0.0.0.0 www.wvbusinessdaily.com
 0.0.0.0 wvheartlandnews.com

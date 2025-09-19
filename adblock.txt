@@ -478,6 +478,7 @@
 ||albawaba.com^
 ||albert.churchmilitant.com^
 ||albertapressleader.ca^
+||albertaseparatist.com^
 ||albertleatribune.com^
 ||albertslund.danskfolkeparti.dk^
 ||albusinessdaily.com^
@@ -522,6 +523,7 @@
 ||allnews24.eu^
 ||allnewspipeline.com^
 ||allosante.eu^
+||allstatesnews.us^
 ||allunreal.com^
 ||almastandard.com^
 ||almelo.pvv.nl^
@@ -1849,6 +1851,7 @@
 ||capforcanada.com^
 ||caphemoingay.com^
 ||capital.fr^
+||capitalcitydaily.com^
 ||capitalcityproudboys.com^
 ||capitaldistricttimes.com^
 ||capitalism.org^
@@ -2222,6 +2225,7 @@
 ||cleanfoodwatch.com^
 ||cleanwater.news^
 ||clearnewswire.com^
+||clearstory.news^
 ||clementfreze.fr^
 ||clermonttimes.com^
 ||clevelandbanner.com^
@@ -2325,6 +2329,7 @@
 ||collecttrumpcards.com^
 ||collegehumor.com^
 ||collegeparktoday.com^
+||collegestationtoday.com^
 ||collintimes.com^
 ||colonews.org^
 ||colorado.buchanan.org^
@@ -4124,6 +4129,7 @@
 ||flbusinessdaily.com^
 ||flcatholictribune.com^
 ||flccc.net^
+||fldaily.news^
 ||flds.org^
 ||flemingmethod.com^
 ||flen.sd.se^
@@ -4167,6 +4173,7 @@
 ||fonagyjanos.fidesz.hu^
 ||fondationlejeune.org^
 ||fondazionean.it^
+||fonddulactimes.com^
 ||fondfbr.ru^
 ||fondulacnews.com^
 ||fontsandor.fidesz.hu^
@@ -10670,6 +10677,7 @@
 ||silority.com^
 ||silver-coin-investor.com^
 ||silverbearcafe.com^
+||silvercity.news^
 ||silverdoctors.com^
 ||silverstatetimes.com^
 ||silverstealers.net^
@@ -12271,6 +12279,7 @@
 ||torogabor.fidesz.hu^
 ||toronto99.com^
 ||torontobusinessdaily.com^
+||torontojournal.ca^
 ||torontosun.com^
 ||torrent01.bitchute.com^
 ||torrent02.bitchute.com^
@@ -12751,6 +12760,7 @@
 ||usascan.com^
 ||usasnich.com^
 ||usasupreme.com^
+||usatimes.news^
 ||usatoday.com.co^
 ||usatodaynews.me^
 ||usatwentyfour.com^
@@ -12991,6 +13001,7 @@
 ||vilvoorde.vlaamsbelang.org^
 ||vimmerby.sd.se^
 ||vin-news.ru^
+||vincennestoday.com^
 ||vincentflibustier.com^
 ||vindoegat.se^
 ||vinlandianlore.wordpress.com^
@@ -13704,6 +13715,7 @@
 ||wuustwezel.vlaamsbelang.org^
 ||wuwox.com^
 ||wvah.com^
+||wval.news.^
 ||wvbusinessdaily.com^
 ||wvheartlandnews.com^
 ||wvlkam.com^
