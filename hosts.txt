@@ -6458,6 +6458,8 @@
 0.0.0.0 www.doctors4covidethics.org
 0.0.0.0 doctrinanacionalsocialista.blogspot.com.es
 0.0.0.0 www.doctrinanacionalsocialista.blogspot.com.es
+0.0.0.0 document.dk
+0.0.0.0 www.document.dk
 0.0.0.0 document.no
 0.0.0.0 www.document.no
 0.0.0.0 documents-r39.rassemblementnational.fr

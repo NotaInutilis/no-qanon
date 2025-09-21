@@ -3228,6 +3228,7 @@ address=/doctoroz.com/
 address=/doctorphillipstoday.com/
 address=/doctors4covidethics.org/
 address=/doctrinanacionalsocialista.blogspot.com.es/
+address=/document.dk/
 address=/document.no/
 address=/documents-r39.rassemblementnational.fr/
 address=/doge8tqq2l.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org/
