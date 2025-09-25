@@ -9006,6 +9006,8 @@
 0.0.0.0 www.fwu.nl
 0.0.0.0 fxbellamy.fr
 0.0.0.0 www.fxbellamy.fr
+0.0.0.0 fxn.ws
+0.0.0.0 www.fxn.ws
 0.0.0.0 g-a-i.org
 0.0.0.0 www.g-a-i.org
 0.0.0.0 g-workspace.dlive.tv
@@ -23570,6 +23572,8 @@
 0.0.0.0 www.theflatearthsociety.org
 0.0.0.0 theflstandard.com
 0.0.0.0 www.theflstandard.com
+0.0.0.0 thefocalpoints.com
+0.0.0.0 www.thefocalpoints.com
 0.0.0.0 theforbiddenknowledge.com
 0.0.0.0 www.theforbiddenknowledge.com
 0.0.0.0 thefp.com
