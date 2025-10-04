@@ -13217,6 +13217,7 @@ address=/washingtonfed.com/
 address=/washingtoninstitute.org/
 address=/washingtonintelligence.com/
 address=/washingtonpost.com.co/
+address=/washingtonreporter.news/
 address=/washingtonsblog.com/
 address=/washingtonsources.org/
 address=/washingtonstand.com/

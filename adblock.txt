@@ -13221,6 +13221,7 @@
 ||washingtoninstitute.org^
 ||washingtonintelligence.com^
 ||washingtonpost.com.co^
+||washingtonreporter.news^
 ||washingtonsblog.com^
 ||washingtonsources.org^
 ||washingtonstand.com^
