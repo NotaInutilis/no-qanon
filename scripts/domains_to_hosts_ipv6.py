@@ -7,5 +7,5 @@ lines = text_file.readlines()
 text_file.close()
 
 for line in lines:
-	print('::1 ' + line.strip())
-	print('::1 www.'+ line.strip())
+	print(':: ' + line.strip())
+	print(':: www.'+ line.strip())
