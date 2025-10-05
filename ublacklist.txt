@@ -5860,6 +5860,7 @@
 *://*.iziahzay.minds.com/*
 *://*.j-wes11.minds.com/*
 *://*.j.4chan.org/*
+*://*.j6patriotnews.com/*
 *://*.jabbeke.vlaamsbelang.org/*
 *://*.jackbuckby.co.uk/*
 *://*.jacksoncoguide.com/*

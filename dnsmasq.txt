@@ -5860,6 +5860,7 @@ address=/izegem.vlaamsbelang.org/
 address=/iziahzay.minds.com/
 address=/j-wes11.minds.com/
 address=/j.4chan.org/
+address=/j6patriotnews.com/
 address=/jabbeke.vlaamsbelang.org/
 address=/jackbuckby.co.uk/
 address=/jacksoncoguide.com/

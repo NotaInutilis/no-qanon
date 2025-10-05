@@ -11722,6 +11722,8 @@
 0.0.0.0 www.j-wes11.minds.com
 0.0.0.0 j.4chan.org
 0.0.0.0 www.j.4chan.org
+0.0.0.0 j6patriotnews.com
+0.0.0.0 www.j6patriotnews.com
 0.0.0.0 jabbeke.vlaamsbelang.org
 0.0.0.0 www.jabbeke.vlaamsbelang.org
 0.0.0.0 jackbuckby.co.uk
