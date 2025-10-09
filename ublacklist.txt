@@ -95,6 +95,7 @@
 *://*.35.209.165.27/*
 *://*.365usanews.com/*
 *://*.369news.net/*
+*://*.37signals.com/*
 *://*.38defense.crew38.com/*
 *://*.3ccorp.net/*
 *://*.3percenterreport.com/*
@@ -1190,6 +1191,7 @@
 *://*.bartforillinois.com/*
 *://*.bartoll.se/*
 *://*.bartonbrosstudios.com/*
+*://*.basecamp.com/*
 *://*.basedjak.party/*
 *://*.basiltreemedia.minds.com/*
 *://*.basnews.com/*
@@ -3127,6 +3129,7 @@
 *://*.dewittreview.com/*
 *://*.dglobe.com/*
 *://*.dharma.minds.com/*
+*://*.dhh.dk/*
 *://*.diabetescure.news/*
 *://*.diabetessciencenews.com/*
 *://*.dialin.afd.de/*
@@ -4321,6 +4324,7 @@
 *://*.fr24news.com/*
 *://*.fra.accessconsciousness.eu/*
 *://*.fracking.news/*
+*://*.frame.work/*
 *://*.framix.fr/*
 *://*.franc-tireur.fr/*
 *://*.francais.rt.com/*
@@ -5197,6 +5201,7 @@
 *://*.hetdelenwaard.nl/*
 *://*.hetperc.com/*
 *://*.heusden-zolder.vlaamsbelang.org/*
+*://*.hey.com/*
 *://*.hhphealth.com/*
 *://*.hialps.minds.com/*
 *://*.hibusinessdaily.com/*
@@ -5442,6 +5447,7 @@
 *://*.hydrogenwater.news/*
 *://*.hylte.sd.se/*
 *://*.hypnosetherapie-asmr.com/*
+*://*.hypr.land/*
 *://*.i.minds.com/*
 *://*.i.ruqqus.com/*
 *://*.i24news.tv/*
@@ -8675,8 +8681,11 @@
 *://*.olivieromannucci.blogspot.it/*
 *://*.olofstrom.sd.se/*
 *://*.olympictimes.com/*
+*://*.omacom.io/*
 *://*.omaha.com/*
 *://*.omaharecord.com/*
+*://*.omakub.org/*
+*://*.omarchy.org/*
 *://*.omega9alpha.wordpress.com/*
 *://*.omegacanada.win/*
 *://*.omegakingdomministry.org/*
@@ -8685,6 +8694,7 @@
 *://*.omnial.wordpress.com/*
 *://*.omniclimate.wordpress.com/*
 *://*.oms.4chan.org/*
+*://*.once.com/*
 *://*.oncology.news/*
 *://*.ondang.unitedfutureparty.kr/*
 *://*.oneangrygamer.net/*
@@ -10148,6 +10158,7 @@
 *://*.ru.rationalwiki.orgg.comau/*
 *://*.ru.rbth.com/*
 *://*.rubikon.news/*
+*://*.rubyonrails.org/*
 *://*.rucphen.pvv.nl/*
 *://*.rud.nyeborgerlige.dk/*
 *://*.rudaw.net/*
@@ -12937,6 +12948,7 @@
 *://*.vax3dom.com/*
 *://*.vaxholm.sd.se/*
 *://*.vaxjo.sd.se/*
+*://*.vaxry.net/*
 *://*.vaxxchoice.com/*
 *://*.vaxxed2.com/*
 *://*.vaxxedthemovie.com/*

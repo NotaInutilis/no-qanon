@@ -192,6 +192,8 @@
 0.0.0.0 www.365usanews.com
 0.0.0.0 369news.net
 0.0.0.0 www.369news.net
+0.0.0.0 37signals.com
+0.0.0.0 www.37signals.com
 0.0.0.0 38defense.crew38.com
 0.0.0.0 www.38defense.crew38.com
 0.0.0.0 3ccorp.net
@@ -2382,6 +2384,8 @@
 0.0.0.0 www.bartoll.se
 0.0.0.0 bartonbrosstudios.com
 0.0.0.0 www.bartonbrosstudios.com
+0.0.0.0 basecamp.com
+0.0.0.0 www.basecamp.com
 0.0.0.0 basedjak.party
 0.0.0.0 www.basedjak.party
 0.0.0.0 basiltreemedia.minds.com
@@ -6256,6 +6260,8 @@
 0.0.0.0 www.dglobe.com
 0.0.0.0 dharma.minds.com
 0.0.0.0 www.dharma.minds.com
+0.0.0.0 dhh.dk
+0.0.0.0 www.dhh.dk
 0.0.0.0 diabetescure.news
 0.0.0.0 www.diabetescure.news
 0.0.0.0 diabetessciencenews.com
@@ -8644,6 +8650,8 @@
 0.0.0.0 www.fra.accessconsciousness.eu
 0.0.0.0 fracking.news
 0.0.0.0 www.fracking.news
+0.0.0.0 frame.work
+0.0.0.0 www.frame.work
 0.0.0.0 framix.fr
 0.0.0.0 www.framix.fr
 0.0.0.0 franc-tireur.fr
@@ -10396,6 +10404,8 @@
 0.0.0.0 www.hetperc.com
 0.0.0.0 heusden-zolder.vlaamsbelang.org
 0.0.0.0 www.heusden-zolder.vlaamsbelang.org
+0.0.0.0 hey.com
+0.0.0.0 www.hey.com
 0.0.0.0 hhphealth.com
 0.0.0.0 www.hhphealth.com
 0.0.0.0 hialps.minds.com
@@ -10886,6 +10896,8 @@
 0.0.0.0 www.hylte.sd.se
 0.0.0.0 hypnosetherapie-asmr.com
 0.0.0.0 www.hypnosetherapie-asmr.com
+0.0.0.0 hypr.land
+0.0.0.0 www.hypr.land
 0.0.0.0 i.minds.com
 0.0.0.0 www.i.minds.com
 0.0.0.0 i.ruqqus.com
@@ -17352,10 +17364,16 @@
 0.0.0.0 www.olofstrom.sd.se
 0.0.0.0 olympictimes.com
 0.0.0.0 www.olympictimes.com
+0.0.0.0 omacom.io
+0.0.0.0 www.omacom.io
 0.0.0.0 omaha.com
 0.0.0.0 www.omaha.com
 0.0.0.0 omaharecord.com
 0.0.0.0 www.omaharecord.com
+0.0.0.0 omakub.org
+0.0.0.0 www.omakub.org
+0.0.0.0 omarchy.org
+0.0.0.0 www.omarchy.org
 0.0.0.0 omega9alpha.wordpress.com
 0.0.0.0 www.omega9alpha.wordpress.com
 0.0.0.0 omegacanada.win
@@ -17372,6 +17390,8 @@
 0.0.0.0 www.omniclimate.wordpress.com
 0.0.0.0 oms.4chan.org
 0.0.0.0 www.oms.4chan.org
+0.0.0.0 once.com
+0.0.0.0 www.once.com
 0.0.0.0 oncology.news
 0.0.0.0 www.oncology.news
 0.0.0.0 ondang.unitedfutureparty.kr
@@ -20298,6 +20318,8 @@
 0.0.0.0 www.ru.rbth.com
 0.0.0.0 rubikon.news
 0.0.0.0 www.rubikon.news
+0.0.0.0 rubyonrails.org
+0.0.0.0 www.rubyonrails.org
 0.0.0.0 rucphen.pvv.nl
 0.0.0.0 www.rucphen.pvv.nl
 0.0.0.0 rud.nyeborgerlige.dk
@@ -25876,6 +25898,8 @@
 0.0.0.0 www.vaxholm.sd.se
 0.0.0.0 vaxjo.sd.se
 0.0.0.0 www.vaxjo.sd.se
+0.0.0.0 vaxry.net
+0.0.0.0 www.vaxry.net
 0.0.0.0 vaxxchoice.com
 0.0.0.0 www.vaxxchoice.com
 0.0.0.0 vaxxed2.com
