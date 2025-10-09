@@ -8650,8 +8650,6 @@
 0.0.0.0 www.fra.accessconsciousness.eu
 0.0.0.0 fracking.news
 0.0.0.0 www.fracking.news
-0.0.0.0 frame.work
-0.0.0.0 www.frame.work
 0.0.0.0 framix.fr
 0.0.0.0 www.framix.fr
 0.0.0.0 franc-tireur.fr

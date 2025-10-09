@@ -4324,7 +4324,6 @@ address=/fr.sputniknews.com/
 address=/fr24news.com/
 address=/fra.accessconsciousness.eu/
 address=/fracking.news/
-address=/frame.work/
 address=/framix.fr/
 address=/franc-tireur.fr/
 address=/francais.rt.com/
