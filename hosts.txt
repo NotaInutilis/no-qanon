@@ -9858,6 +9858,8 @@
 0.0.0.0 www.groopspeak.com
 0.0.0.0 groundzeromedia.org
 0.0.0.0 www.groundzeromedia.org
+0.0.0.0 groupe-tf1.fr
+0.0.0.0 www.groupe-tf1.fr
 0.0.0.0 grpc.misc.triller.co
 0.0.0.0 www.grpc.misc.triller.co
 0.0.0.0 grrrgraphics.com
@@ -23310,6 +23312,14 @@
 0.0.0.0 www.texasthreepercenters.org
 0.0.0.0 texemarrs.com
 0.0.0.0 www.texemarrs.com
+0.0.0.0 tf1.fr
+0.0.0.0 www.tf1.fr
+0.0.0.0 tf1info.fr
+0.0.0.0 www.tf1info.fr
+0.0.0.0 tf1pro.com
+0.0.0.0 www.tf1pro.com
+0.0.0.0 tf1pub.fr
+0.0.0.0 www.tf1pub.fr
 0.0.0.0 tfes.org
 0.0.0.0 www.tfes.org
 0.0.0.0 tfiglobalnews.com

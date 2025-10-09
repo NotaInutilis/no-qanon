@@ -4928,6 +4928,7 @@ grocery.news
 groningen.pvv.nl
 groopspeak.com
 groundzeromedia.org
+groupe-tf1.fr
 grpc.misc.triller.co
 grrrgraphics.com
 grrrgraphics.wordpress.com
@@ -11654,6 +11655,10 @@ texaspolicy.com
 texasscorecard.com
 texasthreepercenters.org
 texemarrs.com
+tf1.fr
+tf1info.fr
+tf1pro.com
+tf1pub.fr
 tfes.org
 tfiglobalnews.com
 tfp-france.org
