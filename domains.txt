@@ -4878,6 +4878,7 @@ graphigostream.prd.dlive.tv
 grassrootsliberty.com
 graswurzle.ch
 grayguide.com
+grayjay.app
 graysontimes.com
 gre.nyeborgerlige.dk
 greanvillepost.com
@@ -5053,6 +5054,7 @@ happyscience-fr.org
 happyscience-usa.org
 happyvalleytimes.com
 harbingersdaily.com
+harbor.social
 harborough.ukip.org
 hardcoreconservatives.com
 harelbeke.vlaamsbelang.org

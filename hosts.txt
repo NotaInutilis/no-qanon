@@ -9758,6 +9758,8 @@
 0.0.0.0 www.graswurzle.ch
 0.0.0.0 grayguide.com
 0.0.0.0 www.grayguide.com
+0.0.0.0 grayjay.app
+0.0.0.0 www.grayjay.app
 0.0.0.0 graysontimes.com
 0.0.0.0 www.graysontimes.com
 0.0.0.0 gre.nyeborgerlige.dk
@@ -10108,6 +10110,8 @@
 0.0.0.0 www.happyvalleytimes.com
 0.0.0.0 harbingersdaily.com
 0.0.0.0 www.harbingersdaily.com
+0.0.0.0 harbor.social
+0.0.0.0 www.harbor.social
 0.0.0.0 harborough.ukip.org
 0.0.0.0 www.harborough.ukip.org
 0.0.0.0 hardcoreconservatives.com

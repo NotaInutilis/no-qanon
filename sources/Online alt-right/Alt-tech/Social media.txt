@@ -22,5 +22,5 @@ freedomchat.com
 
 # FUTO
 # Why are your FOSS social media services compatible with these libertarian hellholes?
-https://harbor.social/
-https://grayjay.app/
+harbor.social
+grayjay.app
