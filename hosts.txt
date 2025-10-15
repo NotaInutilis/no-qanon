@@ -1054,6 +1054,8 @@
 0.0.0.0 www.alleinklang.tv
 0.0.0.0 alleroed.danskfolkeparti.dk
 0.0.0.0 www.alleroed.danskfolkeparti.dk
+0.0.0.0 allianceofindigenousnations.org
+0.0.0.0 www.allianceofindigenousnations.org
 0.0.0.0 alliancepn.fr
 0.0.0.0 www.alliancepn.fr
 0.0.0.0 alliancevita.org
@@ -2974,6 +2976,8 @@
 0.0.0.0 www.blog.adflegal.org
 0.0.0.0 blog.dlive.tv
 0.0.0.0 www.blog.dlive.tv
+0.0.0.0 blog.fdik.org
+0.0.0.0 www.blog.fdik.org
 0.0.0.0 blog.gab.com
 0.0.0.0 www.blog.gab.com
 0.0.0.0 blog.halle-leaks.de
@@ -11718,6 +11722,8 @@
 0.0.0.0 www.ivg-romprelesilence.fr
 0.0.0.0 ivg.net
 0.0.0.0 www.ivg.net
+0.0.0.0 ivim.substack.com
+0.0.0.0 www.ivim.substack.com
 0.0.0.0 ivmmeta.com
 0.0.0.0 www.ivmmeta.com
 0.0.0.0 iwantnewsmax.com
@@ -11888,6 +11894,8 @@
 0.0.0.0 www.jessesingal.com
 0.0.0.0 jessesingal.substack.com
 0.0.0.0 www.jessesingal.substack.com
+0.0.0.0 jessicar.substack.com
+0.0.0.0 www.jessicar.substack.com
 0.0.0.0 jesuisduf.wixsite.com
 0.0.0.0 www.jesuisduf.wixsite.com
 0.0.0.0 jesuisterreau.com
@@ -12082,6 +12090,10 @@
 0.0.0.0 www.jornalivre.com
 0.0.0.0 joselitomuller.com
 0.0.0.0 www.joselitomuller.com
+0.0.0.0 josephsansone.com
+0.0.0.0 www.josephsansone.com
+0.0.0.0 josephsansone.substack.com
+0.0.0.0 www.josephsansone.substack.com
 0.0.0.0 joshwhotv.com
 0.0.0.0 www.joshwhotv.com
 0.0.0.0 journaalflash.wordpress.com
@@ -17414,6 +17426,8 @@
 0.0.0.0 www.oneidatimes.com
 0.0.0.0 onenation.org.au
 0.0.0.0 www.onenation.org.au
+0.0.0.0 onenessofhumanity.wordpress.com
+0.0.0.0 www.onenessofhumanity.wordpress.com
 0.0.0.0 onenewspage.com
 0.0.0.0 www.onenewspage.com
 0.0.0.0 onepeoplesproject.com
@@ -23024,6 +23038,8 @@
 0.0.0.0 www.szentes.fidesz.hu
 0.0.0.0 szigetszentmiklos.fidesz.hu
 0.0.0.0 www.szigetszentmiklos.fidesz.hu
+0.0.0.0 szmm.substack.com
+0.0.0.0 www.szmm.substack.com
 0.0.0.0 szucslajos.fidesz.hu
 0.0.0.0 www.szucslajos.fidesz.hu
 0.0.0.0 szupcsi.eu
