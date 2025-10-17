@@ -4462,6 +4462,7 @@ address=/freresdissidents.com/
 address=/fresh.news/
 address=/freshoffthepress.org/
 address=/fresnoleader.com/
+address=/frettin.is/
 address=/friatider.se/
 address=/fridaymash.com/
 address=/friendica.eskimo.com/

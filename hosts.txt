@@ -8926,6 +8926,8 @@
 0.0.0.0 www.freshoffthepress.org
 0.0.0.0 fresnoleader.com
 0.0.0.0 www.fresnoleader.com
+0.0.0.0 frettin.is
+0.0.0.0 www.frettin.is
 0.0.0.0 friatider.se
 0.0.0.0 www.friatider.se
 0.0.0.0 fridaymash.com

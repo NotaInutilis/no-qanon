@@ -4462,6 +4462,7 @@
 "*://*.fresh.news/*",
 "*://*.freshoffthepress.org/*",
 "*://*.fresnoleader.com/*",
+"*://*.frettin.is/*",
 "*://*.friatider.se/*",
 "*://*.fridaymash.com/*",
 "*://*.friendica.eskimo.com/*",
