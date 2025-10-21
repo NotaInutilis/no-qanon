@@ -5626,6 +5626,7 @@
 ||in5d.com^
 ||inacow.com^
 ||incels.co^
+||incels.wiki^
 ||incheon.unitedfutureparty.kr^
 ||inconvenienthistory.com^
 ||indecisionforever.com^
@@ -6468,6 +6469,7 @@
 ||lattadmar.eu^
 ||latterdaysaintmag.com^
 ||lauraingraham.com^
+||lauraloomer.substacke.com^
 ||lauraloomerforcongress.com^
 ||lauramatsue.com^
 ||laurelhighlandstoday.com^
@@ -6821,6 +6823,7 @@
 ||longevitysciencenews.com^
 ||longviewtimes.com^
 ||longwarjournal.org^
+||loomer-unleashed.simplecast.com^
 ||loomered.com^
 ||loop.joshwho.net^
 ||loraintimes.com^
@@ -12671,6 +12674,7 @@
 ||uncanceled.news^
 ||uncensored.co.nz^
 ||unclesamsmisguidedchildren.com^
+||uncommonadspace.com^
 ||uncommongroundmedia.com^
 ||unconfirmedsources.com^
 ||uncoverdc.com^

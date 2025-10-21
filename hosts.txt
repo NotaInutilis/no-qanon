@@ -11246,6 +11246,8 @@
 0.0.0.0 www.inacow.com
 0.0.0.0 incels.co
 0.0.0.0 www.incels.co
+0.0.0.0 incels.wiki
+0.0.0.0 www.incels.wiki
 0.0.0.0 incheon.unitedfutureparty.kr
 0.0.0.0 www.incheon.unitedfutureparty.kr
 0.0.0.0 inconvenienthistory.com
@@ -12930,6 +12932,8 @@
 0.0.0.0 www.latterdaysaintmag.com
 0.0.0.0 lauraingraham.com
 0.0.0.0 www.lauraingraham.com
+0.0.0.0 lauraloomer.substacke.com
+0.0.0.0 www.lauraloomer.substacke.com
 0.0.0.0 lauraloomerforcongress.com
 0.0.0.0 www.lauraloomerforcongress.com
 0.0.0.0 lauramatsue.com
@@ -13636,6 +13640,8 @@
 0.0.0.0 www.longviewtimes.com
 0.0.0.0 longwarjournal.org
 0.0.0.0 www.longwarjournal.org
+0.0.0.0 loomer-unleashed.simplecast.com
+0.0.0.0 www.loomer-unleashed.simplecast.com
 0.0.0.0 loomered.com
 0.0.0.0 www.loomered.com
 0.0.0.0 loop.joshwho.net
@@ -25336,6 +25342,8 @@
 0.0.0.0 www.uncensored.co.nz
 0.0.0.0 unclesamsmisguidedchildren.com
 0.0.0.0 www.unclesamsmisguidedchildren.com
+0.0.0.0 uncommonadspace.com
+0.0.0.0 www.uncommonadspace.com
 0.0.0.0 uncommongroundmedia.com
 0.0.0.0 www.uncommongroundmedia.com
 0.0.0.0 unconfirmedsources.com
