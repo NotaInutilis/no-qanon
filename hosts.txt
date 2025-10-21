@@ -3238,6 +3238,8 @@
 0.0.0.0 www.br.avoiceformen.com
 0.0.0.0 bradbartonusa.com
 0.0.0.0 www.bradbartonusa.com
+0.0.0.0 braedensorbo.com
+0.0.0.0 www.braedensorbo.com
 0.0.0.0 brain.foodrevolution.org
 0.0.0.0 www.brain.foodrevolution.org
 0.0.0.0 brain.news
@@ -5150,6 +5152,8 @@
 0.0.0.0 www.couronne.minds.com
 0.0.0.0 courses.jordanbpeterson.com
 0.0.0.0 www.courses.jordanbpeterson.com
+0.0.0.0 covenantbible.org
+0.0.0.0 www.covenantbible.org
 0.0.0.0 covertactionmagazine.com
 0.0.0.0 www.covertactionmagazine.com
 0.0.0.0 covid-19-myths.com
@@ -12932,8 +12936,8 @@
 0.0.0.0 www.latterdaysaintmag.com
 0.0.0.0 lauraingraham.com
 0.0.0.0 www.lauraingraham.com
-0.0.0.0 lauraloomer.substacke.com
-0.0.0.0 www.lauraloomer.substacke.com
+0.0.0.0 lauraloomer.substack.com
+0.0.0.0 www.lauraloomer.substack.com
 0.0.0.0 lauraloomerforcongress.com
 0.0.0.0 www.lauraloomerforcongress.com
 0.0.0.0 lauramatsue.com
@@ -15912,6 +15916,8 @@
 0.0.0.0 www.newbritishunion.co.uk
 0.0.0.0 newcenturytimes.com
 0.0.0.0 www.newcenturytimes.com
+0.0.0.0 newchristendompress.com
+0.0.0.0 www.newchristendompress.com
 0.0.0.0 newcoldwar.org
 0.0.0.0 www.newcoldwar.org
 0.0.0.0 newcriterion.com
@@ -20034,6 +20040,8 @@
 0.0.0.0 www.ridiculously.com
 0.0.0.0 riemst.vlaamsbelang.org
 0.0.0.0 www.riemst.vlaamsbelang.org
+0.0.0.0 rifttv.com
+0.0.0.0 www.rifttv.com
 0.0.0.0 riga.8kun.top
 0.0.0.0 www.riga.8kun.top
 0.0.0.0 rigged.news
@@ -20052,6 +20060,8 @@
 0.0.0.0 www.righton.com
 0.0.0.0 rightreport.com
 0.0.0.0 www.rightreport.com
+0.0.0.0 rightresponseministries.com
+0.0.0.0 www.rightresponseministries.com
 0.0.0.0 rights.no
 0.0.0.0 www.rights.no
 0.0.0.0 rightsfreedoms.wordpress.com
@@ -22408,6 +22418,8 @@
 0.0.0.0 www.steadfastdaily.com
 0.0.0.0 steadfastherald.com
 0.0.0.0 www.steadfastherald.com
+0.0.0.0 steamboatinstitute.org
+0.0.0.0 www.steamboatinstitute.org
 0.0.0.0 steeltruth.com
 0.0.0.0 www.steeltruth.com
 0.0.0.0 steelvilleguide.com
