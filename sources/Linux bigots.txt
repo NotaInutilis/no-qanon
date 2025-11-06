@@ -17,9 +17,9 @@ omacom.io
 # frame.work
 
 # Lunduke, QAnon
-https://lunduke.com/
+lunduke.com
 
 # Bruchon, QAnon
-https://www.jodybruchon.com/
-http://www.gazingcat.com/
-https://nctritech.com/
+jodybruchon.com
+gazingcat.com
+nctritech.com

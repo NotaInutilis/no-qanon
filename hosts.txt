@@ -9210,6 +9210,8 @@
 0.0.0.0 www.gazetasocial.com
 0.0.0.0 gazette.com
 0.0.0.0 www.gazette.com
+0.0.0.0 gazingcat.com
+0.0.0.0 www.gazingcat.com
 0.0.0.0 gazzetta24.com
 0.0.0.0 www.gazzetta24.com
 0.0.0.0 gazzettadellasera.com
@@ -12002,6 +12004,8 @@
 0.0.0.0 www.jobsite.co.uk
 0.0.0.0 jocotoday.com
 0.0.0.0 www.jocotoday.com
+0.0.0.0 jodybruchon.com
+0.0.0.0 www.jodybruchon.com
 0.0.0.0 joebiden.info
 0.0.0.0 www.joebiden.info
 0.0.0.0 joebiden.news
@@ -13758,6 +13762,8 @@
 0.0.0.0 www.luna.minds.com
 0.0.0.0 lund.sd.se
 0.0.0.0 www.lund.sd.se
+0.0.0.0 lunduke.com
+0.0.0.0 www.lunduke.com
 0.0.0.0 luogocomune.net
 0.0.0.0 www.luogocomune.net
 0.0.0.0 lushforlife.com
@@ -15714,6 +15720,8 @@
 0.0.0.0 www.ncswic.blog
 0.0.0.0 nctennnews.com
 0.0.0.0 www.nctennnews.com
+0.0.0.0 nctritech.com
+0.0.0.0 www.nctritech.com
 0.0.0.0 ncunionnews.com
 0.0.0.0 www.ncunionnews.com
 0.0.0.0 ncvermontnews.com

@@ -4604,6 +4604,7 @@
 *://*.gazeta.ru/*
 *://*.gazetasocial.com/*
 *://*.gazette.com/*
+*://*.gazingcat.com/*
 *://*.gazzetta24.com/*
 *://*.gazzettadellasera.com/*
 *://*.gazzettanews24.com/*
@@ -6000,6 +6001,7 @@
 *://*.jobs.west-midlands.police.uk/*
 *://*.jobsite.co.uk/*
 *://*.jocotoday.com/*
+*://*.jodybruchon.com/*
 *://*.joebiden.info/*
 *://*.joebiden.news/*
 *://*.joecheated.com/*
@@ -6878,6 +6880,7 @@
 *://*.lumezzane.leganord.org/*
 *://*.luna.minds.com/*
 *://*.lund.sd.se/*
+*://*.lunduke.com/*
 *://*.luogocomune.net/*
 *://*.lushforlife.com/*
 *://*.luvernejournal.com/*
@@ -7856,6 +7859,7 @@
 *://*.ncsctimes.com/*
 *://*.ncswic.blog/*
 *://*.nctennnews.com/*
+*://*.nctritech.com/*
 *://*.ncunionnews.com/*
 *://*.ncvermontnews.com/*
 *://*.ncwisconsinnews.com/*
