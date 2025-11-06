@@ -1274,6 +1274,8 @@
 0.0.0.0 www.americanlibertyemail.com
 0.0.0.0 americanlookout.com
 0.0.0.0 www.americanlookout.com
+0.0.0.0 americanmadefoundation.org
+0.0.0.0 www.americanmadefoundation.org
 0.0.0.0 americanmediabroadcast.com
 0.0.0.0 www.americanmediabroadcast.com
 0.0.0.0 americanmediaperiscope.com
@@ -1508,6 +1510,10 @@
 0.0.0.0 www.anno3000.altervista.org
 0.0.0.0 annunaki.org
 0.0.0.0 www.annunaki.org
+0.0.0.0 annvandersteel.com
+0.0.0.0 www.annvandersteel.com
+0.0.0.0 annvandersteel.substack.com
+0.0.0.0 www.annvandersteel.substack.com
 0.0.0.0 anokatimes.com
 0.0.0.0 www.anokatimes.com
 0.0.0.0 anon.cafe
@@ -13574,6 +13580,8 @@
 0.0.0.0 www.livres.psl.org.br
 0.0.0.0 lizcrokin.com
 0.0.0.0 www.lizcrokin.com
+0.0.0.0 lizwheelershow.com
+0.0.0.0 www.lizwheelershow.com
 0.0.0.0 ljungby.sd.se
 0.0.0.0 www.ljungby.sd.se
 0.0.0.0 ljusdal.sd.se

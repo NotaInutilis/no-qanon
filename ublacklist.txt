@@ -636,6 +636,7 @@
 *://*.americanjournalreview.com/*
 *://*.americanlibertyemail.com/*
 *://*.americanlookout.com/*
+*://*.americanmadefoundation.org/*
 *://*.americanmediabroadcast.com/*
 *://*.americanmediaperiscope.com/*
 *://*.americanmilitarynews.com/*
@@ -753,6 +754,8 @@
 *://*.anniegenevard.fr/*
 *://*.anno3000.altervista.org/*
 *://*.annunaki.org/*
+*://*.annvandersteel.com/*
+*://*.annvandersteel.substack.com/*
 *://*.anokatimes.com/*
 *://*.anon.cafe/*
 *://*.anoncafe.org/*
@@ -6786,6 +6789,7 @@
 *://*.livorno.leganord.org/*
 *://*.livres.psl.org.br/*
 *://*.lizcrokin.com/*
+*://*.lizwheelershow.com/*
 *://*.ljungby.sd.se/*
 *://*.ljusdal.sd.se/*
 *://*.ljusnarsberg.sd.se/*
