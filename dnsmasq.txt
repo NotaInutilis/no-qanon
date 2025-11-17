@@ -1291,6 +1291,7 @@ address=/beholdisrael.org/
 address=/beinformed.life/
 address=/beinglibertarian.com/
 address=/bekehaz.hu/
+address=/belaaz.com/
 address=/belajarfalundafa.com/
 address=/belfort-group.eu/
 address=/beliefnet.com/

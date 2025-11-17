@@ -2584,6 +2584,8 @@
 0.0.0.0 www.beinglibertarian.com
 0.0.0.0 bekehaz.hu
 0.0.0.0 www.bekehaz.hu
+0.0.0.0 belaaz.com
+0.0.0.0 www.belaaz.com
 0.0.0.0 belajarfalundafa.com
 0.0.0.0 www.belajarfalundafa.com
 0.0.0.0 belfort-group.eu
