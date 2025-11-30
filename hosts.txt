@@ -19692,6 +19692,8 @@
 0.0.0.0 www.redaudience.com
 0.0.0.0 redcountry.us
 0.0.0.0 www.redcountry.us
+0.0.0.0 redde-verden.com
+0.0.0.0 www.redde-verden.com
 0.0.0.0 reddingtoday.com
 0.0.0.0 www.reddingtoday.com
 0.0.0.0 redeinfoa.noblogs.org

@@ -9845,6 +9845,7 @@ address=/recrutementarmee.com/
 address=/redacted.inc/
 address=/redaudience.com/
 address=/redcountry.us/
+address=/redde-verden.com/
 address=/reddingtoday.com/
 address=/redeinfoa.noblogs.org/
 address=/redemption3301.blogspot.com/
