@@ -12712,6 +12712,8 @@
 0.0.0.0 www.kunstler.com
 0.0.0.0 kupr7.com
 0.0.0.0 www.kupr7.com
+0.0.0.0 kurtschlichter.com
+0.0.0.0 www.kurtschlichter.com
 0.0.0.0 kuruc.info
 0.0.0.0 www.kuruc.info
 0.0.0.0 kutv.com
@@ -17172,6 +17174,8 @@
 0.0.0.0 www.nyttnorge.com
 0.0.0.0 nyuzer.com
 0.0.0.0 www.nyuzer.com
+0.0.0.0 nyyrc.com
+0.0.0.0 www.nyyrc.com
 0.0.0.0 nzcpr.com
 0.0.0.0 www.nzcpr.com
 0.0.0.0 nzdsos.com
@@ -20858,6 +20862,8 @@
 0.0.0.0 www.seatlantanews.com
 0.0.0.0 seattlecitywire.com
 0.0.0.0 www.seattlecitywire.com
+0.0.0.0 seattlered.com
+0.0.0.0 www.seattlered.com
 0.0.0.0 seattlesounder.com
 0.0.0.0 www.seattlesounder.com
 0.0.0.0 sebastianski.minds.com

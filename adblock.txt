@@ -6359,6 +6359,7 @@
 ||kungsor.sd.se^
 ||kunstler.com^
 ||kupr7.com^
+||kurtschlichter.com^
 ||kuruc.info^
 ||kutv.com^
 ||kutyapisti.eu^
@@ -8589,6 +8590,7 @@
 ||nytid.no^
 ||nyttnorge.com^
 ||nyuzer.com^
+||nyyrc.com^
 ||nzcpr.com^
 ||nzdsos.com^
 ||nzpublicparty.org.nz^
@@ -10432,6 +10434,7 @@
 ||searizonanews.com^
 ||seatlantanews.com^
 ||seattlecitywire.com^
+||seattlered.com^
 ||seattlesounder.com^
 ||sebastianski.minds.com^
 ||sebestyen.fidesz.hu^

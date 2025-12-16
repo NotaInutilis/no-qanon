@@ -6355,6 +6355,7 @@ kungsbacka.sd.se
 kungsor.sd.se
 kunstler.com
 kupr7.com
+kurtschlichter.com
 kuruc.info
 kutv.com
 kutyapisti.eu
@@ -8585,6 +8586,7 @@ nyteknik.se
 nytid.no
 nyttnorge.com
 nyuzer.com
+nyyrc.com
 nzcpr.com
 nzdsos.com
 nzpublicparty.org.nz
@@ -10428,6 +10430,7 @@ search.d.tube
 searizonanews.com
 seatlantanews.com
 seattlecitywire.com
+seattlered.com
 seattlesounder.com
 sebastianski.minds.com
 sebestyen.fidesz.hu
