@@ -11393,6 +11393,7 @@ address=/stuppid.com/
 address=/sturgiscoldwaternews.com/
 address=/suavelos.eu/
 address=/subjectpolitics.com/
+address=/subjekt.no/
 address=/subscribe.blazetv.com/
 address=/subscribe.theepochtimes.com/
 address=/subscribestar.adult/

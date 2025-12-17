@@ -22788,6 +22788,8 @@
 0.0.0.0 www.suavelos.eu
 0.0.0.0 subjectpolitics.com
 0.0.0.0 www.subjectpolitics.com
+0.0.0.0 subjekt.no
+0.0.0.0 www.subjekt.no
 0.0.0.0 subscribe.blazetv.com
 0.0.0.0 www.subscribe.blazetv.com
 0.0.0.0 subscribe.theepochtimes.com
