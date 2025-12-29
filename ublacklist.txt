@@ -1830,6 +1830,7 @@
 *://*.californiaglobe.com/*
 *://*.californiaskywatch.com/*
 *://*.call2fall.com/*
+*://*.calledcreatives.com/*
 *://*.callmestormy.net/*
 *://*.callthecops.net/*
 *://*.cambadelis.net/*
@@ -2870,8 +2871,12 @@
 *://*.dakotatimes.com/*
 *://*.dalarna-vastmanland.sd.se/*
 *://*.dalarna.sd.se/*
+*://*.dale-partridge.webflow.io/*
+*://*.dale-partridge.weebly.com/*
 *://*.dale.lc.org/*
 *://*.daleleonardproductions.parentsactionleague.org/*
+*://*.dalepartridge.com/*
+*://*.dalepartridge.creator-spring.com/*
 *://*.dallascitywire.com/*
 *://*.dallascountyreview.com/*
 *://*.dallasexpress.com/*
@@ -4286,6 +4291,7 @@
 *://*.fotoarchiv.fpoe.at/*
 *://*.fotogal.awb.co.za/*
 *://*.foundations21stcentury.wordpress.com/*
+*://*.founders.org/*
 *://*.fourwinds10.net/*
 *://*.fox11online.com/*
 *://*.fox17.com/*
@@ -5160,6 +5166,7 @@
 *://*.hedensted.danskfolkeparti.dk/*
 *://*.hedgefundmgr.blogspot.com/*
 *://*.hedniskfront.se/*
+*://*.heidistjohn.net/*
 *://*.heist-op-den-berg.vlaamsbelang.org/*
 *://*.hel.nyeborgerlige.dk/*
 *://*.helavirus.minds.com/*
@@ -6232,10 +6239,13 @@
 *://*.kindredapostolicministries.wordpress.com/*
 *://*.kingidentity.com/*
 *://*.kingof.uk/*
+*://*.kings-way-sermons-with-dale-partridge.simplecast.com/*
 *://*.kingscountytimes.com/*
 *://*.kingsportreporter.com/*
 *://*.kingston-surbiton.ukip.org/*
 *://*.kingstonthisweek.com/*
+*://*.kingsway.academy/*
+*://*.kingswaybible.org/*
 *://*.kingswood.ukip.org/*
 *://*.kingworldnews.com/*
 *://*.kinston.com/*
@@ -7098,6 +7108,7 @@
 *://*.mailprefect.infogalactic.com/*
 *://*.mailserv.jbs.org/*
 *://*.mailserv2.jbs.org/*
+*://*.mailthegospel.org/*
 *://*.main.faithfreedom.org/*
 *://*.main.mewe.com/*
 *://*.maindreieck-tv.de/*
@@ -7135,6 +7146,7 @@
 *://*.mandiner.hu/*
 *://*.manhattan-institute.org/*
 *://*.manhattan.institute/*
+*://*.manhood.org/*
 *://*.manifest.minds.com/*
 *://*.manilabusinessdaily.com/*
 *://*.manilatimes.net/*
@@ -7193,6 +7205,7 @@
 *://*.massacarrara.leganord.org/*
 *://*.massadayoobgroup.com/*
 *://*.massawakening.org/*
+*://*.masshope.org/*
 *://*.massimointrovigne.com/*
 *://*.massnahmen-nein.ch/*
 *://*.massresistance.massresistance.org/*
@@ -7397,6 +7410,7 @@
 *://*.micdroppolitics.com/*
 *://*.michaelcoren.com/*
 *://*.michaelgleesonmedia.com/*
+*://*.michaelincontext.com/*
 *://*.michaeljlindell.com/*
 *://*.michaeljpenney.com/*
 *://*.michaelsalla.com/*
@@ -8793,6 +8807,7 @@
 *://*.order-order.com/*
 *://*.orderof315.minds.com/*
 *://*.orderoffreedom.com/*
+*://*.orderofman.com/*
 *://*.orderofodalists.wordpress.com/*
 *://*.oreacionario.blog.br/*
 *://*.orebro.sd.se/*
@@ -9814,6 +9829,7 @@
 *://*.realityslaststand.com/*
 *://*.realityzone.com/*
 *://*.realjewnews.com/*
+*://*.reallifenetwork.com/*
 *://*.realnewsnow.com/*
 *://*.realnewsrightnow.com/*
 *://*.realnotrare.com/*
@@ -9849,6 +9865,7 @@
 *://*.redcountry.us/*
 *://*.redde-verden.com/*
 *://*.reddingtoday.com/*
+*://*.redeemingproductivity.com/*
 *://*.redeinfoa.noblogs.org/*
 *://*.redemption3301.blogspot.com/*
 *://*.redfish.media/*
@@ -9891,7 +9908,10 @@
 *://*.referral.dlive.tv/*
 *://*.referral.rumble.com/*
 *://*.referring.buchanan.org/*
+*://*.refiningrhetoric.com/*
 *://*.reformation.org/*
+*://*.reformationfellowship.org/*
+*://*.reformationseminary.com/*
 *://*.reformcalifornia.org/*
 *://*.reformedmedia.net/*
 *://*.reformparty.org/*
@@ -9913,6 +9933,7 @@
 *://*.reinfosante.fr/*
 *://*.rejuvaflex.org/*
 *://*.rekrutacja.nop.org.pl/*
+*://*.relearn.org/*
 *://*.religionmind.com/*
 *://*.religioushostility.org/*
 *://*.remedies.news/*
@@ -10338,6 +10359,7 @@
 *://*.savecalifornia.com/*
 *://*.savecalifornianet.savecalifornia.com/*
 *://*.savecaliforniaorg.savecalifornia.com/*
+*://*.savedfromsuccess.com/*
 *://*.saveinfowars.com/*
 *://*.savejersey.com/*
 *://*.saveourservices.ukip.org/*
@@ -11159,6 +11181,7 @@
 *://*.standard.co.uk/*
 *://*.standardmedia.co.ke/*
 *://*.standforhealthfreedom.com/*
+*://*.standinvictory.org/*
 *://*.standpointmag.co.uk/*
 *://*.standtogether.org/*
 *://*.standupamericanow.org/*
@@ -11726,6 +11749,7 @@
 *://*.th3inn3rlight.net/*
 *://*.thairath.co.th/*
 *://*.thaisdescufon.com/*
+*://*.thankfulhomemaker.com/*
 *://*.tharawat-magazine.com/*
 *://*.thatparkplace.com/*
 *://*.the-american-catholic.com/*
@@ -12684,6 +12708,7 @@
 *://*.ullanoertoftthomsen.blogspot.com/*
 *://*.ulricehamn.sd.se/*
 *://*.ultimateflashnews.com/*
+*://*.ultimatemarriage.com/*
 *://*.ultimatewealthreport.com/*
 *://*.ultimora24.it/*
 *://*.ultimosegundo.ig.com.br/*
@@ -12701,6 +12726,7 @@
 *://*.uncoverdc.com/*
 *://*.uncoveror.com/*
 *://*.uncutnews.ch/*
+*://*.undaunted.life/*
 *://*.undercoverblackman.blogspot.com/*
 *://*.undercurrents723949620.wordpress.com/*
 *://*.underground-music.net/*
@@ -12741,6 +12767,7 @@
 *://*.unitymaineguide.com/*
 *://*.unitynewsnetwork.co.uk/*
 *://*.universepolitics.com/*
+*://*.unlearnchurch.org/*
 *://*.unlimitedhangout.com/*
 *://*.unmuzzlednews.com/*
 *://*.unprg.fr/*

@@ -3662,6 +3662,8 @@
 0.0.0.0 www.californiaskywatch.com
 0.0.0.0 call2fall.com
 0.0.0.0 www.call2fall.com
+0.0.0.0 calledcreatives.com
+0.0.0.0 www.calledcreatives.com
 0.0.0.0 callmestormy.net
 0.0.0.0 www.callmestormy.net
 0.0.0.0 callthecops.net
@@ -5742,10 +5744,18 @@
 0.0.0.0 www.dalarna-vastmanland.sd.se
 0.0.0.0 dalarna.sd.se
 0.0.0.0 www.dalarna.sd.se
+0.0.0.0 dale-partridge.webflow.io
+0.0.0.0 www.dale-partridge.webflow.io
+0.0.0.0 dale-partridge.weebly.com
+0.0.0.0 www.dale-partridge.weebly.com
 0.0.0.0 dale.lc.org
 0.0.0.0 www.dale.lc.org
 0.0.0.0 daleleonardproductions.parentsactionleague.org
 0.0.0.0 www.daleleonardproductions.parentsactionleague.org
+0.0.0.0 dalepartridge.com
+0.0.0.0 www.dalepartridge.com
+0.0.0.0 dalepartridge.creator-spring.com
+0.0.0.0 www.dalepartridge.creator-spring.com
 0.0.0.0 dallascitywire.com
 0.0.0.0 www.dallascitywire.com
 0.0.0.0 dallascountyreview.com
@@ -8574,6 +8584,8 @@
 0.0.0.0 www.fotogal.awb.co.za
 0.0.0.0 foundations21stcentury.wordpress.com
 0.0.0.0 www.foundations21stcentury.wordpress.com
+0.0.0.0 founders.org
+0.0.0.0 www.founders.org
 0.0.0.0 fourwinds10.net
 0.0.0.0 www.fourwinds10.net
 0.0.0.0 fox11online.com
@@ -10322,6 +10334,8 @@
 0.0.0.0 www.hedgefundmgr.blogspot.com
 0.0.0.0 hedniskfront.se
 0.0.0.0 www.hedniskfront.se
+0.0.0.0 heidistjohn.net
+0.0.0.0 www.heidistjohn.net
 0.0.0.0 heist-op-den-berg.vlaamsbelang.org
 0.0.0.0 www.heist-op-den-berg.vlaamsbelang.org
 0.0.0.0 hel.nyeborgerlige.dk
@@ -12466,6 +12480,8 @@
 0.0.0.0 www.kingidentity.com
 0.0.0.0 kingof.uk
 0.0.0.0 www.kingof.uk
+0.0.0.0 kings-way-sermons-with-dale-partridge.simplecast.com
+0.0.0.0 www.kings-way-sermons-with-dale-partridge.simplecast.com
 0.0.0.0 kingscountytimes.com
 0.0.0.0 www.kingscountytimes.com
 0.0.0.0 kingsportreporter.com
@@ -12474,6 +12490,10 @@
 0.0.0.0 www.kingston-surbiton.ukip.org
 0.0.0.0 kingstonthisweek.com
 0.0.0.0 www.kingstonthisweek.com
+0.0.0.0 kingsway.academy
+0.0.0.0 www.kingsway.academy
+0.0.0.0 kingswaybible.org
+0.0.0.0 www.kingswaybible.org
 0.0.0.0 kingswood.ukip.org
 0.0.0.0 www.kingswood.ukip.org
 0.0.0.0 kingworldnews.com
@@ -14198,6 +14218,8 @@
 0.0.0.0 www.mailserv.jbs.org
 0.0.0.0 mailserv2.jbs.org
 0.0.0.0 www.mailserv2.jbs.org
+0.0.0.0 mailthegospel.org
+0.0.0.0 www.mailthegospel.org
 0.0.0.0 main.faithfreedom.org
 0.0.0.0 www.main.faithfreedom.org
 0.0.0.0 main.mewe.com
@@ -14272,6 +14294,8 @@
 0.0.0.0 www.manhattan-institute.org
 0.0.0.0 manhattan.institute
 0.0.0.0 www.manhattan.institute
+0.0.0.0 manhood.org
+0.0.0.0 www.manhood.org
 0.0.0.0 manifest.minds.com
 0.0.0.0 www.manifest.minds.com
 0.0.0.0 manilabusinessdaily.com
@@ -14388,6 +14412,8 @@
 0.0.0.0 www.massadayoobgroup.com
 0.0.0.0 massawakening.org
 0.0.0.0 www.massawakening.org
+0.0.0.0 masshope.org
+0.0.0.0 www.masshope.org
 0.0.0.0 massimointrovigne.com
 0.0.0.0 www.massimointrovigne.com
 0.0.0.0 massnahmen-nein.ch
@@ -14796,6 +14822,8 @@
 0.0.0.0 www.michaelcoren.com
 0.0.0.0 michaelgleesonmedia.com
 0.0.0.0 www.michaelgleesonmedia.com
+0.0.0.0 michaelincontext.com
+0.0.0.0 www.michaelincontext.com
 0.0.0.0 michaeljlindell.com
 0.0.0.0 www.michaeljlindell.com
 0.0.0.0 michaeljpenney.com
@@ -17588,6 +17616,8 @@
 0.0.0.0 www.orderof315.minds.com
 0.0.0.0 orderoffreedom.com
 0.0.0.0 www.orderoffreedom.com
+0.0.0.0 orderofman.com
+0.0.0.0 www.orderofman.com
 0.0.0.0 orderofodalists.wordpress.com
 0.0.0.0 www.orderofodalists.wordpress.com
 0.0.0.0 oreacionario.blog.br
@@ -19630,6 +19660,8 @@
 0.0.0.0 www.realityzone.com
 0.0.0.0 realjewnews.com
 0.0.0.0 www.realjewnews.com
+0.0.0.0 reallifenetwork.com
+0.0.0.0 www.reallifenetwork.com
 0.0.0.0 realnewsnow.com
 0.0.0.0 www.realnewsnow.com
 0.0.0.0 realnewsrightnow.com
@@ -19700,6 +19732,8 @@
 0.0.0.0 www.redde-verden.com
 0.0.0.0 reddingtoday.com
 0.0.0.0 www.reddingtoday.com
+0.0.0.0 redeemingproductivity.com
+0.0.0.0 www.redeemingproductivity.com
 0.0.0.0 redeinfoa.noblogs.org
 0.0.0.0 www.redeinfoa.noblogs.org
 0.0.0.0 redemption3301.blogspot.com
@@ -19784,8 +19818,14 @@
 0.0.0.0 www.referral.rumble.com
 0.0.0.0 referring.buchanan.org
 0.0.0.0 www.referring.buchanan.org
+0.0.0.0 refiningrhetoric.com
+0.0.0.0 www.refiningrhetoric.com
 0.0.0.0 reformation.org
 0.0.0.0 www.reformation.org
+0.0.0.0 reformationfellowship.org
+0.0.0.0 www.reformationfellowship.org
+0.0.0.0 reformationseminary.com
+0.0.0.0 www.reformationseminary.com
 0.0.0.0 reformcalifornia.org
 0.0.0.0 www.reformcalifornia.org
 0.0.0.0 reformedmedia.net
@@ -19828,6 +19868,8 @@
 0.0.0.0 www.rejuvaflex.org
 0.0.0.0 rekrutacja.nop.org.pl
 0.0.0.0 www.rekrutacja.nop.org.pl
+0.0.0.0 relearn.org
+0.0.0.0 www.relearn.org
 0.0.0.0 religionmind.com
 0.0.0.0 www.religionmind.com
 0.0.0.0 religioushostility.org
@@ -20678,6 +20720,8 @@
 0.0.0.0 www.savecalifornianet.savecalifornia.com
 0.0.0.0 savecaliforniaorg.savecalifornia.com
 0.0.0.0 www.savecaliforniaorg.savecalifornia.com
+0.0.0.0 savedfromsuccess.com
+0.0.0.0 www.savedfromsuccess.com
 0.0.0.0 saveinfowars.com
 0.0.0.0 www.saveinfowars.com
 0.0.0.0 savejersey.com
@@ -22320,6 +22364,8 @@
 0.0.0.0 www.standardmedia.co.ke
 0.0.0.0 standforhealthfreedom.com
 0.0.0.0 www.standforhealthfreedom.com
+0.0.0.0 standinvictory.org
+0.0.0.0 www.standinvictory.org
 0.0.0.0 standpointmag.co.uk
 0.0.0.0 www.standpointmag.co.uk
 0.0.0.0 standtogether.org
@@ -23454,6 +23500,8 @@
 0.0.0.0 www.thairath.co.th
 0.0.0.0 thaisdescufon.com
 0.0.0.0 www.thaisdescufon.com
+0.0.0.0 thankfulhomemaker.com
+0.0.0.0 www.thankfulhomemaker.com
 0.0.0.0 tharawat-magazine.com
 0.0.0.0 www.tharawat-magazine.com
 0.0.0.0 thatparkplace.com
@@ -25370,6 +25418,8 @@
 0.0.0.0 www.ulricehamn.sd.se
 0.0.0.0 ultimateflashnews.com
 0.0.0.0 www.ultimateflashnews.com
+0.0.0.0 ultimatemarriage.com
+0.0.0.0 www.ultimatemarriage.com
 0.0.0.0 ultimatewealthreport.com
 0.0.0.0 www.ultimatewealthreport.com
 0.0.0.0 ultimora24.it
@@ -25404,6 +25454,8 @@
 0.0.0.0 www.uncoveror.com
 0.0.0.0 uncutnews.ch
 0.0.0.0 www.uncutnews.ch
+0.0.0.0 undaunted.life
+0.0.0.0 www.undaunted.life
 0.0.0.0 undercoverblackman.blogspot.com
 0.0.0.0 www.undercoverblackman.blogspot.com
 0.0.0.0 undercurrents723949620.wordpress.com
@@ -25484,6 +25536,8 @@
 0.0.0.0 www.unitynewsnetwork.co.uk
 0.0.0.0 universepolitics.com
 0.0.0.0 www.universepolitics.com
+0.0.0.0 unlearnchurch.org
+0.0.0.0 www.unlearnchurch.org
 0.0.0.0 unlimitedhangout.com
 0.0.0.0 www.unlimitedhangout.com
 0.0.0.0 unmuzzlednews.com
